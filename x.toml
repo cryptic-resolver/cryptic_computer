@@ -1,0 +1,12 @@
+[XDM."Download"]
+desc = "eXtreme Download Manager"
+
+[XDM."Dsiplay"]
+desc = "X Display Manager"
+
+[XDG]
+desc = "Cross Desktop Group"
+
+[xxd]
+desc = "hex file dump"
+full = "Why call this 'xxd' rather than 'xd' ??"

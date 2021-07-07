@@ -1,0 +1,5 @@
+[alsa]
+desc = "Advanced Linux Sound Architecture"
+
+[APM]
+desc = "Application performance management"

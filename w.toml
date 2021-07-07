@@ -1,0 +1,5 @@
+[WPA]
+desc = "Wi-Fi Protected Access"
+
+[WAF]
+desc = "Web Application Firewall"

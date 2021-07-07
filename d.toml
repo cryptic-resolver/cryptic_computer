@@ -1,0 +1,11 @@
+[df]
+desc = "disk free"
+
+[du]
+desc = "disk usage or directory usage (default in KB)"
+
+[DSA]
+desc = "Digital Signature Algorithm"
+
+[DES]
+desc = "Data Encryption Standard"
