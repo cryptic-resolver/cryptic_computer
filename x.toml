@@ -1,7 +1,7 @@
-[XDM."Download"]
+[XDM.Download]
 desc = "eXtreme Download Manager"
 
-[XDM."Dsiplay"]
+[XDM.Display]
 desc = "X Display Manager"
 
 [XDG]
