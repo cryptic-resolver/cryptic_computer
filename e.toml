@@ -1,2 +1,5 @@
 [ELF]
 desc = "Executable and Linkable Format"
+
+[Emacs]
+desc = "Edit macros: a feature-rich editor"
