@@ -1,3 +1,6 @@
 [RSA]
 desc = "Ron Rivest, Adi Shamir, Leonard Adleman"
 full = "They invest the RSA algorithm"
+
+[RFC]
+desc = "Request For Comments"

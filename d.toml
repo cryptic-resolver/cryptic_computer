@@ -9,3 +9,6 @@ desc = "Digital Signature Algorithm"
 
 [DES]
 desc = "Data Encryption Standard"
+
+[DTD]
+desc = "Document Type Definition"
