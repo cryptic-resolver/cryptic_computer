@@ -4,3 +4,7 @@ full = "They invest the RSA algorithm"
 
 [RFC]
 desc = "Request For Comments"
+
+[RLE]
+desc = "Run Length Encoding (RLE)"
+full = "It is a lossless data compression algorithm, supported by many bitmap file formats, like BMP, TIFF and PCX"

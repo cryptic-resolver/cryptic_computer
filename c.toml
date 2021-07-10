@@ -6,3 +6,6 @@ desc = "Central Standard Time"
 
 [csrf]
 desc = "Cross Site Request Forgery"
+
+[CUR]
+desc = "Cursor image format for Windows"

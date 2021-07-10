@@ -3,3 +3,6 @@ desc = "Advanced Linux Sound Architecture"
 
 [APM]
 desc = "Application performance management"
+
+[ABNF]
+desc = "Augmented Backus–Naur form"
