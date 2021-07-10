@@ -1,5 +1,6 @@
 [lvm]
 desc = "Logical Volume Manager"
 
-[IETF]
-desc = "Internet Engineering Task Force"
+[LZW]
+desc = "Lempel–Ziv–Welch compression algorithm"
+full = "Published in 1984 as an improved implementation of the LZ78 algorithm published by Lempel and Ziv in 1978. It is the algorithm of the widely used Unix file compression utility compress and is used in the GIF image format."
