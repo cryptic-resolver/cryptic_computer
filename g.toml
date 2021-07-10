@@ -2,3 +2,7 @@
 desc = "GNOME Display Manager"
 full = "The GNOME Display Manager (GDM) is a program that manages graphical display servers and handles graphical user logins. "
 
+[GIF]
+desc = "Graphics Interchange Format"
+full = "Released in 1987. GIF images are compressed using LZW lossless data compression algorithm. By 2004 all the relevant patents of LZW had expired."
+

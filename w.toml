@@ -3,3 +3,7 @@ desc = "Wi-Fi Protected Access"
 
 [WAF]
 desc = "Web Application Firewall"
+
+[WebP]
+desc = "Photo for the Web"
+full = "Announced in 2010 by Google. A modern image format that provides superior lossless and lossy compression for images on the web"
