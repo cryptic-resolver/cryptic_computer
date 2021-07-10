@@ -1,3 +1,13 @@
 [MIME]
 desc = "Multipurpose Internet Mail Extensioin"
 full = "It is an Internet standard that extends the format of email messages to support text in character sets other than ASCII， as well as attachments of audio， video， images， and application programs."
+
+[MPEG]
+desc = "Moving Picture Experts Group"
+
+[mp4]
+desc = "MPEG-4"
+full = "Introduced in late 1998"
+
+[mp3]
+desc = "MPEG-3"

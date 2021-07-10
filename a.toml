@@ -6,3 +6,14 @@ desc = "Application performance management"
 
 [ABNF]
 desc = "Augmented Backus–Naur form"
+
+[AVI]
+desc = "Audio Video Interleave"
+full = "Introduced by Microsoft in November 1992 as part of its Video for Windows software"
+
+[AVC]
+desc = "Advanced Video Coding"
+full = "Known as H.264 introduced in 2003"
+
+[AAC]
+desc = "Advanced Audio Coding"

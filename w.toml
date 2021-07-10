@@ -5,5 +5,9 @@ desc = "Wi-Fi Protected Access"
 desc = "Web Application Firewall"
 
 [WebP]
-desc = "Photo for the Web"
+desc = "Photo format for the Web"
 full = "Announced in 2010 by Google. A modern image format that provides superior lossless and lossy compression for images on the web"
+
+[WebM]
+desc = "Media format for the Web"
+full = "Sponsored by Google. Intended to offer a royalty-free alternative to use in the HTML5 video and the HTML5 audio elements"
