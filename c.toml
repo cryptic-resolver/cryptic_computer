@@ -1,8 +1,12 @@
 [cups]
 desc = "Common Unix Printing System"
 
-[CST]
-desc = "Central Standard Time"
+[CST.America]
+desc = "Central Standard Time(UTC-6)"
+see = ['UTC']
+
+[CST.China]
+desc = "China Standard Time(UTC+8)"
 
 [CRT]
 desc = "Cathode Ray Tube"
