@@ -1,2 +1,6 @@
 [od]
 desc = "Octal file Dump"
+
+[OLE]
+desc = "Object Linking and Embedding"
+full = "A proprietary technology developed by Microsoft that allows embedding and linking to documents and other objects"

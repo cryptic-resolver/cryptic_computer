@@ -4,9 +4,16 @@ desc = "Common Unix Printing System"
 [CST]
 desc = "Central Standard Time"
 
+[CRT]
+desc = "Cathode Ray Tube"
+
 [csrf]
 desc = "Cross Site Request Forgery"
 
 [CUR]
 desc = "Cursor image format for Windows"
 see = ["ICO"]
+
+[COM]
+desc = "Component Object Model"
+full = "A binary-interface standard for software components introduced by Microsoft in 1993. It is used to enable inter-process communication object creation in a large range of programming languages"
