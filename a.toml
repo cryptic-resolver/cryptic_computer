@@ -17,3 +17,9 @@ full = "Known as H.264 introduced in 2003"
 
 [AAC]
 desc = "Advanced Audio Coding"
+
+[ADI]
+desc = "Analog Devices Inc"
+
+[AMD]
+desc = "Advanced Micro Devices"
