@@ -24,3 +24,7 @@ full = "A binary-interface standard for software components introduced by Micros
 
 [CSP]
 desc = "Communicating Sequential Processs"
+
+[cpl]
+desc = "Control PaneL"
+full = "Control panel tools for Windows"

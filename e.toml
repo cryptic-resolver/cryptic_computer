@@ -12,3 +12,6 @@ full = "Released in 1995, revised in 2019"
 
 [edn]
 desc = "Extensible Data Notation"
+
+[EABI]
+desc = "Embedded Applications Binary Interface"
