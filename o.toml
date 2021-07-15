@@ -4,3 +4,12 @@ desc = "Octal file Dump"
 [OLE]
 desc = "Object Linking and Embedding"
 full = "A proprietary technology developed by Microsoft that allows embedding and linking to documents and other objects"
+
+[OCI]
+desc = "Open Container Initiative"
+
+[OEM]
+desc = "Original Equipment Manufacturer"
+
+[OTP]
+desc = "Open Telecom Platform"

@@ -9,3 +9,6 @@ see = ['AVC']
 ["H.265"]
 desc = "A video compression standard"
 see = ['HEVC']
+
+[HMI]
+desc = "Human-Machine Interface"

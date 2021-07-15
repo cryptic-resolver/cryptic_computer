@@ -23,3 +23,6 @@ desc = "Analog Devices Inc"
 
 [AMD]
 desc = "Advanced Micro Devices"
+
+[AOE]
+desc = "Activity On Edge network"

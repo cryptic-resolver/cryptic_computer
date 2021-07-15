@@ -4,3 +4,6 @@ desc = "Standard Generalized Markup Language"
 [SDDM]
 desc = "Simple Desktop Display Manager"
 full = "A QML based X11 and Wayland display manager. It is the recommended display manager for the KDE Plasma and LXQt desktop environments."
+
+[SUV]
+desc = "Sport Utility Vehicle"

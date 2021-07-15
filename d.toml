@@ -12,3 +12,6 @@ desc = "Data Encryption Standard"
 
 [DTD]
 desc = "Document Type Definition"
+
+[DAG]
+desc = "Directed Acyclic Graph"

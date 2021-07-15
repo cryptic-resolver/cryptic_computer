@@ -21,3 +21,6 @@ see = ["ICO"]
 [COM]
 desc = "Component Object Model"
 full = "A binary-interface standard for software components introduced by Microsoft in 1993. It is used to enable inter-process communication object creation in a large range of programming languages"
+
+[CSP]
+desc = "Communicating Sequential Processs"
