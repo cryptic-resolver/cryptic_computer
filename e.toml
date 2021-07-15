@@ -9,3 +9,6 @@ see = ["Vim"]
 [Exif]
 desc = "Exchangeable image file format"
 full = "Released in 1995, revised in 2019"
+
+[edn]
+desc = "Extensible Data Notation"
