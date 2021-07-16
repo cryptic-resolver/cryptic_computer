@@ -8,3 +8,6 @@ full = "Released in 1987. GIF images are compressed using LZW lossless data comp
 
 [GM]
 desc = "General Motors"
+
+[GPGPU]
+desc = "General-Purpose computing on the GPU"

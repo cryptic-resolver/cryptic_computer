@@ -1,3 +1,6 @@
 [BMP]
 desc = "Bitmap image file"
 full = "Developed by Microsoft in 1986? used RLE lossless data compression algorithm"
+
+[blob]
+desc = "Binary Large OBject"

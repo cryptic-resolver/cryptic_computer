@@ -12,3 +12,6 @@ see = ['HEVC']
 
 [HMI]
 desc = "Human-Machine Interface"
+
+[HDFS]
+desc = "Hadoop Distributed File System"

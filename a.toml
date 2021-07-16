@@ -26,3 +26,10 @@ desc = "Advanced Micro Devices"
 
 [AOE]
 desc = "Activity On Edge network"
+
+[AVX]
+desc = "Advanced Vector Extensions"
+full = "Intel chips support"
+
+[AMI]
+desc = "Amazon Machine Images"

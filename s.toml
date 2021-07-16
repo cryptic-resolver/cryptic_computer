@@ -13,3 +13,6 @@ desc = "Scala Build Tool"
 
 [STM]
 desc = "Software Transaction Memory"
+
+[s3]
+desc = "Amazon Simple Storage Service"
