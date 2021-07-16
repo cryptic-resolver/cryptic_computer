@@ -7,3 +7,9 @@ full = "A QML based X11 and Wayland display manager. It is the recommended displ
 
 [SUV]
 desc = "Sport Utility Vehicle"
+
+[sbt]
+desc = "Scala Build Tool"
+
+[STM]
+desc = "Software Transaction Memory"

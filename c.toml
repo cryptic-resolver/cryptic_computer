@@ -28,3 +28,10 @@ desc = "Communicating Sequential Processs"
 [cpl]
 desc = "Control PaneL"
 full = "Control panel tools for Windows"
+
+[CUDA]
+desc = "Compute Unified Device Architecture"
+full = "A parallel computing platform and application programming interface (API) model created by Nvidia."
+
+[CAD]
+desc = "Computer-aided design"
