@@ -16,3 +16,6 @@ desc = "Software Transaction Memory"
 
 [s3]
 desc = "Amazon Simple Storage Service"
+
+[SNOBOL]
+desc = "StriNg Oriented and symBOlic Language"
