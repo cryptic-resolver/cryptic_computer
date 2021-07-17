@@ -35,3 +35,7 @@ full = "A parallel computing platform and application programming interface (API
 
 [CAD]
 desc = "Computer-aided design"
+
+[CNAME]
+desc = "Canonical Name record"
+full = "map one domain name(an alias) to another(the canonical name)"

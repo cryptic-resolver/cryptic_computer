@@ -12,3 +12,6 @@ full = "This pure file format is rarely used, primarily because of the difficult
 [JFIF]
 desc = "JPEG File Interchange Format"
 full = "Released in 1992. It defines supplementary specifications for the container format that contains the image data encoded with the JPEG algorithm."
+
+[JAM]
+desc = "JavaScript, APIs, Markup stack"

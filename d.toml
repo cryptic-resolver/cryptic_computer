@@ -15,3 +15,6 @@ desc = "Document Type Definition"
 
 [DAG]
 desc = "Directed Acyclic Graph"
+
+[DNS]
+desc = "Domain Name System"

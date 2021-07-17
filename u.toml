@@ -1,2 +1,5 @@
 [UTC]
 desc = "Universal Time Coordinated"
+
+[UAC]
+desc = "User Account Control(Windows)"
