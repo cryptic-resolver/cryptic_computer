@@ -15,3 +15,6 @@ desc = "Human-Machine Interface"
 
 [HDFS]
 desc = "Hadoop Distributed File System"
+
+[hsl]
+desc = "Hue, Saturation, Value"

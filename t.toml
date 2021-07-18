@@ -3,3 +3,6 @@ desc = "Tag Image File Format"
 
 [TI]
 desc = "Texas Instruments"
+
+[TSV]
+desc = "Tab-separated values"
