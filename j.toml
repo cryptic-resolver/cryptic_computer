@@ -15,3 +15,6 @@ full = "Released in 1992. It defines supplementary specifications for the contai
 
 [JAM]
 desc = "JavaScript, APIs, Markup stack"
+
+[JSR]
+desc = "Java Specification Requests"

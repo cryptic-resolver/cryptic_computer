@@ -39,3 +39,10 @@ desc = "Computer-aided design"
 [CNAME]
 desc = "Canonical Name record"
 full = "map one domain name(an alias) to another(the canonical name)"
+
+[CLOS]
+desc = "Common Lisp Object System"
+
+[CLU]
+desc = "CLUster"
+full = "OOP language invented in 1975, MIT "

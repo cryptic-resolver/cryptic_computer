@@ -3,3 +3,6 @@ desc = "Universal Time Coordinated"
 
 [UAC]
 desc = "User Account Control(Windows)"
+
+[URI]
+desc = "Uniform Resource Identifier"

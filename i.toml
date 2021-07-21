@@ -4,3 +4,6 @@ desc = "Internet Engineering Task Force"
 [ICO]
 desc = "Icon image format for Windows"
 see = ["CUR"]
+
+[ISV]
+desc = "Independent Software Vendor"

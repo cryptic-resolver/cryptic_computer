@@ -18,3 +18,6 @@ desc = "Hadoop Distributed File System"
 
 [hsl]
 desc = "Hue, Saturation, Value"
+
+[HOF]
+desc = "Higher-order functions"
