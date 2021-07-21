@@ -46,3 +46,6 @@ desc = "Common Lisp Object System"
 [CLU]
 desc = "CLUster"
 full = "OOP language invented in 1975, MIT "
+
+[CDN]
+desc = "content delivery network"

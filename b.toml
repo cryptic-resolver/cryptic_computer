@@ -4,3 +4,6 @@ full = "Developed by Microsoft in 1986? used RLE lossless data compression algor
 
 [blob]
 desc = "Binary Large OBject"
+
+[BOM]
+desc = "byte order mark"
