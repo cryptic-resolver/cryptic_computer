@@ -11,3 +11,6 @@ desc = "General Motors"
 
 [GPGPU]
 desc = "General-Purpose computing on the GPU"
+
+[GLSL]
+desc = "OpenGL Shading Language"

@@ -18,3 +18,6 @@ desc = "Embedded Applications Binary Interface"
 
 [ETL]
 desc = "Extract, Transform, Load"
+
+[EOPL]
+desc = "Essentials of Programming Languages Language"

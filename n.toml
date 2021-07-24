@@ -1,3 +1,9 @@
 [Nvidia]
 desc = "Invidia, Latin for envy"
 full = "A company designs GPU. Envy and vision are closely tied in mythology with the eye or the gaze being a common symbol. In addition, sounds being quite similar to video."
+
+[NVD]
+desc = "National Vulnerability Database"
+
+[NASA]
+desc = "National Aeronautics and Space Administration"

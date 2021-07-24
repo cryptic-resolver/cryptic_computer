@@ -3,3 +3,6 @@ desc = "Firmware Update daemon on Linux-based system"
 
 [frum]
 desc = "Fast RUby Manager"
+
+[FOSDEM]
+desc = "Free and Open Source Developers European Meeting"

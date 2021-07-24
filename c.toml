@@ -49,3 +49,6 @@ full = "OOP language invented in 1975, MIT "
 
 [CDN]
 desc = "content delivery network"
+
+[CVE]
+desc = "Common Vulnerabilities and Exposures"

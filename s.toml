@@ -19,3 +19,6 @@ desc = "Amazon Simple Storage Service"
 
 [SNOBOL]
 desc = "StriNg Oriented and symBOlic Language"
+
+[SICP]
+desc = "Structure and Interpretation of Computer Programs"
