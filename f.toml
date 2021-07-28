@@ -6,3 +6,13 @@ desc = "Fast RUby Manager"
 
 [FOSDEM]
 desc = "Free and Open Source Developers European Meeting"
+
+[FM]
+desc = "Frequency Modulation"
+
+[FFT]
+desc = "Fast Fourier Transform"
+
+[FFmpeg]
+desc = "Fast Forward MPEG"
+see = ['MPEG']

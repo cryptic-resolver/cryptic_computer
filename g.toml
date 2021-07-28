@@ -14,3 +14,12 @@ desc = "General-Purpose computing on the GPU"
 
 [GLSL]
 desc = "OpenGL Shading Language"
+
+[GPS]
+desc = "Global Positioning System"
+
+[GDI]
+desc = "Graphics Device Interface"
+
+[GSL]
+desc = "GNU Scientific Library"

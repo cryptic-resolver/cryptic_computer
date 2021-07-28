@@ -7,3 +7,7 @@ see = ["CUR"]
 
 [ISV]
 desc = "Independent Software Vendor"
+
+[IC.star]
+desc = "Index Catalogues"
+see = ['NGC']

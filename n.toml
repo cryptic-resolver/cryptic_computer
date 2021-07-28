@@ -7,3 +7,7 @@ desc = "National Vulnerability Database"
 
 [NASA]
 desc = "National Aeronautics and Space Administration"
+
+[NGC]
+desc = "New General Catalogue of Nebulae and Clusters of Stars"
+see = ['IC']
