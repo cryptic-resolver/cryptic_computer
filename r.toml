@@ -11,3 +11,6 @@ full = "It is a lossless data compression algorithm, supported by many bitmap fi
 
 [Radar]
 desc = "Radio Detection And Ranging"
+
+[RUP]
+desc = "Rational Unified Process"
