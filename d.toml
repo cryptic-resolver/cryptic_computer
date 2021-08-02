@@ -21,3 +21,6 @@ desc = "Domain Name System"
 
 [DFT]
 desc = "Discrete Fourier Transform"
+
+[DARPA]
+desc = "The Defense Advanced Research Projects Agency"
