@@ -11,3 +11,6 @@ desc = "Independent Software Vendor"
 [IC.star]
 desc = "Index Catalogues"
 see = ['NGC']
+
+[IEEE]
+desc = "Institute of Electrical and Electronics Engineers"

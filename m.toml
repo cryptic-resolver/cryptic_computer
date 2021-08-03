@@ -16,3 +16,7 @@ see = ["MPEG"]
 
 [MDA]
 desc = "Model Driven Architecture"
+
+[MOP]
+desc = "Common Lisp MetaObject Protocol"
+see = ['CLOS']
