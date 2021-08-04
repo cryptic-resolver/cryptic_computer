@@ -55,3 +55,6 @@ desc = "Common Vulnerabilities and Exposures"
 
 [CMM]
 desc = "Capability Maturity Model"
+
+[cons]
+desc = "CONStruct lists"
