@@ -58,3 +58,6 @@ desc = "Capability Maturity Model"
 
 [clhs]
 desc = "Common Lisp HyperSpec"
+
+[cons]
+desc = "CONStruct lists"

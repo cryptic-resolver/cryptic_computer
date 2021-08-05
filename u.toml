@@ -6,3 +6,7 @@ desc = "User Account Control(Windows)"
 
 [URI]
 desc = "Uniform Resource Identifier"
+
+[UIOP]
+desc = "Utilities for Implementation- and OS- Portability"
+full = "Common Lisp's ASDF's library"

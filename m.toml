@@ -20,3 +20,6 @@ desc = "Model Driven Architecture"
 [MOP]
 desc = "Common Lisp MetaObject Protocol"
 see = ['CLOS']
+
+[MELPA]
+desc = "Milkypostman’s Emacs Lisp Package Archive"

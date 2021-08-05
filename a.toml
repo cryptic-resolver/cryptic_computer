@@ -42,3 +42,7 @@ desc = "American National Standards Institute"
 
 [ALisp]
 desc = "AutoLisp"
+
+[ASDF]
+desc = "Another System Definition Facility"
+full = "a build tool for Common Lisp libraries. It is analogous to tools such as Make and Ant."
