@@ -14,3 +14,8 @@ desc = "Radio Detection And Ranging"
 
 [RUP]
 desc = "Rational Unified Process"
+
+[RSS]
+desc = "Resident Set Size"
+full = "to show how much real memory is to that process and is resident in RAM now"
+see = ['VSZ','PSS']

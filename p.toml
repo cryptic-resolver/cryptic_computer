@@ -4,3 +4,7 @@ full = "Published in 1997. It's a raster-graphics file format that supports loss
 
 [PIC]
 desc = "Position Independent Code"
+
+[PSS]
+desc = "Proportional Set Size"
+see = ['RSS']

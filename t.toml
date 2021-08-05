@@ -9,3 +9,6 @@ desc = "Tab-separated values"
 
 [TSX]
 desc = "Transactional Synchronization Extensions"
+
+[TLS]
+desc = "Transport Layer Security"

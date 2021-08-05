@@ -55,3 +55,6 @@ desc = "Common Vulnerabilities and Exposures"
 
 [CMM]
 desc = "Capability Maturity Model"
+
+[clhs]
+desc = "Common Lisp HyperSpec"
