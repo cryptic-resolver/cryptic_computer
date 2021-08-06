@@ -25,3 +25,6 @@ desc = "Essentials of Programming Languages Language"
 [elt]
 desc = "element"
 full = "a function in Common Lisp"
+
+[evdev]
+desc = "Xorg input driver for Linux´s generic EVent devices"

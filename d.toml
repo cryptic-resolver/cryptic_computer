@@ -24,3 +24,12 @@ desc = "Discrete Fourier Transform"
 
 [DARPA]
 desc = "The Defense Advanced Research Projects Agency"
+
+[DBUS]
+desc = "Desktop Bus"
+
+[D-BUS]
+same = 'DBUS'
+
+[DRM]
+desc = "Direct Rendering Manager"
