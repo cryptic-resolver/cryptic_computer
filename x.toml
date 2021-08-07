@@ -10,3 +10,7 @@ desc = "Cross Desktop Group"
 [xxd]
 desc = "hex file dump"
 full = "Why call this 'xxd' rather than 'xd' ??"
+
+[XCB]
+desc = "X protocol C-language Binding"
+full = "a library implementing the client-side of the X11 display server protocol, aims to replace Xlib"

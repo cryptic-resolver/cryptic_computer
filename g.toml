@@ -19,7 +19,26 @@ desc = "OpenGL Shading Language"
 desc = "Global Positioning System"
 
 [GDI]
-desc = "Graphics Device Interface"
+desc = "Graphics Device Interface by Microsoft Windows"
 
 [GSL]
 desc = "GNU Scientific Library"
+
+[GVDB]
+desc = "GVariant Database"
+
+[GDK]
+desc = "GIMP Drawing Kit"
+
+[GTK]
+desc = "GIMP ToolKit, formerly GTK+"
+full = "It is a free and open-source cross-platform widget toolkit for creating graphical user interfaces"
+
+[GObject]
+desc = "GLib object system"
+
+[GDA]
+desc = "GNU Data Access"
+
+[GOM]
+desc = "GNOME object mapper"

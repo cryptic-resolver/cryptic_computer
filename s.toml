@@ -28,3 +28,10 @@ desc = "Specific, Measurable, Achievable, Relevant, Time-boxed"
 
 [SLIME]
 desc = "The Superior Lisp Interaction Mode for Emacs"
+
+[SVG]
+desc = "Scalable Vector Graphics"
+
+[SOAP]
+desc = "Simple Object Access Protocol"
+full = "a messaging porotocal initially as XML-RPC in June 1998"

@@ -11,3 +11,6 @@ full = "A family of programming languages with a long history and a distinctive,
 
 [LCD]
 desc = "Liquid-crystal Display "
+
+[LSB]
+desc = "Linux Standards Base"
