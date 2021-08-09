@@ -49,3 +49,13 @@ full = "a build tool for Common Lisp libraries. It is analogous to tools such as
 
 [ATK]
 desc = "Accessibility Toolkit"
+
+[ABCL]
+desc = "Armed Bear Common Lisp"
+full = "Common Lisp in the JVM"
+
+[armhf]
+desc = "ARM hard float"
+
+[armel]
+desc = "ARM Embedded ABI"
