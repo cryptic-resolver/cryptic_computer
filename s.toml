@@ -35,3 +35,9 @@ desc = "Scalable Vector Graphics"
 [SOAP]
 desc = "Simple Object Access Protocol"
 full = "a messaging porotocal initially as XML-RPC in June 1998"
+
+[sexp]
+desc = "S(ymbolic) expression"
+
+[SRFI]
+desc = "Scheme Requests for Implementation"

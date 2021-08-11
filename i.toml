@@ -14,3 +14,6 @@ see = ['NGC']
 
 [IEEE]
 desc = "Institute of Electrical and Electronics Engineers"
+
+[INRIA]
+desc = "French Institute for Research in Computer Science and Automation"
