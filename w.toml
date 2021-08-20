@@ -11,3 +11,6 @@ full = "Announced in 2010 by Google. A modern image format that provides superio
 [WebM]
 desc = "Media format for the Web"
 full = "Sponsored by Google. Intended to offer a royalty-free alternative to use in the HTML5 video and the HTML5 audio elements"
+
+[WMI]
+desc = "Windows Management Instrumentation"

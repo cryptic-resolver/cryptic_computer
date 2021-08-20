@@ -21,3 +21,6 @@ desc = "Hue, Saturation, Value"
 
 [HOF]
 desc = "Higher-order functions"
+
+[HCI]
+desc = "Human Computer Interface"

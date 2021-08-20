@@ -20,3 +20,6 @@ desc = "Open Computing Language"
 [OpenGL]
 desc = "Open Graphics Library"
 full = "API for rendering 2D and 3D vector graphics. The API is corss-language, corss-platform and typically used to interact with a GPU, to achieve the hardware-accelerated rendering"
+
+[OOPSLA]
+desc = "Object-Oriented Programming, Systems, Languages & Applications"
