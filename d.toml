@@ -25,6 +25,10 @@ desc = "Discrete Fourier Transform"
 [DARPA]
 desc = "The Defense Advanced Research Projects Agency"
 
+[DMI]
+desc = "Desktop Management Interface"
+full = "It's an industry framework for managing and keeping track of hardware and software components in a system of personal computers from a central location."
+
 [DBUS]
 desc = "Desktop Bus"
 

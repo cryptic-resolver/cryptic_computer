@@ -14,3 +14,6 @@ see = ['IC']
 
 [NFS]
 desc = "Network File System"
+
+[NTP]
+desc = "Network Time Protocol"

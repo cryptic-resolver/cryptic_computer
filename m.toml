@@ -23,3 +23,9 @@ see = ['CLOS']
 
 [MELPA]
 desc = "Milkypostman’s Emacs Lisp Package Archive"
+
+[M-expression]
+desc = "Meta expression"
+
+[MAC.MIT]
+desc = "the Project on Mathematics and Computation"

@@ -7,3 +7,9 @@ desc = "Binary Large OBject"
 
 [BOM]
 desc = "byte order mark"
+
+[BJT]
+desc = "Bipolar Junction Transistor"
+
+[BCPL]
+desc = "Basic Combined Programming Language"
