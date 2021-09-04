@@ -13,3 +13,6 @@ desc = "Bipolar Junction Transistor"
 
 [BCPL]
 desc = "Basic Combined Programming Language"
+
+[BLAS]
+desc = "Basic Linear Algebra Subprograms"
