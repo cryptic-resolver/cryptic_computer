@@ -61,3 +61,7 @@ desc = "Common Lisp HyperSpec"
 
 [cons]
 desc = "CONStruct lists"
+
+[CKEditor]
+desc = "An online editor formerly called FCKeditor"
+full = "released in March 2003 by Frederico Caldeira Knabben, the creator of the editor"
