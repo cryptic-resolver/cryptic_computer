@@ -41,3 +41,6 @@ desc = "S(ymbolic) expression"
 
 [SRFI]
 desc = "Scheme Requests for Implementation"
+
+[SA]
+desc = "Security Association"

@@ -37,3 +37,6 @@ same = 'DBUS'
 
 [DRM]
 desc = "Direct Rendering Manager"
+
+[DOI]
+desc = "Digital Object Unique Identifier"

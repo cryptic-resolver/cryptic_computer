@@ -17,3 +17,14 @@ desc = "Institute of Electrical and Electronics Engineers"
 
 [INRIA]
 desc = "French Institute for Research in Computer Science and Automation"
+
+[ISBN]
+desc = "International Standard Book Number"
+see = ['ISSN']
+
+[ISSN]
+desc = "International Standard Serial Number"
+see = ['ISBN']
+
+[IKE]
+desc = "Internet Key Exchange"

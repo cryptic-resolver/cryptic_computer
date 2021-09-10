@@ -42,3 +42,11 @@ desc = "GNU Data Access"
 
 [GOM]
 desc = "GNOME object mapper"
+
+[GAP]
+desc = "Groups, Algorithms and Programming"
+full = "is a computer algebra system for computational discrete algebra with particular emphasis on computational group theory."
+
+[GiNaC]
+desc = "ginac is not a CAS"
+full = "C++ library for symbolic computing"
