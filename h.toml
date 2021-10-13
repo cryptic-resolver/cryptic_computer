@@ -24,3 +24,6 @@ desc = "Higher-order functions"
 
 [HCI]
 desc = "Human Computer Interface"
+
+[HLA]
+desc = "High Level Assembly Language"

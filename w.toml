@@ -14,3 +14,6 @@ full = "Sponsored by Google. Intended to offer a royalty-free alternative to use
 
 [WMI]
 desc = "Windows Management Instrumentation"
+
+[WAPI]
+desc = "WLAN Authentication and Privacy Infrastructure"

@@ -44,3 +44,6 @@ desc = "Scheme Requests for Implementation"
 
 [SA]
 desc = "Security Association"
+
+[SM4]
+desc = "a block cipher used in the Chinese National Standard for Wireless LAN WAPI"

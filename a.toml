@@ -59,3 +59,6 @@ desc = "ARM hard float"
 
 [armel]
 desc = "ARM Embedded ABI"
+
+[AES]
+desc = "Advanced Encryption Standard"
