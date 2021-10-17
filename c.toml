@@ -69,5 +69,5 @@ full = "released in March 2003 by Frederico Caldeira Knabben, the creator of the
 [CAS]
 desc = "Computer Algebra System"
 
-[SAS]
-desc = "Symbolic Algebra System"
+[CSG]
+desc = "Constructive Solid Geometry"

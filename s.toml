@@ -47,3 +47,6 @@ desc = "Security Association"
 
 [SM4]
 desc = "a block cipher used in the Chinese National Standard for Wireless LAN WAPI"
+
+[SAS]
+desc = "Symbolic Algebra System"
