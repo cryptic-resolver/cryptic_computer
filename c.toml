@@ -71,3 +71,6 @@ desc = "Computer Algebra System"
 
 [CSG]
 desc = "Constructive Solid Geometry"
+
+[CFD]
+desc = "computational fluid dynamics"
