@@ -27,3 +27,9 @@ desc = "Human Computer Interface"
 
 [HLA]
 desc = "High Level Assembly Language"
+
+[HLS]
+desc = "Hue, Lightness, Saturation Color Model"
+
+[HCL]
+desc = "Hue, Chroma, Luminance Color Space Model"

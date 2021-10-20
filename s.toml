@@ -57,3 +57,6 @@ desc = "Statistics Analysis System"
 [SPSS]
 desc = "Statistical Product and Service Solutions"
 full = "formerly Statistical Package for the Social Sciences, reflecting the original market"
+
+[sRGB]
+desc = "standard Red Green Blue"

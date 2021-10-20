@@ -50,3 +50,6 @@ full = "is a computer algebra system for computational discrete algebra with par
 [GiNaC]
 desc = "ginac is not a CAS"
 full = "C++ library for symbolic computing"
+
+[GIMP]
+desc = "GNU Image Manipulation Program"
