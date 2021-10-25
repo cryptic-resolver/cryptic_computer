@@ -53,3 +53,6 @@ full = "C++ library for symbolic computing"
 
 [GIMP]
 desc = "GNU Image Manipulation Program"
+
+[GEGL]
+desc = "Generic Graphics Library, mainly for GIMP"
