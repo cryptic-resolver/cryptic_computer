@@ -1,35 +1,46 @@
-[HEVC]
+[hevc]
+disp = "HEVC"
 desc = "High Efficiency Video Coding"
 full = "Known as H.265 completed in 2013"
 
-["H.264"]
+["h.264"]
+disp = "H.264"
 desc = "A video compression standard"
 see = ['AVC']
 
-["H.265"]
+["h.265"]
+disp = "H.265"
 desc = "A video compression standard"
 see = ['HEVC']
 
-[HMI]
+[hmi]
+disp = "HMI"
 desc = "Human-Machine Interface"
 
-[HDFS]
+[hdfs]
+disp = "HDFS"
 desc = "Hadoop Distributed File System"
 
 [hsl]
+disp = "HSL"
 desc = "Hue, Saturation, Value"
 
-[HOF]
+[hof]
+disp = "HOF"
 desc = "Higher-order functions"
 
-[HCI]
+[hci]
+disp = "HCI"
 desc = "Human Computer Interface"
 
-[HLA]
+[hla]
+disp = "HLA"
 desc = "High Level Assembly Language"
 
-[HLS]
+[hls]
+disp = "HLS"
 desc = "Hue, Lightness, Saturation Color Model"
 
-[HCL]
+[hcl]
+disp = "HCL"
 desc = "Hue, Chroma, Luminance Color Space Model"

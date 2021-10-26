@@ -1,30 +1,39 @@
-[IETF]
+[ietf]
+disp = "IETF"
 desc = "Internet Engineering Task Force"
 
-[ICO]
+[ico]
+disp = "ICO"
 desc = "Icon image format for Windows"
 see = ["CUR"]
 
-[ISV]
+[isv]
+disp = "ISV"
 desc = "Independent Software Vendor"
 
-[IC.star]
+[ic.star]
+disp = "IC(star)"
 desc = "Index Catalogues"
 see = ['NGC']
 
-[IEEE]
+[ieee]
+disp = "IEEE"
 desc = "Institute of Electrical and Electronics Engineers"
 
-[INRIA]
+[inria]
+disp = "INRIA"
 desc = "French Institute for Research in Computer Science and Automation"
 
-[ISBN]
+[isbn]
+disp = "ISBN"
 desc = "International Standard Book Number"
 see = ['ISSN']
 
-[ISSN]
+[issn]
+disp = "ISSN"
 desc = "International Standard Serial Number"
 see = ['ISBN']
 
-[IKE]
+[ike]
+disp = "IKE"
 desc = "Internet Key Exchange"

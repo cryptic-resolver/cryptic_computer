@@ -1,58 +1,76 @@
-[GDM]
+[gdm]
+disp = "GDM"
 desc = "GNOME Display Manager"
 full = "The GNOME Display Manager (GDM) is a program that manages graphical display servers and handles graphical user logins. "
 
-[GIF]
+[gif]
+disp = "GIF"
 desc = "Graphics Interchange Format"
 full = "Released in 1987. GIF images are compressed using LZW lossless data compression algorithm. By 2004 all the relevant patents of LZW had expired."
 
-[GM]
+[gm]
+disp = "GM"
 desc = "General Motors"
 
-[GPGPU]
+[gpgpu]
+disp = "GPGPU"
 desc = "General-Purpose computing on the GPU"
 
-[GLSL]
+[glsl]
+disp = "GLSL"
 desc = "OpenGL Shading Language"
 
-[GPS]
+[gps]
+disp = "GPS"
 desc = "Global Positioning System"
 
-[GDI]
+[gdi]
+disp = "GDI"
 desc = "Graphics Device Interface by Microsoft Windows"
 
-[GSL]
+[gsl]
+disp = "GSL"
 desc = "GNU Scientific Library"
 
-[GVDB]
+[gvdb]
+disp = "GVDB"
 desc = "GVariant Database"
 
-[GDK]
+[gdk]
+disp = "GDK"
 desc = "GIMP Drawing Kit"
 
-[GTK]
+[gtk]
+disp = "GTK"
 desc = "GIMP ToolKit, formerly GTK+"
 full = "It is a free and open-source cross-platform widget toolkit for creating graphical user interfaces"
 
-[GObject]
+[gobject]
+disp = "GObject"
 desc = "GLib object system"
 
-[GDA]
+[gda]
+disp = "GDA"
 desc = "GNU Data Access"
 
-[GOM]
+[gom]
+disp = "GOM"
 desc = "GNOME object mapper"
 
-[GAP]
+[gap]
+disp = "GAP"
 desc = "Groups, Algorithms and Programming"
 full = "is a computer algebra system for computational discrete algebra with particular emphasis on computational group theory."
 
-[GiNaC]
+[ginac]
+disp = "GiNaC"
 desc = "ginac is not a CAS"
 full = "C++ library for symbolic computing"
 
-[GIMP]
+[gimp]
+disp = "GIMP"
 desc = "GNU Image Manipulation Program"
 
-[GEGL]
+[gegl]
+disp = "GEGL"
 desc = "Generic Graphics Library, mainly for GIMP"

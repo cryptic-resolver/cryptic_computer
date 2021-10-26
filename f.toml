@@ -1,18 +1,24 @@
 [fwupd]
+disp = "fwupd"
 desc = "Firmware Update daemon on Linux-based system"
 
 [frum]
+disp = "frum"
 desc = "Fast RUby Manager"
 
-[FOSDEM]
+[fosdem]
+disp = "FOSDEM"
 desc = "Free and Open Source Developers European Meeting"
 
-[FM]
+[fm]
+disp = "FM"
 desc = "Frequency Modulation"
 
-[FFT]
+[fft]
+disp = "FFT"
 desc = "Fast Fourier Transform"
 
-[FFmpeg]
+[ffmpeg]
+disp = "FFmpeg"
 desc = "Fast Forward MPEG"
 see = ['MPEG']
