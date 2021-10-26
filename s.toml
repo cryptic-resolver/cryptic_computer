@@ -85,3 +85,15 @@ desc = "standard Red Green Blue"
 disp = "STL(format)"
 desc = "Standard Triangle Language and Standard Tessellation Language"
 full = "a file format native to the stereolithography CAD software created by 3D Systems"
+
+[stdin]
+disp = "STDIN"
+desc = "Standard Input"
+
+[stdout]
+disp = "STDOUT"
+desc = "Standard Output"
+
+[stderr]
+disp = "STDERR"
+desc = "Standard Error"

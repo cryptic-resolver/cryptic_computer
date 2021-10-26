@@ -34,3 +34,11 @@ desc = "Rich Text Format"
 disp = "RIS"
 desc = "A standardized tag format developed by Research Information Systems"
 full = "Used by citation management applications like Mendeley, EndNote and so on"
+
+[r5rs]
+disp = "R5RS"
+desc = "Revised 5 Report on the Algorithmic Language Scheme"
+
+[r6rs]
+disp = "R6RS"
+desc = "Revised 6 Report on the Algorithmic Language Scheme"
