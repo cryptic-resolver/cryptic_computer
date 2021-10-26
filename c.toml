@@ -1,80 +1,106 @@
 [cups]
+disp = "CUPS"
 desc = "Common Unix Printing System"
 
-[CST.America]
+[cst.America]
+disp = "CST(America)"
 desc = "Central Standard Time(UTC-6)"
 see = ['UTC']
 
-[CST.China]
+[cst.China]
+disp = "CST(China)"
 desc = "China Standard Time(UTC+8)"
 
-[CRT]
+[crt]
+disp = "CRT"
 desc = "Cathode Ray Tube"
 
 [csrf]
+disp = "CSRF"
 desc = "Cross Site Request Forgery"
 
-[CUR]
+[cur]
+disp = "CUR"
 desc = "Cursor image format for Windows"
 see = ["ICO"]
 
-[COM]
+[com]
+disp = "COM"
 desc = "Component Object Model"
 full = "A binary-interface standard for software components introduced by Microsoft in 1993. It is used to enable inter-process communication object creation in a large range of programming languages"
 
-[CSP]
+[csp]
+disp = "CSP"
 desc = "Communicating Sequential Processs"
 
 [cpl]
+disp = "cpl"
 desc = "Control PaneL"
 full = "Control panel tools for Windows"
 
-[CUDA]
+[cuda]
+disp = "CUDA"
 desc = "Compute Unified Device Architecture"
 full = "A parallel computing platform and application programming interface (API) model created by Nvidia."
 
-[CAD]
+[cad]
+disp = "CAD"
 desc = "Computer-aided design"
 
-[CNAME]
+[cname]
+disp = "CNAME"
 desc = "Canonical Name record"
 full = "map one domain name(an alias) to another(the canonical name)"
 
-[CLOS]
+[clos]
+disp = "CLOS"
 desc = "Common Lisp Object System"
 
-[CLU]
+[clu]
+disp = "CLU"
 desc = "CLUster"
 full = "OOP language invented in 1975, MIT "
 
-[CDN]
+[cdn]
+disp = "CDN"
 desc = "content delivery network"
 
-[CVE]
+[cve]
+disp = "CVE"
 desc = "Common Vulnerabilities and Exposures"
 
-[CMM]
+[cmm]
+disp = "CMM"
 desc = "Capability Maturity Model"
 
 [clhs]
+disp = "clhs"
 desc = "Common Lisp HyperSpec"
 
 [cons]
+disp = "cons"
 desc = "CONStruct lists"
 
-[CKEditor]
+[ckeditor]
+disp = "CKEditor"
 desc = "An online editor formerly called FCKeditor"
 full = "released in March 2003 by Frederico Caldeira Knabben, the creator of the editor"
 
-[CAS]
+[cas]
+disp = "CAS"
 desc = "Computer Algebra System"
 
-[CSG]
+[csg]
+disp = "CSG"
 desc = "Constructive Solid Geometry"
 
-[CFD]
+[cfd]
+disp = "CFD"
 desc = "computational fluid dynamics"
 
-[CMY]
-desc = "Cyan, Magenta, Yellow Color Model"
+[cmyk]
+disp = "CMYK"
+desc = "Cyan, Magenta, Yellow, Dark Color Model"
 
+[cmy]
+same = "cmyk"

@@ -1,18 +1,24 @@
-[BMP]
+[bmp]
+disp = "BMP"
 desc = "Bitmap image file"
 full = "Developed by Microsoft in 1986? used RLE lossless data compression algorithm"
 
 [blob]
+disp = "blob"
 desc = "Binary Large OBject"
 
-[BOM]
+[bom]
+disp = "BOM"
 desc = "byte order mark"
 
-[BJT]
+[bjt]
+disp = "BJT"
 desc = "Bipolar Junction Transistor"
 
-[BCPL]
+[bcpl]
+disp = "BCPL"
 desc = "Basic Combined Programming Language"
 
-[BLAS]
+[blas]
+disp = "BLAS"
 desc = "Basic Linear Algebra Subprograms"

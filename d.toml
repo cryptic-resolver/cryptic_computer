@@ -1,45 +1,60 @@
 [df]
+disp = "df"
 desc = "disk free"
 
 [du]
+disp = "du"
 desc = "disk usage or directory usage (default in KB)"
 
-[DSA]
+[dsa]
+disp = "DSA"
 desc = "Digital Signature Algorithm"
 
-[DES]
+[des]
+disp = "DES"
 desc = "Data Encryption Standard"
 
-[DTD]
+[dtd]
+disp = "DTD"
 desc = "Document Type Definition"
 
-[DAG]
+[dag]
+disp = "DAG"
 desc = "Directed Acyclic Graph"
 
-[DNS]
+[dns]
+disp = "DNS"
 desc = "Domain Name System"
 
-[DFT]
+[dft]
+disp = "DFT"
 desc = "Discrete Fourier Transform"
 
-[DARPA]
+[darpa]
+disp = "DARPA"
 desc = "The Defense Advanced Research Projects Agency"
 
-[DMI]
+[dmi]
+disp = "DMI"
 desc = "Desktop Management Interface"
 full = "It's an industry framework for managing and keeping track of hardware and software components in a system of personal computers from a central location."
 
-[DBUS]
+[dbus]
+disp = "DBUS"
 desc = "Desktop Bus"
 
-[D-BUS]
-same = 'DBUS'
+[d-bus]
+disp = "D-BUS"
+same = 'dbus'
 
-[DRM]
+[drm]
+disp = "DRM"
 desc = "Direct Rendering Manager"
 
-[DOI]
+[doi]
+disp = "DOI"
 desc = "Digital Object Unique Identifier"
 
-[DXF]
+[dxf]
+disp = "DXF"
 desc = "AutoCAD Drawing Interchange Format"
