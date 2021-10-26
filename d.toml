@@ -40,3 +40,6 @@ desc = "Direct Rendering Manager"
 
 [DOI]
 desc = "Digital Object Unique Identifier"
+
+[DXF]
+desc = "AutoCAD Drawing Interchange Format"

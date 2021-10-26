@@ -60,3 +60,7 @@ full = "formerly Statistical Package for the Social Sciences, reflecting the ori
 
 [sRGB]
 desc = "standard Red Green Blue"
+
+[STL]
+desc = "Standard Triangle Language and Standard Tessellation Language"
+full = "a file format native to the stereolithography CAD software created by 3D Systems"
