@@ -1,66 +1,87 @@
-[SGML]
+[sgml]
+disp = "SGML"
 desc = "Standard Generalized Markup Language"
 
-[SDDM]
+[sddm]
+disp = "SDDM"
 desc = "Simple Desktop Display Manager"
 full = "A QML based X11 and Wayland display manager. It is the recommended display manager for the KDE Plasma and LXQt desktop environments."
 
-[SUV]
+[suv]
+disp = "SUV"
 desc = "Sport Utility Vehicle"
 
 [sbt]
+disp = "sbt"
 desc = "Scala Build Tool"
 
-[STM]
+[stm]
+disp = "STM"
 desc = "Software Transaction Memory"
 
 [s3]
+disp = "s3"
 desc = "Amazon Simple Storage Service"
 
-[SNOBOL]
+[snobol]
+disp = "SNOBOL"
 desc = "StriNg Oriented and symBOlic Language"
 
-[SICP]
+[sicp]
+disp = "SICP"
 desc = "Structure and Interpretation of Computer Programs"
 
-[SMART]
+[smart]
+disp = "SMART"
 desc = "Specific, Measurable, Achievable, Relevant, Time-boxed"
 
-[SLIME]
+[slime]
+disp = "SLIME"
 desc = "The Superior Lisp Interaction Mode for Emacs"
 
-[SVG]
+[svg]
+disp = "SVG"
 desc = "Scalable Vector Graphics"
 
-[SOAP]
+[soap]
+disp = "SOAP"
 desc = "Simple Object Access Protocol"
 full = "a messaging porotocal initially as XML-RPC in June 1998"
 
 [sexp]
+disp = "sexp"
 desc = "S(ymbolic) expression"
 
-[SRFI]
+[srfi]
+disp = "SRFI"
 desc = "Scheme Requests for Implementation"
 
-[SA]
+[sa]
+disp = "SA"
 desc = "Security Association"
 
-[SM4]
+[sm4]
+disp = "SM4"
 desc = "a block cipher used in the Chinese National Standard for Wireless LAN WAPI"
 
-[SAS.algebra]
+[sas.algebra]
+disp = "SAS"
 desc = "Symbolic Algebra System"
 
-[SAS.statistics]
+[sas.statistics]
+disp = "SAS"
 desc = "Statistics Analysis System"
 
-[SPSS]
+[spss]
+disp = "SPSS"
 desc = "Statistical Product and Service Solutions"
 full = "formerly Statistical Package for the Social Sciences, reflecting the original market"
 
-[sRGB]
+[srgb]
+disp = "sRGB"
 desc = "standard Red Green Blue"
 
-[STL]
+[stl.3D]
+disp = "STL(format)"
 desc = "Standard Triangle Language and Standard Tessellation Language"
 full = "a file format native to the stereolithography CAD software created by 3D Systems"

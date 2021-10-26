@@ -1,12 +1,16 @@
-[UTC]
+[utc]
+disp = "UTC"
 desc = "Universal Time Coordinated"
 
-[UAC]
+[uac]
+disp = "UAC"
 desc = "User Account Control(Windows)"
 
-[URI]
+[uri]
+disp = "URI"
 desc = "Uniform Resource Identifier"
 
-[UIOP]
+[uiop]
+disp = "UIOP"
 desc = "Utilities for Implementation- and OS- Portability"
 full = "Common Lisp's ASDF's library"

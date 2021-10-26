@@ -1,19 +1,25 @@
-[WPA]
+[wpa]
+disp = "WPA"
 desc = "Wi-Fi Protected Access"
 
-[WAF]
+[waf]
+disp = "WAF"
 desc = "Web Application Firewall"
 
-[WebP]
+[webp]
+disp = "WebP"
 desc = "Photo format for the Web"
 full = "Announced in 2010 by Google. A modern image format that provides superior lossless and lossy compression for images on the web"
 
-[WebM]
+[webm]
+disp = "WebM"
 desc = "Media format for the Web"
 full = "Sponsored by Google. Intended to offer a royalty-free alternative to use in the HTML5 video and the HTML5 audio elements"
 
-[WMI]
+[wmi]
+disp = "WMI"
 desc = "Windows Management Instrumentation"
 
-[WAPI]
+[wapi]
+disp = "WAPI"
 desc = "WLAN Authentication and Privacy Infrastructure"

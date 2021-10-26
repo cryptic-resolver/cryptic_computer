@@ -1,14 +1,19 @@
-[TIFF]
+[tiff]
+disp = "TIFF"
 desc = "Tag Image File Format"
 
-[TI]
+[ti]
+disp = "TI"
 desc = "Texas Instruments"
 
-[TSV]
+[tsv]
+disp = "TSV"
 desc = "Tab-separated values"
 
-[TSX]
+[tsx]
+disp = "TSX"
 desc = "Transactional Synchronization Extensions"
 
-[TLS]
+[tls]
+disp = "TLS"
 desc = "Transport Layer Security"
