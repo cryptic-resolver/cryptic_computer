@@ -1,25 +1,33 @@
 [od]
+disp = "od"
 desc = "Octal file Dump"
 
-[OLE]
+[ole]
+disp = "OLE"
 desc = "Object Linking and Embedding"
 full = "A proprietary technology developed by Microsoft that allows embedding and linking to documents and other objects"
 
-[OCI]
+[oci]
+disp = "OCI"
 desc = "Open Container Initiative"
 
-[OEM]
+[oem]
+disp = "OEM"
 desc = "Original Equipment Manufacturer"
 
-[OTP]
+[otp]
+disp = "OTP"
 desc = "Open Telecom Platform"
 
-[OpenCL]
+[opencl]
+disp = "OpenCL"
 desc = "Open Computing Language"
 
-[OpenGL]
+[opengl]
+disp = "OpenGL"
 desc = "Open Graphics Library"
 full = "API for rendering 2D and 3D vector graphics. The API is corss-language, corss-platform and typically used to interact with a GPU, to achieve the hardware-accelerated rendering"
 
-[OOPSLA]
+[oopsla]
+disp = "OOPSLA"
 desc = "Object-Oriented Programming, Systems, Languages & Applications"

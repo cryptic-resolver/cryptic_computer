@@ -1,23 +1,29 @@
-[JPEG]
+[jpeg]
+disp = "JPEG"
 desc = "Joint Photographic Experts Group"
 full = "Introduced in 1992. A commonly used method of lossy compression for digital images"
 
-[JPG]
+[jpg]
 same = "JPEG"
 
-[JIF]
+[jif]
+disp = "JIF"
 desc = "JPEG Interchange Format"
 full = "This pure file format is rarely used, primarily because of the difficulty of programming encoders and decoders that fully implement all aspects of the standard and because of certain shortcomings of the standard"
 
-[JFIF]
+[jfif]
+disp = "JFIF"
 desc = "JPEG File Interchange Format"
 full = "Released in 1992. It defines supplementary specifications for the container format that contains the image data encoded with the JPEG algorithm."
 
-[JAM]
+[jam]
+disp = "JAM"
 desc = "JavaScript, APIs, Markup stack"
 
-[JSR]
+[jsr]
+disp = "JSR"
 desc = "Java Specification Requests"
 
-[JPL]
+[jpl]
+disp = "JPL"
 desc = "NASA Jet Propulsion Laboratory"

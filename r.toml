@@ -1,28 +1,36 @@
-[RSA]
+[rsa]
+disp = "RSA"
 desc = "Ron Rivest, Adi Shamir, Leonard Adleman"
 full = "They invest the RSA algorithm"
 
-[RFC]
+[rfc]
+disp = "RFC"
 desc = "Request For Comments"
 
-[RLE]
+[rle]
+disp = "RLE"
 desc = "Run Length Encoding (RLE)"
 full = "It is a lossless data compression algorithm, supported by many bitmap file formats, like BMP, TIFF and PCX"
 
-[Radar]
+[radar]
+disp = "Radar"
 desc = "Radio Detection And Ranging"
 
-[RUP]
+[rup]
+disp = "RUP"
 desc = "Rational Unified Process"
 
-[RSS]
+[rss]
+disp = "RSS"
 desc = "Resident Set Size"
 full = "to show how much real memory is to that process and is resident in RAM now"
 see = ['VSZ','PSS']
 
-[RTF]
+[rtf]
+disp = "RTF"
 desc = "Rich Text Format"
 
-[RIS]
+[ris]
+disp = "RIS"
 desc = "A standardized tag format developed by Research Information Systems"
 full = "Used by citation management applications like Mendeley, EndNote and so on"

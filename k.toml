@@ -1,2 +1,3 @@
-[KMS]
+[kms]
+disp = "KMS"
 desc = "Kernel Mode Setting"

@@ -1,13 +1,17 @@
-[PNG]
+[png]
+disp = "PNG"
 desc = "Portable Network Graphics or PNG is Not GIF"
 full = "Published in 1997. It's a raster-graphics file format that supports lossless data compression, and was invented to transfer images on the Internet, not for professional-quality print graphics, and as an improved, non-patented replacement for GIF"
 
-[PIC]
+[pic]
+disp = "PIC"
 desc = "Position Independent Code"
 
-[PSS]
+[pss]
+disp = "PSS"
 desc = "Proportional Set Size"
 see = ['RSS']
 
-[PMID]
+[pmid]
+disp = "PMID"
 desc = "PubMed Unique Identifier"

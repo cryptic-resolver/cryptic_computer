@@ -1,31 +1,40 @@
-[MIME]
+[mime]
+disp = "MIME"
 desc = "Multipurpose Internet Mail Extensioin"
 full = "It is an Internet standard that extends the format of email messages to support text in character sets other than ASCII， as well as attachments of audio， video， images， and application programs."
 
-[MPEG]
+[mpeg]
+disp = "MPEG"
 desc = "Moving Picture Experts Group"
 
 [mp4]
+disp = "MP4"
 desc = "MPEG-4"
 full = "Introduced in late 1998"
 see = ["MPEG"]
 
 [mp3]
+disp = "MP3"
 desc = "MPEG-3"
 see = ["MPEG"]
 
-[MDA]
+[mda]
+disp = "MDA"
 desc = "Model Driven Architecture"
 
-[MOP]
+[mop]
+disp = "MOP"
 desc = "Common Lisp MetaObject Protocol"
 see = ['CLOS']
 
-[MELPA]
+[melpa]
+disp = "MELPA"
 desc = "Milkypostman’s Emacs Lisp Package Archive"
 
-[M-expression]
+[m-expression]
+disp = "M-expression"
 desc = "Meta expression"
 
-[MAC.MIT]
+[mac.MIT]
+disp = "MAC(MIT)"
 desc = "the Project on Mathematics and Computation"

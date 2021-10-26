@@ -1,19 +1,25 @@
-[Nvidia]
+[nvidia]
+disp = "Nvidia"
 desc = "Invidia, Latin for envy"
 full = "A company designs GPU. Envy and vision are closely tied in mythology with the eye or the gaze being a common symbol. In addition, sounds being quite similar to video."
 
-[NVD]
+[nvd]
+disp = "NVD"
 desc = "National Vulnerability Database"
 
-[NASA]
+[nasa]
+disp = "NASA"
 desc = "National Aeronautics and Space Administration"
 
-[NGC]
+[ngc]
+disp = "NGC"
 desc = "New General Catalogue of Nebulae and Clusters of Stars"
-see = ['IC']
+see = ['ic']
 
-[NFS]
+[nfs]
+disp = "NFS"
 desc = "Network File System"
 
-[NTP]
+[ntp]
+disp = "NTP"
 desc = "Network Time Protocol"
