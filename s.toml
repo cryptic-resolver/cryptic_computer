@@ -97,3 +97,7 @@ desc = "Standard Output"
 [stderr]
 disp = "STDERR"
 desc = "Standard Error"
+
+[stl.cpp]
+disp = "STL"
+desc = "C++ Standard Template Library"

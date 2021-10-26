@@ -57,3 +57,8 @@ desc = "Digital Object Unique Identifier"
 [dxf]
 disp = "DXF"
 desc = "AutoCAD Drawing Interchange Format"
+
+[dwg]
+disp = "dwg"
+desc = "from drawing"
+full = "a proprietary binary file format used for storing two- and three- dimensional design data and metadata"
