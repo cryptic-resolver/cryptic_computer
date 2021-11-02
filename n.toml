@@ -23,3 +23,7 @@ desc = "Network File System"
 [ntp]
 disp = "NTP"
 desc = "Network Time Protocol"
+
+[nft]
+disp = "NFT"
+desc = "Non-fungible Tokens"
