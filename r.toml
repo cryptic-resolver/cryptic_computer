@@ -42,3 +42,7 @@ desc = "Revised 5 Report on the Algorithmic Language Scheme"
 [r6rs]
 disp = "R6RS"
 desc = "Revised 6 Report on the Algorithmic Language Scheme"
+
+[rts]
+disp = "RTS"
+desc = "Real-Time Strategy Game"
