@@ -62,3 +62,7 @@ desc = "AutoCAD Drawing Interchange Format"
 disp = "dwg"
 desc = "from drawing"
 full = "a proprietary binary file format used for storing two- and three- dimensional design data and metadata"
+
+[ddd]
+disp = "DDD"
+desc = "Domain Driven Design"

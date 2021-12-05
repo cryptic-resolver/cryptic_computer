@@ -104,3 +104,7 @@ desc = "Cyan, Magenta, Yellow, Dark Color Model"
 
 [cmy]
 same = "cmyk"
+
+[cms]
+disp = "CMS"
+desc = "Content Management System"

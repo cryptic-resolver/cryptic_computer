@@ -37,3 +37,7 @@ full = "a function in Common Lisp"
 [evdev]
 disp = "evdev"
 desc = "Xorg input driver for Linux´s generic EVent devices"
+
+[erp]
+disp = "ERP"
+desc = "Enterprise Resource Planning"
