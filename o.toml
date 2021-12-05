@@ -31,3 +31,9 @@ full = "API for rendering 2D and 3D vector graphics. The API is corss-language, 
 [oopsla]
 disp = "OOPSLA"
 desc = "Object-Oriented Programming, Systems, Languages & Applications"
+
+[ofx]
+disp = "OFX"
+desc = "Open Financial Exchange"
+full = "It's a data-stream format for exchanging financial information that evolved from Microsoft's Open Financial Connectivity (OFC) and Intuit's Open Exchange file formats."
+see = ["QIF"]

@@ -1,4 +1,5 @@
 [qif]
 disp = "QIF"
 desc = "Quicken Interchange Format"
-full = "It's an open specification for reading and writing financial data to media"
+full = "It's an open specification for reading and writing financial data to media, it's older than OFX"
+see = ["OFX"]
