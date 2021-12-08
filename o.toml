@@ -37,3 +37,7 @@ disp = "OFX"
 desc = "Open Financial Exchange"
 full = "It's a data-stream format for exchanging financial information that evolved from Microsoft's Open Financial Connectivity (OFC) and Intuit's Open Exchange file formats."
 see = ["QIF"]
+
+[odbc]
+disp = "ODBC"
+desc = "Open Database Connectivity"

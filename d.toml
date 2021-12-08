@@ -66,3 +66,16 @@ full = "a proprietary binary file format used for storing two- and three- dimens
 [ddd]
 disp = "DDD"
 desc = "Domain Driven Design"
+
+[dao]
+disp = "DAO"
+desc = "Data Access Object"
+
+[dfm]
+disp = "DFM"
+desc = "Delphi Form files"
+
+[ddl]
+disp = "DDL"
+desc = "Data Definition Language"
+

@@ -46,3 +46,7 @@ desc = "Revised 6 Report on the Algorithmic Language Scheme"
 [rts]
 disp = "RTS"
 desc = "Real-Time Strategy Game"
+
+[rad]
+disp = "RAD"
+desc = "Rapid Application Development"
