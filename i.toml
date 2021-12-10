@@ -11,11 +11,6 @@ see = ["CUR"]
 disp = "ISV"
 desc = "Independent Software Vendor"
 
-[ic.star]
-disp = "IC(star)"
-desc = "Index Catalogues"
-see = ['NGC']
-
 [ieee]
 disp = "IEEE"
 desc = "Institute of Electrical and Electronics Engineers"

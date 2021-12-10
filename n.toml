@@ -7,15 +7,6 @@ full = "A company designs GPU. Envy and vision are closely tied in mythology wit
 disp = "NVD"
 desc = "National Vulnerability Database"
 
-[nasa]
-disp = "NASA"
-desc = "National Aeronautics and Space Administration"
-
-[ngc]
-disp = "NGC"
-desc = "New General Catalogue of Nebulae and Clusters of Stars"
-see = ['ic']
-
 [nfs]
 disp = "NFS"
 desc = "Network File System"
@@ -23,7 +14,3 @@ desc = "Network File System"
 [ntp]
 disp = "NTP"
 desc = "Network Time Protocol"
-
-[nft]
-disp = "NFT"
-desc = "Non-fungible Tokens"
