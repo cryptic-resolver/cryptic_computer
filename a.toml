@@ -82,3 +82,7 @@ desc = "ARM Embedded ABI"
 [aes]
 disp = "AES"
 desc = "Advanced Encryption Standard"
+
+[ar]
+disp = "AR"
+desc = "Augmented Reality"

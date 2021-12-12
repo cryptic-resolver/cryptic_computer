@@ -36,3 +36,7 @@ desc = "Internet Key Exchange"
 [icann]
 disp = "ICANN"
 desc = "The Internet Corporation for Assigned Names and Numbers"
+
+[idc]
+disp = "IDC"
+desc = "Internet Data Center"

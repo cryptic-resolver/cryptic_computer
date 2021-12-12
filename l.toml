@@ -23,3 +23,8 @@ desc = "Linux Standards Base"
 [lop]
 disp = "LOP"
 desc = "Language-oriented programming"
+
+[led]
+disp = "LED"
+desc = "light-emitting Diode"
+see = ["OLED"]

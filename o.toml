@@ -41,3 +41,7 @@ see = ["QIF"]
 [odbc]
 disp = "ODBC"
 desc = "Open Database Connectivity"
+
+[oled]
+disp = "OLED"
+desc = "Organic light-emitting Diode"
