@@ -44,3 +44,7 @@ desc = "Hue, Lightness, Saturation Color Model"
 [hcl]
 disp = "HCL"
 desc = "Hue, Chroma, Luminance Color Space Model"
+
+[hms]
+disp = "HMS"
+desc = "Huawei Mobile Services"
