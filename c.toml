@@ -108,3 +108,8 @@ same = "cmyk"
 [cms]
 disp = "CMS"
 desc = "Content Management System"
+
+[ct]
+disp = "CT"
+desc = "Communications Technology"
+see = "IT" 

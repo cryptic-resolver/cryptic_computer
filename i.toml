@@ -40,3 +40,14 @@ desc = "The Internet Corporation for Assigned Names and Numbers"
 [idc]
 disp = "IDC"
 desc = "Internet Data Center"
+
+[it]
+disp = "IT"
+desc = "Information Technology"
+see = "CT" 
+
+
+[ict]
+disp = "ICT"
+desc = "Information and Communications Technology"
+see = ["IT","CT"]
