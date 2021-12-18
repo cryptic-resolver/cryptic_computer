@@ -22,3 +22,8 @@ desc = "Basic Combined Programming Language"
 [blas]
 disp = "BLAS"
 desc = "Basic Linear Algebra Subprograms"
+
+[bpmn]
+disp = "BPMN"
+desc = "Business Process Model and Notation"
+

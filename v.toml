@@ -13,3 +13,7 @@ see = ['RSS']
 disp = "VR"
 desc = "Virtual Reality"
 see = ["AR"]
+
+[vsdx]
+disp = ".vsdx"
+desc = "Visio drawing"
