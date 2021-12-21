@@ -79,3 +79,7 @@ desc = "Delphi Form files"
 disp = "DDL"
 desc = "Data Definition Language"
 
+[dap]
+disp = "DAP"
+desc = "Debug Adapter Protocol"
+

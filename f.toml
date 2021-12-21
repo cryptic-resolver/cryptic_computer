@@ -22,3 +22,7 @@ desc = "Fast Fourier Transform"
 disp = "FFmpeg"
 desc = "Fast Forward MPEG"
 see = ['MPEG']
+
+[fsf]
+disp = "FSF"
+desc = "Free Software Foundation"

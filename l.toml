@@ -28,3 +28,7 @@ desc = "Language-oriented programming"
 disp = "LED"
 desc = "light-emitting Diode"
 see = ["OLED"]
+
+[lsp]
+disp = "LSP"
+desc = "Language Server Protocol"
