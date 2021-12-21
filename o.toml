@@ -45,3 +45,7 @@ desc = "Open Database Connectivity"
 [oled]
 disp = "OLED"
 desc = "Organic light-emitting Diode"
+
+[ocr]
+disp = "OCR"
+desc = "Optical Character Recognition"

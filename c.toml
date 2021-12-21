@@ -113,3 +113,7 @@ desc = "Content Management System"
 disp = "CT"
 desc = "Communications Technology"
 see = "IT" 
+
+[cncf]
+disp = "CNCF"
+desc = "Cloud Native Computing Foundation"

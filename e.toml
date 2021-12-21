@@ -45,3 +45,7 @@ desc = "Enterprise Resource Planning"
 [eda]
 disp = "EDA"
 desc = "Electronic Design Automation"
+
+[eta]
+disp = "ETA"
+desc = "Estimated Time of Arrival"
