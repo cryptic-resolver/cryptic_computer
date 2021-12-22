@@ -23,3 +23,7 @@ desc = "Windows Management Instrumentation"
 [wapi]
 disp = "WAPI"
 desc = "WLAN Authentication and Privacy Infrastructure"
+
+[wpc]
+disp = "WPC"
+desc = "Wireless Power Consortium"
