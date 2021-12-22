@@ -104,4 +104,9 @@ desc = "C++ Standard Template Library"
 
 [sigmod]
 disp = "SIGMOD"
-desc = "The Association for Computing Machinery's Special Interest Group on Management of Data, which specializes in large-scale data management problems and databases."
+desc = "The Association for Computing Machinery's Special Interest Group on Management of Data"
+full = "which specializes in large-scale data management problems and databases."
+
+[seo]
+disp = "SEO"
+desc = "Search Engine Optimization"

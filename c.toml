@@ -117,3 +117,18 @@ see = "IT"
 [cncf]
 disp = "CNCF"
 desc = "Cloud Native Computing Foundation"
+
+[cr]
+disp = "CR"
+desc = "Cryptic Resolver"
+full = "This is the name of this program :)"
+
+[cc]
+disp = "CC"
+desc = "Creative Commons"
+full = '''
+Rights:
+    BY: Atribution
+    SA: Share Alike
+    NC: Non Commercial
+    ND: No Derivatives'''
