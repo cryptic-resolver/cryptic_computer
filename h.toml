@@ -48,3 +48,7 @@ desc = "Hue, Chroma, Luminance Color Space Model"
 [hms]
 disp = "HMS"
 desc = "Huawei Mobile Services"
+
+[hdr]
+disp = "HDR"
+desc = "High Dynamic Range"
