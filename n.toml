@@ -14,3 +14,7 @@ desc = "Network File System"
 [ntp]
 disp = "NTP"
 desc = "Network Time Protocol"
+
+[nasm]
+disp = "nasm"
+desc = "Netwide Assembler"
