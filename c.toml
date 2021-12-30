@@ -132,3 +132,7 @@ Rights:
     SA: Share Alike
     NC: Non Commercial
     ND: No Derivatives'''
+
+[coff]
+disp = "COFF"
+desc = "Common Object File Format"

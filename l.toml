@@ -32,3 +32,7 @@ see = ["OLED"]
 [lsp]
 disp = "LSP"
 desc = "Language Server Protocol"
+
+[ld]
+disp = "LD"
+desc = "Link eDitor or Loader"

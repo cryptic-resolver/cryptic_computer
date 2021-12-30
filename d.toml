@@ -88,3 +88,7 @@ disp = "DIA SDK"
 desc = "Microsoft Debug Interface Access Software Development Kit"
 full = "Using DIA API, you can develop applications that search for and browse debug information stored in a .pdb file. Such applications could, for example, report stack trace-back information and analyze performance data."
 see = ["pdb"]
+
+[dism]
+disc = "DISM"
+desc = "Deployment Image Servicing and Management by Windows"

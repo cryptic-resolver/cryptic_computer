@@ -52,3 +52,11 @@ desc = "Huawei Mobile Services"
 [hdr]
 disp = "HDR"
 desc = "High Dynamic Range"
+
+[htap]
+disp = "HTAP"
+desc = "Hybrid Transactional/Analytical Processing"
+
+[hvm]
+disp = "HVM"
+desc = "Hardware VM"
