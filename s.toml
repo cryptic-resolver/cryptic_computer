@@ -82,9 +82,9 @@ disp = "sRGB"
 desc = "standard Red Green Blue"
 
 [stl.3D]
-disp = "STL(format)"
+disp = ".stl"
 desc = "Standard Triangle Language and Standard Tessellation Language"
-full = "a file format native to the stereolithography CAD software created by 3D Systems"
+full = "A file format native to the stereolithography CAD software created by 3D Systems"
 
 [stdin]
 disp = "STDIN"

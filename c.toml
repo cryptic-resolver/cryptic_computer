@@ -136,3 +136,7 @@ Rights:
 [coff]
 disp = "COFF"
 desc = "Common Object File Format"
+
+[clob]
+disp = "CLOB"
+desc = "Character Large Object"

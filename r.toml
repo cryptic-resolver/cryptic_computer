@@ -50,3 +50,7 @@ desc = "Real-Time Strategy Game"
 [rad]
 disp = "RAD"
 desc = "Rapid Application Development"
+
+[rpm]
+disp = "RPM"
+desc = "RedHat Package Manager"

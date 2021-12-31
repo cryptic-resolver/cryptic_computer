@@ -92,3 +92,8 @@ see = ["pdb"]
 [dism]
 disc = "DISM"
 desc = "Deployment Image Servicing and Management by Windows"
+
+[def.file]
+disp = ".def"
+desc = "module-definition file"
+full = "reference: https://docs.microsoft.com/en-us/cpp/build/exporting-from-a-dll-using-def-files?view=msvc-170"
