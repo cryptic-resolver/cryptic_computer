@@ -78,3 +78,7 @@ desc = "Generic Graphics Library, mainly for GIMP"
 [gtd]
 disp = "GTD"
 desc = "Getting Things Done"
+
+[glm]
+disp = "GLM"
+desc = "OpenGL Mathematics"

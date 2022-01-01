@@ -1,0 +1,4 @@
+[zstd]
+disp = "zstd"
+desc = "Zstandard"
+full = "Fast real-time compression algorithm"

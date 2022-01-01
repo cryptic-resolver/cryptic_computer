@@ -110,3 +110,7 @@ full = "which specializes in large-scale data management problems and databases.
 [seo]
 disp = "SEO"
 desc = "Search Engine Optimization"
+
+[sdl]
+disp = "SDL"
+desc = "Simple DirectMedia Layer"

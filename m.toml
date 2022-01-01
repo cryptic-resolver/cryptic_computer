@@ -38,3 +38,11 @@ desc = "Meta expression"
 [mac.MIT]
 disp = "MAC(MIT)"
 desc = "the Project on Mathematics and Computation"
+
+[mingw]
+disp = "MinGW"
+desc = "Minimalist GNU for Windows"
+
+[msys]
+disp = "MSYS2"
+desc = "minimal system 2"

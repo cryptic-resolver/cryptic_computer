@@ -28,3 +28,7 @@ desc = "Paravirtual"
 [pgo]
 disp = "PGO"
 desc = "Profile Guided Optimization"
+
+[pcre]
+disp = "PCRE"
+desc = "Perl Compatible Regular Expressions"

@@ -54,3 +54,8 @@ desc = "Rapid Application Development"
 [rpm]
 disp = "RPM"
 desc = "RedHat Package Manager"
+
+[rxvt]
+disp = "rxvt"
+desc = "Rob's xvt(X Virtual Terminal) or our extended virtual terminal"
+full = "a popular replacement for the standard ‘xterm’"

@@ -97,3 +97,7 @@ desc = "Deployment Image Servicing and Management by Windows"
 disp = ".def"
 desc = "module-definition file"
 full = "reference: https://docs.microsoft.com/en-us/cpp/build/exporting-from-a-dll-using-def-files?view=msvc-170"
+
+[dll]
+disp = "DLL"
+desc = "Dynamic Link Library"
