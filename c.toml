@@ -11,7 +11,7 @@ see = ['UTC']
 disp = "CST(China)"
 desc = "China Standard Time(UTC+8)"
 
-[crt]
+[crt.electronics]
 disp = "CRT"
 desc = "Cathode Ray Tube"
 
@@ -140,3 +140,8 @@ desc = "Common Object File Format"
 [clob]
 disp = "CLOB"
 desc = "Character Large Object"
+
+[crt.lib]
+disp = "CRT"
+desc = "C Runtime Library"
+see = ['UCRT']

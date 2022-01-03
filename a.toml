@@ -86,3 +86,11 @@ desc = "Advanced Encryption Standard"
 [ar]
 disp = "AR"
 desc = "Augmented Reality"
+
+[atl]
+disp = "ATL"
+desc = "Active Template Library"
+
+[amoled]
+disp = "AMOLED"
+desc = "Active-Matrix Organic Light-Emitting Diode"
