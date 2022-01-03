@@ -94,3 +94,7 @@ desc = "Active Template Library"
 [amoled]
 disp = "AMOLED"
 desc = "Active-Matrix Organic Light-Emitting Diode"
+
+[arm]
+disp = "ARM"
+desc = "Advanced RISC Machines and originally Acorn RISC Machine"

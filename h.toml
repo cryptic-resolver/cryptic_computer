@@ -64,3 +64,7 @@ desc = "Hardware VM"
 [hlsl]
 disp = "HLSL"
 desc = "High-Level Shading Language"
+
+[hpc]
+disp = "HPC"
+desc = "High Performance Computing"

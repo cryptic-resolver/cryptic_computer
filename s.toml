@@ -114,3 +114,7 @@ desc = "Search Engine Optimization"
 [sdl]
 disp = "SDL"
 desc = "Simple DirectMedia Layer"
+
+[sus]
+disp = "SUS"
+desc = "Single UNIX Specification"

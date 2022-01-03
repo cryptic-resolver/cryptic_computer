@@ -46,3 +46,7 @@ desc = "Minimalist GNU for Windows"
 [msys]
 disp = "MSYS2"
 desc = "minimal system 2"
+
+[msvc]
+disp = "MSVC"
+desc = "Microsoft C++"

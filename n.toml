@@ -18,3 +18,8 @@ desc = "Network Time Protocol"
 [nasm]
 disp = "nasm"
 desc = "Netwide Assembler"
+
+[nptl]
+disp = "NPTL"
+desc = "Native POSIX Thread Library"
+full = "An implementation of the POSIX Threads specification for the Linux operating system."
