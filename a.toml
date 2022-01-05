@@ -98,3 +98,11 @@ desc = "Active-Matrix Organic Light-Emitting Diode"
 [arm]
 disp = "ARM"
 desc = "Advanced RISC Machines and originally Acorn RISC Machine"
+
+[acme]
+disp = "ACME"
+desc = "Automated Certificate Management Environment"
+
+[ado]
+disp = "ADO"
+desc = "ActiveX Data Objects"

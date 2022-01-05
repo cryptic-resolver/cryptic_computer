@@ -49,3 +49,7 @@ desc = "Organic light-emitting Diode"
 [ocr]
 disp = "OCR"
 desc = "Optical Character Recognition"
+
+[orm]
+disp = "ORM"
+desc = "Object Relational Mapper"

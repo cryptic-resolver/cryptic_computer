@@ -17,3 +17,15 @@ desc = "Transactional Synchronization Extensions"
 [tls]
 disp = "TLS"
 desc = "Transport Layer Security"
+
+[toml]
+disp = "TOML"
+desc = "Tom's Obvious, Minimal Language"
+
+[tds]
+disp = "TDS"
+desc = "Tabular Data Stream"
+
+[tps]
+disp = "TPS"
+desc = "Transactions Per Second"
