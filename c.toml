@@ -145,3 +145,7 @@ desc = "Character Large Object"
 disp = "CRT"
 desc = "C Runtime Library"
 see = ['UCRT']
+
+[cqrs]
+disp = "CQRS"
+desc = "Command Query Responsibility Segregation pattern"

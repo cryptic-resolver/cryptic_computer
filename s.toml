@@ -118,3 +118,7 @@ desc = "Simple DirectMedia Layer"
 [sus]
 disp = "SUS"
 desc = "Single UNIX Specification"
+
+[scm]
+disp = "SCM"
+desc = "Source Code Management"

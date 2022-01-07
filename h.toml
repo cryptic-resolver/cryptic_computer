@@ -68,3 +68,7 @@ desc = "High-Level Shading Language"
 [hpc]
 disp = "HPC"
 desc = "High Performance Computing"
+
+[haml]
+disp = "HAML"
+desc = "HTML abstraction markup language"

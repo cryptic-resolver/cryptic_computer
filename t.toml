@@ -29,3 +29,8 @@ desc = "Tabular Data Stream"
 [tps]
 disp = "TPS"
 desc = "Transactions Per Second"
+
+[ttf]
+disp = ".ttf"
+desc = "TrueType Font"
+see = ["otf"]

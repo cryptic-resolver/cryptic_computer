@@ -53,3 +53,8 @@ desc = "Optical Character Recognition"
 [orm]
 disp = "ORM"
 desc = "Object Relational Mapper"
+
+[otf]
+disp = ".otf"
+desc = "OpenType Font"
+see = ['ttf']
