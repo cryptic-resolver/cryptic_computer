@@ -1,0 +1,12 @@
+[0]
+disp = "0(Linux)"
+desc = "standard input"
+
+[1]
+disp = "1(Linux)"
+desc = "standard output"
+
+[2]
+disp = "2(Linux)"
+desc = "standard error"
+
