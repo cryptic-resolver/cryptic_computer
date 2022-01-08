@@ -19,6 +19,8 @@ full = "Sponsored by Google. Intended to offer a royalty-free alternative to use
 [wmi]
 disp = "WMI"
 desc = "Windows Management Instrumentation"
+full = "it's deprecated, use CIM instead"
+see = ['CIM']
 
 [wapi]
 disp = "WAPI"

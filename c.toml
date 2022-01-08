@@ -149,3 +149,7 @@ see = ['UCRT']
 [cqrs]
 disp = "CQRS"
 desc = "Command Query Responsibility Segregation pattern"
+
+[cim]
+disp = "CIM"
+desc = "Common Information Model for PowerShell"
