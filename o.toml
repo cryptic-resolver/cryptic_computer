@@ -58,3 +58,9 @@ desc = "Object Relational Mapper"
 disp = ".otf"
 desc = "OpenType Font"
 see = ['ttf']
+
+[omf]
+disp = "OMF"
+desc = "Microsoft Object Module Format"
+full = "used by DMD on Windows"
+see = ['COFF','ELF']

@@ -36,3 +36,8 @@ desc = "Language Server Protocol"
 [ld]
 disp = "LD"
 desc = "Link eDitor or Loader"
+
+[loc]
+disp = "loc"
+desc = "Lines of Code"
+same = "sloc"

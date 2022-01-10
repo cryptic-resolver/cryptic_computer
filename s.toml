@@ -122,3 +122,7 @@ desc = "Single UNIX Specification"
 [scm]
 disp = "SCM"
 desc = "Source Code Management"
+
+[sloc]
+disp = "sloc"
+desc = "Source Lines of Code"
