@@ -50,3 +50,7 @@ desc = "minimal system 2"
 [msvc]
 disp = "MSVC"
 desc = "Microsoft C++"
+
+[mri]
+disp = "MRI"
+desc = "Matz's Ruby Interpreter"

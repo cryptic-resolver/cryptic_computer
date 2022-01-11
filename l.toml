@@ -41,3 +41,11 @@ desc = "Link eDitor or Loader"
 disp = "loc"
 desc = "Lines of Code"
 same = "sloc"
+
+[llvm]
+disp = "LLVM"
+desc = "Low Level Virtual Machine"
+
+[ldc]
+disp = "LDC"
+desc = "LLVM-based D Compiler"
