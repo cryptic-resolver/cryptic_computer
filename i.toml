@@ -51,3 +51,15 @@ see = "CT"
 disp = "ICT"
 desc = "Information and Communications Technology"
 see = ["IT","CT"]
+
+[iana]
+disp = "IANA"
+desc = "Internet Assigned Numbers Authority"
+
+[iso]
+disp = "ISO"
+desc = "International Organization for Standardization"
+
+[iec]
+disp = "IEC"
+desc = "International Electrotechnical Commission"

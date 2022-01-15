@@ -49,3 +49,11 @@ desc = "Electronic Design Automation"
 [eta]
 disp = "ETA"
 desc = "Estimated Time of Arrival"
+
+[ecma]
+disp = "ECMA"
+desc = "European Computer Manufacturers Association"
+
+[ebcdic]
+disp = "EBCDIC"
+desc = "Extended Binary Coded Decimal Interchange Code"

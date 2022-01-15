@@ -22,3 +22,16 @@ desc = "Universally Unique Identifier"
 [ucrt]
 disp = "UCRT"
 desc = "Universal C Runtime Library by Windows"
+
+[unicode]
+disp = "Unicode"
+desc = "Universal Coded Character Set"
+
+[utf]
+disp = "UTF"
+desc = "Unicode Transformation Format"
+see = ["Unicode"]
+
+[ucs]
+disp = "UCS"
+desc = "Universal Character Set"

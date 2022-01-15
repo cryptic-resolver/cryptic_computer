@@ -106,3 +106,8 @@ desc = "Automated Certificate Management Environment"
 [ado]
 disp = "ADO"
 desc = "ActiveX Data Objects"
+
+[ascii]
+disp = "ASCII"
+desc = "American Standard Code for Information Interchange"
+

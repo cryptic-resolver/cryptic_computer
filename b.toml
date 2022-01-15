@@ -1,4 +1,4 @@
-[bmp]
+[bmp.image]
 disp = "BMP"
 desc = "Bitmap image file"
 full = "Developed by Microsoft in 1986? used RLE lossless data compression algorithm"
@@ -26,4 +26,9 @@ desc = "Basic Linear Algebra Subprograms"
 [bpmn]
 disp = "BPMN"
 desc = "Business Process Model and Notation"
+
+[bmp.unicode]
+disp = "BMP"
+desc = "Basic Multilingual Plane"
+full = "range U+0000—U+FFFF"
 

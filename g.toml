@@ -82,3 +82,11 @@ desc = "Getting Things Done"
 [glm]
 disp = "GLM"
 desc = "OpenGL Mathematics"
+
+[gsoc]
+disp = "GSoC"
+desc = "Google Summer of Code"
+
+[gcc]
+disp = "GCC"
+desc = "GNU Compiler Collection"

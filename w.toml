@@ -29,3 +29,11 @@ desc = "WLAN Authentication and Privacy Infrastructure"
 [wpc]
 disp = "WPC"
 desc = "Wireless Power Consortium"
+
+[wasi]
+disp = "WASI"
+desc = "WebAssembly System Interface"
+
+[wchar]
+disp = "wchar"
+desc = "wide character"
