@@ -35,3 +35,7 @@ see = ["Unicode"]
 [ucs]
 disp = "UCS"
 desc = "Universal Character Set"
+
+[ufcs]
+disp = "UFCS"
+desc = "Uniform Function Call Syntax in Dlang"
