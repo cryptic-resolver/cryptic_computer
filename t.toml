@@ -38,3 +38,7 @@ see = ["otf"]
 [tiobe]
 disp = "TIOBE"
 desc = "The Importance of Being Earnest"
+
+[tldp]
+disp = "TLDP"
+desc = "Linux Documentation Project"

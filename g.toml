@@ -90,3 +90,12 @@ desc = "Google Summer of Code"
 [gcc]
 disp = "GCC"
 desc = "GNU Compiler Collection"
+
+[gmp]
+disp = "GMP"
+desc = "GNU Multiple Precision Arithmetic Library"
+
+[gomp]
+disp = "GNU OpenMP"
+desc = "OpenMP implementation for GCC"
+see = ['OpenMP']

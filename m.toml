@@ -54,3 +54,15 @@ desc = "Microsoft C++"
 [mri]
 disp = "MRI"
 desc = "Matz's Ruby Interpreter"
+
+[mpfr]
+disp = "GNU MPFR"
+desc = "The GNU Multiple Precision Floating-Point Reliable Library"
+full = "based on GNU MP library"
+see = ['GMP']
+
+[mpc]
+disp = "MPC"
+desc = "Multiple Precision C library"
+full = "based on GNU MPFR, for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result"
+see = ['MPFR']

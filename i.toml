@@ -63,3 +63,7 @@ desc = "International Organization for Standardization"
 [iec]
 disp = "IEC"
 desc = "International Electrotechnical Commission"
+
+[isl]
+disp = "isl"
+desc = "Integer Set Library (used by GCC)"

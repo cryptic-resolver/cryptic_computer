@@ -49,3 +49,7 @@ desc = "Low Level Virtual Machine"
 [ldc]
 disp = "LDC"
 desc = "LLVM-based D Compiler"
+
+[lto]
+disp = "LTO"
+desc = "Link Time Optimization used by GCC"

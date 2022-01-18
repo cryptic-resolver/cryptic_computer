@@ -64,3 +64,8 @@ disp = "OMF"
 desc = "Microsoft Object Module Format"
 full = "used by DMD on Windows"
 see = ['COFF','ELF']
+
+[openmp]
+disp = "OpenMP"
+desc = "Open Multi-Processing"
+

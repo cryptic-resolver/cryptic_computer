@@ -57,3 +57,7 @@ desc = "European Computer Manufacturers Association"
 [ebcdic]
 disp = "EBCDIC"
 desc = "Extended Binary Coded Decimal Interchange Code"
+
+[ets]
+disp = "ETS"
+desc = "Erlang Built-in Term Storage"
