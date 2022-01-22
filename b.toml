@@ -32,3 +32,6 @@ disp = "BMP"
 desc = "Basic Multilingual Plane"
 full = "range U+0000—U+FFFF"
 
+[ble]
+disp = "BLE"
+desc = "Bluetooth Low Energy"

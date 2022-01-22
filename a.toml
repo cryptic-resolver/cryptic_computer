@@ -111,3 +111,8 @@ desc = "ActiveX Data Objects"
 disp = "ASCII"
 desc = "American Standard Code for Information Interchange"
 
+[avr]
+disp = "AVR"
+desc = "Help!"
+full = "A family of microcontrollers developed since 1996 by Atmel"
+
