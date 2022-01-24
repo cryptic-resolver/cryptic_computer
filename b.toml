@@ -35,3 +35,7 @@ full = "range U+0000—U+FFFF"
 [ble]
 disp = "BLE"
 desc = "Bluetooth Low Energy"
+
+[bsod]
+disp = "BSOD"
+desc = "Blue Screen of Death"

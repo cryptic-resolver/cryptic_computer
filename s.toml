@@ -126,3 +126,11 @@ desc = "Source Code Management"
 [sloc]
 disp = "sloc"
 desc = "Source Lines of Code"
+
+[smp]
+disp = "SMP"
+desc = "Symmetrical Multiprocessing"
+
+[smt]
+disp = "SMT"
+desc = "Simultaneous Multithreaded"

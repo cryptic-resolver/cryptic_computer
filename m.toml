@@ -71,3 +71,7 @@ see = ['MPFR']
 disp = "MSP430"
 desc = "TI mixed-signal microcontroller family"
 full = "First introduced on 14 February 1992. Built around a 16-bit CPU"
+
+[mt]
+disp = "MT"
+desc = "Multithreading"
