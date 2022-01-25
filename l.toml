@@ -53,3 +53,7 @@ desc = "LLVM-based D Compiler"
 [lto]
 disp = "LTO"
 desc = "Link Time Optimization used by GCC"
+
+[lvfs]
+disp = "LVFS"
+desc = "Linux Vendor Firmware Service"

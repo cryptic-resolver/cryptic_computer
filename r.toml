@@ -63,3 +63,7 @@ full = "a popular replacement for the standard ‘xterm’"
 [raii]
 disp = "RAII"
 desc = "Resource Acquisition Is Initialization"
+
+[rtl]
+disp = "RTL"
+desc = "Runtime Library(in C/C++)"
