@@ -23,3 +23,7 @@ desc = "Netwide Assembler"
 disp = "NPTL"
 desc = "Native POSIX Thread Library"
 full = "An implementation of the POSIX Threads specification for the Linux operating system."
+
+[nes]
+disp = "NES"
+desc = "Nintendo Entertainment System"
