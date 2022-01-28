@@ -116,3 +116,7 @@ disp = "AVR"
 desc = "Help!"
 full = "A family of microcontrollers developed since 1996 by Atmel"
 
+[adc]
+disp = "ADC"
+desc = "Analog To Digital Converter"
+

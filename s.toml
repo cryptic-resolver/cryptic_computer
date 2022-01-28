@@ -134,3 +134,11 @@ desc = "Symmetrical Multiprocessing"
 [smt]
 disp = "SMT"
 desc = "Simultaneous Multithreaded"
+
+[sram]
+disp = "SRAM"
+desc = "Static Random-Access Memory"
+
+[smbios]
+disp = "SMBIOS"
+desc = "System Management BIOS"

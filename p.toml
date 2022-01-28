@@ -36,3 +36,7 @@ desc = "Perl Compatible Regular Expressions"
 [posix]
 disp = "POSIX"
 desc = "Portable Operating System Interface"
+
+[psoc]
+disp = "PSoC"
+desc = "Programmable System on a Chip"

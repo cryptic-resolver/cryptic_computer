@@ -39,3 +39,11 @@ desc = "Universal Character Set"
 [ufcs]
 disp = "UFCS"
 desc = "Uniform Function Call Syntax in Dlang"
+
+[usb]
+disp = "USB"
+desc = "Universal Serial Bus"
+
+[uefi]
+disp = "UEFI"
+desc = "Unified Extensible Firmware Interface"

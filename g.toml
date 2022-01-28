@@ -99,3 +99,7 @@ desc = "GNU Multiple Precision Arithmetic Library"
 disp = "GNU OpenMP"
 desc = "OpenMP implementation for GCC"
 see = ['OpenMP']
+
+[gpio]
+disp = "GPIO"
+desc = "General-purpose Input/output"

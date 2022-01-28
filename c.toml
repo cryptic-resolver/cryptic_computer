@@ -153,3 +153,11 @@ desc = "Command Query Responsibility Segregation pattern"
 [cim]
 disp = "CIM"
 desc = "Common Information Model for PowerShell"
+
+[can]
+disp = "CAN"
+desc = "Controller Area Network protocol"
+
+[cpu]
+disp = "CPU"
+desc = "Central Processing Unit"

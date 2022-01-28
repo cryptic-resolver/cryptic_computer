@@ -101,3 +101,16 @@ full = "reference: https://docs.microsoft.com/en-us/cpp/build/exporting-from-a-d
 [dll]
 disp = "DLL"
 desc = "Dynamic Link Library"
+
+[dma]
+disp = "DMA"
+desc = "Direct Memory Access"
+
+[dsp]
+disp = "DSP"
+desc = "Digital Signal Processing"
+
+[dac]
+disp = "DAC"
+desc = "Digital to Analog Converter"
+see = ["ADC"]

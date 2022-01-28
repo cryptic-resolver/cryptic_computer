@@ -75,3 +75,12 @@ full = "First introduced on 14 February 1992. Built around a 16-bit CPU"
 [mt]
 disp = "MT"
 desc = "Multithreading"
+
+[mpu]
+disp = "MPU"
+desc = "Memory Protection Unit"
+full = "MPU is a trimmed down version of MMU providing only memory protection support"
+
+[mmu]
+disp = "MMU"
+desc = "Memory Management Unit"
