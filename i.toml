@@ -67,3 +67,19 @@ desc = "International Electrotechnical Commission"
 [isl]
 disp = "isl"
 desc = "Integer Set Library (used by GCC)"
+
+[ip.semiconductor]
+disp = "IP core"
+desc = "Intellectual Property core"
+
+[idf.espressif]
+disp = "Espressif IDF"
+desc = "IoT Development Framework"
+
+[i2c]
+disp = "I2C"
+desc = "Inter-Integrated Circuit"
+
+[irq]
+disp = "IRQ"
+desc = "Interrupt Request"

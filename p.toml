@@ -40,3 +40,7 @@ desc = "Portable Operating System Interface"
 [psoc]
 disp = "PSoC"
 desc = "Programmable System on a Chip"
+
+[pcb]
+disp = "PCB"
+desc = "Printed Circuit Board"

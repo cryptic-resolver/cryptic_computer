@@ -142,3 +142,19 @@ desc = "Static Random-Access Memory"
 [smbios]
 disp = "SMBIOS"
 desc = "System Management BIOS"
+
+[st]
+disp = "ST"
+desc = "SGS Microelettronica and Thomson Semiconducteurs"
+full = "The company resulted from the merger of two government-owned semiconductor companies in 1987: Thomson Semiconducteurs of France and SGS Microelettronica of Italy. It is commonly called ST, and it is Europe's largest semiconductor chip maker based on revenue"
+
+[sip]
+same = "ip.semiconductor"
+
+[spi]
+disp = "SPI"
+desc = "Serial Peripheral Interface"
+
+[sd]
+disp = "SD"
+desc = "Secure Digital"

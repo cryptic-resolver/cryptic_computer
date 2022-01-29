@@ -47,3 +47,7 @@ desc = "Universal Serial Bus"
 [uefi]
 disp = "UEFI"
 desc = "Unified Extensible Firmware Interface"
+
+[uart]
+disp = "UART"
+desc = "Universal Asynchronous Serial port"
