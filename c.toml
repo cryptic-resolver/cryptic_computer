@@ -161,3 +161,7 @@ desc = "Controller Area Network protocol"
 [cpu]
 disp = "CPU"
 desc = "Central Processing Unit"
+
+[crc]
+disp = "CRC"
+desc = "Cyclic Redundancy Check"
