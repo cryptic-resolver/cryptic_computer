@@ -84,3 +84,7 @@ full = "MPU is a trimmed down version of MMU providing only memory protection su
 [mmu]
 disp = "MMU"
 desc = "Memory Management Unit"
+
+[mpp]
+disp = "MPP"
+desc = "Massively Parallel Processing"
