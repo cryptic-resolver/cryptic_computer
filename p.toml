@@ -44,3 +44,7 @@ desc = "Programmable System on a Chip"
 [pcb]
 disp = "PCB"
 desc = "Printed Circuit Board"
+
+[pkm]
+disp = "PKM"
+desc = "Personal Knowledge Management"

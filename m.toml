@@ -88,3 +88,7 @@ desc = "Memory Management Unit"
 [mpp]
 disp = "MPP"
 desc = "Massively Parallel Processing"
+
+[msix]
+disp = "MSIX"
+desc = "Microsoft appinstaller"
