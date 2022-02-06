@@ -92,3 +92,7 @@ desc = "Massively Parallel Processing"
 [msix]
 disp = "MSIX"
 desc = "Microsoft appinstaller"
+
+[misra]
+disp = "MISRA"
+desc = "Motor Industry Software Reliability Association"

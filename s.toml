@@ -162,3 +162,11 @@ desc = "Secure Digital"
 [spdx]
 disp = "SPDX"
 desc = "Software Package Data Exchange"
+
+[sast]
+disp = "SAST"
+desc = "Static Application Security Testing"
+
+[sdlc]
+disp = "SDLC"
+desc = "Software Development Life Cycle"
