@@ -28,3 +28,7 @@ full = "It's not actually an acronym. It's just a word with no phonetic pronunci
 [xml]
 disp = "XML"
 desc = "Extensible Markup Language"
+
+[xslt]
+disp = "XSLT"
+desc = "Extensible Stylesheet Language Transformations"

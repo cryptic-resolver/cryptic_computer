@@ -169,3 +169,7 @@ desc = "Cyclic Redundancy Check"
 [cdt.eclipse]
 disp = "CDT"
 desc = "Eclipse C/C++ Development Tooling"
+
+[csl]
+disp = "CSL"
+desc = "Citation Style Language"
