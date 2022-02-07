@@ -11,7 +11,9 @@ Ruby versiond `cr` is the reference implementation, always up-to-date.
 gem install cryptic-resolver
 ```
 
-We provide pre-built binaries for `cr` too via [cr_Go] and [cr_D]
+<br>
+
+We provide pre-built binaries for `cr` as well via [cr_Go] and [cr_D]
 
 For Windows user
 ```powershell
