@@ -174,3 +174,7 @@ desc = "Software Development Life Cycle"
 [sdd]
 disp = "SDD"
 desc = "Software Design Description/Document"
+
+[swt.java]
+disp = "SWT"
+desc = "Standard Widget Toolkit for Java"
