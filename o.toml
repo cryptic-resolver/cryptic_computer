@@ -69,3 +69,13 @@ see = ['COFF','ELF']
 disp = "OpenMP"
 desc = "Open Multi-Processing"
 
+[osgi.java]
+disp = "OSGI"
+desc = "Open Services Gateway initiative"
+full = "The OSGi specification describes a modular system and a service platform for the Java programming language that implements a complete and dynamic component model, something that does not exist in standalone Java/VM environments."
+
+[org.emacs]
+disp = "Org-mode"
+desc = "Organizing Mode within Emacs"
+full = "Created by Carsten Dominik in 2003, originally to organize his own life and work, and since the first release numerous other users and developers have contributed to this free software package. Emacs has included Org-mode as a major mode by default since 2006"
+

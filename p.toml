@@ -48,3 +48,8 @@ desc = "Printed Circuit Board"
 [pkm]
 disp = "PKM"
 desc = "Personal Knowledge Management"
+
+[pod]
+disp = "POD"
+desc = "Plain Old Documentation"
+full = "A lightweight markup language used to document the Perl programming language as well as Perl modules and programs."

@@ -120,3 +120,7 @@ full = "A family of microcontrollers developed since 1996 by Atmel"
 disp = "ADC"
 desc = "Analog To Digital Converter"
 
+[alm]
+disp = "ALM"
+desc = "Application Lifecycle Management"
+

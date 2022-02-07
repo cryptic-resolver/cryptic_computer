@@ -24,3 +24,7 @@ full = "a library implementing the client-side of the X11 display server protoco
 disp = "xkcd"
 desc = "a webcomic created in 2005 by American author Randall Munroe"
 full = "It's not actually an acronym. It's just a word with no phonetic pronunciation -- a treasured and carefully-guarded point in the space of four-character strings."
+
+[xml]
+disp = "XML"
+desc = "Extensible Markup Language"

@@ -170,3 +170,7 @@ desc = "Static Application Security Testing"
 [sdlc]
 disp = "SDLC"
 desc = "Software Development Life Cycle"
+
+[sdd]
+disp = "SDD"
+desc = "Software Design Description/Document"
