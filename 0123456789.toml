@@ -10,3 +10,7 @@ desc = "standard output"
 disp = "2(Linux)"
 desc = "standard error"
 
+[2fa]
+disp = "2FA"
+desc = "Two-factor Authentication"
+see = ['MFA']

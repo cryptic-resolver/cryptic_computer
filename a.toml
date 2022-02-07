@@ -132,3 +132,7 @@ see = ['JIT']
 [ast]
 disp = "AST"
 desc = "Abstract Syntax Tree"
+
+[aosp]
+disp = "AOSP"
+desc = "Android Open Source Project"

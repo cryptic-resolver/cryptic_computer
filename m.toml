@@ -96,3 +96,8 @@ desc = "Microsoft appinstaller"
 [misra]
 disp = "MISRA"
 desc = "Motor Industry Software Reliability Association"
+
+[mfa]
+disp = "MFA"
+desc = "Multi-factor Authentication"
+see = ['2FA']

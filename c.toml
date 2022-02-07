@@ -173,3 +173,15 @@ desc = "Eclipse C/C++ Development Tooling"
 [csl]
 disp = "CSL"
 desc = "Citation Style Language"
+
+[cpan]
+disp = "CPAN"
+desc = "The Comprehensive Perl Archive Network"
+
+[cran]
+disp = "CRAN"
+desc = "The Comprehensive R Archive Network"
+
+[ctan]
+disp = "CTAN"
+desc = "Comprehensive TeX Archive Network"

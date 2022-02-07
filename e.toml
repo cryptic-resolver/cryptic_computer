@@ -77,3 +77,7 @@ desc = "Instruction Pointer"
 [eca.eclipse]
 disp = "ECA"
 desc = "Eclipse Contributor Agreement"
+
+[elk]
+disp = "ELK"
+desc = "Elasticsearch, Logstash, and Kibana"

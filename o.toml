@@ -84,3 +84,11 @@ disp = "OMR"
 desc = "(maybe) Open virtual Machine Runtime"
 full = "C and C++ components that can be used to build robust language runtimes, on which OpenJ9 is built"
 
+[osdn]
+disp = "OSDN"
+desc = "Open Source Development Network"
+full = "formerly SourceForge.JP"
+
+[otp.password]
+disp = "OTP"
+desc = "One-Time Password"
