@@ -115,6 +115,10 @@ disp = "DAC"
 desc = "Digital to Analog Converter"
 see = ["ADC"]
 
+[dmd]
+disp = "DMD"
+desc = "Digital Mars D Compiler"
+
 [dwarf]
 disp = "DWARF"
 desc = "The name is a medieval fantasy complement to 'ELF' that had no official meaning"
