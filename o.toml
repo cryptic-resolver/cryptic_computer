@@ -79,3 +79,8 @@ disp = "Org-mode"
 desc = "Organizing Mode within Emacs"
 full = "Created by Carsten Dominik in 2003, originally to organize his own life and work, and since the first release numerous other users and developers have contributed to this free software package. Emacs has included Org-mode as a major mode by default since 2006"
 
+[omr.eclipse]
+disp = "OMR"
+desc = "(maybe) Open virtual Machine Runtime"
+full = "C and C++ components that can be used to build robust language runtimes, on which OpenJ9 is built"
+

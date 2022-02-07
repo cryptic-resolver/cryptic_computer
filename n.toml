@@ -27,3 +27,7 @@ full = "An implementation of the POSIX Threads specification for the Linux opera
 [nes]
 disp = "NES"
 desc = "Nintendo Entertainment System"
+
+[ndk]
+disp = "NDK"
+desc = "The Android Native Development Kit"

@@ -2,3 +2,8 @@
 disp = "YARV"
 desc = "Yet Another Ruby VM"
 full = "A bytecode interpreter that was developed for the Ruby programming language by Koichi Sasada. YARV was merged into the Ruby Subversion repository on January 1, 2007. It was released as part of Ruby 1.9.0 on December 26, 2007, replacing Ruby MRI."
+
+[yjit]
+disp = "YJIT"
+desc = "Yet Another Ruby JIT"
+full = "It's now an official part of the Ruby 3.1 release"

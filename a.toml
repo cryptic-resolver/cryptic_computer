@@ -124,3 +124,11 @@ desc = "Analog To Digital Converter"
 disp = "ALM"
 desc = "Application Lifecycle Management"
 
+[aot]
+disp = "AOT"
+desc = "Ahead-of-Time Compilation"
+see = ['JIT']
+
+[ast]
+disp = "AST"
+desc = "Abstract Syntax Tree"

@@ -31,3 +31,8 @@ desc = "NASA Jet Propulsion Laboratory"
 [jdt.eclipse]
 disp = "JDT"
 desc = "Eclipse Java Development Tools"
+
+[jit]
+disp = "JIT"
+desc = "Just in Time Compilation"
+see = ['AOT']
