@@ -30,3 +30,9 @@ desc = "Free Software Foundation"
 [flops]
 disp = "FLO/s"
 desc = "Floating Point Operations Per Second"
+
+[fcitx]
+disp = "Fcitx"
+desc = "pronounce as [Faitiks]"
+full = "An input method framework with extension support for the X Window System. It supports typing with many languages all over the world with a large number of engines."
+see = ['IBus']

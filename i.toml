@@ -83,3 +83,12 @@ desc = "Inter-Integrated Circuit"
 [irq]
 disp = "IRQ"
 desc = "Interrupt Request"
+
+[ime]
+disp = "IME"
+desc = "Input Method Engine"
+
+[ibus]
+disp = "IBus"
+desc = "Intelligent Input Bus"
+see = ['Fcitx']
