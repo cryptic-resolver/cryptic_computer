@@ -20,7 +20,7 @@ desc = "Radio Detection And Ranging"
 disp = "RUP"
 desc = "Rational Unified Process"
 
-[rss]
+[rss.memory]
 disp = "RSS"
 desc = "Resident Set Size"
 full = "to show how much real memory is to that process and is resident in RAM now"
@@ -71,3 +71,13 @@ desc = "Runtime Library(in C/C++)"
 [rf]
 disp = "RF"
 desc = "Radio Frequency"
+
+[rss]
+disp = "RSS"
+desc = "RDF Site Summary or Really Simple Syndication"
+see = ['RDF']
+
+[rdf]
+disp = "RDF"
+desc = "Resource Description Framework"
+full = "A W3C standard originally designed as a data model for metadata."

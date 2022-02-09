@@ -92,3 +92,13 @@ full = "formerly SourceForge.JP"
 [otp.password]
 disp = "OTP"
 desc = "One-Time Password"
+
+[openocd]
+disp = "OpenOCD"
+desc = "Open On-Chip Debugger"
+
+[opml]
+disp = "OPML"
+desc = "Outline Processor Markup Language"
+full = "An XML format for outlines used for RSS"
+see = ['RSS']

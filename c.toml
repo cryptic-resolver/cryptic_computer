@@ -185,3 +185,7 @@ desc = "The Comprehensive R Archive Network"
 [ctan]
 disp = "CTAN"
 desc = "Comprehensive TeX Archive Network"
+
+[cde]
+disp = "CDE"
+desc = "Common Desktop Environment"

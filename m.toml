@@ -101,3 +101,8 @@ desc = "Motor Industry Software Reliability Association"
 disp = "MFA"
 desc = "Multi-factor Authentication"
 see = ['2FA']
+
+[mpi]
+disp = "MPI"
+desc = "Message Passing Interface"
+full = "A standardized and portable message-passing standard designed to function on parallel computing architectures in C, C++, and Fortran."

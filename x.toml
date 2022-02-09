@@ -32,3 +32,8 @@ desc = "Extensible Markup Language"
 [xslt]
 disp = "XSLT"
 desc = "Extensible Stylesheet Language Transformations"
+
+[xfce]
+disp = "Xfce"
+desc = "XForms Common Environment or X Freakin' Cool Environment"
+

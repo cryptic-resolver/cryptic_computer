@@ -76,3 +76,7 @@ desc = "HTML abstraction markup language"
 [hdl]
 disp = "HDL"
 desc = "Hardware Description Language"
+
+[hidpi]
+disp = "HiDPI"
+desc = "High Dots Per Inch"
