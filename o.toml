@@ -15,7 +15,7 @@ desc = "Open Container Initiative"
 disp = "OEM"
 desc = "Original Equipment Manufacturer"
 
-[otp]
+[otp.erlang]
 disp = "OTP"
 desc = "Open Telecom Platform"
 
