@@ -39,3 +39,7 @@ desc = "Bluetooth Low Energy"
 [bsod]
 disp = "BSOD"
 desc = "Blue Screen of Death"
+
+[bpf]
+disp = "BPF"
+desc = "Berkeley Packet Filter"
