@@ -17,3 +17,7 @@ see = ["AR"]
 [vsdx]
 disp = ".vsdx"
 desc = "Visio drawing"
+
+[vlsi]
+disp = "VLSI"
+desc = "Very Large Scale Integration"

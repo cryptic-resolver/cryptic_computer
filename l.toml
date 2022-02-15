@@ -75,3 +75,7 @@ full = "such as AsciiDoc, Markdown, Org-mode, MediaWiki, POD and so on"
 [lttng]
 disp = "LTTng"
 desc = "Linux Trace Toolkit: next generation"
+
+[lalr]
+disp = "LALR"
+desc = "Look Ahead Left-to-Right"

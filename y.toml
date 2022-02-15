@@ -7,3 +7,7 @@ full = "A bytecode interpreter that was developed for the Ruby programming langu
 disp = "YJIT"
 desc = "Yet Another Ruby JIT"
 full = "It's now an official part of the Ruby 3.1 release"
+
+[yacc]
+disp = "Yacc"
+desc = "Yet Another Compiler-Compiler"

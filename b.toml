@@ -43,3 +43,7 @@ desc = "Blue Screen of Death"
 [bpf]
 disp = "BPF"
 desc = "Berkeley Packet Filter"
+
+[bnf]
+disp = "BNF"
+desc = "Backus–Naur Form"

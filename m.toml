@@ -106,3 +106,7 @@ see = ['2FA']
 disp = "MPI"
 desc = "Message Passing Interface"
 full = "A standardized and portable message-passing standard designed to function on parallel computing architectures in C, C++, and Fortran."
+
+[mos]
+disp = "MOS"
+desc = "Metal–Oxide–Semiconductor"

@@ -103,3 +103,7 @@ see = ['OpenMP']
 [gpio]
 disp = "GPIO"
 desc = "General-purpose Input/output"
+
+[glr]
+disp = "GLR"
+desc = "Generalized LR"

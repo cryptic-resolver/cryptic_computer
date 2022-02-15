@@ -178,3 +178,11 @@ desc = "Software Design Description/Document"
 [swt.java]
 disp = "SWT"
 desc = "Standard Widget Toolkit for Java"
+
+[sre]
+disp = "SRE"
+desc = "Site Reliability Engineer"
+
+[swe]
+disp = "SWE"
+desc = "Software Engineering"
