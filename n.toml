@@ -31,3 +31,8 @@ desc = "Nintendo Entertainment System"
 [ndk]
 disp = "NDK"
 desc = "The Android Native Development Kit"
+
+[nfa]
+disp = "NFA"
+desc = "Non-deterministic Finite Automata"
+see = ['DFA']

@@ -128,3 +128,7 @@ see = ['ELF', 'PDB']
 [dpi]
 disp = "DPI"
 desc = "Dots per inch"
+
+[dfa]
+disp = "DFA"
+desc = "Deterministic Finite Automata"

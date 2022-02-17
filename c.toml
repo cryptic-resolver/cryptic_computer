@@ -189,3 +189,7 @@ desc = "Comprehensive TeX Archive Network"
 [cde]
 disp = "CDE"
 desc = "Common Desktop Environment"
+
+[cfg]
+disp = "CFG"
+desc = "Context-Free Grammar"

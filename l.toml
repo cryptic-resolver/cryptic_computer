@@ -79,3 +79,14 @@ desc = "Linux Trace Toolkit: next generation"
 [lalr]
 disp = "LALR"
 desc = "Look Ahead Left-to-Right"
+see = ['LL', 'LR']
+
+[ll.parse]
+disp = "LL Parser"
+desc = "Left to right, Leftmost derivation, top down parsers"
+see = ['LR','LALR']
+
+[lr.parse]
+disp = "LR Parser"
+desc = "Left to right, Rightmost derivation, bottom up parsers"
+see = ['LL','LALR']

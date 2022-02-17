@@ -136,3 +136,7 @@ desc = "Abstract Syntax Tree"
 [aosp]
 disp = "AOSP"
 desc = "Android Open Source Project"
+
+[alb]
+disp = "ALB"
+desc = "AWS Load Balances"
