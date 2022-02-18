@@ -41,3 +41,7 @@ see = ['IBus']
 disp = "Flex"
 desc = "Flex lexical analyser"
 see = ['Yacc']
+
+[fpga]
+disp = "FPGA"
+desc = "Field-programmable Gate Array"

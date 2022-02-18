@@ -92,3 +92,7 @@ desc = "Input Method Engine"
 disp = "IBus"
 desc = "Intelligent Input Bus"
 see = ['Fcitx']
+
+[ic]
+disp = "IC"
+desc = "Integrated Circuits"

@@ -186,3 +186,7 @@ desc = "Site Reliability Engineer"
 [swe]
 disp = "SWE"
 desc = "Software Engineering"
+
+[soc]
+disp = "SoC"
+desc = "System on a Chip"

@@ -132,3 +132,7 @@ desc = "Dots per inch"
 [dfa]
 disp = "DFA"
 desc = "Deterministic Finite Automata"
+
+[dmca]
+disp = "DMCA"
+desc = "Digital Millennium Copyright Act"

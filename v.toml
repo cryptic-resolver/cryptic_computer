@@ -21,3 +21,13 @@ desc = "Visio drawing"
 [vlsi]
 disp = "VLSI"
 desc = "Very Large Scale Integration"
+
+[vhdl]
+disp = "VHDL"
+desc = "VHSIC Hardware Description Language"
+see = ['VHSIC', 'HDL']
+
+[vhsic]
+disp = "VHSIC"
+desc = "Very High-Speed Integrated Circuits Program"
+see = ['VHDL']
