@@ -54,3 +54,12 @@ desc = "Personal Knowledge Management"
 disp = "POD"
 desc = "Plain Old Documentation"
 full = "A lightweight markup language used to document the Perl programming language as well as Perl modules and programs."
+
+[pep.python]
+disp = "PEP"
+desc = "Python Enhancement Proposals"
+
+[pdo.php]
+disp = "PDO"
+desc = "PHP Data Objects"
+full = "It provides a clear, simple, unified API for working with databases"
