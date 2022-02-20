@@ -140,3 +140,7 @@ desc = "Android Open Source Project"
 [alb]
 disp = "ALB"
 desc = "AWS Load Balances"
+
+[aws]
+disp = "AWS"
+desc = "Amazon Web Services"

@@ -51,3 +51,7 @@ desc = "Unified Extensible Firmware Interface"
 [uart]
 disp = "UART"
 desc = "Universal Asynchronous Serial port"
+
+[uml]
+disp = "UML"
+desc = "Unified Modeling Language"

@@ -96,3 +96,7 @@ see = ['Fcitx']
 [ic]
 disp = "IC"
 desc = "Integrated Circuits"
+
+[its]
+disp = "ITS"
+desc = "Incompatible Timesharing System operating system "

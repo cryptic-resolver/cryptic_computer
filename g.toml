@@ -107,3 +107,7 @@ desc = "General-purpose Input/output"
 [glr]
 disp = "GLR"
 desc = "Generalized LR"
+
+[gdb]
+disp = "GDB"
+desc = "GNU Debugger"

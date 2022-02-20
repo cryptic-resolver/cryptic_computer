@@ -81,3 +81,7 @@ desc = "Eclipse Contributor Agreement"
 [elk]
 disp = "ELK"
 desc = "Elasticsearch, Logstash, and Kibana"
+
+[erd]
+disp = "ERD"
+desc = "Entity Relationship Diagram"
