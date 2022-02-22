@@ -63,3 +63,7 @@ desc = "Python Enhancement Proposals"
 disp = "PDO"
 desc = "PHP Data Objects"
 full = "It provides a clear, simple, unified API for working with databases"
+
+[peg]
+disp = "PEG"
+desc = "Parsing Expression Grammar"
