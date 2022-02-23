@@ -81,3 +81,8 @@ see = ['RDF']
 disp = "RDF"
 desc = "Resource Description Framework"
 full = "A W3C standard originally designed as a data model for metadata."
+
+[racc]
+disp = "Racc"
+desc = "Ruby yACC"
+see = ['Yacc']
