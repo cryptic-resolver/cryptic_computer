@@ -86,3 +86,7 @@ full = "A W3C standard originally designed as a data model for metadata."
 disp = "Racc"
 desc = "Ruby yACC"
 see = ['Yacc']
+
+[rcs]
+disp = "RCS"
+desc = "Revision Control System"

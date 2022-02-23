@@ -193,3 +193,7 @@ desc = "Common Desktop Environment"
 [cfg]
 disp = "CFG"
 desc = "Context-Free Grammar"
+
+[cvs]
+disp = "CVS"
+desc = "Concurrent Versions System"

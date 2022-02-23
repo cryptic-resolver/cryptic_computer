@@ -87,6 +87,10 @@ desc = "OpenGL Mathematics"
 disp = "GSoC"
 desc = "Google Summer of Code"
 
+[gcc.c]
+disp = "GCC"
+desc = "GNU C Compiler"
+
 [gcc]
 disp = "GCC"
 desc = "GNU Compiler Collection"
@@ -111,3 +115,11 @@ desc = "Generalized LR"
 [gdb]
 disp = "GDB"
 desc = "GNU Debugger"
+
+[gnu]
+disp = "GNU"
+desc = "GNU's Not Unix!"
+
+[gpl]
+disp = "GPL"
+desc = "GNU General Public License"

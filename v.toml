@@ -31,3 +31,7 @@ see = ['VHSIC', 'HDL']
 disp = "VHSIC"
 desc = "Very High-Speed Integrated Circuits Program"
 see = ['VHDL']
+
+[vcs]
+disp = "VCS"
+desc = "Version Control System"
