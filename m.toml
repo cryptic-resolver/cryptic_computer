@@ -110,3 +110,9 @@ full = "A standardized and portable message-passing standard designed to functio
 [mos]
 disp = "MOS"
 desc = "Metal–Oxide–Semiconductor"
+
+[mips]
+disp = "MIPS"
+desc = "Microprocessor without Interlocked Pipelined Stages"
+full = "a RISC instruction set architecture"
+see = ['RISC']

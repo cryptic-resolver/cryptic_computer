@@ -90,3 +90,8 @@ see = ['Yacc']
 [rcs]
 disp = "RCS"
 desc = "Revision Control System"
+
+[risc]
+disp = "RISC"
+desc = "Reduced Instruction Set Computing"
+see = ['CISC']

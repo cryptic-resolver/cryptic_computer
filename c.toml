@@ -197,3 +197,8 @@ desc = "Context-Free Grammar"
 [cvs]
 disp = "CVS"
 desc = "Concurrent Versions System"
+
+[cisc]
+disp = "CISC"
+desc = "Complex Instruction Set Computing"
+see = ['RISC']

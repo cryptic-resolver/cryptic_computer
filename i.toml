@@ -100,3 +100,7 @@ desc = "Integrated Circuits"
 [its]
 disp = "ITS"
 desc = "Incompatible Timesharing System operating system "
+
+[isa]
+disp = "ISA"
+desc = "Instruction Set Architecture"
