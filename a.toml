@@ -152,3 +152,7 @@ desc = "Advanced Package Tool"
 [apt]
 disp = "APT"
 desc = "Advanced Persistent Threat"
+
+[acm]
+disp = "ACM"
+desc = "Association for Computing Machinery"

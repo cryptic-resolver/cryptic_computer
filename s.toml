@@ -190,3 +190,7 @@ desc = "Software Engineering"
 [soc]
 disp = "SoC"
 desc = "System on a Chip"
+
+[ssa.llvm]
+disp = "SSA"
+desc = "Static Single Assignment"

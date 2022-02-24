@@ -190,7 +190,7 @@ desc = "Comprehensive TeX Archive Network"
 disp = "CDE"
 desc = "Common Desktop Environment"
 
-[cfg]
+[cfg.grammar]
 disp = "CFG"
 desc = "Context-Free Grammar"
 
@@ -202,3 +202,11 @@ desc = "Concurrent Versions System"
 disp = "CISC"
 desc = "Complex Instruction Set Computing"
 see = ['RISC']
+
+[cfg.graph]
+disp = "CFG"
+desc = "Control Flow Graph"
+
+[cgo]
+disp = "CGO"
+desc = "Code Generation and Optimization"

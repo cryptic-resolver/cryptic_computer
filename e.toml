@@ -57,6 +57,7 @@ desc = "European Computer Manufacturers Association"
 [ebcdic]
 disp = "EBCDIC"
 desc = "Extended Binary Coded Decimal Interchange Code"
+full = "an 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems"
 
 [ets]
 disp = "ETS"
