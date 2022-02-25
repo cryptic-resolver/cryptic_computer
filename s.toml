@@ -149,7 +149,7 @@ desc = "SGS Microelettronica and Thomson Semiconducteurs"
 full = "The company resulted from the merger of two government-owned semiconductor companies in 1987: Thomson Semiconducteurs of France and SGS Microelettronica of Italy. It is commonly called ST, and it is Europe's largest semiconductor chip maker based on revenue"
 
 [sip]
-same = "ip.semiconductor"
+same = "IP core<=>ip.semiconductor"
 
 [spi]
 disp = "SPI"

@@ -48,9 +48,8 @@ desc = "Berkeley Packet Filter"
 disp = "BNF"
 desc = "Backus–Naur Form"
 
-[bcd]
-same = "BCDIC"
-# Fixme!!! here should be [bcd.ibm] when program has been fixed
+[bcd.IBM]
+same = "BCDIC<=>bcdic"
 
 [bcdic]
 disp = "BCDIC"
