@@ -47,3 +47,13 @@ desc = "Berkeley Packet Filter"
 [bnf]
 disp = "BNF"
 desc = "Backus–Naur Form"
+
+[bcd]
+same = "BCDIC"
+# Fixme!!! here should be [bcd.ibm] when program has been fixed
+
+[bcdic]
+disp = "BCDIC"
+desc = "Binary-Coded Decimal Interchange Code"
+full = "6-bit alphanumeric codes that represented numbers, upper-case letters and special characters. "
+see = ['EBCDIC']

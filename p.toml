@@ -67,3 +67,11 @@ full = "It provides a clear, simple, unified API for working with databases"
 [peg]
 disp = "PEG"
 desc = "Parsing Expression Grammar"
+
+[plc]
+disp = "PLC"
+desc = "Programmable Logic Controller"
+
+[paas]
+disp = "PAAS"
+desc = "Platform As A Service"

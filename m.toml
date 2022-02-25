@@ -116,3 +116,7 @@ disp = "MIPS"
 desc = "Microprocessor without Interlocked Pipelined Stages"
 full = "a RISC instruction set architecture"
 see = ['RISC']
+
+[mdn]
+disp = "MDN"
+desc = "Mozilla Developer Network"

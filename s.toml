@@ -194,3 +194,15 @@ desc = "System on a Chip"
 [ssa.llvm]
 disp = "SSA"
 desc = "Static Single Assignment"
+
+[sfc]
+disp = "SFC"
+desc = "Software Freedom Conservancy"
+
+[sflc]
+disp = "SFLC"
+desc = "Software Freedom Law Center"
+
+[saas]
+disp = "SAAS"
+desc = "Software As A Service"

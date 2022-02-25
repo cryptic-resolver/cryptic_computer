@@ -45,3 +45,7 @@ see = ['Yacc']
 [fpga]
 disp = "FPGA"
 desc = "Field-programmable Gate Array"
+
+[foss]
+disp = "FOSS"
+desc = "Free and Open-Source Software"

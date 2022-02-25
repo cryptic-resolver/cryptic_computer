@@ -36,3 +36,7 @@ desc = "Eclipse Java Development Tools"
 disp = "JIT"
 desc = "Just in Time Compilation"
 see = ['AOT']
+
+[js]
+disp = "JS"
+desc = "JavaScript"

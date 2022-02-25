@@ -210,3 +210,7 @@ desc = "Control Flow Graph"
 [cgo]
 disp = "CGO"
 desc = "Code Generation and Optimization"
+
+[cwe]
+disp = "CWE"
+desc = "Common Weakness Enumeration"
