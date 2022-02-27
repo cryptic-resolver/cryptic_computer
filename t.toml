@@ -42,3 +42,7 @@ desc = "The Importance of Being Earnest"
 [tldp]
 disp = "TLDP"
 desc = "Linux Documentation Project"
+
+[tcc]
+disp = "TCC"
+desc = "Tiny C Compiler"

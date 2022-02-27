@@ -40,3 +40,7 @@ see = ['AOT']
 [js]
 disp = "JS"
 desc = "JavaScript"
+
+[json]
+disp = "JSON"
+desc = "JavaScript Object Notation"

@@ -104,3 +104,11 @@ desc = "Incompatible Timesharing System operating system "
 [isa]
 disp = "ISA"
 desc = "Instruction Set Architecture"
+
+[isc]
+disp = "ISC license"
+desc = "Internet Systems Consortium license"
+
+[ioccc]
+disp = "IOCCC"
+desc = "International Obfuscated C Code Contest"

@@ -49,3 +49,7 @@ desc = "Field-programmable Gate Array"
 [foss]
 disp = "FOSS"
 desc = "Free and Open-Source Software"
+
+[ffi]
+disp = "FFI"
+desc = "Foreign Function Interface"
