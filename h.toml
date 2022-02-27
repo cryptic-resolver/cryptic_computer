@@ -84,3 +84,11 @@ desc = "High Dots Per Inch"
 [hts]
 disp = "HTS"
 desc = "High Throughput Sequencing data"
+
+[http]
+disp = "HTTP"
+desc = "Hypertext Transfer Protocol"
+
+[https]
+disp = "HTTPS"
+desc = "Hypertext Transfer Protocol Over Secure Socket Layer"

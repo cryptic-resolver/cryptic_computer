@@ -53,3 +53,7 @@ desc = "Free and Open-Source Software"
 [ffi]
 disp = "FFI"
 desc = "Foreign Function Interface"
+
+[ftp]
+disp = "FTP"
+desc = "File Transfer Protocol"
