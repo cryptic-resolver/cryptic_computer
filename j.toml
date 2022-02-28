@@ -44,3 +44,7 @@ desc = "JavaScript"
 [json]
 disp = "JSON"
 desc = "JavaScript Object Notation"
+
+[jsp]
+disp = "JSP"
+desc = "Java Server Pages"

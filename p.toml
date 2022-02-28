@@ -79,3 +79,13 @@ desc = "Platform As A Service"
 [pcc]
 disp = "PCC"
 desc = "Portable C Compiler"
+
+[prom]
+disp = "PROM"
+desc = "Programmable Read-only Memory"
+see = ['ROM']
+
+[pmd]
+disp = "PMD"
+desc = "Programming Mistake Detector"
+full = "A code analyzer for Java"

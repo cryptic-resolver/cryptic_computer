@@ -95,3 +95,13 @@ desc = "Revision Control System"
 disp = "RISC"
 desc = "Reduced Instruction Set Computing"
 see = ['CISC']
+
+[ram]
+disp = "RAM"
+desc = "Random-access Memory"
+see = ['ROM']
+
+[rom]
+disp = "ROM"
+desc = "Read-only Memory"
+see = ['RAM', 'PROM', 'EPROM']

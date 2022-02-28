@@ -214,3 +214,13 @@ desc = "Code Generation and Optimization"
 [cwe]
 disp = "CWE"
 desc = "Common Weakness Enumeration"
+
+[ci]
+disp = "CI"
+desc = "Continuous Integration"
+
+[cpd]
+disp = "CPD"
+desc = "Copy/Paste Detector"
+full = "An add-on to PMD that uses the Rabin–Karp string search algorithm to find duplicated code. Unlike PMD, CPD works with a broader range of languages including Java,JSP, C, C++, Fortran, PHP, and C# code."
+see = ['PMD']

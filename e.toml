@@ -86,3 +86,14 @@ desc = "Elasticsearch, Logstash, and Kibana"
 [erd]
 disp = "ERD"
 desc = "Entity Relationship Diagram"
+
+[eprom]
+disp = "EPROM"
+desc = "Erasable Programmable Read-only Memory"
+see = ['PROM']
+
+[eeprom]
+disp = "EEPROM"
+desc = "Electrically Erasable Programmable Read-only Memory"
+full = "A type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data"
+see = ['EPROM']

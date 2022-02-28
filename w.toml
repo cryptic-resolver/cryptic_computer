@@ -37,3 +37,7 @@ desc = "WebAssembly System Interface"
 [wchar]
 disp = "wchar"
 desc = "wide character"
+
+[wsl]
+disp = "WSL"
+desc = "Windows Subsystem Layer"
