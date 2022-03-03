@@ -112,3 +112,13 @@ desc = "Internet Systems Consortium license"
 [ioccc]
 disp = "IOCCC"
 desc = "International Obfuscated C Code Contest"
+
+[ide.software]
+disp = "IDE"
+desc = "Integrated Development Environment"
+
+[ide.hardware]
+disp = "IDE"
+desc = "Integrated Drive Electronics"
+full = "A type of cable that is used to connect to the motherboard directly. It's the first version of what is now called the ATA/ATAPI, developed by Western Digital"
+see = ['ATA']

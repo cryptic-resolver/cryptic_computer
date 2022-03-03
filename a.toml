@@ -165,3 +165,14 @@ desc = "Anki Deck Pakcage"
 disp = "Anki"
 desc = "Anki (暗記) is the Japanese word for 'memorization'"
 full = "A free and open-source flashcard program using spaced repetition"
+
+[ata]
+disp = "ATA"
+desc = "AT Attachment"
+full = "Standard interface designed for IBM PC-compatible computers. It was first developed by Western Digital and Compaq in 1986 for compatible hard drives and CD or DVD drives."
+see = ['IDE', 'PATA', 'SATA']
+
+[atapi]
+disp = "ATAPI"
+desc = "ATA Packet Interface"
+see = ['ATA']

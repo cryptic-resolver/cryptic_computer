@@ -89,3 +89,8 @@ see = ['ROM']
 disp = "PMD"
 desc = "Programming Mistake Detector"
 full = "A code analyzer for Java"
+
+[pata]
+disp = "PATA"
+desc = "Parallel ATA"
+see = ['SATA', 'ATA']

@@ -120,3 +120,9 @@ see = ['RISC']
 [mdn]
 disp = "MDN"
 desc = "Mozilla Developer Network"
+
+[mi.gdb]
+disp = "MI"
+desc = "gdb Machine Interface specification"
+full = "GDB and LLDB use this"
+see = ['GDB']

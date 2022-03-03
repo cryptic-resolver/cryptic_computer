@@ -140,3 +140,8 @@ desc = "Digital Millennium Copyright Act"
 [dips.dlang]
 disp = "DIPs"
 desc = "D Improvement Proposals"
+
+[dvd]
+disp = "DVD"
+desc = "Digital Video Disc"
+see = ['CD']

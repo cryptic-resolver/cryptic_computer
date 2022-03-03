@@ -206,3 +206,29 @@ desc = "Software Freedom Law Center"
 [saas]
 disp = "SAAS"
 desc = "Software As A Service"
+
+[scsi]
+disp = "SCSI"
+desc = "Small Computer System Interface"
+
+[sda]
+disp = "/dev/sda"
+desc = "The first SCSI disk id"
+full = "sdb, sdc and so on"
+see = ['SCSI']
+
+[sdb]
+same = "sda"
+
+[smb]
+same = "SMBus<=>smbus"
+
+[smbus]
+disp = "SMBus"
+desc = "System Management Bus"
+full = "A single-ended simple two-wire bus for the purpose of lightweight communication"
+
+[sata]
+disp = "SATA"
+desc = "Serial ATA"
+see = ['PATA', 'ATA']

@@ -228,3 +228,12 @@ see = ['PMD']
 [crx.chrome]
 disp = ".crx"
 desc = "Chrome extension"
+
+[cd.command]
+disp = "cd"
+desc = "Change Directory"
+
+[cd.hardware]
+disp = "CD"
+desc = "Compact Disc"
+see = ['DVD']

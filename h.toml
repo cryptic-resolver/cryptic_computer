@@ -92,3 +92,13 @@ desc = "Hypertext Transfer Protocol"
 [https]
 disp = "HTTPS"
 desc = "Hypertext Transfer Protocol Over Secure Socket Layer"
+
+[hda]
+disp = "/dev/hda"
+desc = "The master disk on IDE primary controller"
+full = "hdb, hdc and so on"
+see = ['IDE', 'sda']
+
+[hdb]
+same = 'hda'
+
