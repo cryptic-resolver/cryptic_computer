@@ -109,3 +109,7 @@ see = ['RAM', 'PROM', 'EPROM']
 [rpg]
 disp = "RPG"
 desc = "Role-Playing Game"
+
+[rhel]
+disp = "RHEL"
+desc = "Red Hat Enterprise Linux"

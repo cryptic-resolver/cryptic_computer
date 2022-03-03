@@ -56,3 +56,8 @@ disp = "BCDIC"
 desc = "Binary-Coded Decimal Interchange Code"
 full = "6-bit alphanumeric codes that represented numbers, upper-case letters and special characters. "
 see = ['EBCDIC']
+
+[bbs]
+disp = "BBS"
+desc = "Bulletin Board System"
+full = "A computer server running software that allows users to connect to the system using a terminal program"

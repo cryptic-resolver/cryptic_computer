@@ -237,3 +237,8 @@ desc = "Change Directory"
 disp = "CD"
 desc = "Compact Disc"
 see = ['DVD']
+
+[ccl]
+disp = "CCL"
+desc = "Clozure CL"
+see = ['SBCL']

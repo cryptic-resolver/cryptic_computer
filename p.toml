@@ -94,3 +94,7 @@ full = "A code analyzer for Java"
 disp = "PATA"
 desc = "Parallel ATA"
 see = ['SATA', 'ATA']
+
+[pwa]
+disp = "PWA"
+desc = "Progressive Web Application"

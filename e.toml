@@ -97,3 +97,16 @@ disp = "EEPROM"
 desc = "Electrically Erasable Programmable Read-only Memory"
 full = "A type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data"
 see = ['EPROM']
+
+[elisp]
+disp = "ELisp"
+desc = "Emacs Lisp"
+see = ['Emacs', 'SBCL', 'CCL']
+
+[el]
+same = ".el file<=>elisp"
+
+[elc]
+disp = ".elc"
+desc = "ELisp byte-compiled code file"
+see = ['Elisp']

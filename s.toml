@@ -232,3 +232,13 @@ full = "A single-ended simple two-wire bus for the purpose of lightweight commun
 disp = "SATA"
 desc = "Serial ATA"
 see = ['PATA', 'ATA']
+
+[sdf]
+disp = "SDF"
+desc = "Super Dimension Fortress, also known as freeshell.org"
+full = "A non-profit public access UNIX shell provider on the Internet"
+
+[sbcl]
+disp = "SBCL"
+desc = "Steel Bank Common Lisp"
+see = ['CCL', 'Elisp']
