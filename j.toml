@@ -48,3 +48,7 @@ desc = "JavaScript Object Notation"
 [jsp]
 disp = "JSP"
 desc = "Java Server Pages"
+
+[jar]
+disp = "JAR"
+desc = "Java ARchive"

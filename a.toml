@@ -156,3 +156,12 @@ desc = "Advanced Persistent Threat"
 [acm]
 disp = "ACM"
 desc = "Association for Computing Machinery"
+
+[apkg.anki]
+disp = ".apkg"
+desc = "Anki Deck Pakcage"
+
+[anki]
+disp = "Anki"
+desc = "Anki (暗記) is the Japanese word for 'memorization'"
+full = "A free and open-source flashcard program using spaced repetition"

@@ -105,3 +105,7 @@ see = ['ROM']
 disp = "ROM"
 desc = "Read-only Memory"
 see = ['RAM', 'PROM', 'EPROM']
+
+[rpg]
+disp = "RPG"
+desc = "Role-Playing Game"
