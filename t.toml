@@ -46,3 +46,7 @@ desc = "Linux Documentation Project"
 [tcc]
 disp = "TCC"
 desc = "Tiny C Compiler"
+
+[tg]
+disp = "TG"
+desc = "Telegram"

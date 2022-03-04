@@ -145,3 +145,12 @@ desc = "D Improvement Proposals"
 disp = "DVD"
 desc = "Digital Video Disc"
 see = ['CD']
+
+[dsl.hardware]
+disp = "DSL"
+desc = "Digital Subscriber Line"
+see = ['ADSL']
+
+[dsl.lang]
+disp = "DSL"
+desc = "Domain Specific Language"

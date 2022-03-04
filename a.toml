@@ -176,3 +176,8 @@ see = ['IDE', 'PATA', 'SATA']
 disp = "ATAPI"
 desc = "ATA Packet Interface"
 see = ['ATA']
+
+[adsl]
+disp = "ADSL"
+desc = "Asymmetric Digital Subscriber Line"
+see = ['DSL']
