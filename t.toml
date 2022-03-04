@@ -51,3 +51,11 @@ desc = "Tiny C Compiler"
 [tg]
 disp = "TG"
 desc = "Telegram"
+
+[toc]
+disp = "ToC"
+desc = "Table of Contents"
+
+[tpu]
+disp = "TPU"
+desc = "Tensor Processing Unit"

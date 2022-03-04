@@ -127,3 +127,8 @@ desc = "GNU General Public License"
 [gui]
 disp = "GUI"
 desc = "Graphical User Interface"
+
+[grep]
+disp = "grep"
+desc = "g/re/p (globally search for a regular expression and print matching lines)"
+full = "A command-line utility for searching plain-text data sets for lines that match a regular expression. Its name comes from the ed command g/re/p "

@@ -181,3 +181,11 @@ see = ['ATA']
 disp = "ADSL"
 desc = "Asymmetric Digital Subscriber Line"
 see = ['DSL']
+
+[asic]
+disp = "ASIC"
+desc = "Application-Specific Integrated Circuit"
+
+[api]
+disp = "API"
+desc = "Application Programming Interface"

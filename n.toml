@@ -36,3 +36,7 @@ desc = "The Android Native Development Kit"
 disp = "NFA"
 desc = "Non-deterministic Finite Automata"
 see = ['DFA']
+
+[nlp]
+disp = "NLP"
+desc = "Natural Language Processing"

@@ -39,3 +39,11 @@ desc = "Version Control System"
 [vs]
 disp = "VS"
 desc = "Visual Studio"
+
+[vpc]
+disp = "VPC"
+desc = "Virtual Private Cloud"
+
+[vps]
+disp = "VPS"
+desc = "Virtual Private Server"

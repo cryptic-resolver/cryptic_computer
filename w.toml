@@ -41,3 +41,7 @@ desc = "wide character"
 [wsl]
 disp = "WSL"
 desc = "Windows Subsystem Layer"
+
+[wps]
+disp = "WPS"
+desc = "Writer, Presentation and Spreadsheets"
