@@ -1,3 +1,12 @@
+[cli]
+disp = "CLI"
+desc = "Command-line Interface"
+see = ['GUI']
+
+[css]
+disp = "CSS"
+desc = "Cascading Style Sheets"
+
 [cups]
 disp = "CUPS"
 desc = "Common Unix Printing System"

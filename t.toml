@@ -17,6 +17,7 @@ desc = "Transactional Synchronization Extensions"
 [tls]
 disp = "TLS"
 desc = "Transport Layer Security"
+full = "The successor of the now-deprecated Secure Sockets Layer(SSL)"
 
 [toml]
 disp = "TOML"

@@ -123,3 +123,7 @@ desc = "GNU's Not Unix!"
 [gpl]
 disp = "GPL"
 desc = "GNU General Public License"
+
+[gui]
+disp = "GUI"
+desc = "Graphical User Interface"

@@ -102,3 +102,7 @@ see = ['IDE', 'sda']
 [hdb]
 same = 'hda'
 
+[html]
+disp = "HTML"
+desc = "HyperText Markup Language"
+

@@ -1,3 +1,7 @@
+[sql]
+disp = "SQL"
+desc = "Structured Query Language"
+
 [sgml]
 disp = "SGML"
 desc = "Standard Generalized Markup Language"
@@ -242,3 +246,9 @@ full = "A non-profit public access UNIX shell provider on the Internet"
 disp = "SBCL"
 desc = "Steel Bank Common Lisp"
 see = ['CCL', 'Elisp']
+
+[ssl]
+disp = "SSL"
+desc = "Secure Sockets Layer"
+full = "TLS is the successor of the now-deprecated SSL"
+see = ['TLS']

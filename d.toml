@@ -154,3 +154,7 @@ see = ['ADSL']
 [dsl.lang]
 disp = "DSL"
 desc = "Domain Specific Language"
+
+[dom]
+disp = "DOM"
+desc = "Document Object Model"
