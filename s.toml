@@ -252,3 +252,8 @@ disp = "SSL"
 desc = "Secure Sockets Layer"
 full = "TLS is the successor of the now-deprecated SSL"
 see = ['TLS']
+
+[swig]
+disp = "SWIG"
+desc = "Simplified Wrapper and Interface Generator"
+full = "An open-source software tool used to connect computer programs or libraries written in C or C++ with scripting languages"

@@ -98,3 +98,7 @@ see = ['SATA', 'ATA']
 [pwa]
 disp = "PWA"
 desc = "Progressive Web Application"
+
+[pdf]
+disp = "PDF"
+desc = "Portable Document Format"

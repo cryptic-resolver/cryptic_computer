@@ -94,3 +94,21 @@ see = ['LL','LALR']
 [lru]
 disp = "LRU"
 desc = "Least Recently Used cache"
+
+[lzma]
+disp = "LZMA"
+desc = "Lempel–Ziv–Markov chain algorithm"
+
+[lts]
+disp = "LTS"
+desc = "Long-term Support"
+
+[libm.clib]
+disp = "libm"
+desc = "C math library"
+full = "usage: c99 [ flag... ] file... –lm [ library... ] "
+
+[libl.clib]
+disp = "libl"
+desc = "C lex library"
+see = ['Lex']

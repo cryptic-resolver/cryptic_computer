@@ -39,7 +39,7 @@ see = ['IBus']
 
 [flex]
 disp = "Flex"
-desc = "Flex lexical analyser"
+desc = "Fast lexical analyzer generator"
 see = ['Yacc']
 
 [fpga]
