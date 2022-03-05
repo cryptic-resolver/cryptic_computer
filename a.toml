@@ -189,3 +189,7 @@ desc = "Application-Specific Integrated Circuit"
 [api]
 disp = "API"
 desc = "Application Programming Interface"
+
+[ai]
+disp = "AI"
+desc = "Artificial Intelligence"
