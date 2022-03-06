@@ -113,3 +113,8 @@ desc = "Role-Playing Game"
 [rhel]
 disp = "RHEL"
 desc = "Red Hat Enterprise Linux"
+
+[rpn]
+disp = "RPN"
+desc = "Reverse Polish Notation"
+see = ['PN']

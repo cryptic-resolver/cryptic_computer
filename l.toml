@@ -103,6 +103,14 @@ desc = "Lempel–Ziv–Markov chain algorithm"
 disp = "LTS"
 desc = "Long-term Support"
 
+[lex]
+same = "Flex<=>flex"
+
+[lexer]
+disp = "Lexer or scanner"
+desc = "lexical analyzer"
+see = ['Lex']
+
 [libm.clib]
 disp = "libm"
 desc = "C math library"

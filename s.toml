@@ -261,3 +261,8 @@ full = "An open-source software tool used to connect computer programs or librar
 [sci]
 disp = "SCI"
 desc = "Science Citation Index"
+
+[sigplan]
+disp = "SIGPLAN"
+desc = "The ACM Special Interest Group on Programming Languages"
+see = ['PLDI', 'ACM']

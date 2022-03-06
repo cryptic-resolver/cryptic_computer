@@ -102,3 +102,12 @@ desc = "Progressive Web Application"
 [pdf]
 disp = "PDF"
 desc = "Portable Document Format"
+
+[pn]
+disp = "PN"
+desc = "Polish Notation"
+see = ['RPN']
+
+[pldi]
+disp = "PLDI"
+desc = "Programming Language Design and Implementation"

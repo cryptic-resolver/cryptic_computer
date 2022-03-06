@@ -61,3 +61,7 @@ see = ['EBCDIC']
 disp = "BBS"
 desc = "Bulletin Board System"
 full = "A computer server running software that allows users to connect to the system using a terminal program"
+
+[bsd]
+disp = "BSD"
+desc = "Berkeley Software Distribution"
