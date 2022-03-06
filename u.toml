@@ -55,3 +55,7 @@ desc = "Universal Asynchronous Serial port"
 [uml]
 disp = "UML"
 desc = "Unified Modeling Language"
+
+[udp]
+disp = "UDP"
+desc = "User Datagram Protocol"

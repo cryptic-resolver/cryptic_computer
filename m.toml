@@ -126,3 +126,8 @@ disp = "MI"
 desc = "gdb Machine Interface specification"
 full = "GDB and LLDB use this"
 see = ['GDB']
+
+[mqtt]
+disp = "MQTT"
+desc = "Message Queueing Telemetry Transport"
+full = "A lightweight, publish-subscribe network protocol that transports messages between devices"

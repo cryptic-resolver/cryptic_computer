@@ -126,3 +126,7 @@ see = ['ATA']
 [iot]
 disp = "IOT"
 desc = "Internet of Things"
+
+[ip.network]
+disp = "IP"
+desc = "Internet Protocol"
