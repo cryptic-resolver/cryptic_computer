@@ -1,4 +1,4 @@
-# cryptic_computer sheet
+# cryptic_computer dictionary
 
 computer things explained using [cr: the Cryptic Resolver](https://github.com/cryptic-resolver/cr).
 
@@ -6,6 +6,6 @@ computer things explained using [cr: the Cryptic Resolver](https://github.com/cr
 
 # Layout and format
 
-The sheet's layout and format refers to [cr]'s README.
+The dictionary's layout and format refers to [cr]'s README.
 
 [cr]: https://github.com/cryptic-resolver/cr

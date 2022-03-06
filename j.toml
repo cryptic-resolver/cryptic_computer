@@ -52,3 +52,17 @@ desc = "Java Server Pages"
 [jar]
 disp = "JAR"
 desc = "Java ARchive"
+
+[jdk]
+disp = "JDK"
+desc = "Java Development Kit"
+see = ['JRE']
+
+[jre]
+disp = "JRE"
+desc = "Java Runtime Environment"
+see = ['JDK']
+
+[jvm]
+disp = "JVM"
+desc = "Java Virtual Machine"
