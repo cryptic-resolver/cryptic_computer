@@ -131,4 +131,4 @@ full = "usage: c99 [ flag... ] file... –lm [ library... ] "
 [libl.clib]
 disp = "libl"
 desc = "C lex library"
-see = ['Lex'
+see = ['Lex']
