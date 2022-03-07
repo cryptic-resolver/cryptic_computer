@@ -271,3 +271,9 @@ see = ['PLDI', 'ACM']
 disp = "sudo"
 desc = "superuser do"
 full = "NOT 'substitute user, do'!"
+
+[slr]
+disp = "SLR"
+desc = "Simple LR"
+full = "A type of LR parser with small parse tables"
+see = ['LR', 'LALR']

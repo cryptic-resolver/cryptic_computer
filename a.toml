@@ -193,3 +193,7 @@ desc = "Application Programming Interface"
 [ai]
 disp = "AI"
 desc = "Artificial Intelligence"
+
+[adt]
+disp = "ADT"
+desc = "Abstract Data Type"

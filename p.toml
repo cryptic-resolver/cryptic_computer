@@ -111,3 +111,11 @@ see = ['RPN']
 [pldi]
 disp = "PLDI"
 desc = "Programming Language Design and Implementation"
+
+[pda]
+disp = "PDA"
+desc = "Personal Digital Assistant"
+
+[pda.auto]
+disp = "PDA"
+desc = "Pushdown Automaton"

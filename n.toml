@@ -40,3 +40,7 @@ see = ['DFA']
 [nlp]
 disp = "NLP"
 desc = "Natural Language Processing"
+
+[nfc]
+disp = "NFC"
+desc = "Near-field communication"

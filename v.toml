@@ -47,3 +47,11 @@ desc = "Virtual Private Cloud"
 [vps]
 disp = "VPS"
 desc = "Virtual Private Server"
+
+[vc]
+same = 'MSVC<=>msvc'
+
+[vb]
+disp = "VB"
+desc = "Microsoft Visual Basic"
+see = ['VC']

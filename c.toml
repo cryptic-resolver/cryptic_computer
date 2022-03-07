@@ -202,6 +202,17 @@ desc = "Common Desktop Environment"
 [cfg.grammar]
 disp = "CFG"
 desc = "Context-Free Grammar"
+see = ['CSG']
+
+[cfl.grammar]
+disp = "CFL"
+desc = "Context-Free Language, derived from a CFG"
+see = ['CFG']
+
+[csg.grammar]
+disp = "CSG"
+desc = "Context-Sensitive Grammar"
+see = ['CFG']
 
 [cvs]
 disp = "CVS"

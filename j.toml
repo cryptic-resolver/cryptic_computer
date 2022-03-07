@@ -66,3 +66,7 @@ see = ['JDK']
 [jvm]
 disp = "JVM"
 desc = "Java Virtual Machine"
+
+[jflap]
+disp = "JFLAP"
+desc = "Java Formal Languages and Automata Package"
