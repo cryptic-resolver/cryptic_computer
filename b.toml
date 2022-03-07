@@ -65,3 +65,7 @@ full = "A computer server running software that allows users to connect to the s
 [bsd]
 disp = "BSD"
 desc = "Berkeley Software Distribution"
+
+[bss]
+disp = "BSS"
+desc = "Block Started by Symbol"

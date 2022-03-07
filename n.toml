@@ -44,3 +44,7 @@ desc = "Natural Language Processing"
 [nfc]
 disp = "NFC"
 desc = "Near-field communication"
+
+[nt]
+disp = "Windows NT"
+desc = "New Technology"

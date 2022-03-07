@@ -130,3 +130,7 @@ desc = "Internet of Things"
 [ip.network]
 disp = "IP"
 desc = "Internet Protocol"
+
+[im.software]
+disp = "IM"
+desc = "Instant Messaging software"

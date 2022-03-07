@@ -111,6 +111,18 @@ disp = "Lexer or scanner"
 desc = "lexical analyzer"
 see = ['Lex']
 
+
+[lwp]
+disp = "LWP"
+desc = "Light-Weight Process"
+
+
+
+################################################
+######             C Lib                  ######
+################################################
+
+
 [libm.clib]
 disp = "libm"
 desc = "C math library"
@@ -119,4 +131,4 @@ full = "usage: c99 [ flag... ] file... –lm [ library... ] "
 [libl.clib]
 disp = "libl"
 desc = "C lex library"
-see = ['Lex']
+see = ['Lex'

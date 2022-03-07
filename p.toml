@@ -119,3 +119,12 @@ desc = "Personal Digital Assistant"
 [pda.auto]
 disp = "PDA"
 desc = "Pushdown Automaton"
+
+[pci]
+disp = "PCI"
+desc = "Peripheral Component Interconnect"
+
+[pe]
+disp = "PE"
+desc = "Portable Executable"
+full = "A file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems"

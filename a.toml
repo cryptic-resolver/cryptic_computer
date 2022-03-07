@@ -197,3 +197,7 @@ desc = "Artificial Intelligence"
 [adt]
 disp = "ADT"
 desc = "Abstract Data Type"
+
+[antlr]
+disp = "ANTLR"
+desc = "ANother Tool for Language Recognition"
