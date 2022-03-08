@@ -128,3 +128,7 @@ desc = "Peripheral Component Interconnect"
 disp = "PE"
 desc = "Portable Executable"
 full = "A file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems"
+
+[post]
+disp = "POST"
+desc = "power-on self-test"

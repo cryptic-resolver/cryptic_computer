@@ -134,3 +134,8 @@ desc = "Internet Protocol"
 [im.software]
 disp = "IM"
 desc = "Instant Messaging software"
+
+[ielr]
+disp = "IELR"
+desc = "Inadequacy Elimination LR"
+see = ['LR', 'LALR']

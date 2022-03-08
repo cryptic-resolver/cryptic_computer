@@ -69,3 +69,11 @@ desc = "Berkeley Software Distribution"
 [bss]
 disp = "BSS"
 desc = "Block Started by Symbol"
+
+[bsp]
+disp = "BSP"
+desc = "Board Support Package"
+
+[bios]
+disp = "BIOS"
+desc = "Basic Input/Output System"

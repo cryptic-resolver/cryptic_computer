@@ -159,6 +159,11 @@ desc = "Domain Specific Language"
 disp = "DOM"
 desc = "Document Object Model"
 
+[dos]
+disp = "DOS"
+desc = "Disk Operating System"
+full = "later became a common shorthand for disk-based operating systems on IBM PC compatibles"
+
 [ddos]
 disp = "DDoS"
 desc = "Distributed Denial-of-Service"

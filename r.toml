@@ -118,3 +118,11 @@ desc = "Red Hat Enterprise Linux"
 disp = "RPN"
 desc = "Reverse Polish Notation"
 see = ['PN']
+
+[rtos]
+disp = "RTOS"
+desc = "Real-Time Operating System"
+
+[raid]
+disp = "RAID"
+desc = "Redundant Array of Inexpensive Disks"

@@ -262,3 +262,12 @@ see = ['DVD']
 disp = "CCL"
 desc = "Clozure CL"
 see = ['SBCL']
+
+["cp/m"]
+disp = "CP/M"
+desc = "Control Program/Monitor and later Control Program for Microcomputers"
+full = "A mass-market operating system created in 1974 for Intel 8080/85-based microcomputers by Gary Kildall of Digital Research, Inc."
+
+[cmos]
+disp = "CMOS"
+desc = "Complementary Metal–Oxide–Semiconductor"

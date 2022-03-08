@@ -64,3 +64,12 @@ desc = "Tensor Processing Unit"
 disp = "TCP"
 desc = "Transmission Control Protocol"
 see = ['UDP', 'IP']
+
+[tag]
+disp = "TAG"
+desc = "Tree-adjoining Grammar"
+see = ['PEG', 'CFG']
+
+[ttl]
+disp = "TTL"
+desc = "Transistor–Transistor Logic"

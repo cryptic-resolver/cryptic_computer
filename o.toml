@@ -102,3 +102,11 @@ disp = "OPML"
 desc = "Outline Processor Markup Language"
 full = "An XML format for outlines used for RSS"
 see = ['RSS']
+
+[oss]
+disp = "OSS"
+desc = "Open-Source Software"
+
+[os]
+disp = "OS"
+desc = "Operating System"
