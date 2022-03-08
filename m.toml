@@ -131,3 +131,7 @@ see = ['GDB']
 disp = "MQTT"
 desc = "Message Queueing Telemetry Transport"
 full = "A lightweight, publish-subscribe network protocol that transports messages between devices"
+
+[mlir]
+disp = "MLIR"
+desc = "Multi-Level Intermediate Representation"

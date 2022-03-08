@@ -7,3 +7,11 @@ see = ["OFX"]
 [qps]
 disp = "QPS"
 desc = "Queries Per Second"
+
+[qa]
+disp = "QA"
+desc = "Quality Assurance"
+
+[qc]
+disp = "QC"
+desc = "Quality Control"

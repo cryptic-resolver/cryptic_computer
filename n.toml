@@ -48,3 +48,7 @@ desc = "Near-field communication"
 [nt]
 disp = "Windows NT"
 desc = "New Technology"
+
+[nif.erlang]
+disp = "NIF"
+desc = "Native Implemented Functions in Erlang"

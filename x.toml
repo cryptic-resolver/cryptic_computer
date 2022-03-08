@@ -45,3 +45,8 @@ full = "An image file format used by the X Window System, created in 1989"
 [xss]
 disp = "XSS"
 desc = "Cross-site Scripting"
+
+[xul]
+disp = "XUL"
+desc = "XML User Interface Language"
+full = "An XML dialect for writing graphical user interfaces developed by Mozilla"

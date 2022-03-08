@@ -70,3 +70,7 @@ desc = "Finite-state Machine"
 [fsa]
 disp = "FSA"
 desc = "Finite-state Automaton (plural: automata)"
+
+[faas]
+disp = "FaaS"
+desc = "Function as a Service"

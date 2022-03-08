@@ -126,3 +126,7 @@ desc = "Real-Time Operating System"
 [raid]
 disp = "RAID"
 desc = "Redundant Array of Inexpensive Disks"
+
+[rms]
+disp = "RMS"
+desc = "Richard M. Stallman"

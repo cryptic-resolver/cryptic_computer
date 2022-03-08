@@ -77,3 +77,8 @@ desc = "Board Support Package"
 [bios]
 disp = "BIOS"
 desc = "Basic Input/Output System"
+
+[beam]
+disp = "BEAM"
+desc = "Erlang Bytecode VM, part of ERTS"
+see = ['ERTS']

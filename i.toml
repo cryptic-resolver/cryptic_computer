@@ -139,3 +139,11 @@ desc = "Instant Messaging software"
 disp = "IELR"
 desc = "Inadequacy Elimination LR"
 see = ['LR', 'LALR']
+
+[ipfs]
+disp = "IPFS"
+desc = "InterPlanetary File System"
+
+[ir]
+disp = "IR"
+desc = "Intermediate Representation"

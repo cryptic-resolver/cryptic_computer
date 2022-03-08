@@ -110,3 +110,11 @@ same = ".el file<=>elisp"
 disp = ".elc"
 desc = "ELisp byte-compiled code file"
 see = ['Elisp']
+
+[erts]
+disp = "ERTS"
+desc = "Erlang Run-Time System"
+
+[erlang]
+disp = "Erlang"
+desc = "Ericsson Language"

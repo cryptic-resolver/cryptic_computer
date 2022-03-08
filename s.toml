@@ -277,3 +277,7 @@ disp = "SLR"
 desc = "Simple LR"
 full = "A type of LR parser with small parse tables"
 see = ['LR', 'LALR']
+
+[sns]
+disp = "SNS"
+desc = "Social Networking Service"

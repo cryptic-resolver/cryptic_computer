@@ -132,3 +132,7 @@ full = "A file format for executables, object code, DLLs and others used in 32-b
 [post]
 disp = "POST"
 desc = "power-on self-test"
+
+[p2p]
+disp = "P2P"
+desc = "Peer-to-Peer"

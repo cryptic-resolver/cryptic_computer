@@ -201,3 +201,8 @@ desc = "Abstract Data Type"
 [antlr]
 disp = "ANTLR"
 desc = "ANother Tool for Language Recognition"
+
+[apl]
+disp = "APL"
+desc = "named after the book A Programming Language"
+full = "A programming language developed in the 1960s by Kenneth E. Iverson"

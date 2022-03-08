@@ -167,3 +167,7 @@ full = "later became a common shorthand for disk-based operating systems on IBM 
 [ddos]
 disp = "DDoS"
 desc = "Distributed Denial-of-Service"
+
+[dhh]
+disp = "DHH"
+desc = "David Heinemeier Hansson"
