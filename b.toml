@@ -86,4 +86,5 @@ see = ['ERTS']
 [byacc]
 disp = "byacc"
 desc = "Berkeley yacc"
+full = "A nearly exact reimplementation of AT&T yacc with few extra features."
 see = ['Yacc']

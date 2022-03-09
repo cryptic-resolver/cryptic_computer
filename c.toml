@@ -271,3 +271,8 @@ full = "A mass-market operating system created in 1974 for Intel 8080/85-based m
 [cmos]
 disp = "CMOS"
 desc = "Complementary Metal–Oxide–Semiconductor"
+
+[cobol]
+disp = "COBOL"
+desc = "Common Business-Oriented Language"
+full = "Designed in 1959 by CODASYL"

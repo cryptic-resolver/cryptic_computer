@@ -206,3 +206,16 @@ desc = "ANother Tool for Language Recognition"
 disp = "APL"
 desc = "named after the book A Programming Language"
 full = "A programming language developed in the 1960s by Kenneth E. Iverson"
+
+# Can't match it on terminal input
+["at&t"]
+disp = "AT&T"
+desc = "American Telephone and Telegraph Company"
+
+[att]
+same = "AT&T<=>at&t"
+
+[ampl]
+disp = "AMPL"
+desc = "A Mathematical Programming Language"
+full = "An algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing (i.e., large-scale optimization and scheduling-type problems). It was developed by Robert Fourer, David Gay, and Brian Kernighan at Bell Laboratories. "

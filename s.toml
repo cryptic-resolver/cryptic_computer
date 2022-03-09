@@ -281,3 +281,12 @@ see = ['LR', 'LALR']
 [sns]
 disp = "SNS"
 desc = "Social Networking Service"
+
+[sdl.lang]
+disp = "SDL"
+desc = "Specification and Description Language"
+
+[secd]
+disp = "SECD"
+desc = "Stack, Environment, Control, Dump machine"
+full = "Intended as a target for functional programming language compilers."

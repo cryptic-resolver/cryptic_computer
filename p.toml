@@ -136,3 +136,14 @@ desc = "power-on self-test"
 [p2p]
 disp = "P2P"
 desc = "Peer-to-Peer"
+
+["pl/i"]
+disp = "PL/I"
+desc = "Programming Language One"
+full = "A procedural, imperative computer programming language developed and published by IBM. It is designed for scientific, engineering, business and system programming. It has been used by academic, commercial and industrial organizations since it was introduced in the 1960s, and is still used"
+
+["pl/sql"]
+disp = "PL/SQL"
+desc = "Procedural Language for SQL"
+full = "It's Oracle Corporation's procedural extension for SQL"
+see = ['SQL']

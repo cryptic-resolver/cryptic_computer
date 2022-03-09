@@ -111,11 +111,13 @@ disp = "Lexer or scanner"
 desc = "lexical analyzer"
 see = ['Lex']
 
-
 [lwp]
 disp = "LWP"
 desc = "Light-Weight Process"
 
+[lba]
+disp = "LBA"
+desc = "Linear Bounded Automaton"
 
 
 ################################################
