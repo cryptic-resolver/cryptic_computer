@@ -45,3 +45,7 @@ desc = "Windows Subsystem Layer"
 [wps]
 disp = "WPS"
 desc = "Writer, Presentation and Spreadsheets"
+
+[wip]
+disp = "WIP"
+desc = "Work in Progress"

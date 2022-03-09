@@ -130,3 +130,7 @@ desc = "Redundant Array of Inexpensive Disks"
 [rms]
 disp = "RMS"
 desc = "Richard M. Stallman"
+
+[ror]
+disp = "RoR"
+desc = "Ruby on Rails"

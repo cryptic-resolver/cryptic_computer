@@ -82,3 +82,8 @@ desc = "Basic Input/Output System"
 disp = "BEAM"
 desc = "Erlang Bytecode VM, part of ERTS"
 see = ['ERTS']
+
+[byacc]
+disp = "byacc"
+desc = "Berkeley yacc"
+see = ['Yacc']

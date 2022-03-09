@@ -52,3 +52,7 @@ desc = "New Technology"
 [nif.erlang]
 disp = "NIF"
 desc = "Native Implemented Functions in Erlang"
+
+[nas]
+disp = "NAS"
+desc = "Network-attached Storage"

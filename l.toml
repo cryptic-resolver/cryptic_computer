@@ -131,4 +131,11 @@ full = "usage: c99 [ flag... ] file... –lm [ library... ] "
 [libl.clib]
 disp = "libl"
 desc = "C lex library"
-see = ['Lex']
+full = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
+see = ['Lex', 'liby']
+
+[liby.clib]
+disp = "liby"
+desc = "C yacc library"
+full = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
+see = ['Yacc', 'libl']

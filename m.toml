@@ -135,3 +135,11 @@ full = "A lightweight, publish-subscribe network protocol that transports messag
 [mlir]
 disp = "MLIR"
 desc = "Multi-Level Intermediate Representation"
+
+[mvc]
+disp = "MVC"
+desc = "Model-View-Controller"
+
+[mvvw]
+disp = "MVVW"
+desc = "Model View ViewModel"

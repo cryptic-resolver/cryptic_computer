@@ -132,3 +132,17 @@ desc = "Graphical User Interface"
 disp = "grep"
 desc = "g/re/p (globally search for a regular expression and print matching lines)"
 full = "A command-line utility for searching plain-text data sets for lines that match a regular expression. Its name comes from the ed command g/re/p "
+
+[gpt.partition]
+disp = "GPT"
+desc = "GUID Partition Table"
+see = ['GUID']
+
+[guid]
+disp = "GUID"
+desc = "Globally Unique Identifier"
+
+[gpt.AI]
+disp = "GPT"
+desc = "Generative Pre-trained Transformer"
+full = "An autoregressive language model that uses deep learning to produce human-like text"

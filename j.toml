@@ -70,3 +70,8 @@ desc = "Java Virtual Machine"
 [jflap]
 disp = "JFLAP"
 desc = "Java Formal Languages and Automata Package"
+
+[jsx]
+disp = "JSX"
+desc = "JavaScript Extension"
+full = "A React extension which allows writing JavaScript code that looks like HTML"
