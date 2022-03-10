@@ -276,3 +276,11 @@ desc = "Complementary Metal–Oxide–Semiconductor"
 disp = "COBOL"
 desc = "Common Business-Oriented Language"
 full = "Designed in 1959 by CODASYL"
+
+[ctss.os]
+disp = "CTSS"
+desc = "Compatible Time-Sharing System"
+
+[cto]
+disp = "CTO"
+desc = "Chief Technology Officer"

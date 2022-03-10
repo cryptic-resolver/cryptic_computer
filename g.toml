@@ -146,3 +146,7 @@ desc = "Globally Unique Identifier"
 disp = "GPT"
 desc = "Generative Pre-trained Transformer"
 full = "An autoregressive language model that uses deep learning to produce human-like text"
+
+[gta]
+disp = "GTA"
+desc = "Grand Theft Auto"

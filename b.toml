@@ -17,7 +17,7 @@ desc = "Bipolar Junction Transistor"
 
 [bcpl]
 disp = "BCPL"
-desc = "Basic Combined Programming Language"
+desc = "Basic CPL (Combined Programming Language)"
 
 [blas]
 disp = "BLAS"

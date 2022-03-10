@@ -171,3 +171,11 @@ desc = "Distributed Denial-of-Service"
 [dhh]
 disp = "DHH"
 desc = "David Heinemeier Hansson"
+
+[dau]
+disp = "DAU"
+desc = "Daily Active User"
+
+[dpu]
+disp = "DPU"
+desc = "Data Processing Unit"
