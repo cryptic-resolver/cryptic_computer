@@ -59,3 +59,8 @@ same = 'MSVC<=>msvc'
 disp = "VB"
 desc = "Microsoft Visual Basic"
 see = ['VC']
+
+[vax]
+disp = "VAX"
+desc = "Virtual Address eXtension"
+full = "By DEC, one of the most successful minicomputers in history. Featuring a 32-bit ISA and virtual memory, was seen as a 32-bit extension of the older 16-bit PDP-11"

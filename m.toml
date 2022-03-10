@@ -143,3 +143,9 @@ desc = "Model-View-Controller"
 [mvvw]
 disp = "MVVW"
 desc = "Model View ViewModel"
+
+[multics]
+disp = "Multics"
+desc = "Multiplexed Information and Computing Service"
+full = "An influential early time-sharing operating system based on the concept of a single-level memory"
+see = ['Unix']

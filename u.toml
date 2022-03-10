@@ -59,3 +59,8 @@ desc = "Unified Modeling Language"
 [udp]
 disp = "UDP"
 desc = "User Datagram Protocol"
+
+[unix]
+disp = "Unix"
+desc = "Uniplexed Information and Computing Service"
+see = ['Multics']

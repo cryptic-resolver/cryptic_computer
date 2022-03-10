@@ -290,3 +290,7 @@ desc = "Specification and Description Language"
 disp = "SECD"
 desc = "Stack, Environment, Control, Dump machine"
 full = "Intended as a target for functional programming language compilers."
+
+[sco]
+disp = "SCO"
+desc = "Santa Cruz Operation"

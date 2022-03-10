@@ -106,3 +106,6 @@ same = 'hda'
 disp = "HTML"
 desc = "HyperText Markup Language"
 
+[hp]
+disp = "HP"
+desc = "Hewlett-Packard Company"

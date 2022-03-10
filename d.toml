@@ -179,3 +179,7 @@ desc = "Daily Active User"
 [dpu]
 disp = "DPU"
 desc = "Data Processing Unit"
+
+[dec]
+disp = "DEC"
+desc = "Digital Equipment Corporation"

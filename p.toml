@@ -140,10 +140,28 @@ desc = "Peer-to-Peer"
 ["pl/i"]
 disp = "PL/I"
 desc = "Programming Language One"
-full = "A procedural, imperative computer programming language developed and published by IBM. It is designed for scientific, engineering, business and system programming. It has been used by academic, commercial and industrial organizations since it was introduced in the 1960s, and is still used"
+full = "It's the implementation language of Multics. A procedural, imperative computer programming language developed and published by IBM. It is designed for scientific, engineering, business and system programming. It has been used by academic, commercial and industrial organizations since it was introduced in the 1960s, and is still used. "
 
 ["pl/sql"]
 disp = "PL/SQL"
 desc = "Procedural Language for SQL"
 full = "It's Oracle Corporation's procedural extension for SQL"
 see = ['SQL']
+
+[pdp]
+disp = "PDP"
+desc = "Programmed Data Processor"
+full = "A term used by the Digital Equipment Corporation from 1957 to 1990 for several lines of minicomputers"
+see = ['PDP-7', 'PDP-11']
+
+[pdp-7]
+disp = "PDP-7"
+desc = "Programmed Data Processor 7"
+full = "Introduced in 1964, The first version of Unix, and the first version of B were written for the PDP-7 at Bell Labs"
+see = ['PDP-11']
+
+[pdp-11]
+disp = "PDP-11"
+desc = "Programmed Data Processor 11"
+full = "16-bit, its successor is VAX"
+see = ['PDP-7','VAX']

@@ -219,3 +219,8 @@ same = "AT&T<=>at&t"
 disp = "AMPL"
 desc = "A Mathematical Programming Language"
 full = "An algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing (i.e., large-scale optimization and scheduling-type problems). It was developed by Robert Fourer, David Gay, and Brian Kernighan at Bell Laboratories. "
+
+[ace]
+disp = "ACE"
+desc = "Automatic Computing Engine"
+full = "A British early electronic serial stored-program computer designed by Alan Turing"

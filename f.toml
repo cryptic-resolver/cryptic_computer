@@ -74,3 +74,8 @@ desc = "Finite-state Automaton (plural: automata)"
 [faas]
 disp = "FaaS"
 desc = "Function as a Service"
+
+[fortran]
+disp = "Fortran"
+desc = "Formula Translating System, Formula Translator, Formula Translation, or Formulaic Translation."
+full = "Originally developed by IBM in the 1950s for scientific and engineering applications, and subsequently came to dominate scientific computing"

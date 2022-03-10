@@ -150,3 +150,12 @@ full = "An autoregressive language model that uses deep learning to produce huma
 [gta]
 disp = "GTA"
 desc = "Grand Theft Auto"
+
+[ge]
+disp = "GE"
+desc = "General Electric"
+
+[gcos]
+disp = "GCOS"
+desc = "General Comprehensive Operating System"
+full = "A family of operating systems oriented toward the 36-bit GE/Honeywell mainframe computers, original version of GCOS was developed by General Electric from 1962"

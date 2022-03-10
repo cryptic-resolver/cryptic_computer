@@ -73,3 +73,9 @@ see = ['PEG', 'CFG']
 [ttl]
 disp = "TTL"
 desc = "Transistor–Transistor Logic"
+
+[tmg]
+disp = "TMG compiler-compiler"
+desc = "TransMoGrifier"
+full = "A recursive descent compiler-compiler developed by Robert M. McClure and presented in 1965"
+see = ['Yacc']
