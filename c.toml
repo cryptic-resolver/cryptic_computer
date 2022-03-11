@@ -284,3 +284,7 @@ desc = "Compatible Time-Sharing System"
 [cto]
 disp = "CTO"
 desc = "Chief Technology Officer"
+
+[ctf]
+disp = "CTF"
+desc = "Capture the Flag Challenge"

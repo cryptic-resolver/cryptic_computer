@@ -224,3 +224,7 @@ full = "An algebraic modeling language to describe and solve high-complexity pro
 disp = "ACE"
 desc = "Automatic Computing Engine"
 full = "A British early electronic serial stored-program computer designed by Alan Turing"
+
+[algol]
+disp = "ALGOL"
+desc = "Algorithmic Language"

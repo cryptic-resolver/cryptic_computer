@@ -139,3 +139,7 @@ desc = "Ruby on Rails"
 disp = "Ratfor"
 desc = "Rational Fortran"
 full = "A programming language implemented as a preprocessor for Fortran 66. It provides modern control structures, unavailable in Fortran 66, to replace GOTOs and statement numbers., designed and implemented by Brian Kernighan at Bell Telephone Laboratories in 1974"
+
+[rdp]
+disp = "RDP"
+desc = "Remote Desktop Protocol"

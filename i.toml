@@ -160,3 +160,8 @@ full = "An abstract computer programming language (or a family of languages) dev
 [ipc]
 disp = "IPC"
 desc = "Inter-Process Communication"
+
+[ial]
+disp = "IAL"
+desc = "Internatinal Algebraic Language"
+see = ['ALGOL']

@@ -49,8 +49,12 @@ disp = "VPS"
 desc = "Virtual Private Server"
 
 [vpn]
-dsip = "VPN"
+disp = "VPN"
 desc = "Virtual Private Network"
+
+[vnc]
+disp = "VNC"
+desc = "Virtual Network Computing"
 
 [vc]
 same = 'MSVC<=>msvc'
