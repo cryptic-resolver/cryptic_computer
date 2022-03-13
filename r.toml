@@ -143,3 +143,11 @@ full = "A programming language implemented as a preprocessor for Fortran 66. It 
 [rdp]
 disp = "RDP"
 desc = "Remote Desktop Protocol"
+
+[rpc]
+disp = "RPC"
+desc = "Remote Procedure Call"
+
+[rtc]
+disp = "RTC"
+desc = "Real-time Clock"

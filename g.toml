@@ -159,3 +159,8 @@ desc = "General Electric"
 disp = "GCOS"
 desc = "General Comprehensive Operating System"
 full = "A family of operating systems oriented toward the 36-bit GE/Honeywell mainframe computers, original version of GCOS was developed by General Electric from 1962"
+
+[gnat]
+disp = "GNAT"
+desc = "GNU NYU Ada Translator, but that name no longer applies"
+full = "A free-software compiler for the Ada programming language which forms part of the GNU Compiler Collection (GCC). It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83. The front-end and run-time are written in Ada. "

@@ -18,3 +18,7 @@ see = ['MFA']
 [443.port]
 disp = "443 port"
 desc = "HTTPS Port"
+
+[30170]
+disp = "ISO/IEC 30170:2012"
+desc = "Information technology — Programming languages — Ruby"

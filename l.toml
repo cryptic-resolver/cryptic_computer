@@ -119,6 +119,13 @@ desc = "Light-Weight Process"
 disp = "LBA"
 desc = "Linear Bounded Automaton"
 
+[l10n]
+disp = "L10n"
+desc = """Localization
+         ^^^^^^^^^^
+          10 chars"""
+see = ['i18n', 'm17n']
+
 
 ################################################
 ######             C Lib                  ######

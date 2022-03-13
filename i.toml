@@ -165,3 +165,18 @@ desc = "Inter-Process Communication"
 disp = "IAL"
 desc = "Internatinal Algebraic Language"
 see = ['ALGOL']
+
+[i18n]
+disp = "i18n"
+desc = """internationalization
+         ^^^^^^^^^^^^^^^^^^
+              18 chars"""
+see = ['L10n','m17n']
+
+[ics]
+disp = "ICS for ISO"
+desc = "ISO - International Classification for Standards"
+
+[iam]
+disp = "IAM"
+desc = "Identity and Access Management"

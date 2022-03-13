@@ -49,3 +49,7 @@ desc = "Writer, Presentation and Spreadsheets"
 [wip]
 disp = "WIP"
 desc = "Work in Progress"
+
+[webrtc]
+disp = "WebRTC"
+desc = "Web Real-Time Communication"

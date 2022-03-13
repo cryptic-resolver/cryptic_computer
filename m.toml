@@ -149,3 +149,11 @@ disp = "Multics"
 desc = "Multiplexed Information and Computing Service"
 full = "An influential early time-sharing operating system based on the concept of a single-level memory"
 see = ['Unix']
+
+[m17n]
+disp = "m17n"
+desc = """multilingualization
+         ^^^^^^^^^^^^^^^^^
+              17 chars"""
+full = "A free software library for any GNU-Linux/Unix applications to realize multilingualization of many aspects of applications"
+see = ['i18n','L10n']
