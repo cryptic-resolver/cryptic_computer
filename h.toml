@@ -109,3 +109,7 @@ desc = "HyperText Markup Language"
 [hp]
 disp = "HP"
 desc = "Hewlett-Packard Company"
+
+[hhvm]
+disp = "HHVM"
+desc = "HipHop Virtual Machine"

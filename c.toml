@@ -288,3 +288,7 @@ desc = "Chief Technology Officer"
 [ctf]
 disp = "CTF"
 desc = "Capture the Flag Challenge"
+
+[cors]
+disp = "CORS"
+desc = "Cross-Origin Resource Sharing"

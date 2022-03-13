@@ -79,3 +79,7 @@ desc = "Function as a Service"
 disp = "Fortran"
 desc = "Formula Translating System, Formula Translator, Formula Translation, or Formulaic Translation."
 full = "Originally developed by IBM in the 1950s for scientific and engineering applications, and subsequently came to dominate scientific computing"
+
+[fpu]
+disp = "FPU"
+desc = "Floating Point Unit"

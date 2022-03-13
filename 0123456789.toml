@@ -15,10 +15,48 @@ disp = "2FA"
 desc = "Two-factor Authentication"
 see = ['MFA']
 
+[200.HTTPcode]
+disp = "HTTP response status code: 200"
+desc = "OK"
+
+[201.HTTPcode]
+disp = "HTTP response status code: 201"
+desc = "Created"
+
+[302.HTTPcode]
+disp = "HTTP response status code: 302"
+desc = "Found"
+see = ['404']
+
+[400.HTTPcode]
+disp = "HTTP response status code: 400"
+desc = "Bad Request"
+
+[403.HTTPcode]
+disp = "HTTP response status code: 403"
+desc = "Forbidden"
+
+[404.HTTPcode]
+disp = "HTTP response status code: 404"
+desc = "Not Found"
+see = ['302']
+
 [443.port]
 disp = "443 port"
 desc = "HTTPS Port"
 
-[30170]
+[500.HTTPcode]
+disp = "HTTP response status code: 500"
+desc = "Internal Server Error"
+
+[502.HTTPcode]
+disp = "HTTP response status code: 502"
+desc = "Bad Gateway"
+
+[30170.iso]
 disp = "ISO/IEC 30170:2012"
 desc = "Information technology — Programming languages — Ruby"
+
+[4217.iso]
+disp = "ISO 4217"
+full = "It defines alpha codes and numeric codes for the representation of currencies and provides information about the relationships between individual currencies and their minor units"

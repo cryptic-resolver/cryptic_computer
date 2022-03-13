@@ -67,6 +67,16 @@ see = ['JDK']
 disp = "JVM"
 desc = "Java Virtual Machine"
 
+[j2me]
+disp = "J2ME"
+desc = "Java Platform, Micro Edition"
+see = ['J2SE']
+
+[j2se]
+disp = "J2SE"
+desc = "Java Platform, Standard Edition"
+see = ['J2ME']
+
 [jflap]
 disp = "JFLAP"
 desc = "Java Formal Languages and Automata Package"

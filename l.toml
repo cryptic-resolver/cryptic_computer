@@ -126,6 +126,16 @@ desc = """Localization
           10 chars"""
 see = ['i18n', 'm17n']
 
+[ldap]
+disp = "LDAP"
+desc = "Lightweight Directory Access Protocol"
+
+[lldb]
+disp = "LLDB"
+desc = "Debugger for LLVM"
+
+
+
 
 ################################################
 ######             C Lib                  ######
