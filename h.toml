@@ -113,3 +113,8 @@ desc = "Hewlett-Packard Company"
 [hhvm]
 disp = "HHVM"
 desc = "HipHop Virtual Machine"
+
+[hpc.counter]
+disp = "HPC"
+desc = "Hardware Performance Counters"
+full = "A set of special-purpose registers built into modern microprocessors to store the counts of hardware-related activities within computer systems"

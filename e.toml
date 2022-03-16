@@ -118,3 +118,8 @@ desc = "Erlang Run-Time System"
 [erlang]
 disp = "Erlang"
 desc = "Ericsson Language"
+
+[elpa]
+disp = "GNU elpa"
+desc = "GNU Emacs Lisp Package Archive"
+see = ['MELPA']

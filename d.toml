@@ -187,3 +187,7 @@ desc = "Digital Equipment Corporation"
 [dtrace]
 disp = "dtrace"
 desc = "dynamic tracing framework"
+
+[dwim]
+disp = "dwim"
+desc = "do what I mean"

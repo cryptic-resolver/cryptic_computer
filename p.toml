@@ -169,3 +169,7 @@ see = ['PDP-7','VAX']
 [perf]
 disp = "perf"
 desc = "performance analyzing tool in Linux"
+
+[pdb.python]
+disp = "pdb"
+desc = "The Python Debugger"

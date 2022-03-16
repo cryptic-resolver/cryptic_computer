@@ -30,6 +30,7 @@ see = ['CLOS']
 [melpa]
 disp = "MELPA"
 desc = "Milkypostman’s Emacs Lisp Package Archive"
+see = ['elpa']
 
 [m-expression]
 disp = "M-expression"

@@ -168,3 +168,11 @@ full = "A free-software compiler for the Ada programming language which forms pa
 [gcov]
 disp = "Gcov"
 desc = "source code coverage analysis from GCC"
+
+[gperf]
+disp = "gperf"
+desc = "perfect hash function generator "
+
+[gprof]
+disp = "gprof"
+desc = "performance analysis tool for Unix applications"
