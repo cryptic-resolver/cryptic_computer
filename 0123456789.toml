@@ -1,14 +1,50 @@
-[0]
+[0.fd]
 disp = "0(Linux)"
 desc = "standard input"
 
-[1]
+[1.fd]
 disp = "1(Linux)"
 desc = "standard output"
 
-[2]
+[2.fd]
 disp = "2(Linux)"
 desc = "standard error"
+
+[1.man]
+disp = "man 1"
+desc = "Executable programs or shell commands"
+
+[2.man]
+disp = "man 2"
+desc = "System calls"
+
+[3.man]
+disp = "man 3"
+desc = "Library calls"
+
+[4.man]
+disp = "man 4"
+desc = "Special files"
+
+[5.man]
+disp = "man 5"
+desc = "File formats and conventions"
+
+[6.man]
+disp = "man 6"
+desc = "Games"
+
+[7.man]
+disp = "man 7"
+desc = "Miscellaneous"
+
+[8.man]
+disp = "man 8"
+desc = "System administration commands"
+
+[9.man]
+disp = "man 9"
+desc = "Kernel routines"
 
 [2fa]
 disp = "2FA"
