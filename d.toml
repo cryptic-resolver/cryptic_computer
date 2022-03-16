@@ -183,3 +183,7 @@ desc = "Data Processing Unit"
 [dec]
 disp = "DEC"
 desc = "Digital Equipment Corporation"
+
+[dtrace]
+disp = "dtrace"
+desc = "dynamic tracing framework"

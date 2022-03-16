@@ -60,3 +60,7 @@ desc = "Network-attached Storage"
 [np]
 disp = "NP"
 desc = "Non-deterministic Polynomial-time"
+
+[ni]
+disp = "NI"
+desc = "National Instruments"

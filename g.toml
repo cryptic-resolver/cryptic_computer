@@ -164,3 +164,7 @@ full = "A family of operating systems oriented toward the 36-bit GE/Honeywell ma
 disp = "GNAT"
 desc = "GNU NYU Ada Translator, but that name no longer applies"
 full = "A free-software compiler for the Ada programming language which forms part of the GNU Compiler Collection (GCC). It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83. The front-end and run-time are written in Ada. "
+
+[gcov]
+disp = "Gcov"
+desc = "source code coverage analysis from GCC"

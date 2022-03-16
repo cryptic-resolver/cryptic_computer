@@ -294,3 +294,13 @@ full = "Intended as a target for functional programming language compilers."
 [sco]
 disp = "SCO"
 desc = "Santa Cruz Operation"
+
+[svr4]
+disp = "SVR4"
+desc = "System V Release 4.0"
+full = "It was announced on October 18, 1988"
+
+[strace]
+disp = "strace"
+desc = "system calls tracer"
+see = ['ltrace']

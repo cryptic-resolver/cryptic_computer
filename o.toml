@@ -110,3 +110,8 @@ desc = "Open-Source Software"
 [os]
 disp = "OS"
 desc = "Operating System"
+
+[obs]
+disp = "OBS"
+desc = "openSUSE Build Service"
+full = "https://build.opensuse.org/"

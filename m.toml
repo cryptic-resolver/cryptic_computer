@@ -157,3 +157,7 @@ desc = """multilingualization
               17 chars"""
 full = "A free software library for any GNU-Linux/Unix applications to realize multilingualization of many aspects of applications"
 see = ['i18n','L10n']
+
+[m2e]
+disp = "m2e"
+desc = "maven support in Eclipse"

@@ -77,6 +77,10 @@ disp = "J2SE"
 desc = "Java Platform, Standard Edition"
 see = ['J2ME']
 
+[jna]
+disp = "JNA"
+desc = "Java Native Access"
+
 [jflap]
 disp = "JFLAP"
 desc = "Java Formal Languages and Automata Package"

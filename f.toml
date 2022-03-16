@@ -83,3 +83,8 @@ full = "Originally developed by IBM in the 1950s for scientific and engineering 
 [fpu]
 disp = "FPU"
 desc = "Floating Point Unit"
+
+[ftrace]
+disp = "ftrace"
+desc = "function tracer"
+full = "in <linux/ftrace.h>"

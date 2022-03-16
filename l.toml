@@ -134,8 +134,15 @@ desc = "Lightweight Directory Access Protocol"
 disp = "LLDB"
 desc = "Debugger for LLVM"
 
+[lsof]
+disp = "lsof"
+desc = "list open files"
 
-
+[ltrace]
+disp = "ltrace"
+desc = "dynamic library calls tracer"
+full = "Display dynamic library calls of a process"
+see  = ['strace']
 
 ################################################
 ######             C Lib                  ######
@@ -158,3 +165,10 @@ disp = "liby"
 desc = "C yacc library"
 full = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
 see = ['Yacc', 'libl']
+
+[libffi.clib]
+disp = "libffi"
+desc = "A portable foreign-function interface library"
+full = """https://github.com/libffi/libffi
+  https://sourceware.org/libffi
+"""

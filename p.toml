@@ -165,3 +165,7 @@ disp = "PDP-11"
 desc = "Programmed Data Processor 11"
 full = "16-bit, its successor is VAX"
 see = ['PDP-7','VAX']
+
+[perf]
+disp = "perf"
+desc = "performance analyzing tool in Linux"
