@@ -162,3 +162,20 @@ see = ['i18n','L10n']
 [m2e]
 disp = "m2e"
 desc = "maven support in Eclipse"
+
+[magit.Emacs]
+disp = "Magit"
+desc = "Magical Git"
+full = "Most popular Git client for Emacs"
+
+[mpx.Intel]
+disp = "mpx"
+desc = "Memory Protection Extensions"
+full = "A set of extensions to the x86 instruction set architecture"
+
+[m4]
+disp = "m4"
+desc = "a general-purpose macro processor"
+full = """The language was designed by Brian Kernighan and Dennis Ritchie for the original versions of UNIX. It is an extension of an earlier macro processor, m3, written by Ritchie for an unknown AP-3 minicomputer. 
+  
+  The macro preprocessor operates as a text-replacement tool. It is employed to re-use text templates, typically in computer programming applications, but also in text editing and text-processing applications. Most users require m4 as a dependency of GNU autoconf. """

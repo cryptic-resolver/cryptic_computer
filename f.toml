@@ -88,3 +88,7 @@ desc = "Floating Point Unit"
 disp = "ftrace"
 desc = "function tracer"
 full = "in <linux/ftrace.h>"
+
+[fips]
+disp = "FIPS"
+desc = "Federal Information Processing Standards"

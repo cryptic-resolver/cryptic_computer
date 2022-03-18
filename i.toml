@@ -180,3 +180,7 @@ desc = "ISO - International Classification for Standards"
 [iam]
 disp = "IAM"
 desc = "Identity and Access Management"
+
+[itu]
+disp = "ITU"
+desc = "International Telecommunication Union"

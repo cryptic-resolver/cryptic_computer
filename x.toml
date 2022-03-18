@@ -50,3 +50,13 @@ desc = "Cross-site Scripting"
 disp = "XUL"
 desc = "XML User Interface Language"
 full = "An XML dialect for writing graphical user interfaces developed by Mozilla"
+
+["x.509"]
+disp = "X.509"
+desc = "an ITU standard defining the format of public key certificates"
+
+[xcoff]
+disp = "XCOFF"
+desc = "eXtended COFF"
+full = "An improved and expanded version of the COFF object file format defined by IBM and used in AIX. Early versions of the PowerPC Macintosh also supported XCOFF, as did BeOS."
+see = ['COFF']

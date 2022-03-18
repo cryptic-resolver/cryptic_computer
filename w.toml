@@ -53,3 +53,8 @@ desc = "Work in Progress"
 [webrtc]
 disp = "WebRTC"
 desc = "Web Real-Time Communication"
+
+[wget]
+disp = "Wget"
+desc = "network get"
+full = "Non-interactive network downloader"

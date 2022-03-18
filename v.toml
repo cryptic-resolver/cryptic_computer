@@ -59,6 +59,10 @@ desc = "Virtual Network Computing"
 [vc]
 same = 'MSVC<=>msvc'
 
+[vc.version]
+disp = "VC"
+desc = "Version Control"
+
 [vb]
 disp = "VB"
 desc = "Microsoft Visual Basic"
@@ -68,3 +72,10 @@ see = ['VC']
 disp = "VAX"
 desc = "Virtual Address eXtension"
 full = "By DEC, one of the most successful minicomputers in history. Featuring a 32-bit ISA and virtual memory, was seen as a 32-bit extension of the older 16-bit PDP-11"
+see = ['VMS']
+
+[vms]
+disp = "VMS"
+desc = "Virtual Memory System"
+full = "a multi-user, multiprocessing and virtual memory-based operating system announced by DEC alongside the VAX-11/780 minicomputer in 1977"
+see = ['VAX']

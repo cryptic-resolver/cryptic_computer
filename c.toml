@@ -145,6 +145,7 @@ Rights:
 [coff]
 disp = "COFF"
 desc = "Common Object File Format"
+full = "A format for executable, object code, and shared library computer files used on Unix systems. It was introduced in Unix System V, replaced the previously used a.out format, and formed the basis for extended specifications such as XCOFF and ECOFF, before being largely replaced by ELF, introduced with SVR4"
 
 [clob]
 disp = "CLOB"
@@ -292,3 +293,20 @@ desc = "Capture the Flag Challenge"
 [cors]
 disp = "CORS"
 desc = "Cross-Origin Resource Sharing"
+
+[company.Emacs]
+disp = "company"
+desc = "Complete anything"
+full = "A modular text completion framework for Emacs"
+
+[ca]
+disp = "CA"
+desc = "Certificate Authority"
+
+[cat.coreutils]
+disp = "coreutils: cat"
+desc = "Concatenate and write files"
+
+[cgi]
+disp = "CGI"
+desc = "Common Gateway Interface"

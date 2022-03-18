@@ -106,6 +106,7 @@ desc = "Portable Document Format"
 [pn]
 disp = "PN"
 desc = "Polish Notation"
+full = "e.g. (+ 3 4)"
 see = ['RPN']
 
 [pldi]
@@ -173,3 +174,24 @@ desc = "performance analyzing tool in Linux"
 [pdb.python]
 disp = "pdb"
 desc = "The Python Debugger"
+
+[po]
+disp = ".PO file"
+desc = "portable object file, text-based"
+
+[pgp]
+disp = "PGP"
+desc = "Pretty Good Privacy"
+
+[pwd.coreutils]
+disp = "pwd (coreutils) "
+desc = "Print Working Directory"
+
+[php]
+disp = "PHP"
+desc = "PHP: Hypertext Preprocessor"
+full = "originally stood for Personal Home Page"
+
+[perl]
+dsip = "Perl"
+desc = "Practical Extraction and Reporting Language"

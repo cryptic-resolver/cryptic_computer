@@ -64,3 +64,15 @@ desc = "Non-deterministic Polynomial-time"
 [ni]
 disp = "NI"
 desc = "National Instruments"
+
+[nl.coreutils]
+disp = "nl (coreutils) "
+desc = "Number lines and write files"
+
+[nproc.coreutils]
+disp = "nproc (coreutils) "
+desc = "number of processors"
+
+[nist]
+disp = "NIST"
+desc = "National Institute of Standards and Technology"

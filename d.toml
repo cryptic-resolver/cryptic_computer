@@ -191,3 +191,12 @@ desc = "dynamic tracing framework"
 [dwim]
 disp = "dwim"
 desc = "do what I mean"
+
+[dc]
+disp = "dc"
+desc = "Desktop Calculator"
+full = "Arbitrary precision RPN calculator"
+
+[dbx]
+disp = "DBX"
+desc = "debugger for *nix"

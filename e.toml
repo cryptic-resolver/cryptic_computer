@@ -123,3 +123,11 @@ desc = "Ericsson Language"
 disp = "GNU elpa"
 desc = "GNU Emacs Lisp Package Archive"
 see = ['MELPA']
+
+[ed]
+disp = "ed"
+desc = "The GNU line editor"
+
+[ecdsa]
+disp = "ECDSA"
+desc = "Elliptic Curve Digital Signature Algorithm"

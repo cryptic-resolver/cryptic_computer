@@ -117,6 +117,7 @@ desc = "Red Hat Enterprise Linux"
 [rpn]
 disp = "RPN"
 desc = "Reverse Polish Notation"
+full = "e.g. (3 4 +)"
 see = ['PN']
 
 [rtos]

@@ -295,12 +295,64 @@ full = "Intended as a target for functional programming language compilers."
 disp = "SCO"
 desc = "Santa Cruz Operation"
 
+[svr1]
+disp = "SVR1"
+desc = "System V Release 1.0"
+full = "succeeded AT&T's previous commercial Unix called System III in January, 1983. Unix 4.0 was never released externally, which would have been designated as System IV"
+
+[svr2]
+disp = "SVR2"
+desc = "System V Release 2.0"
+full = "Released in 1984. Maurice J. Bach's book, <The Design of the UNIX Operating System>, is the definitive description of the SVR2 kernel"
+
+[svr3]
+disp = "SVR3"
+desc = "System V Release 3.0"
+full = "Released in 1987. IBM's AIX operating system is an SVR3 derivative."
+
 [svr4]
 disp = "SVR4"
 desc = "System V Release 4.0"
-full = "It was announced on October 18, 1988"
+full = "It was announced on October 18, 1988, commercially the most successful version in four major versions of System V 1,2,3,4"
+
+[sysv]
+disp = "SysV"
+desc = "Unix System V (pronounced: 'System Five')"
+full = "one of the first commercial versions of the Unix operating system. It was originally developed by AT&T and first released in 1983"
+see = ['SVR4','SVR3','SVR2','SVR1']
+
+[systemv]
+same = "SysV<=>sysv"
 
 [strace]
 disp = "strace"
 desc = "system calls tracer"
 see = ['ltrace']
+
+[selinux]
+disp = "SELinux"
+desc = "Security-Enhanced Linux"
+
+[sha]
+disp = "SHA"
+desc = "Secure Hash Algorithms"
+
+[stty.coreutils]
+disp = "stty (coreutils) "
+desc = "set teletype"
+full = "Print/change terminal settings"
+
+[stat.coreutils]
+disp = "stat (coreutils)"
+desc = "Report file(system) status"
+
+[sed]
+disp = "sed"
+desc = "Stream EDitor"
+
+[stabs.debug]
+disp = "stabs"
+desc = "used by DBX on most BSD systems"
+full = """When stabs was created in the 1980s, the dominant object file format was a.out, which (unlike more recent formats such as ELF) makes no provision for storing debugging information. Stabs works around this problem by encoding the information using special entries in the symbol table.
+
+At one stage stabs was widely used on Unix systems, but the newer DWARF format has largely supplanted it."""

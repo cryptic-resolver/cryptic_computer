@@ -176,3 +176,29 @@ desc = "perfect hash function generator "
 [gprof]
 disp = "gprof"
 desc = "performance analysis tool for Unix applications"
+
+[gis]
+disp = "GIS"
+desc = "Geographic Information System"
+
+[gzip]
+disp = "Gzip"
+desc = "General (de)compression of files"
+
+[gpg]
+disp = "GPG"
+desc = "GNU Privacy Guard"
+
+[grub]
+disp = "GRUB"
+desc = "GRand Unified Bootloader"
+
+[glob.pattern]
+disp = "glob"
+desc = "global"
+full = "The command interpreters of the early versions of Unix (1st through 6th Editions, 1969–1975) relied on a separate program to expand wildcard characters in unquoted arguments to a command: /etc/glob. That program performed the expansion and supplied the expanded list of file paths to the command for execution"
+
+[gas]
+disp = "GAS"
+desc = "GNU Assembler"
+full = "The GAS executable is named as"
