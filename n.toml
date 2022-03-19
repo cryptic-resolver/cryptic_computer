@@ -76,3 +76,8 @@ desc = "number of processors"
 [nist]
 disp = "NIST"
 desc = "National Institute of Standards and Technology"
+
+[nginx]
+disp = "Nginx"
+desc = "engine X"
+full = "Initial release on October 2004"

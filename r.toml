@@ -164,3 +164,23 @@ disp = "RBS"
 desc = "Ruby Signature file"
 full = "Used by Ruby3, Steep type checker"
 see = ['RBI']
+
+[rbtree]
+disp = "RB-tree"
+desc = "Red-Black tree"
+
+[ridk.Ruby]
+disp = "ridk"
+desc = "RubyInstaller Devkit"
+
+[redis]
+disp = "Redis"
+desc = "Remote Dictionary Server"
+full = "Initial release on May 2009"
+
+[rdbms]
+disp = "RDBMS"
+desc = "Relational Database Management System"
+
+[rails]
+same = "RoR<=>ror"

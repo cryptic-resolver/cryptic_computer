@@ -360,3 +360,23 @@ At one stage stabs was widely used on Unix systems, but the newer DWARF format h
 [smtp]
 disp = "SMTP"
 desc = "Simple Mail Transfer Protocol"
+
+[semver]
+disp = "SemVer"
+desc = "Semantic Versioning"
+full = "https://semver.org/"
+
+[sass]
+disp = "Sass"
+desc = "Syntactically Awesome Style Sheets"
+see = ['SCSS']
+
+[scss]
+disp = "SCSS"
+desc = "Sassy CSS"
+full = "The newer syntax for Sass"
+see = ['Sass']
+
+[ssh]
+disp = "SSH"
+desc = "Secure Shell"

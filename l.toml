@@ -149,26 +149,38 @@ see  = ['strace']
 ################################################
 
 
-[libm.clib]
+[libm]
 disp = "libm"
 desc = "C math library"
 full = "usage: c99 [ flag... ] file... –lm [ library... ] "
 
-[libl.clib]
+[libl]
 disp = "libl"
 desc = "C lex library"
 full = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
 see = ['Lex', 'liby']
 
-[liby.clib]
+[liby]
 disp = "liby"
 desc = "C yacc library"
 full = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
 see = ['Yacc', 'libl']
 
-[libffi.clib]
+[libffi]
 disp = "libffi"
 desc = "A portable foreign-function interface library"
 full = """https://github.com/libffi/libffi
   https://sourceware.org/libffi
 """
+
+[libuv]
+disp = "libuv"
+desc = "Ultra fast eVent library"
+full = "Cross-platform asynchronous I/O, which was originally written for Node.js, based on libev. In the node-v0.9.0 version of libuv, libev was removed"
+see = ['libev']
+
+[libev]
+disp = "libev"
+desc = "EVent loop library (Only on Unixes)"
+full = "loosely modelled after libevent, but without its limitations and bugs"
+see = ['libuv']

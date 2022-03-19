@@ -143,6 +143,11 @@ disp = "PL/I"
 desc = "Programming Language One"
 full = "It's the implementation language of Multics. A procedural, imperative computer programming language developed and published by IBM. It is designed for scientific, engineering, business and system programming. It has been used by academic, commercial and industrial organizations since it was introduced in the 1960s, and is still used. "
 
+["pl/0"]
+disp = "PL/0"
+desc = "Programming Language Zero"
+full = "An educational programming language, that is similar to but much simpler than PascalIt was originally introduced in the book, Algorithms + Data Structures = Programs, by Niklaus Wirth in 1976"
+
 ["pl/sql"]
 disp = "PL/SQL"
 desc = "Procedural Language for SQL"
@@ -203,3 +208,7 @@ desc = "Post Office Protocol 3"
 [ps.POSIX]
 disp = "ps"
 desc = "Process Status"
+
+[pypi]
+disp = "PyPI"
+desc = "The Python Package Index"

@@ -188,3 +188,8 @@ desc = "International Telecommunication Union"
 [imap]
 disp = "IMAP"
 desc = "Internet Message Access Protocol"
+
+[iocp]
+disp = "IOCP"
+desc = "Input/output completion port"
+full = "An API for performing multiple simultaneous asynchronous input/output operations in Windows NT versions 3.5 and later, AIX and on Solaris 10 and later. It's the kernel event notification mechanism like kqueue or (e)poll"

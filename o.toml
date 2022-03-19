@@ -115,3 +115,7 @@ desc = "Operating System"
 disp = "OBS"
 desc = "openSUSE Build Service"
 full = "https://build.opensuse.org/"
+
+[olap]
+disp = "OLAP"
+desc = "Online Analytical Processing"

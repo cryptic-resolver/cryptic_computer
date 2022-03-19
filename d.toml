@@ -200,3 +200,15 @@ full = "Arbitrary precision RPN calculator"
 [dbx]
 disp = "DBX"
 desc = "debugger for *nix"
+
+[db]
+disp = "DB"
+desc = "Database"
+
+[dbms]
+disp = "DBMS"
+desc = "Database Management System"
+
+[dry]
+disp = "DRY"
+desc = "Don't repeat yourself"

@@ -131,3 +131,13 @@ desc = "The GNU line editor"
 [ecdsa]
 disp = "ECDSA"
 desc = "Elliptic Curve Digital Signature Algorithm"
+
+[epoll]
+disp = "epoll"
+desc = "event poll"
+full = "A Linux kernel system call for a scalable I/O event notification mechanism, first introduced in version 2.5.44 of the Linux kernel. Its function is to monitor multiple file descriptors to see whether I/O is possible on any of them. It is meant to replace the older POSIX select(2)and poll(2) system calls, to achieve better performance in more demanding applications, where the number of watched file descriptors is large (unlike the older system calls, which operate in O(n) time, epoll operates in O(1) time)"
+see = ['kqueue', 'IOCP']
+
+[es]
+disp = "ES"
+desc = "ECMAScript"
