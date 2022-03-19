@@ -356,3 +356,7 @@ desc = "used by DBX on most BSD systems"
 full = """When stabs was created in the 1980s, the dominant object file format was a.out, which (unlike more recent formats such as ELF) makes no provision for storing debugging information. Stabs works around this problem by encoding the information using special entries in the symbol table.
 
 At one stage stabs was widely used on Unix systems, but the newer DWARF format has largely supplanted it."""
+
+[smtp]
+disp = "SMTP"
+desc = "Simple Mail Transfer Protocol"

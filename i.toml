@@ -184,3 +184,7 @@ desc = "Identity and Access Management"
 [itu]
 disp = "ITU"
 desc = "International Telecommunication Union"
+
+[imap]
+disp = "IMAP"
+desc = "Internet Message Access Protocol"

@@ -152,3 +152,15 @@ desc = "Remote Procedure Call"
 [rtc]
 disp = "RTC"
 desc = "Real-time Clock"
+
+[rbi]
+disp = "RBI"
+desc = "Ruby Interface file"
+full = "Used by Sorbet type checker"
+see = ['RBS']
+
+[rbs]
+disp = "RBS"
+desc = "Ruby Signature file"
+full = "Used by Ruby3, Steep type checker"
+see = ['RBI']

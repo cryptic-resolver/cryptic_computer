@@ -195,3 +195,11 @@ full = "originally stood for Personal Home Page"
 [perl]
 dsip = "Perl"
 desc = "Practical Extraction and Reporting Language"
+
+[ppo3]
+disp = "POP3"
+desc = "Post Office Protocol 3"
+
+[ps.POSIX]
+disp = "ps"
+desc = "Process Status"

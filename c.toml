@@ -310,3 +310,7 @@ desc = "Concatenate and write files"
 [cgi]
 disp = "CGI"
 desc = "Common Gateway Interface"
+
+[cjk]
+disp = "CJK"
+desc = "Chinese, Japanese, Korean"
