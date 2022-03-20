@@ -79,3 +79,8 @@ disp = "VMS"
 desc = "Virtual Memory System"
 full = "a multi-user, multiprocessing and virtual memory-based operating system announced by DEC alongside the VAX-11/780 minicomputer in 1977"
 see = ['VAX']
+
+[vdso]
+disp = "vDSO"
+desc = "virtual dynamic shared object"
+full = "A kernel mechanism for exporting a carefully selected set of kernel space routines to user space applications so that applications can call these kernel space routines in-process, without incurring the performance penalty of a mode switch from user mode to kernel mode that is inherent when calling these same kernel space routines by means of the system call interface"

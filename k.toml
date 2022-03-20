@@ -12,3 +12,12 @@ disp = "kqueue"
 desc = "kernel queue"
 full = "A scalable event notification interface introduced in FreeBSD 4.1 on July 2000, also supported in NetBSD, OpenBSD, DragonFly BSD, and macOS. "
 see = ['epoll', 'IOCP']
+
+[ksh]
+disp = "ksh"
+desc = "KornShell"
+full = "A Unix shell which was developed by David Korn at Bell Labs in the early 1980s and announced at USENIX on July 14, 1983"
+
+[kiss]
+disp = "KISS"
+desc = "Keep it Simple, Stupid"

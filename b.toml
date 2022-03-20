@@ -96,3 +96,8 @@ desc = "An arbitrary precision calculator language"
 [bgp]
 disp = "BGP"
 desc = "Border Gateway Protocol"
+
+[bash]
+disp = "Bash"
+desc = "Bourne Again Shell, being 'born again'"
+full = "A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell"

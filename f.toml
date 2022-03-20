@@ -92,3 +92,7 @@ full = "in <linux/ftrace.h>"
 [fips]
 disp = "FIPS"
 desc = "Federal Information Processing Standards"
+
+[fhs]
+disp = "FHS"
+desc = "Filesystem Hierarchy Standard"

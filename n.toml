@@ -89,3 +89,15 @@ desc = "Network News Transfer Protocol"
 [ndp]
 disp = "NDP"
 desc = "Neighbor Discovery Protocol"
+
+[nss]
+disp = "NSS"
+desc = "Name Services Switch"
+
+[nvm]
+disp = "NVM"
+desc = "NodeJS Version Manager"
+
+[nio]
+disp = "NIO"
+desc = "Non-blocking I/O"

@@ -384,3 +384,17 @@ desc = "Secure Shell"
 [snmp]
 disp = "SNMP"
 desc = "Simple Network Management Protocol"
+
+[svid]
+disp = "SVID"
+desc = "System V Interface Definition"
+
+[sh]
+disp = "sh"
+desc = "Bourne shell"
+full = "Released in 1979 in the Version 7 Unix, developed by Stephen Bourne at Bell Labs, it was a replacement for the Thompson shell, whose executable file had the same name -- sh."
+
+[so]
+disp = ".so"
+desc = "shared objects"
+full = "Dynamically linked libraries are also called shared objects"

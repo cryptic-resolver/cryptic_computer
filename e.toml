@@ -1,6 +1,7 @@
 [elf]
 disp = "ELF"
 desc = "Executable and Linkable Format"
+full = "First published in the specification for the application binary interface (ABI) of the Unix operating system version named System V Release 4 (SVR4)"
 
 [emacs]
 disp = "Emacs"
@@ -146,3 +147,8 @@ desc = "ECMAScript"
 disp = "eww"
 desc = "Emacs Web Wowser"
 full = "A web browser written entirely in Emacs Lisp. It became part of GNU Emacs starting with version 24.4"
+
+[epub]
+disp = "EPUB"
+desc = "Electronic Publication"
+full = "An e-book file format. It became an official standard of the IDPF in September 2007, superseding the older Open eBook standard"

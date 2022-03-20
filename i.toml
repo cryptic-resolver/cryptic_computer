@@ -201,3 +201,7 @@ desc = "Internet Control Message Protocol"
 [ido.Emacs]
 disp = "Ido mode in Emacs"
 desc = "Interactively DO things"
+
+[idpf]
+disp = "IDPF"
+desc = "International Digital Publishing Forum"

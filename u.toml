@@ -64,3 +64,8 @@ desc = "User Datagram Protocol"
 disp = "Unix"
 desc = "Uniplexed Information and Computing Service"
 see = ['Multics']
+
+[ufw]
+disp = "UFW"
+desc = "Uncomplicated FireWall"
+full = "A frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu"

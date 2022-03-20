@@ -67,3 +67,7 @@ desc = "World Wide Web"
 disp = "w3m"
 desc = "WWW wo miru (WWWを見る)"
 full = "which is Japanese for 'to see the WWW'"
+
+[w3c]
+disp = "W3C"
+desc = "World Wide Web Consortium"

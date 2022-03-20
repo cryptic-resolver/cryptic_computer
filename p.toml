@@ -212,3 +212,11 @@ desc = "Process Status"
 [pypi]
 disp = "PyPI"
 desc = "The Python Package Index"
+
+[pki]
+disp = "PKI"
+desc = "Public Key Infrastructure"
+
+[pkcs]
+disp = "PKCS"
+desc = "Public Key Cryptography Standards"

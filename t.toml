@@ -84,3 +84,7 @@ see = ['Yacc']
 disp = "tty (coreutils) "
 desc = "teletype"
 full = "Print terminal name"
+
+[tch]
+disp = "tcsh"
+desc = "TENEX C Shell"
