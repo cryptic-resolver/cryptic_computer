@@ -58,3 +58,12 @@ desc = "Web Real-Time Communication"
 disp = "Wget"
 desc = "network get"
 full = "Non-interactive network downloader"
+
+[www]
+disp = "WWW"
+desc = "World Wide Web"
+
+[w3m]
+disp = "w3m"
+desc = "WWW wo miru (WWWを見る)"
+full = "which is Japanese for 'to see the WWW'"

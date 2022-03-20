@@ -202,3 +202,8 @@ full = "The command interpreters of the early versions of Unix (1st through 6th 
 disp = "GAS"
 desc = "GNU Assembler"
 full = "The GAS executable is named as"
+
+[gnus]
+disp = "Gnus"
+desc = "Gnus Network User Services"
+full = "A message reader which is part of GNU Emacs. It supports reading and composing both e-mail and news and can also act as an RSS reader, web processor, and directory browser for both local and remote filesystems."

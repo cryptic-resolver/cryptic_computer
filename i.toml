@@ -193,3 +193,11 @@ desc = "Internet Message Access Protocol"
 disp = "IOCP"
 desc = "Input/output completion port"
 full = "An API for performing multiple simultaneous asynchronous input/output operations in Windows NT versions 3.5 and later, AIX and on Solaris 10 and later. It's the kernel event notification mechanism like kqueue or (e)poll"
+
+[icmp]
+disp = "ICMP"
+desc = "Internet Control Message Protocol"
+
+[ido.Emacs]
+disp = "Ido mode in Emacs"
+desc = "Interactively DO things"

@@ -15,3 +15,7 @@ desc = "Quality Assurance"
 [qc]
 disp = "QC"
 desc = "Quality Control"
+
+[quic]
+disp = "QUIC"
+desc = "Quick UDP Internet Connections"

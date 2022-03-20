@@ -141,3 +141,8 @@ see = ['kqueue', 'IOCP']
 [es]
 disp = "ES"
 desc = "ECMAScript"
+
+[eww.Emacs]
+disp = "eww"
+desc = "Emacs Web Wowser"
+full = "A web browser written entirely in Emacs Lisp. It became part of GNU Emacs starting with version 24.4"

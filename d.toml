@@ -212,3 +212,7 @@ desc = "Database Management System"
 [dry]
 disp = "DRY"
 desc = "Don't repeat yourself"
+
+[dhcp]
+disp = "DHCP"
+desc = "Dynamic Host Configuration Protocol"

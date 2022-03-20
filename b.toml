@@ -92,3 +92,7 @@ see = ['Yacc']
 [bc]
 disp = "bc"
 desc = "An arbitrary precision calculator language"
+
+[bgp]
+disp = "BGP"
+desc = "Border Gateway Protocol"

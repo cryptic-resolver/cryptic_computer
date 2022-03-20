@@ -60,3 +60,7 @@ disp = "XCOFF"
 desc = "eXtended COFF"
 full = "An improved and expanded version of the COFF object file format defined by IBM and used in AIX. Early versions of the PowerPC Macintosh also supported XCOFF, as did BeOS."
 see = ['COFF']
+
+[xmpp]
+disp = "XMPP"
+desc = "Extensible Messaging and Presence Protocol"

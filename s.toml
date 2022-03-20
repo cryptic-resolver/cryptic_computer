@@ -380,3 +380,7 @@ see = ['Sass']
 [ssh]
 disp = "SSH"
 desc = "Secure Shell"
+
+[snmp]
+disp = "SNMP"
+desc = "Simple Network Management Protocol"

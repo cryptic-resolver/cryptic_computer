@@ -81,3 +81,11 @@ desc = "National Institute of Standards and Technology"
 disp = "Nginx"
 desc = "engine X"
 full = "Initial release on October 2004"
+
+[nntp]
+disp = "NNTP"
+desc = "Network News Transfer Protocol"
+
+[ndp]
+disp = "NDP"
+desc = "Neighbor Discovery Protocol"

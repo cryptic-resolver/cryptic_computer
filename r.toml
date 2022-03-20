@@ -184,3 +184,7 @@ desc = "Relational Database Management System"
 
 [rails]
 same = "RoR<=>ror"
+
+[rvm]
+disp = "RVM"
+desc = "Ruby Version Manager"
