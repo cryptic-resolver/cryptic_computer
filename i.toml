@@ -205,3 +205,7 @@ desc = "Interactively DO things"
 [idpf]
 disp = "IDPF"
 desc = "International Digital Publishing Forum"
+
+[icp]
+disp = "ICP"
+desc = "Internet Content Provider"

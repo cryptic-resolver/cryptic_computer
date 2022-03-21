@@ -118,3 +118,7 @@ desc = "HipHop Virtual Machine"
 disp = "HPC"
 desc = "Hardware Performance Counters"
 full = "A set of special-purpose registers built into modern microprocessors to store the counts of hardware-related activities within computer systems"
+
+[hld]
+disp = "HLD"
+desc = "High-level design"

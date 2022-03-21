@@ -68,6 +68,10 @@ desc = "Resource Acquisition Is Initialization"
 disp = "RTL"
 desc = "Runtime Library(in C/C++)"
 
+[rtl.circuit]
+disp = "RTL"
+desc = "Register-transfer level"
+
 [rf]
 disp = "RF"
 desc = "Radio Frequency"

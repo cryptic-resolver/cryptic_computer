@@ -88,3 +88,7 @@ full = "Print terminal name"
 [tch]
 disp = "tcsh"
 desc = "TENEX C Shell"
+
+[tdd]
+disp = "TDD"
+desc = "Test-driven development"

@@ -101,3 +101,7 @@ desc = "Border Gateway Protocol"
 disp = "Bash"
 desc = "Bourne Again Shell, being 'born again'"
 full = "A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell"
+
+[bdd]
+disp = "BDD"
+desc = "Behavior-Driven Development"

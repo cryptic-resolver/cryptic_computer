@@ -119,3 +119,8 @@ full = "https://build.opensuse.org/"
 [olap]
 disp = "OLAP"
 desc = "Online Analytical Processing"
+
+[ota]
+disp = "OTA"
+desc = "Over-the-air Programming"
+full = "Various methods of distributing new software, configuration settings, and so on"

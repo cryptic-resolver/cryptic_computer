@@ -19,3 +19,7 @@ desc = "Quality Control"
 [quic]
 disp = "QUIC"
 desc = "Quick UDP Internet Connections"
+
+[qr]
+disp = "QR code"
+desc = "Quick Response code"
