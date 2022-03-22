@@ -30,10 +30,6 @@ desc = "Paravirtual"
 disp = "PGO"
 desc = "Profile Guided Optimization"
 
-[pcre]
-disp = "PCRE"
-desc = "Perl Compatible Regular Expressions"
-
 [posix]
 disp = "POSIX"
 desc = "Portable Operating System Interface"
@@ -49,11 +45,6 @@ desc = "Printed Circuit Board"
 [pkm]
 disp = "PKM"
 desc = "Personal Knowledge Management"
-
-[pod]
-disp = "POD"
-desc = "Plain Old Documentation"
-full = "A lightweight markup language used to document the Perl programming language as well as Perl modules and programs."
 
 [pep.python]
 disp = "PEP"
@@ -198,8 +189,29 @@ desc = "PHP: Hypertext Preprocessor"
 full = "originally stood for Personal Home Page"
 
 [perl]
-dsip = "Perl"
+disp = "Perl"
 desc = "Practical Extraction and Reporting Language"
+
+[perlref.Perl]
+disp = "perlref"
+desc = "Perl references and nested data structures"
+
+[perlop.Perl]
+disp = "perlop"
+desc = "Perl operators and precedence"
+
+[perlre.Perl]
+disp = "perlre"
+desc = "Perl regular expressions"
+
+[pcre]
+disp = "PCRE"
+desc = "Perl Compatible Regular Expressions"
+
+[pod]
+disp = "POD"
+desc = "Plain Old Documentation"
+full = "A lightweight markup language used to document the Perl programming language as well as Perl modules and programs."
 
 [ppo3]
 disp = "POP3"
@@ -224,3 +236,4 @@ desc = "Public Key Cryptography Standards"
 [pom]
 disp = "POM"
 desc = "Project Object Model"
+

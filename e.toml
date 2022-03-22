@@ -161,3 +161,7 @@ full = "When you Ctrl-d"
 [ede.Emacs]
 disp = "EDE"
 desc = "Emacs Development Environment"
+
+[elsa.Emacs]
+disp = "elsa"
+desc = "Emacs Lisp Static Analyser"
