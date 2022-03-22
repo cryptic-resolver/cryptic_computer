@@ -21,3 +21,7 @@ full = "A Unix shell which was developed by David Korn at Bell Labs in the early
 [kiss]
 disp = "KISS"
 desc = "Keep it Simple, Stupid"
+
+[k8s]
+disp = "K8s"
+desc = "Kubernetes"

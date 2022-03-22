@@ -314,3 +314,7 @@ desc = "Common Gateway Interface"
 [cjk]
 disp = "CJK"
 desc = "Chinese, Japanese, Korean"
+
+[curl]
+disp = "cURL"
+desc = "Client URL"

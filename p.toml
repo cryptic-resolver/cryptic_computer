@@ -220,3 +220,7 @@ desc = "Public Key Infrastructure"
 [pkcs]
 disp = "PKCS"
 desc = "Public Key Cryptography Standards"
+
+[pom]
+disp = "POM"
+desc = "Project Object Model"

@@ -105,3 +105,11 @@ full = "A Unix shell and command language written by Brian Fox for the GNU Proje
 [bdd]
 disp = "BDD"
 desc = "Behavior-Driven Development"
+
+[bdw-gc]
+disp = "bdw-gc"
+desc = "Boehm-Demers-Weiser conservative C/C++ Garbage Collector"
+
+
+[bdwgc]
+same = "bdw-gc"

@@ -152,3 +152,12 @@ full = "A web browser written entirely in Emacs Lisp. It became part of GNU Emac
 disp = "EPUB"
 desc = "Electronic Publication"
 full = "An e-book file format. It became an official standard of the IDPF in September 2007, superseding the older Open eBook standard"
+
+[eof]
+disp = "EOF"
+desc = "End-of-file"
+full = "When you Ctrl-d"
+
+[ede.Emacs]
+disp = "EDE"
+desc = "Emacs Development Environment"
