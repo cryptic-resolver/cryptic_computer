@@ -68,3 +68,7 @@ desc = "Extensible Messaging and Presence Protocol"
 [xhtml]
 disp = "XHTML"
 desc = "Extensible HyperText Markup Language"
+
+[xls.Office]
+disp = "XLS"
+desc = "Excel Spreadsheet"

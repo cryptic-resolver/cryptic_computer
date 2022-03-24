@@ -124,3 +124,7 @@ desc = "Online Analytical Processing"
 disp = "OTA"
 desc = "Over-the-air Programming"
 full = "Various methods of distributing new software, configuration settings, and so on"
+
+[odf]
+disp = "ODF"
+desc = "Open Document Format"
