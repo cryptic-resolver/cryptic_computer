@@ -189,3 +189,15 @@ full = "A build automation tool used primarily for Java projects"
 disp = "MD5"
 desc = "Message-Digest function 5"
 full = "A cryptographically broken but still widely used hash function producing a 128-bit hash value, designed by Ronald Rivest in 1991 to replace an earlier hash function MD4"
+
+[mfc]
+disp = "MFC"
+desc = "Microsoft Foundation Class Library"
+
+[mimd]
+disp = "MIMD"
+desc = "Multiple instruction, Multiple data"
+
+[mac]
+disp = "MAC"
+desc = "Media Access Control address"

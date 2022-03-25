@@ -228,3 +228,11 @@ full = "A British early electronic serial stored-program computer designed by Al
 [algol]
 disp = "ALGOL"
 desc = "Algorithmic Language"
+
+[acpi]
+disp = "ACPI"
+desc = "Advanced Configuration and Power Interface"
+
+[arp]
+disp = "ARP"
+desc = "Address Resolution Protocol"

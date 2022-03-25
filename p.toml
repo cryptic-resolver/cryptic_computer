@@ -237,3 +237,7 @@ desc = "Public Key Cryptography Standards"
 disp = "POM"
 desc = "Project Object Model"
 
+[ppa.Ubuntu]
+disp = "PPA"
+desc = "Personal Package Archive"
+

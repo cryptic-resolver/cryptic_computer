@@ -69,3 +69,7 @@ see = ['Multics']
 disp = "UFW"
 desc = "Uncomplicated FireWall"
 full = "A frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu"
+
+[usi]
+disp = "USI"
+desc = "Universal Stylus Initiative"

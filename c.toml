@@ -318,3 +318,7 @@ desc = "Chinese, Japanese, Korean"
 [curl]
 disp = "cURL"
 desc = "Client URL"
+
+[ccpc.Kernel]
+disp = "CCPC"
+desc = "Collaborative Processor Performance Control"

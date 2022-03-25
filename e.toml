@@ -158,6 +158,10 @@ disp = "EOF"
 desc = "End-of-file"
 full = "When you Ctrl-d"
 
+[eol]
+disp = "EOL"
+desc = "End-of-Life"
+
 [ede.Emacs]
 disp = "EDE"
 desc = "Emacs Development Environment"

@@ -128,3 +128,7 @@ full = "Various methods of distributing new software, configuration settings, an
 [odf]
 disp = "ODF"
 desc = "Open Document Format"
+
+[oid.Git]
+disp = "OID"
+desc = "Git Object ID"

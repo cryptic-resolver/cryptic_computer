@@ -398,3 +398,15 @@ full = "Released in 1979 in the Version 7 Unix, developed by Stephen Bourne at B
 disp = ".so"
 desc = "shared objects"
 full = "Dynamically linked libraries are also called shared objects"
+
+[sve]
+disp = "SVE"
+desc = "Scalable Vector Extensions"
+
+[sme]
+disp = "SME"
+desc = "Scalable Matrix Extension"
+
+[simd]
+disp = "SIMD"
+desc = "Single instruction, Multiple data"

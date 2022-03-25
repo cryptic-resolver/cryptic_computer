@@ -25,3 +25,7 @@ desc = "Keep it Simple, Stupid"
 [k8s]
 disp = "K8s"
 desc = "Kubernetes"
+
+[kcsan.Kernel]
+disp = "KCSAN"
+desc = "The Kernel Concurrency Sanitizer"
