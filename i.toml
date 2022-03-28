@@ -209,3 +209,8 @@ desc = "International Digital Publishing Forum"
 [icp]
 disp = "ICP"
 desc = "Internet Content Provider"
+
+[iis]
+disp = "IIS"
+desc = "Internet Information Services"
+full = "An extensible web server software created by Microsoft for use with the Windows NT family"

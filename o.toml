@@ -53,6 +53,12 @@ desc = "Optical Character Recognition"
 [orm]
 disp = "ORM"
 desc = "Object Relational Mapper"
+see = ['ODM']
+
+[odm]
+disp = "ODM"
+desc = "Object Document Mapper"
+see = ['ORM']
 
 [otf]
 disp = ".otf"

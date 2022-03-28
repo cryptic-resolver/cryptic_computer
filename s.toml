@@ -410,3 +410,7 @@ desc = "Scalable Matrix Extension"
 [simd]
 disp = "SIMD"
 desc = "Single instruction, Multiple data"
+
+[ssi]
+disp = "SSI"
+desc = "Server Side Includes"

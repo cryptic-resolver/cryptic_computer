@@ -2,6 +2,10 @@
 disp = "lvm"
 desc = "Logical Volume Manager"
 
+[ls]
+disp = "ls"
+desc = "list computer files"
+
 [lzw]
 disp = "LZW"
 desc = "Lempel–Ziv–Welch compression algorithm"

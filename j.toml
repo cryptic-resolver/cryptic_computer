@@ -89,3 +89,7 @@ desc = "Java Formal Languages and Automata Package"
 disp = "JSX"
 desc = "JavaScript Extension"
 full = "A React extension which allows writing JavaScript code that looks like HTML"
+
+[jemalloc]
+disp = "jemalloc"
+desc = "Jason Evans memory allocator"

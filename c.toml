@@ -322,3 +322,7 @@ desc = "Client URL"
 [ccpc.Kernel]
 disp = "CCPC"
 desc = "Collaborative Processor Performance Control"
+
+[cidr]
+disp = "CIDR"
+desc = "Classless Inter-Domain Routing"

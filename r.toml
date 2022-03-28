@@ -192,3 +192,7 @@ same = "RoR<=>ror"
 [rvm]
 disp = "RVM"
 desc = "Ruby Version Manager"
+
+[rhc]
+disp = "RHC"
+desc = "Ruby Hack Challenge"

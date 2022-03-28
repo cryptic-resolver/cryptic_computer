@@ -241,3 +241,8 @@ desc = "Project Object Model"
 disp = "PPA"
 desc = "Personal Package Archive"
 
+[pgi]
+disp = "PGI"
+desc = "The Portland Group, Inc"
+full = "A company that produced a set of commercially available Fortran, C and C++ compilers for high-performance computing systems. On July 29, 2013, Nvidia acquired The Portland Group, Inc."
+
