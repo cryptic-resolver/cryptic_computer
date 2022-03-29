@@ -59,10 +59,18 @@ desc = "OK"
 disp = "HTTP response status code: 201"
 desc = "Created"
 
+[301.HTTPcode]
+disp = "HTTP response status code: 301"
+desc = "Moved Permanently"
+
 [302.HTTPcode]
 disp = "HTTP response status code: 302"
 desc = "Found"
 see = ['404']
+
+[308.HTTPcode]
+disp = "HTTP response status code: 308"
+desc = "Permanent Redirect"
 
 [400.HTTPcode]
 disp = "HTTP response status code: 400"

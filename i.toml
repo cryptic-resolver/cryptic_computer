@@ -214,3 +214,7 @@ desc = "Internet Content Provider"
 disp = "IIS"
 desc = "Internet Information Services"
 full = "An extensible web server software created by Microsoft for use with the Windows NT family"
+
+[iac]
+disp = "IaC"
+desc = "Infrastructure as Code"
