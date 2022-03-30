@@ -67,6 +67,11 @@ see = ['JDK']
 disp = "JVM"
 desc = "Java Virtual Machine"
 
+[jcp]
+disp = "JCP"
+desc = "Java Community Process"
+full = "A formalized mechanism that allows interested parties to develop standard technical specifications for Java technology, established in 1998"
+
 [j2me]
 disp = "J2ME"
 desc = "Java Platform, Micro Edition"

@@ -56,6 +56,11 @@ desc = "Microsoft Visual C++"
 disp = "MRI"
 desc = "Matz's Ruby Interpreter"
 
+[mjit]
+disp = "MJIT"
+desc = "Method Based Just-in-time Compiler for Ruby"
+see = ['YJIT']
+
 [mpfr]
 disp = "GNU MPFR"
 desc = "The GNU Multiple Precision Floating-Point Reliable Library"

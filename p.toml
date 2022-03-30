@@ -246,3 +246,18 @@ disp = "PGI"
 desc = "The Portland Group, Inc"
 full = "A company that produced a set of commercially available Fortran, C and C++ compilers for high-performance computing systems. On July 29, 2013, Nvidia acquired The Portland Group, Inc."
 
+[pypa]
+disp = "pypa"
+desc = "Python Packaging Authority"
+
+[pos]
+disp = "PoS"
+desc = "Proof of Stake"
+full = "This is done to avoid the computational cost of proof of work schemes"
+see = ['PoW']
+
+[pow]
+disp = "PoW"
+desc = "Proof of Work"
+full = "A class of consensus mechanisms for blockchains"
+see = ['PoS']

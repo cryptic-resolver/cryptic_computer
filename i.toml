@@ -218,3 +218,7 @@ full = "An extensible web server software created by Microsoft for use with the 
 [iac]
 disp = "IaC"
 desc = "Infrastructure as Code"
+
+[icc]
+disp = "ICC"
+desc = "Intel C++ Compiler"

@@ -236,3 +236,7 @@ desc = "Advanced Configuration and Power Interface"
 [arp]
 disp = "ARP"
 desc = "Address Resolution Protocol"
+
+[asf]
+disp = "ASF"
+desc = "Apache Software Foundation"
