@@ -101,3 +101,11 @@ desc = "NodeJS Version Manager"
 [nio]
 disp = "NIO"
 desc = "Non-blocking I/O"
+
+[nvm.memory]
+disp = "NVM"
+desc = "Non-Volatile Memory"
+
+[nvme]
+disp = "NVME"
+desc = "NVM Express or Non-Volatile Memory Express"

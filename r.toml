@@ -196,3 +196,7 @@ desc = "Ruby Version Manager"
 [rhc]
 disp = "RHC"
 desc = "Ruby Hack Challenge"
+
+[rng]
+disp = "RNG"
+desc = "Random Number Generator"

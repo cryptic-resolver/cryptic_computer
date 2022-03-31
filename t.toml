@@ -92,3 +92,7 @@ desc = "TENEX C Shell"
 [tdd]
 disp = "TDD"
 desc = "Test-driven development"
+
+[tgmath.Cheader]
+disp = "<tgmath.h>"
+desc = "Type-generic math"

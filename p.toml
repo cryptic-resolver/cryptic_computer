@@ -261,3 +261,7 @@ disp = "PoW"
 desc = "Proof of Work"
 full = "A class of consensus mechanisms for blockchains"
 see = ['PoS']
+
+[pwm]
+disp = "PWM"
+desc = "Pulse-Width Modulation"
