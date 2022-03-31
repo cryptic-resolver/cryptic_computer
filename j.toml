@@ -28,7 +28,7 @@ desc = "Java Specification Requests"
 disp = "JPL"
 desc = "NASA Jet Propulsion Laboratory"
 
-[jdt.eclipse]
+[jdt.Eclipse]
 disp = "JDT"
 desc = "Eclipse Java Development Tools"
 

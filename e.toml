@@ -76,7 +76,7 @@ desc = "Base Pointer for the current stack frame"
 disp = "EIP"
 desc = "Instruction Pointer"
 
-[eca.eclipse]
+[eca.Eclipse]
 disp = "ECA"
 desc = "Eclipse Contributor Agreement"
 

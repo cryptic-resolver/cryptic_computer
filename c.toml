@@ -176,7 +176,7 @@ desc = "Central Processing Unit"
 disp = "CRC"
 desc = "Cyclic Redundancy Check"
 
-[cdt.eclipse]
+[cdt.Eclipse]
 disp = "CDT"
 desc = "Eclipse C/C++ Development Tooling"
 

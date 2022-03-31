@@ -101,19 +101,19 @@ desc = "Bad Gateway"
 #         ISO
 #########################
 
-[639.iso]
+[639.ISO]
 disp = "ISO 639"
 desc = "Language Codes"
 
-[3166.iso]
+[3166.ISO]
 disp = "ISO 3166"
 full = "Country Codes"
 
-[4217.iso]
+[4217.ISO]
 disp = "ISO 4217"
 full = "It defines alpha codes and numeric codes for the representation of currencies and provides information about the relationships between individual currencies and their minor units"
 
-[30170.iso]
+[30170.ISO]
 disp = "ISO/IEC 30170:2012"
 desc = "Information technology — Programming languages — Ruby"
 
