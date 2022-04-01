@@ -222,3 +222,7 @@ desc = "Infrastructure as Code"
 [icc]
 disp = "ICC"
 desc = "Intel C++ Compiler"
+
+[isp]
+disp = "ISP"
+desc = "Internet Service Provider"

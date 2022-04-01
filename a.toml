@@ -240,3 +240,14 @@ desc = "Address Resolution Protocol"
 [asf]
 disp = "ASF"
 desc = "Apache Software Foundation"
+
+[av1]
+disp = "AV1"
+desc = "AOMedia Video 1"
+full = "An open, royalty-free video coding format initially designed for video transmissions over the Internet. It was developed as a successor to VP9 by (AOMedia)"
+see = ['VP9']
+
+[aomedia]
+disp = "AOMedia"
+desc = "Alliance for Open Media"
+full = "A consortium founded in 2015 that includes semiconductor firms, video on demand providers, video content producers, software development companies and web browser vendors"

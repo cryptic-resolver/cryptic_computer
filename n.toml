@@ -109,3 +109,7 @@ desc = "Non-Volatile Memory"
 [nvme]
 disp = "NVME"
 desc = "NVM Express or Non-Volatile Memory Express"
+
+[nat]
+disp = "NAT"
+desc = "Network Address Translation"
