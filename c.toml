@@ -78,6 +78,10 @@ desc = "Content Delivery Network"
 disp = "CVE"
 desc = "Common Vulnerabilities and Exposures"
 
+[cvss]
+disp = "CVSS"
+desc = "Common Vulnerability Scoring System"
+
 [cmm]
 disp = "CMM"
 desc = "Capability Maturity Model"

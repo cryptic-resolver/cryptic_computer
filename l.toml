@@ -166,6 +166,11 @@ desc = "Linux Weekly News"
 disp = "LKML"
 desc = "Linux kernel mailing list"
 
+[lxc]
+disp = "LXC"
+desc = "Linux Containers"
+full = "An operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel"
+
 
 ################################################
 ######             C Lib                  ######
