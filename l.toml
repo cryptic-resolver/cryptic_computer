@@ -171,6 +171,11 @@ disp = "LXC"
 desc = "Linux Containers"
 full = "An operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel"
 
+[lsb.bit]
+disp = "LSB"
+desc = "Least Significant Bit"
+see = ['MSB']
+
 
 ################################################
 ######             C Lib                  ######

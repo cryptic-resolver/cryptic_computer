@@ -251,3 +251,7 @@ see = ['VP9']
 disp = "AOMedia"
 desc = "Alliance for Open Media"
 full = "A consortium founded in 2015 that includes semiconductor firms, video on demand providers, video content producers, software development companies and web browser vendors"
+
+[aur]
+disp = "AUR"
+desc = "Arch User Repository"

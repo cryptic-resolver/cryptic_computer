@@ -16,3 +16,9 @@ full = "A parser generator"
 [yard.Ruby]
 disp = "YARD"
 desc = "Yay! A Ruby Documentation Tool"
+
+[yum.RPM]
+disp = "YUM (Deprecated)"
+desc = "Yellowdog Updater, Modified"
+full = "Under the hood, YUM depends on RPM. A rewrite of YUM named DNF replaced YUM as the default package manager in Fedora 22."
+see = ['DNF']

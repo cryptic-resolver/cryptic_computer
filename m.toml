@@ -206,3 +206,8 @@ desc = "Multiple instruction, Multiple data"
 [mac]
 disp = "MAC"
 desc = "Media Access Control address"
+
+[msb.bit]
+disp = "MSB"
+desc = "Most Significant Bit"
+see = ['LSB']

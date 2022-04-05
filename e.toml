@@ -51,6 +51,10 @@ desc = "Electronic Design Automation"
 disp = "ETA"
 desc = "Estimated Time of Arrival"
 
+[etr]
+disp = "ETR"
+desc = "Elapsed Time Reminder"
+
 [ecma]
 disp = "ECMA"
 desc = "European Computer Manufacturers Association"
