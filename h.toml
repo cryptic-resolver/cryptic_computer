@@ -89,6 +89,10 @@ desc = "High Throughput Sequencing data"
 disp = "HTTP"
 desc = "Hypertext Transfer Protocol"
 
+[hls.HTTP]
+disp = "HLS"
+desc = "HTTP Live Streaming"
+
 [https]
 disp = "HTTPS"
 desc = "Hypertext Transfer Protocol Over Secure Socket Layer"
@@ -122,3 +126,7 @@ full = "A set of special-purpose registers built into modern microprocessors to 
 [hld]
 disp = "HLD"
 desc = "High-level design"
+
+[hal]
+disp = "HAL"
+desc = "Hardware Abstraction Layer"

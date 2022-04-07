@@ -200,3 +200,11 @@ desc = "Ruby Hack Challenge"
 [rng]
 disp = "RNG"
 desc = "Random Number Generator"
+
+[rtmp]
+disp = "RTMP"
+desc = "Real Time Messaging Protocol"
+
+[rtsp]
+disp = "RTSP"
+desc = "Real Time Streaming Protocol"

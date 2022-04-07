@@ -211,3 +211,6 @@ full = "A message reader which is part of GNU Emacs. It supports reading and com
 [gcp]
 disp = "GCP"
 desc = "Google Cloud Platform"
+
+[gles]
+same = "OpenGL ES<=>opengles"

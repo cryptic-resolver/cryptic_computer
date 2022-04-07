@@ -125,3 +125,8 @@ desc = "Information technology — Programming languages — Ruby"
 [1321.RFC]
 disp = "RFC 1321"
 desc = "The MD5 Message-Digest Algorithm"
+
+
+[3c]
+disp = "3C"
+desc = "computer, communication, consumer"

@@ -176,6 +176,9 @@ disp = "LSB"
 desc = "Least Significant Bit"
 see = ['MSB']
 
+[lf.ASCII]
+disp = "LF"
+desc = "Line Feed"
 
 ################################################
 ######             C Lib                  ######

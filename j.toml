@@ -67,6 +67,10 @@ see = ['JDK']
 disp = "JVM"
 desc = "Java Virtual Machine"
 
+[jni]
+disp = "JNI"
+desc = "Java Native Interface"
+
 [jcp]
 disp = "JCP"
 desc = "Java Community Process"

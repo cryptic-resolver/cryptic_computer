@@ -260,3 +260,8 @@ desc = "Arch User Repository"
 disp = "AoC"
 desc = "Advent of Code"
 full = "https://adventofcode.com/"
+
+[ams.Android]
+disp = "AMS"
+desc = "Activity Manager Service"
+full = "System process provided by Android to manage the running status of Activity and other components"

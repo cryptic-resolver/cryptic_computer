@@ -136,6 +136,10 @@ disp = "CR"
 desc = "Cryptic Resolver"
 full = "This is the name of this program :)"
 
+[cr.ASCII]
+disp = "<CR>"
+desc = "Carriage Return"
+
 [cc]
 disp = "CC"
 desc = "Creative Commons"

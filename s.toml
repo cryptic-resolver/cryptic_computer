@@ -111,6 +111,46 @@ desc = "C++ Standard Template Library"
 ######              ACM SIG               ######
 ################################################
 
+[sigaccess.ACMsig]
+disp = "SIGACCESS"
+desc = "ACM's Special Interest Group on Accessible Computing"
+
+[sigact.ACMsig]
+disp = "SIGACT"
+desc = "ACM's Special Interest Group on Algorithms & Computation Theory"
+
+[sigada.ACMsig]
+disp = "SIGAda"
+desc = "ACM's Special Interest Group on Ada Programming Language"
+
+[sigai.ACMsig]
+disp = "SIGAI"
+desc = "ACM's Special Interest Group on Artificial Intelligence"
+
+[sigapp.ACMsig]
+disp = "SIGAPP"
+desc = "ACM's Special Interest Group on Applied Computing"
+
+[sigarch.ACMsig]
+disp = "SIGARCH"
+desc = "ACM's Special Interest Group on Computer Architecture"
+
+[sigbed.ACMsig]
+disp = "SIGBED"
+desc = "ACM's Special Interest Group on Embedded Systems"
+
+[sigbio.ACMsig]
+disp = "SIGBio"
+desc = "ACM's Special Interest Group on Bioinformatics, Computational Biology"
+
+[sigcas.ACMsig]
+disp = "SIGCAS"
+desc = "ACM's Special Interest Group on Computers and Society"
+
+[sigchi.ACMsig]
+disp = "SIGCHI"
+desc = "ACM's Special Interest Group on Computer-Human Interaction"
+
 [sigplan.ACMsig]
 disp = "SIGPLAN"
 desc = "The ACM Special Interest Group on Programming Languages"
@@ -120,10 +160,6 @@ see = ['PLDI', 'ACM']
 disp = "SIGMOD"
 desc = "ACM's Special Interest Group on Management of Data"
 full = "which specializes in large-scale data management problems and databases."
-
-[sigbed.ACMsig]
-disp = "SIGBED"
-desc = "ACM's Special Interest Group on Embedded Systems"
 
 [sigops.ACMsig]
 disp = "SIGOPS"
@@ -440,3 +476,7 @@ desc = "Software-defined Networking"
 disp = "SUID"
 desc = "Set owner User ID up on execution"
 full = "A special type of file permissions given to a file. Normally in Linux/Unix when a program runs, it inherits access permissions from the logged in user. SUID is defined as giving temporary permissions to a user to run a program/file with the permissions of the file owner rather that the user who runs it."
+
+[sdk]
+disp = "SDK"
+desc = "Software Development Kit"
