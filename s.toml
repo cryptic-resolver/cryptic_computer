@@ -106,10 +106,28 @@ desc = "Standard Error"
 disp = "STL"
 desc = "C++ Standard Template Library"
 
-[sigmod]
+
+################################################
+######              ACM SIG               ######
+################################################
+
+[sigplan.ACMsig]
+disp = "SIGPLAN"
+desc = "The ACM Special Interest Group on Programming Languages"
+see = ['PLDI', 'ACM']
+
+[sigmod.ACMsig]
 disp = "SIGMOD"
-desc = "The Association for Computing Machinery's Special Interest Group on Management of Data"
+desc = "ACM's Special Interest Group on Management of Data"
 full = "which specializes in large-scale data management problems and databases."
+
+[sigbed.ACMsig]
+disp = "SIGBED"
+desc = "ACM's Special Interest Group on Embedded Systems"
+
+[sigops.ACMsig]
+disp = "SIGOPS"
+desc = "ACM's Special Interest Group on Operating Systems"
 
 [seo]
 disp = "SEO"
@@ -261,11 +279,6 @@ full = "An open-source software tool used to connect computer programs or librar
 [sci]
 disp = "SCI"
 desc = "Science Citation Index"
-
-[sigplan]
-disp = "SIGPLAN"
-desc = "The ACM Special Interest Group on Programming Languages"
-see = ['PLDI', 'ACM']
 
 [sudo]
 disp = "sudo"
@@ -422,3 +435,8 @@ desc = "SUSE Linux Enterprise Server"
 [sdn]
 disp = "SDN"
 desc = "Software-defined Networking"
+
+[suid]
+disp = "SUID"
+desc = "Set owner User ID up on execution"
+full = "A special type of file permissions given to a file. Normally in Linux/Unix when a program runs, it inherits access permissions from the logged in user. SUID is defined as giving temporary permissions to a user to run a program/file with the permissions of the file owner rather that the user who runs it."

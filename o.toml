@@ -138,3 +138,7 @@ desc = "Open Document Format"
 [oid.Git]
 disp = "OID"
 desc = "Git Object ID"
+
+[osdi]
+disp = "OSDI"
+desc = "Operating Systems Design and Implementation"

@@ -100,9 +100,17 @@ desc = "Polish Notation"
 full = "e.g. (+ 3 4)"
 see = ['RPN']
 
-[pldi]
+[pldi.ACMcon]
 disp = "PLDI"
 desc = "Programming Language Design and Implementation"
+
+[plop.ACMcon]
+disp = "PLOP"
+desc = "Pattern Languages of Programs"
+
+[popl.ACMcon]
+disp = "POPL"
+desc = "Principles of Programming Languages"
 
 [pda]
 disp = "PDA"

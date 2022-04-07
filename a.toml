@@ -255,3 +255,8 @@ full = "A consortium founded in 2015 that includes semiconductor firms, video on
 [aur]
 disp = "AUR"
 desc = "Arch User Repository"
+
+[aoc]
+disp = "AoC"
+desc = "Advent of Code"
+full = "https://adventofcode.com/"

@@ -207,3 +207,7 @@ full = "The GAS executable is named as"
 disp = "Gnus"
 desc = "Gnus Network User Services"
 full = "A message reader which is part of GNU Emacs. It supports reading and composing both e-mail and news and can also act as an RSS reader, web processor, and directory browser for both local and remote filesystems."
+
+[gcp]
+disp = "GCP"
+desc = "Google Cloud Platform"

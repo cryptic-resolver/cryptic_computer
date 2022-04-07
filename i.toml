@@ -226,3 +226,12 @@ desc = "Intel C++ Compiler"
 [isp]
 disp = "ISP"
 desc = "Internet Service Provider"
+
+[ispd]
+disp = "ISPD"
+desc = "International Symposium on Physical Design"
+full = "A yearly conference on the topic of electronic design automation"
+
+[iccad]
+disp = "ICCAD"
+desc = "International Conference on Computer-Aided Design "

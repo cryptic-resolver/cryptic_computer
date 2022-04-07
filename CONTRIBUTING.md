@@ -9,5 +9,8 @@ You should always add a specifier in cases:
 5. IEEE
 6. port
 
+1. ACMsig for SIG
+2. ACMcon for conference
+
 Software names should be in uppercase, e.g. `Emacs` rather than `emacs`
 
