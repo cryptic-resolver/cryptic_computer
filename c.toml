@@ -334,3 +334,7 @@ desc = "Collaborative Processor Performance Control"
 [cidr]
 disp = "CIDR"
 desc = "Classless Inter-Domain Routing"
+
+[crud]
+disp = "CRUD"
+desc = "Create, Read, Update and Delete"

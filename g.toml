@@ -214,3 +214,7 @@ desc = "Google Cloud Platform"
 
 [gles]
 same = "OpenGL ES<=>opengles"
+
+[gof]
+disp = "GoF"
+desc = "Gang of Four"

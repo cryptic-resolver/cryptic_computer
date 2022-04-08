@@ -146,8 +146,8 @@ desc = "Multi-Level Intermediate Representation"
 disp = "MVC"
 desc = "Model-View-Controller"
 
-[mvvw]
-disp = "MVVW"
+[mvvm]
+disp = "MVVM"
 desc = "Model View ViewModel"
 
 [multics]

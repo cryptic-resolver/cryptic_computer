@@ -265,3 +265,7 @@ full = "https://adventofcode.com/"
 disp = "AMS"
 desc = "Activity Manager Service"
 full = "System process provided by Android to manage the running status of Activity and other components"
+
+[aop]
+disp = "AOP"
+desc = "Aspect-Oriented Programming"
