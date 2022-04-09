@@ -90,3 +90,7 @@ disp = "VP9"
 desc = "An open and royalty-free video coding format developed by Google"
 full = "It's the successor to VP8 and competes mainly with MPEG's High Efficiency Video Coding (HEVC/H.265)"
 see = ['AV1', 'HEVC']
+
+[vte]
+disp = "VTE"
+desc = "GTK widget: Virtual Terminal Emulator"

@@ -110,6 +110,9 @@ desc = "Behavior-Driven Development"
 disp = "bdw-gc"
 desc = "Boehm-Demers-Weiser conservative C/C++ Garbage Collector"
 
-
 [bdwgc]
 same = "bdw-gc"
+
+[blog]
+disp = "Blog"
+desc = "weblog"

@@ -312,7 +312,7 @@ disp = "CA"
 desc = "Certificate Authority"
 
 [cat.coreutils]
-disp = "coreutils: cat"
+disp = "cat (coreutils)"
 desc = "Concatenate and write files"
 
 [cgi]
@@ -338,3 +338,7 @@ desc = "Classless Inter-Domain Routing"
 [crud]
 disp = "CRUD"
 desc = "Create, Read, Update and Delete"
+
+[cui]
+disp = "CUI"
+desc = "Character User Interface"

@@ -173,3 +173,8 @@ desc = "Emacs Development Environment"
 [elsa.Emacs]
 disp = "elsa"
 desc = "Emacs Lisp Static Analyser"
+
+[epel]
+disp = "EPEL"
+desc = "Extra Packages for Enterprise Linux"
+full = "A Fedora Special Interest Group that creates, maintains, and manages a high quality set of additional packages for Enterprise Linux, including, but not limited to, Red Hat Enterprise Linux (RHEL), CentOS, Scientific Linux (SL), Oracle Linux (OL), AlmaLinux (AL) and Rocky Linux (RL)."

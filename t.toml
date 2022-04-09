@@ -96,3 +96,7 @@ desc = "Test-driven development"
 [tgmath.Cheader]
 disp = "<tgmath.h>"
 desc = "Type-generic math"
+
+[tui]
+disp = "TUI"
+desc = "Text-based User Interface"
