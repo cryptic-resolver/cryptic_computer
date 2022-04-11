@@ -1,11 +1,5 @@
 # cryptic_computer dictionary
 
-computer things explained using [cr: the Cryptic Resolver](https://github.com/cryptic-resolver/cr).
+computer things explained using [cr: the Cryptic Resolver](https://github.com/cryptic-resolver/cr.rb). Please refer to its README to see the dictionary's layout and format.
 
 <br>
-
-# Layout and format
-
-The dictionary's layout and format refers to [cr]'s README.
-
-[cr]: https://github.com/cryptic-resolver/cr
