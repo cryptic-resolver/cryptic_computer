@@ -219,3 +219,7 @@ same = "OpenGL ES<=>opengles"
 [gof]
 disp = "GoF"
 desc = "Gang of Four"
+
+[gfm]
+disp = "GFM"
+desc = "GitHub Flavored Markdown"
