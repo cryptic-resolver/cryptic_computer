@@ -1,7 +1,7 @@
 [jpeg]
 name = "JPEG"
 desc = "Joint Photographic Experts Group"
-full = "Introduced in 1992. A commonly used method of lossy compression for digital images"
+more = "Introduced in 1992. A commonly used method of lossy compression for digital images"
 
 [jpg]
 name = "JPG"
@@ -10,12 +10,12 @@ same = "JPEG<=>jpeg"
 [jif]
 name = "JIF"
 desc = "JPEG Interchange Format"
-full = "This pure file format is rarely used, primarily because of the difficulty of programming encoders and decoders that fully implement all aspects of the standard and because of certain shortcomings of the standard"
+more = "This pure file format is rarely used, primarily because of the difficulty of programming encoders and decoders that fully implement all aspects of the standard and because of certain shortcomings of the standard"
 
 [jfif]
 name = "JFIF"
 desc = "JPEG File Interchange Format"
-full = "Released in 1992. It defines supplementary specifications for the container format that contains the image data encoded with the JPEG algorithm."
+more = "Released in 1992. It defines supplementary specifications for the container format that contains the image data encoded with the JPEG algorithm."
 
 [jam]
 name = "JAM"
@@ -75,7 +75,7 @@ desc = "Java Native Interface"
 [jcp]
 name = "JCP"
 desc = "Java Community Process"
-full = "A formalized mechanism that allows interested parties to develop standard technical specifications for Java technology, established in 1998"
+more = "A formalized mechanism that allows interested parties to develop standard technical specifications for Java technology, established in 1998"
 
 [j2me]
 name = "J2ME"
@@ -98,7 +98,7 @@ desc = "Java Formal Languages and Automata Package"
 [jsx]
 name = "JSX"
 desc = "JavaScript Extension"
-full = "A React extension which allows writing JavaScript code that looks like HTML"
+more = "A React extension which allows writing JavaScript code that looks like HTML"
 
 [jemalloc]
 name = "jemalloc"

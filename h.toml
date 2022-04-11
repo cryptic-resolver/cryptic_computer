@@ -1,7 +1,7 @@
 [hevc]
 name = "HEVC"
 desc = "High Efficiency Video Coding"
-full = "Known as H.265 completed in 2013"
+more = "Known as H.265 completed in 2013"
 
 ["h.264"]
 name = "H.264"
@@ -100,7 +100,7 @@ desc = "Hypertext Transfer Protocol Over Secure Socket Layer"
 [hda]
 name = "/dev/hda"
 desc = "The master disk on IDE primary controller"
-full = "hdb, hdc and so on"
+more = "hdb, hdc and so on"
 see = ['IDE', 'sda']
 
 [hdb]
@@ -121,7 +121,7 @@ desc = "HipHop Virtual Machine"
 [hpc.counter]
 name = "HPC"
 desc = "Hardware Performance Counters"
-full = "A set of special-purpose registers built into modern microprocessors to store the counts of hardware-related activities within computer systems"
+more = "A set of special-purpose registers built into modern microprocessors to store the counts of hardware-related activities within computer systems"
 
 [hld]
 name = "HLD"

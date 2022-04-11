@@ -5,18 +5,18 @@ desc = "Kernel Mode Setting"
 [kvm]
 name = "KVM"
 desc = "Kernel-based Virtual Machine"
-full ="A full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko."
+more ="A more virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko."
 
 [kqueue]
 name = "kqueue"
 desc = "kernel queue"
-full = "A scalable event notification interface introduced in FreeBSD 4.1 on July 2000, also supported in NetBSD, OpenBSD, DragonFly BSD, and macOS. "
+more = "A scalable event notification interface introduced in FreeBSD 4.1 on July 2000, also supported in NetBSD, OpenBSD, DragonFly BSD, and macOS. "
 see = ['epoll', 'IOCP']
 
 [ksh]
 name = "ksh"
 desc = "KornShell"
-full = "A Unix shell which was developed by David Korn at Bell Labs in the early 1980s and announced at USENIX on July 14, 1983"
+more = "A Unix shell which was developed by David Korn at Bell Labs in the early 1980s and announced at USENIX on July 14, 1983"
 
 [kiss]
 name = "KISS"

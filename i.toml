@@ -120,7 +120,7 @@ desc = "Integrated Development Environment"
 [ide.hardware]
 name = "IDE"
 desc = "Integrated Drive Electronics"
-full = "A type of cable that is used to connect to the motherboard directly. It's the first version of what is now called the ATA/ATAPI, developed by Western Digital"
+more = "A type of cable that is used to connect to the motherboard directly. It's the first version of what is now called the ATA/ATAPI, developed by Western Digital"
 see = ['ATA']
 
 [iot]
@@ -155,7 +155,7 @@ desc = "International Business Machines Corporation"
 [iswim]
 name = "ISWIM"
 desc = "If you See What I Mean"
-full = "An abstract computer programming language (or a family of languages) devised by Peter Landin and first described in his article 'The Next 700 Programming Languages', published in the Communications of the ACM in 1966"
+more = "An abstract computer programming language (or a family of languages) devised by Peter Landin and first described in his article 'The Next 700 Programming Languages', published in the Communications of the ACM in 1966"
 
 [ipc]
 name = "IPC"
@@ -192,7 +192,7 @@ desc = "Internet Message Access Protocol"
 [iocp]
 name = "IOCP"
 desc = "Input/output completion port"
-full = "An API for performing multiple simultaneous asynchronous input/output operations in Windows NT versions 3.5 and later, AIX and on Solaris 10 and later. It's the kernel event notification mechanism like kqueue or (e)poll"
+more = "An API for performing multiple simultaneous asynchronous input/output operations in Windows NT versions 3.5 and later, AIX and on Solaris 10 and later. It's the kernel event notification mechanism like kqueue or (e)poll"
 
 [icmp]
 name = "ICMP"
@@ -213,7 +213,7 @@ desc = "Internet Content Provider"
 [iis]
 name = "IIS"
 desc = "Internet Information Services"
-full = "An extensible web server software created by Microsoft for use with the Windows NT family"
+more = "An extensible web server software created by Microsoft for use with the Windows NT family"
 
 [iac]
 name = "IaC"
@@ -230,7 +230,7 @@ desc = "Internet Service Provider"
 [ispd]
 name = "ISPD"
 desc = "International Symposium on Physical Design"
-full = "A yearly conference on the topic of electronic design automation"
+more = "A yearly conference on the topic of electronic design automation"
 
 [iccad]
 name = "ICCAD"

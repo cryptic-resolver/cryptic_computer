@@ -1,7 +1,7 @@
 [qif]
 name = "QIF"
 desc = "Quicken Interchange Format"
-full = "It's an open specification for reading and writing financial data to media, it's older than OFX"
+more = "It's an open specification for reading and writing financial data to media, it's older than OFX"
 see = ["OFX"]
 
 [qps]

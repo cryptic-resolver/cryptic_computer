@@ -1,7 +1,7 @@
 [rsa]
 name = "RSA"
 desc = "Ron Rivest, Adi Shamir, Leonard Adleman"
-full = "They invest the RSA algorithm"
+more = "They invest the RSA algorithm"
 
 [rfc]
 name = "RFC"
@@ -10,7 +10,7 @@ desc = "Request For Comments"
 [rle]
 name = "RLE"
 desc = "Run Length Encoding (RLE)"
-full = "It is a lossless data compression algorithm, supported by many bitmap file formats, like BMP, TIFF and PCX"
+more = "It is a lossless data compression algorithm, supported by many bitmap file formats, like BMP, TIFF and PCX"
 
 [radar]
 name = "Radar"
@@ -23,7 +23,7 @@ desc = "Rational Unified Process"
 [rss.memory]
 name = "RSS"
 desc = "Resident Set Size"
-full = "to show how much real memory is to that process and is resident in RAM now"
+more = "to show how much real memory is to that process and is resident in RAM now"
 see = ['VSZ','PSS']
 
 [rtf]
@@ -33,7 +33,7 @@ desc = "Rich Text Format"
 [ris]
 name = "RIS"
 desc = "A standardized tag format developed by Research Information Systems"
-full = "Used by citation management applications like Mendeley, EndNote and so on"
+more = "Used by citation management applications like Mendeley, EndNote and so on"
 
 [r5rs]
 name = "R5RS"
@@ -58,7 +58,7 @@ desc = "RedHat Package Manager"
 [rxvt]
 name = "rxvt"
 desc = "Rob's xvt(X Virtual Terminal) or our extended virtual terminal"
-full = "a popular replacement for the standard 'xterm'"
+more = "a popular replacement for the standard 'xterm'"
 
 [raii]
 name = "RAII"
@@ -84,7 +84,7 @@ see = ['RDF']
 [rdf]
 name = "RDF"
 desc = "Resource Description Framework"
-full = "A W3C standard originally designed as a data model for metadata."
+more = "A W3C standard originally designed as a data model for metadata."
 
 [racc]
 name = "Racc"
@@ -121,7 +121,7 @@ desc = "Red Hat Enterprise Linux"
 [rpn]
 name = "RPN"
 desc = "Reverse Polish Notation"
-full = "e.g. (3 4 +)"
+more = "e.g. (3 4 +)"
 see = ['PN']
 
 [rtos]
@@ -143,7 +143,7 @@ desc = "Ruby on Rails"
 [ratfor]
 name = "Ratfor"
 desc = "Rational Fortran"
-full = "A programming language implemented as a preprocessor for Fortran 66. It provides modern control structures, unavailable in Fortran 66, to replace GOTOs and statement numbers., designed and implemented by Brian Kernighan at Bell Telephone Laboratories in 1974"
+more = "A programming language implemented as a preprocessor for Fortran 66. It provides modern control structures, unavailable in Fortran 66, to replace GOTOs and statement numbers., designed and implemented by Brian Kernighan at Bell Telephone Laboratories in 1974"
 
 [rdp]
 name = "RDP"
@@ -160,13 +160,13 @@ desc = "Real-time Clock"
 [rbi]
 name = "RBI"
 desc = "Ruby Interface file"
-full = "Used by Sorbet type checker"
+more = "Used by Sorbet type checker"
 see = ['RBS']
 
 [rbs]
 name = "RBS"
 desc = "Ruby Signature file"
-full = "Used by Ruby3, Steep type checker"
+more = "Used by Ruby3, Steep type checker"
 see = ['RBI']
 
 [rbtree]
@@ -180,7 +180,7 @@ desc = "RubyInstaller Devkit"
 [redis]
 name = "Redis"
 desc = "Remote Dictionary Server"
-full = "Initial release on May 2009"
+more = "Initial release on May 2009"
 
 [rdbms]
 name = "RDBMS"

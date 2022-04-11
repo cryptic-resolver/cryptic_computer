@@ -13,12 +13,12 @@ desc = "Augmented Backus–Naur form"
 [avi]
 name = "AVI"
 desc = "Audio Video Interleave"
-full = "Introduced by Microsoft in November 1992 as part of its Video for Windows software"
+more = "Introduced by Microsoft in November 1992 as part of its Video for Windows software"
 
 [avc]
 name = "AVC"
 desc = "Advanced Video Coding"
-full = "Known as H.264 introduced in 2003"
+more = "Known as H.264 introduced in 2003"
 
 [aac]
 name = "AAC"
@@ -39,7 +39,7 @@ desc = "Activity On Edge network"
 [avx]
 name = "AVX"
 desc = "Advanced Vector Extensions"
-full = "Intel chips support"
+more = "Intel chips support"
 
 [ami]
 name = "AMI"
@@ -60,7 +60,7 @@ desc = "AutoLisp"
 [asdf]
 name = "ASDF"
 desc = "Another System Definition Facility"
-full = "a build tool for Common Lisp libraries. It is analogous to tools such as Make and Ant."
+more = "a build tool for Common Lisp libraries. It is analogous to tools such as Make and Ant."
 
 [atk]
 name = "ATK"
@@ -69,7 +69,7 @@ desc = "Accessibility Toolkit"
 [abcl]
 name = "ABCL"
 desc = "Armed Bear Common Lisp"
-full = "Common Lisp in the JVM"
+more = "Common Lisp in the JVM"
 
 [armhf]
 name = "armhf"
@@ -114,7 +114,7 @@ desc = "American Standard Code for Information Interchange"
 [avr]
 name = "AVR"
 desc = "Help!"
-full = "A family of microcontrollers developed since 1996 by Atmel"
+more = "A family of microcontrollers developed since 1996 by Atmel"
 
 [adc]
 name = "ADC"
@@ -164,12 +164,12 @@ desc = "Anki Deck Pakcage"
 [anki]
 name = "Anki"
 desc = "Anki (暗記) is the Japanese word for 'memorization'"
-full = "A free and open-source flashcard program using spaced repetition"
+more = "A free and open-source flashcard program using spaced repetition"
 
 [ata]
 name = "ATA"
 desc = "AT Attachment"
-full = "Standard interface designed for IBM PC-compatible computers. It was first developed by Western Digital and Compaq in 1986 for compatible hard drives and CD or DVD drives."
+more = "Standard interface designed for IBM PC-compatible computers. It was first developed by Western Digital and Compaq in 1986 for compatible hard drives and CD or DVD drives."
 see = ['IDE', 'PATA', 'SATA']
 
 [atapi]
@@ -205,7 +205,7 @@ desc = "ANother Tool for Language Recognition"
 [apl]
 name = "APL"
 desc = "named after the book A Programming Language"
-full = "A programming language developed in the 1960s by Kenneth E. Iverson"
+more = "A programming language developed in the 1960s by Kenneth E. Iverson"
 
 # Can't match it on terminal input
 ["at&t"]
@@ -218,12 +218,12 @@ same = "AT&T<=>at&t"
 [ampl]
 name = "AMPL"
 desc = "A Mathematical Programming Language"
-full = "An algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing (i.e., large-scale optimization and scheduling-type problems). It was developed by Robert Fourer, David Gay, and Brian Kernighan at Bell Laboratories. "
+more = "An algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing (i.e., large-scale optimization and scheduling-type problems). It was developed by Robert Fourer, David Gay, and Brian Kernighan at Bell Laboratories. "
 
 [ace]
 name = "ACE"
 desc = "Automatic Computing Engine"
-full = "A British early electronic serial stored-program computer designed by Alan Turing"
+more = "A British early electronic serial stored-program computer designed by Alan Turing"
 
 [algol]
 name = "ALGOL"
@@ -244,13 +244,13 @@ desc = "Apache Software Foundation"
 [av1]
 name = "AV1"
 desc = "AOMedia Video 1"
-full = "An open, royalty-free video coding format initially designed for video transmissions over the Internet. It was developed as a successor to VP9 by (AOMedia)"
+more = "An open, royalty-free video coding format initially designed for video transmissions over the Internet. It was developed as a successor to VP9 by (AOMedia)"
 see = ['VP9']
 
 [aomedia]
 name = "AOMedia"
 desc = "Alliance for Open Media"
-full = "A consortium founded in 2015 that includes semiconductor firms, video on demand providers, video content producers, software development companies and web browser vendors"
+more = "A consortium founded in 2015 that includes semiconductor firms, video on demand providers, video content producers, software development companies and web browser vendors"
 
 [aur]
 name = "AUR"
@@ -259,12 +259,12 @@ desc = "Arch User Repository"
 [aoc]
 name = "AoC"
 desc = "Advent of Code"
-full = "https://adventofcode.com/"
+more = "https://adventofcode.com/"
 
 [ams.Android]
 name = "AMS"
 desc = "Activity Manager Service"
-full = "System process provided by Android to manage the running status of Activity and other components"
+more = "System process provided by Android to manage the running status of Activity and other components"
 
 [aop]
 name = "AOP"
@@ -273,6 +273,6 @@ desc = "Aspect-Oriented Programming"
 [asm.Java]
 name = "ASM"
 desc = "assembly"
-full = ''' It provides a simple API for decomposing, modifying, and recomposing binary Java classes (i.e. bytecode). The project was originally conceived and developed by Eric Bruneton. ASM is Java-centric at present, and does not currently have a backend that exposes other bytecode implementations (such as .NET bytecode, Python bytecode, etc.).
+more = ''' It provides a simple API for decomposing, modifying, and recomposing binary Java classes (i.e. bytecode). The project was originally conceived and developed by Eric Bruneton. ASM is Java-centric at present, and does not currently have a backend that exposes other bytecode implementations (such as .NET bytecode, Python bytecode, etc.).
 
   The name "ASM" is not an acronym: it is just a reference to the asm keyword of C, which allows some functions to be implemented in assembly language.'''

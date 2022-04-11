@@ -1,7 +1,7 @@
 [bmp.image]
 name = "BMP"
 desc = "Bitmap image file"
-full = "Developed by Microsoft in 1986? used RLE lossless data compression algorithm"
+more = "Developed by Microsoft in 1986? used RLE lossless data compression algorithm"
 
 [blob]
 name = "blob"
@@ -30,7 +30,7 @@ desc = "Business Process Model and Notation"
 [bmp.unicode]
 name = "BMP"
 desc = "Basic Multilingual Plane"
-full = "range U+0000—U+FFFF"
+more = "range U+0000—U+FFFF"
 
 [ble]
 name = "BLE"
@@ -54,13 +54,13 @@ same = "BCDIC<=>bcdic"
 [bcdic]
 name = "BCDIC"
 desc = "Binary-Coded Decimal Interchange Code"
-full = "6-bit alphanumeric codes that represented numbers, upper-case letters and special characters. "
+more = "6-bit alphanumeric codes that represented numbers, upper-case letters and special characters. "
 see = ['EBCDIC']
 
 [bbs]
 name = "BBS"
 desc = "Bulletin Board System"
-full = "A computer server running software that allows users to connect to the system using a terminal program"
+more = "A computer server running software that allows users to connect to the system using a terminal program"
 
 [bsd]
 name = "BSD"
@@ -86,7 +86,7 @@ see = ['ERTS']
 [byacc]
 name = "byacc"
 desc = "Berkeley yacc"
-full = "A nearly exact reimplementation of AT&T yacc with few extra features."
+more = "A nearly exact reimplementation of AT&T yacc with few extra features."
 see = ['Yacc']
 
 [bc]
@@ -100,7 +100,7 @@ desc = "Border Gateway Protocol"
 [bash]
 name = "Bash"
 desc = "Bourne Again Shell, being 'born again'"
-full = "A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell"
+more = "A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell"
 
 [bdd]
 name = "BDD"

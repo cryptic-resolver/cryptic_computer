@@ -17,7 +17,7 @@ desc = "Transactional Synchronization Extensions"
 [tls]
 name = "TLS"
 desc = "Transport Layer Security"
-full = "The successor of the now-deprecated Secure Sockets Layer(SSL)"
+more = "The successor of the now-deprecated Secure Sockets Layer(SSL)"
 
 [toml]
 name = "TOML"
@@ -77,13 +77,13 @@ desc = "Transistor–Transistor Logic"
 [tmg]
 name = "TMG compiler-compiler"
 desc = "TransMoGrifier"
-full = "A recursive descent compiler-compiler developed by Robert M. McClure and presented in 1965"
+more = "A recursive descent compiler-compiler developed by Robert M. McClure and presented in 1965"
 see = ['Yacc']
 
 [tty.coreutils]
 name = "tty (coreutils) "
 desc = "teletype"
-full = "Print terminal name"
+more = "Print terminal name"
 
 [tch]
 name = "tcsh"

@@ -1,12 +1,12 @@
 [gdm]
 name = "GDM"
 desc = "GNOME Display Manager"
-full = "The GNOME Display Manager (GDM) is a program that manages graphical display servers and handles graphical user logins. "
+more = "The GNOME Display Manager (GDM) is a program that manages graphical display servers and handles graphical user logins. "
 
 [gif]
 name = "GIF"
 desc = "Graphics Interchange Format"
-full = "Released in 1987. GIF images are compressed using LZW lossless data compression algorithm. By 2004 all the relevant patents of LZW had expired."
+more = "Released in 1987. GIF images are compressed using LZW lossless data compression algorithm. By 2004 all the relevant patents of LZW had expired."
 
 [gm]
 name = "GM"
@@ -43,7 +43,7 @@ desc = "GIMP Drawing Kit"
 [gtk]
 name = "GTK"
 desc = "GIMP ToolKit, formerly GTK+"
-full = "It is a free and open-source cross-platform widget toolkit for creating graphical user interfaces"
+more = "It is a free and open-source cross-platform widget toolkit for creating graphical user interfaces"
 
 [gobject]
 name = "GObject"
@@ -60,12 +60,12 @@ desc = "GNOME object mapper"
 [gap]
 name = "GAP"
 desc = "Groups, Algorithms and Programming"
-full = "is a computer algebra system for computational discrete algebra with particular emphasis on computational group theory."
+more = "is a computer algebra system for computational discrete algebra with particular emphasis on computational group theory."
 
 [ginac]
 name = "GiNaC"
 desc = "ginac is not a CAS"
-full = "C++ library for symbolic computing"
+more = "C++ library for symbolic computing"
 
 [gimp]
 name = "GIMP"
@@ -131,7 +131,7 @@ desc = "Graphical User Interface"
 [grep]
 name = "grep"
 desc = "g/re/p (globally search for a regular expression and print matching lines)"
-full = "A command-line utility for searching plain-text data sets for lines that match a regular expression. Its name comes from the ed command g/re/p "
+more = "A command-line utility for searching plain-text data sets for lines that match a regular expression. Its name comes from the ed command g/re/p "
 
 [gpt.partition]
 name = "GPT"
@@ -145,7 +145,7 @@ desc = "Globally Unique Identifier"
 [gpt.AI]
 name = "GPT"
 desc = "Generative Pre-trained Transformer"
-full = "An autoregressive language model that uses deep learning to produce human-like text"
+more = "An autoregressive language model that uses deep learning to produce human-like text"
 
 [gta]
 name = "GTA"
@@ -158,12 +158,12 @@ desc = "General Electric"
 [gcos]
 name = "GCOS"
 desc = "General Comprehensive Operating System"
-full = "A family of operating systems oriented toward the 36-bit GE/Honeywell mainframe computers, original version of GCOS was developed by General Electric from 1962"
+more = "A family of operating systems oriented toward the 36-bit GE/Honeywell mainframe computers, original version of GCOS was developed by General Electric from 1962"
 
 [gnat]
 name = "GNAT"
 desc = "GNU NYU Ada Translator, but that name no longer applies"
-full = "A free-software compiler for the Ada programming language which forms part of the GNU Compiler Collection (GCC). It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83. The front-end and run-time are written in Ada. "
+more = "A free-software compiler for the Ada programming language which forms part of the GNU Compiler Collection (GCC). It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83. The front-end and run-time are written in Ada. "
 
 [gcov]
 name = "Gcov"
@@ -196,17 +196,17 @@ desc = "GRand Unified Bootloader"
 [glob.pattern]
 name = "glob"
 desc = "global"
-full = "The command interpreters of the early versions of Unix (1st through 6th Editions, 1969–1975) relied on a separate program to expand wildcard characters in unquoted arguments to a command: /etc/glob. That program performed the expansion and supplied the expanded list of file paths to the command for execution"
+more = "The command interpreters of the early versions of Unix (1st through 6th Editions, 1969–1975) relied on a separate program to expand wildcard characters in unquoted arguments to a command: /etc/glob. That program performed the expansion and supplied the expanded list of file paths to the command for execution"
 
 [gas]
 name = "GAS"
 desc = "GNU Assembler"
-full = "The GAS executable is named as"
+more = "The GAS executable is named as"
 
 [gnus]
 name = "Gnus"
 desc = "Gnus Network User Services"
-full = "A message reader which is part of GNU Emacs. It supports reading and composing both e-mail and news and can also act as an RSS reader, web processor, and directory browser for both local and remote filesystems."
+more = "A message reader which is part of GNU Emacs. It supports reading and composing both e-mail and news and can also act as an RSS reader, web processor, and directory browser for both local and remote filesystems."
 
 [gcp]
 name = "GCP"

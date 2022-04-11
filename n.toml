@@ -1,7 +1,7 @@
 [nvidia]
 name = "Nvidia"
 desc = "Invidia, Latin for envy"
-full = "A company designs GPU. Envy and vision are closely tied in mythology with the eye or the gaze being a common symbol. In addition, sounds being quite similar to video."
+more = "A company designs GPU. Envy and vision are closely tied in mythology with the eye or the gaze being a common symbol. In addition, sounds being quite similar to video."
 
 [nvd]
 name = "NVD"
@@ -22,7 +22,7 @@ desc = "Netwide Assembler"
 [nptl]
 name = "NPTL"
 desc = "Native POSIX Thread Library"
-full = "An implementation of the POSIX Threads specification for the Linux operating system."
+more = "An implementation of the POSIX Threads specification for the Linux operating system."
 
 [nes]
 name = "NES"
@@ -80,7 +80,7 @@ desc = "National Institute of Standards and Technology"
 [nginx]
 name = "Nginx"
 desc = "engine X"
-full = "Initial release on October 2004"
+more = "Initial release on October 2004"
 
 [nntp]
 name = "NNTP"

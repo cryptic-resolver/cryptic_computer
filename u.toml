@@ -13,7 +13,7 @@ desc = "Uniform Resource Identifier"
 [uiop]
 name = "UIOP"
 desc = "Utilities for Implementation- and OS- Portability"
-full = "Common Lisp's ASDF's library"
+more = "Common Lisp's ASDF's library"
 
 [uuid]
 name = "UUID"
@@ -68,7 +68,7 @@ see = ['Multics']
 [ufw]
 name = "UFW"
 desc = "Uncomplicated FireWall"
-full = "A frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu"
+more = "A frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu"
 
 [usi]
 name = "USI"

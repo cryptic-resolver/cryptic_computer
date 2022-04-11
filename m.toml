@@ -1,7 +1,7 @@
 [mime]
 name = "MIME"
 desc = "Multipurpose Internet Mail Extensioin"
-full = "It is an Internet standard that extends the format of email messages to support text in character sets other than ASCII， as well as attachments of audio， video， images， and application programs."
+more = "It is an Internet standard that extends the format of email messages to support text in character sets other than ASCII， as well as attachments of audio， video， images， and application programs."
 
 [mpeg]
 name = "MPEG"
@@ -10,7 +10,7 @@ desc = "Moving Picture Experts Group"
 [mp4]
 name = "MP4"
 desc = "MPEG-4"
-full = "Introduced in late 1998"
+more = "Introduced in late 1998"
 see = ["MPEG"]
 
 [mp3]
@@ -64,19 +64,19 @@ see = ['YJIT']
 [mpfr]
 name = "GNU MPFR"
 desc = "The GNU Multiple Precision Floating-Point Reliable Library"
-full = "based on GNU MP library"
+more = "based on GNU MP library"
 see = ['GMP']
 
 [mpc]
 name = "MPC"
 desc = "Multiple Precision C library"
-full = "based on GNU MPFR, for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result"
+more = "based on GNU MPFR, for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result"
 see = ['MPFR']
 
 [msp430]
 name = "MSP430"
 desc = "TI mixed-signal microcontroller family"
-full = "First introduced on 14 February 1992. Built around a 16-bit CPU"
+more = "First introduced on 14 February 1992. Built around a 16-bit CPU"
 
 [mt]
 name = "MT"
@@ -85,7 +85,7 @@ desc = "Multithreading"
 [mpu]
 name = "MPU"
 desc = "Memory Protection Unit"
-full = "MPU is a trimmed down version of MMU providing only memory protection support"
+more = "MPU is a trimmed down version of MMU providing only memory protection support"
 
 [mmu]
 name = "MMU"
@@ -111,7 +111,7 @@ see = ['2FA']
 [mpi]
 name = "MPI"
 desc = "Message Passing Interface"
-full = "A standardized and portable message-passing standard designed to function on parallel computing architectures in C, C++, and Fortran."
+more = "A standardized and portable message-passing standard designed to function on parallel computing architectures in C, C++, and Fortran."
 
 [mos]
 name = "MOS"
@@ -120,7 +120,7 @@ desc = "Metal–Oxide–Semiconductor"
 [mips]
 name = "MIPS"
 desc = "Microprocessor without Interlocked Pipelined Stages"
-full = "a RISC instruction set architecture"
+more = "a RISC instruction set architecture"
 see = ['RISC']
 
 [mdn]
@@ -130,13 +130,13 @@ desc = "Mozilla Developer Network"
 [mi.gdb]
 name = "MI"
 desc = "gdb Machine Interface specification"
-full = "GDB and LLDB use this"
+more = "GDB and LLDB use this"
 see = ['GDB']
 
 [mqtt]
 name = "MQTT"
 desc = "Message Queueing Telemetry Transport"
-full = "A lightweight, publish-subscribe network protocol that transports messages between devices"
+more = "A lightweight, publish-subscribe network protocol that transports messages between devices"
 
 [mlir]
 name = "MLIR"
@@ -153,7 +153,7 @@ desc = "Model View ViewModel"
 [multics]
 name = "Multics"
 desc = "Multiplexed Information and Computing Service"
-full = "An influential early time-sharing operating system based on the concept of a single-level memory"
+more = "An influential early time-sharing operating system based on the concept of a single-level memory"
 see = ['Unix']
 
 [m17n]
@@ -161,7 +161,7 @@ name = "m17n"
 desc = """multilingualization
          ^^^^^^^^^^^^^^^^^
               17 chars"""
-full = "A free software library for any GNU-Linux/Unix applications to realize multilingualization of many aspects of applications"
+more = "A free software library for any GNU-Linux/Unix applications to realize multilingualization of many aspects of applications"
 see = ['i18n','L10n']
 
 [m2e]
@@ -171,29 +171,29 @@ desc = "maven support in Eclipse"
 [magit.Emacs]
 name = "Magit"
 desc = "Magical Git"
-full = "Most popular Git client for Emacs"
+more = "Most popular Git client for Emacs"
 
 [mpx.Intel]
 name = "mpx"
 desc = "Memory Protection Extensions"
-full = "A set of extensions to the x86 instruction set architecture"
+more = "A set of extensions to the x86 instruction set architecture"
 
 [m4]
 name = "m4"
 desc = "a general-purpose macro processor"
-full = """The language was designed by Brian Kernighan and Dennis Ritchie for the original versions of UNIX. It is an extension of an earlier macro processor, m3, written by Ritchie for an unknown AP-3 minicomputer. 
+more = """The language was designed by Brian Kernighan and Dennis Ritchie for the original versions of UNIX. It is an extension of an earlier macro processor, m3, written by Ritchie for an unknown AP-3 minicomputer. 
   
   The macro preprocessor operates as a text-replacement tool. It is employed to re-use text templates, typically in computer programming applications, but also in text editing and text-processing applications. Most users require m4 as a dependency of GNU autoconf. """
 
 [mvn]
 name = "mvn"
 desc = "maven"
-full = "A build automation tool used primarily for Java projects"
+more = "A build automation tool used primarily for Java projects"
 
 [md5]
 name = "MD5"
 desc = "Message-Digest function 5"
-full = "A cryptographically broken but still widely used hash function producing a 128-bit hash value, designed by Ronald Rivest in 1991 to replace an earlier hash function MD4"
+more = "A cryptographically broken but still widely used hash function producing a 128-bit hash value, designed by Ronald Rivest in 1991 to replace an earlier hash function MD4"
 
 [mfc]
 name = "MFC"

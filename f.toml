@@ -34,7 +34,7 @@ desc = "Floating Point Operations Per Second"
 [fcitx]
 name = "Fcitx"
 desc = "pronounce as [Faitiks]"
-full = "An input method framework with extension support for the X Window System. It supports typing with many languages all over the world with a large number of engines."
+more = "An input method framework with extension support for the X Window System. It supports typing with many languages all over the world with a large number of engines."
 see = ['IBus']
 
 [flex]
@@ -61,7 +61,7 @@ desc = "File Transfer Protocol"
 [fuse]
 name = "FUSE"
 desc = "Filesystem in Userspace"
-full = "A software interface for Unix and Unix-like computer operating systems that lets non-privileged users create their own file systems without editing kernel code. This is achieved by running file system code in user space while the FUSE module provides only a bridge to the actual kernel interfaces."
+more = "A software interface for Unix and Unix-like computer operating systems that lets non-privileged users create their own file systems without editing kernel code. This is achieved by running file system code in user space while the FUSE module provides only a bridge to the actual kernel interfaces."
 
 [fsm]
 name = "FSM"
@@ -78,7 +78,7 @@ desc = "Function as a Service"
 [fortran]
 name = "Fortran"
 desc = "Formula Translating System, Formula Translator, Formula Translation, or Formulaic Translation."
-full = "Originally developed by IBM in the 1950s for scientific and engineering applications, and subsequently came to dominate scientific computing"
+more = "Originally developed by IBM in the 1950s for scientific and engineering applications, and subsequently came to dominate scientific computing"
 
 [fpu]
 name = "FPU"
@@ -87,7 +87,7 @@ desc = "Floating Point Unit"
 [ftrace]
 name = "ftrace"
 desc = "function tracer"
-full = "in <linux/ftrace.h>"
+more = "in <linux/ftrace.h>"
 
 [fips]
 name = "FIPS"

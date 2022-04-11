@@ -9,17 +9,17 @@ desc = "Web Application Firewall"
 [webp]
 name = "WebP"
 desc = "Photo format for the Web"
-full = "Announced in 2010 by Google. A modern image format that provides superior lossless and lossy compression for images on the web"
+more = "Announced in 2010 by Google. A modern image format that provides superior lossless and lossy compression for images on the web"
 
 [webm]
 name = "WebM"
 desc = "Media format for the Web"
-full = "Sponsored by Google. Intended to offer a royalty-free alternative to use in the HTML5 video and the HTML5 audio elements"
+more = "Sponsored by Google. Intended to offer a royalty-free alternative to use in the HTML5 video and the HTML5 audio elements"
 
 [wmi]
 name = "WMI"
 desc = "Windows Management Instrumentation"
-full = "it's deprecated, use CIM instead"
+more = "it's deprecated, use CIM instead"
 see = ['CIM']
 
 [wapi]
@@ -57,7 +57,7 @@ desc = "Web Real-Time Communication"
 [wget]
 name = "Wget"
 desc = "network get"
-full = "Non-interactive network downloader"
+more = "Non-interactive network downloader"
 
 [www]
 name = "WWW"
@@ -66,7 +66,7 @@ desc = "World Wide Web"
 [w3m]
 name = "w3m"
 desc = "WWW wo miru (WWWを見る)"
-full = "which is Japanese for 'to see the WWW'"
+more = "which is Japanese for 'to see the WWW'"
 
 [w3c]
 name = "W3C"

@@ -9,12 +9,12 @@ desc = "list computer files"
 [lzw]
 name = "LZW"
 desc = "Lempel–Ziv–Welch compression algorithm"
-full = "Published in 1984 as an improved implementation of the LZ78 algorithm published by Lempel and Ziv in 1978. It is the algorithm of the widely used Unix file compression utility compress and is used in the GIF image format."
+more = "Published in 1984 as an improved implementation of the LZ78 algorithm published by Lempel and Ziv in 1978. It is the algorithm of the widely used Unix file compression utility compress and is used in the GIF image format."
 
 [lisp]
 name = "Lisp"
 desc = "LISt Processor"
-full = "A family of programming languages with a long history and a distinctive, fully parenthesized prefix notation. Originally specified in 1958."
+more = "A family of programming languages with a long history and a distinctive, fully parenthesized prefix notation. Originally specified in 1958."
 
 [lcd]
 name = "LCD"
@@ -40,12 +40,12 @@ desc = "Language Server Protocol"
 [ld]
 name = "ld"
 desc = "Link eDitor or Loader"
-full = "or dynamic linker"
+more = "or dynamic linker"
 
 [ldd]
 name = "ldd"
 desc = "List Dynamic Dependencies"
-full = """A shell script that executes the program given as argument, and shouldn't be used with untrusted binaries. The ldd manual page suggests to use the following command using the objdump and grep utilities as alternative:
+more = """A shell script that executes the program given as argument, and shouldn't be used with untrusted binaries. The ldd manual page suggests to use the following command using the objdump and grep utilities as alternative:
 
   
   $ objdump -p /path/program | grep NEEDED
@@ -75,7 +75,7 @@ desc = "Linux Vendor Firmware Service"
 [lwip]
 name = "lwIP"
 desc = "lightweight IP"
-full = "A widely used open-source TCP/IP stack designed for embedded systems"
+more = "A widely used open-source TCP/IP stack designed for embedded systems"
 
 [i2s]
 name = "I2S"
@@ -84,7 +84,7 @@ desc = "Inter-IC Sound Bus"
 [lml]
 name = "LML"
 desc = "Lightweight Markup Language"
-full = "such as AsciiDoc, Markdown, Org-mode, MediaWiki, POD and so on"
+more = "such as AsciiDoc, Markdown, Org-mode, MediaWiki, POD and so on"
 
 [lttng]
 name = "LTTng"
@@ -155,7 +155,7 @@ desc = "list open files"
 [ltrace]
 name = "ltrace"
 desc = "dynamic library calls tracer"
-full = "Display dynamic library calls of a process"
+more = "Display dynamic library calls of a process"
 see  = ['strace']
 
 [lwn]
@@ -169,7 +169,7 @@ desc = "Linux kernel mailing list"
 [lxc]
 name = "LXC"
 desc = "Linux Containers"
-full = "An operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel"
+more = "An operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel"
 
 [lsb.bit]
 name = "LSB"
@@ -188,37 +188,37 @@ desc = "Line Feed"
 [libm]
 name = "libm"
 desc = "C math library"
-full = "usage: c99 [ flag... ] file... –lm [ library... ] "
+more = "usage: c99 [ flag... ] file... –lm [ library... ] "
 
 [libl]
 name = "libl"
 desc = "C lex library"
-full = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
+more = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
 see = ['Lex', 'liby']
 
 [liby]
 name = "liby"
 desc = "C yacc library"
-full = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
+more = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
 see = ['Yacc', 'libl']
 
 [libffi]
 name = "libffi"
 desc = "A portable foreign-function interface library"
-full = """https://github.com/libffi/libffi
+more = """https://github.com/libffi/libffi
   https://sourceware.org/libffi
 """
 
 [libuv]
 name = "libuv"
 desc = "Ultra fast eVent library"
-full = "Cross-platform asynchronous I/O, which was originally written for Node.js, based on libev. In the node-v0.9.0 version of libuv, libev was removed"
+more = "Cross-platform asynchronous I/O, which was originally written for Node.js, based on libev. In the node-v0.9.0 version of libuv, libev was removed"
 see = ['libev']
 
 [libev]
 name = "libev"
 desc = "EVent loop library (Only on Unixes)"
-full = "loosely modelled after libevent, but without its limitations and bugs"
+more = "loosely modelled after libevent, but without its limitations and bugs"
 see = ['libuv']
 
 [libdl]

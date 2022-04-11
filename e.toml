@@ -1,18 +1,18 @@
 [elf]
 name = "ELF"
 desc = "Executable and Linkable Format"
-full = "First published in the specification for the application binary interface (ABI) of the Unix operating system version named System V Release 4 (SVR4)"
+more = "First published in the specification for the application binary interface (ABI) of the Unix operating system version named System V Release 4 (SVR4)"
 
 [emacs]
 name = "Emacs"
 desc = "Edit macros"
-full = "a feature-rich editor"
+more = "a feature-rich editor"
 see = ["Vim"]
 
 [exif]
 name = "Exif"
 desc = "Exchangeable image file format"
-full = "Released in 1995, revised in 2019"
+more = "Released in 1995, revised in 2019"
 
 [edn]
 name = "edn"
@@ -33,7 +33,7 @@ desc = "Essentials of Programming Languages Language"
 [elt]
 name = "elt"
 desc = "element"
-full = "a function in Common Lisp"
+more = "a function in Common Lisp"
 
 [evdev]
 name = "evdev"
@@ -62,7 +62,7 @@ desc = "European Computer Manufacturers Association"
 [ebcdic]
 name = "EBCDIC"
 desc = "Extended Binary Coded Decimal Interchange Code"
-full = "an 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems"
+more = "an 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems"
 
 [ets]
 name = "ETS"
@@ -100,7 +100,7 @@ see = ['PROM']
 [eeprom]
 name = "EEPROM"
 desc = "Electrically Erasable Programmable Read-only Memory"
-full = "A type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data"
+more = "A type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data"
 see = ['EPROM']
 
 [elisp]
@@ -140,7 +140,7 @@ desc = "Elliptic Curve Digital Signature Algorithm"
 [epoll]
 name = "epoll"
 desc = "event poll"
-full = "A Linux kernel system call for a scalable I/O event notification mechanism, first introduced in version 2.5.44 of the Linux kernel. Its function is to monitor multiple file descriptors to see whether I/O is possible on any of them. It is meant to replace the older POSIX select(2)and poll(2) system calls, to achieve better performance in more demanding applications, where the number of watched file descriptors is large (unlike the older system calls, which operate in O(n) time, epoll operates in O(1) time)"
+more = "A Linux kernel system call for a scalable I/O event notification mechanism, first introduced in version 2.5.44 of the Linux kernel. Its function is to monitor multiple file descriptors to see whether I/O is possible on any of them. It is meant to replace the older POSIX select(2)and poll(2) system calls, to achieve better performance in more demanding applications, where the number of watched file descriptors is large (unlike the older system calls, which operate in O(n) time, epoll operates in O(1) time)"
 see = ['kqueue', 'IOCP']
 
 [es]
@@ -150,17 +150,17 @@ desc = "ECMAScript"
 [eww.Emacs]
 name = "eww"
 desc = "Emacs Web Wowser"
-full = "A web browser written entirely in Emacs Lisp. It became part of GNU Emacs starting with version 24.4"
+more = "A web browser written entirely in Emacs Lisp. It became part of GNU Emacs starting with version 24.4"
 
 [epub]
 name = "EPUB"
 desc = "Electronic Publication"
-full = "An e-book file format. It became an official standard of the IDPF in September 2007, superseding the older Open eBook standard"
+more = "An e-book file format. It became an official standard of the IDPF in September 2007, superseding the older Open eBook standard"
 
 [eof]
 name = "EOF"
 desc = "End-of-file"
-full = "When you Ctrl-d"
+more = "When you Ctrl-d"
 
 [eol]
 name = "EOL"
@@ -177,4 +177,4 @@ desc = "Emacs Lisp Static Analyser"
 [epel]
 name = "EPEL"
 desc = "Extra Packages for Enterprise Linux"
-full = "A Fedora Special Interest Group that creates, maintains, and manages a high quality set of additional packages for Enterprise Linux, including, but not limited to, Red Hat Enterprise Linux (RHEL), CentOS, Scientific Linux (SL), Oracle Linux (OL), AlmaLinux (AL) and Rocky Linux (RL)."
+more = "A Fedora Special Interest Group that creates, maintains, and manages a high quality set of additional packages for Enterprise Linux, including, but not limited to, Red Hat Enterprise Linux (RHEL), CentOS, Scientific Linux (SL), Oracle Linux (OL), AlmaLinux (AL) and Rocky Linux (RL)."

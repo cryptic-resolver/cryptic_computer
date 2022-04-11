@@ -9,7 +9,7 @@ desc = "Standard Generalized Markup Language"
 [sddm]
 name = "SDDM"
 desc = "Simple Desktop Display Manager"
-full = "A QML based X11 and Wayland display manager. It is the recommended display manager for the KDE Plasma and LXQt desktop environments."
+more = "A QML based X11 and Wayland display manager. It is the recommended display manager for the KDE Plasma and LXQt desktop environments."
 
 [suv]
 name = "SUV"
@@ -50,7 +50,7 @@ desc = "Scalable Vector Graphics"
 [soap]
 name = "SOAP"
 desc = "Simple Object Access Protocol"
-full = "a messaging porotocal initially as XML-RPC in June 1998"
+more = "a messaging porotocal initially as XML-RPC in June 1998"
 
 [sexp]
 name = "sexp"
@@ -79,7 +79,7 @@ desc = "Statistics Analysis System"
 [spss]
 name = "SPSS"
 desc = "Statistical Product and Service Solutions"
-full = "formerly Statistical Package for the Social Sciences, reflecting the original market"
+more = "formerly Statistical Package for the Social Sciences, reflecting the original market"
 
 [srgb]
 name = "sRGB"
@@ -88,7 +88,7 @@ desc = "standard Red Green Blue"
 [stl.3D]
 name = ".stl"
 desc = "Standard Triangle Language and Standard Tessellation Language"
-full = "A file format native to the stereolithography CAD software created by 3D Systems"
+more = "A file format native to the stereolithography CAD software created by 3D Systems"
 
 [stdin]
 name = "STDIN"
@@ -159,7 +159,7 @@ see = ['PLDI', 'ACM']
 [sigmod.ACMsig]
 name = "SIGMOD"
 desc = "ACM's Special Interest Group on Management of Data"
-full = "which specializes in large-scale data management problems and databases."
+more = "which specializes in large-scale data management problems and databases."
 
 [sigops.ACMsig]
 name = "SIGOPS"
@@ -204,7 +204,7 @@ desc = "System Management BIOS"
 [st]
 name = "ST"
 desc = "SGS Microelettronica and Thomson Semiconducteurs"
-full = "The company resulted from the merger of two government-owned semiconductor companies in 1987: Thomson Semiconducteurs of France and SGS Microelettronica of Italy. It is commonly called ST, and it is Europe's largest semiconductor chip maker based on revenue"
+more = "The company resulted from the merger of two government-owned semiconductor companies in 1987: Thomson Semiconducteurs of France and SGS Microelettronica of Italy. It is commonly called ST, and it is Europe's largest semiconductor chip maker based on revenue"
 
 [sip]
 same = "IP core<=>ip.semiconductor"
@@ -272,7 +272,7 @@ desc = "Small Computer System Interface"
 [sda]
 name = "/dev/sda"
 desc = "The first SCSI disk id"
-full = "sdb, sdc and so on"
+more = "sdb, sdc and so on"
 see = ['SCSI']
 
 [sdb]
@@ -284,7 +284,7 @@ same = "SMBus<=>smbus"
 [smbus]
 name = "SMBus"
 desc = "System Management Bus"
-full = "A single-ended simple two-wire bus for the purpose of lightweight communication"
+more = "A single-ended simple two-wire bus for the purpose of lightweight communication"
 
 [sata]
 name = "SATA"
@@ -294,7 +294,7 @@ see = ['PATA', 'ATA']
 [sdf]
 name = "SDF"
 desc = "Super Dimension Fortress, also known as freeshell.org"
-full = "A non-profit public access UNIX shell provider on the Internet"
+more = "A non-profit public access UNIX shell provider on the Internet"
 
 [sbcl]
 name = "SBCL"
@@ -304,13 +304,13 @@ see = ['CCL', 'Elisp']
 [ssl]
 name = "SSL"
 desc = "Secure Sockets Layer"
-full = "TLS is the successor of the now-deprecated SSL"
+more = "TLS is the successor of the now-deprecated SSL"
 see = ['TLS']
 
 [swig]
 name = "SWIG"
 desc = "Simplified Wrapper and Interface Generator"
-full = "An open-source software tool used to connect computer programs or libraries written in C or C++ with scripting languages"
+more = "An open-source software tool used to connect computer programs or libraries written in C or C++ with scripting languages"
 
 [sci]
 name = "SCI"
@@ -319,12 +319,12 @@ desc = "Science Citation Index"
 [sudo]
 name = "sudo"
 desc = "superuser do"
-full = "NOT 'substitute user, do'!"
+more = "NOT 'substitute user, do'!"
 
 [slr]
 name = "SLR"
 desc = "Simple LR"
-full = "A type of LR parser with small parse tables"
+more = "A type of LR parser with small parse tables"
 see = ['LR', 'LALR']
 
 [sns]
@@ -338,7 +338,7 @@ desc = "Specification and Description Language"
 [secd]
 name = "SECD"
 desc = "Stack, Environment, Control, Dump machine"
-full = "Intended as a target for functional programming language compilers."
+more = "Intended as a target for functional programming language compilers."
 
 [sco]
 name = "SCO"
@@ -347,27 +347,27 @@ desc = "Santa Cruz Operation"
 [svr1]
 name = "SVR1"
 desc = "System V Release 1.0"
-full = "succeeded AT&T's previous commercial Unix called System III in January, 1983. Unix 4.0 was never released externally, which would have been designated as System IV"
+more = "succeeded AT&T's previous commercial Unix called System III in January, 1983. Unix 4.0 was never released externally, which would have been designated as System IV"
 
 [svr2]
 name = "SVR2"
 desc = "System V Release 2.0"
-full = "Released in 1984. Maurice J. Bach's book, <The Design of the UNIX Operating System>, is the definitive description of the SVR2 kernel"
+more = "Released in 1984. Maurice J. Bach's book, <The Design of the UNIX Operating System>, is the definitive description of the SVR2 kernel"
 
 [svr3]
 name = "SVR3"
 desc = "System V Release 3.0"
-full = "Released in 1987. IBM's AIX operating system is an SVR3 derivative."
+more = "Released in 1987. IBM's AIX operating system is an SVR3 derivative."
 
 [svr4]
 name = "SVR4"
 desc = "System V Release 4.0"
-full = "It was announced on October 18, 1988, commercially the most successful version in four major versions of System V 1,2,3,4"
+more = "It was announced on October 18, 1988, commercially the most successful version in four major versions of System V 1,2,3,4"
 
 [sysv]
 name = "SysV"
 desc = "Unix System V (pronounced: 'System Five')"
-full = "one of the first commercial versions of the Unix operating system. It was originally developed by AT&T and first released in 1983"
+more = "one of the first commercial versions of the Unix operating system. It was originally developed by AT&T and first released in 1983"
 see = ['SVR4','SVR3','SVR2','SVR1']
 
 [systemv]
@@ -390,7 +390,7 @@ desc = "Secure Hash Algorithms"
 [stty.coreutils]
 name = "stty (coreutils) "
 desc = "set teletype"
-full = "Print/change terminal settings"
+more = "Print/change terminal settings"
 
 [stat.coreutils]
 name = "stat (coreutils)"
@@ -403,7 +403,7 @@ desc = "Stream EDitor"
 [stabs.debug]
 name = "stabs"
 desc = "used by DBX on most BSD systems"
-full = """When stabs was created in the 1980s, the dominant object file format was a.out, which (unlike more recent formats such as ELF) makes no provision for storing debugging information. Stabs works around this problem by encoding the information using special entries in the symbol table.
+more = """When stabs was created in the 1980s, the dominant object file format was a.out, which (unlike more recent formats such as ELF) makes no provision for storing debugging information. Stabs works around this problem by encoding the information using special entries in the symbol table.
 
 At one stage stabs was widely used on Unix systems, but the newer DWARF format has largely supplanted it."""
 
@@ -414,7 +414,7 @@ desc = "Simple Mail Transfer Protocol"
 [semver]
 name = "SemVer"
 desc = "Semantic Versioning"
-full = "MAJOR.MINOR.PATCH  see: https://semver.org/"
+more = "MAJOR.MINOR.PATCH  see: https://semver.org/"
 
 [sass]
 name = "Sass"
@@ -424,7 +424,7 @@ see = ['SCSS']
 [scss]
 name = "SCSS"
 desc = "Sassy CSS"
-full = "The newer syntax for Sass"
+more = "The newer syntax for Sass"
 see = ['Sass']
 
 [ssh]
@@ -442,12 +442,12 @@ desc = "System V Interface Definition"
 [sh]
 name = "sh"
 desc = "Bourne shell"
-full = "Released in 1979 in the Version 7 Unix, developed by Stephen Bourne at Bell Labs, it was a replacement for the Thompson shell, whose executable file had the same name -- sh."
+more = "Released in 1979 in the Version 7 Unix, developed by Stephen Bourne at Bell Labs, it was a replacement for the Thompson shell, whose executable file had the same name -- sh."
 
 [so]
 name = ".so"
 desc = "shared objects"
-full = "Dynamically linked libraries are also called shared objects"
+more = "Dynamically linked libraries are also called shared objects"
 
 [sve]
 name = "SVE"
@@ -476,7 +476,7 @@ desc = "Software-defined Networking"
 [suid]
 name = "SUID"
 desc = "Set owner User ID up on execution"
-full = "A special type of file permissions given to a file. Normally in Linux/Unix when a program runs, it inherits access permissions from the logged in user. SUID is defined as giving temporary permissions to a user to run a program/file with the permissions of the file owner rather that the user who runs it."
+more = "A special type of file permissions given to a file. Normally in Linux/Unix when a program runs, it inherits access permissions from the logged in user. SUID is defined as giving temporary permissions to a user to run a program/file with the permissions of the file owner rather that the user who runs it."
 
 [sdk]
 name = "SDK"
@@ -485,4 +485,4 @@ desc = "Software Development Kit"
 [spi.API]
 name = "SPI"
 desc = "Service provider interface"
-full = "An API intended to be implemented or extended by a third party. It can be used to enable framework extension and replaceable components"
+more = "An API intended to be implemented or extended by a third party. It can be used to enable framework extension and replaceable components"

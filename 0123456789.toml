@@ -107,11 +107,11 @@ desc = "Language Codes"
 
 [3166.ISO]
 name = "ISO 3166"
-full = "Country Codes"
+more = "Country Codes"
 
 [4217.ISO]
 name = "ISO 4217"
-full = "It defines alpha codes and numeric codes for the representation of currencies and provides information about the relationships between individual currencies and their minor units"
+more = "It defines alpha codes and numeric codes for the representation of currencies and provides information about the relationships between individual currencies and their minor units"
 
 [30170.ISO]
 name = "ISO/IEC 30170:2012"

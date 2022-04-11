@@ -1,12 +1,12 @@
 [zstd]
 name = "zstd"
 desc = "Zstandard"
-full = "Fast real-time compression algorithm"
+more = "Fast real-time compression algorithm"
 
 [zsh]
 name = "zsh"
 desc = "Z shell"
-full = "Paul Falstad wrote the first version of Zsh in 1990 while a student at Princeton University. The name zsh derives from the name of Yale professor Zhong Shao (then a teaching assistant at Princeton University) – Paul Falstad regarded Shao's login-id, 'zsh', as a good name for a shell"
+more = "Paul Falstad wrote the first version of Zsh in 1990 while a student at Princeton University. The name zsh derives from the name of Yale professor Zhong Shao (then a teaching assistant at Princeton University) – Paul Falstad regarded Shao's login-id, 'zsh', as a good name for a shell"
 
 [zle.Zsh]
 name = "ZLE"
