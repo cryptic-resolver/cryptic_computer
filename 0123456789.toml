@@ -1,100 +1,100 @@
 [0.fd]
-disp = "0(Linux)"
+name = "0(Linux)"
 desc = "standard input"
 
 [1.fd]
-disp = "1(Linux)"
+name = "1(Linux)"
 desc = "standard output"
 
 [2.fd]
-disp = "2(Linux)"
+name = "2(Linux)"
 desc = "standard error"
 
 [1.man]
-disp = "man 1"
+name = "man 1"
 desc = "Executable programs or shell commands"
 
 [2.man]
-disp = "man 2"
+name = "man 2"
 desc = "System calls"
 
 [3.man]
-disp = "man 3"
+name = "man 3"
 desc = "Library calls"
 
 [4.man]
-disp = "man 4"
+name = "man 4"
 desc = "Special files"
 
 [5.man]
-disp = "man 5"
+name = "man 5"
 desc = "File formats and conventions"
 
 [6.man]
-disp = "man 6"
+name = "man 6"
 desc = "Games"
 
 [7.man]
-disp = "man 7"
+name = "man 7"
 desc = "Miscellaneous"
 
 [8.man]
-disp = "man 8"
+name = "man 8"
 desc = "System administration commands"
 
 [9.man]
-disp = "man 9"
+name = "man 9"
 desc = "Kernel routines"
 
 [2fa]
-disp = "2FA"
+name = "2FA"
 desc = "Two-factor Authentication"
 see = ['MFA']
 
 [200.HTTPcode]
-disp = "HTTP response status code: 200"
+name = "HTTP response status code: 200"
 desc = "OK"
 
 [201.HTTPcode]
-disp = "HTTP response status code: 201"
+name = "HTTP response status code: 201"
 desc = "Created"
 
 [301.HTTPcode]
-disp = "HTTP response status code: 301"
+name = "HTTP response status code: 301"
 desc = "Moved Permanently"
 
 [302.HTTPcode]
-disp = "HTTP response status code: 302"
+name = "HTTP response status code: 302"
 desc = "Found"
 see = ['404']
 
 [308.HTTPcode]
-disp = "HTTP response status code: 308"
+name = "HTTP response status code: 308"
 desc = "Permanent Redirect"
 
 [400.HTTPcode]
-disp = "HTTP response status code: 400"
+name = "HTTP response status code: 400"
 desc = "Bad Request"
 
 [403.HTTPcode]
-disp = "HTTP response status code: 403"
+name = "HTTP response status code: 403"
 desc = "Forbidden"
 
 [404.HTTPcode]
-disp = "HTTP response status code: 404"
+name = "HTTP response status code: 404"
 desc = "Not Found"
 see = ['302']
 
 [443.port]
-disp = "443 port"
+name = "443 port"
 desc = "HTTPS Port"
 
 [500.HTTPcode]
-disp = "HTTP response status code: 500"
+name = "HTTP response status code: 500"
 desc = "Internal Server Error"
 
 [502.HTTPcode]
-disp = "HTTP response status code: 502"
+name = "HTTP response status code: 502"
 desc = "Bad Gateway"
 
 #########################
@@ -102,19 +102,19 @@ desc = "Bad Gateway"
 #########################
 
 [639.ISO]
-disp = "ISO 639"
+name = "ISO 639"
 desc = "Language Codes"
 
 [3166.ISO]
-disp = "ISO 3166"
+name = "ISO 3166"
 full = "Country Codes"
 
 [4217.ISO]
-disp = "ISO 4217"
+name = "ISO 4217"
 full = "It defines alpha codes and numeric codes for the representation of currencies and provides information about the relationships between individual currencies and their minor units"
 
 [30170.ISO]
-disp = "ISO/IEC 30170:2012"
+name = "ISO/IEC 30170:2012"
 desc = "Information technology — Programming languages — Ruby"
 
 
@@ -123,10 +123,10 @@ desc = "Information technology — Programming languages — Ruby"
 #########################
 
 [1321.RFC]
-disp = "RFC 1321"
+name = "RFC 1321"
 desc = "The MD5 Message-Digest Algorithm"
 
 
 [3c]
-disp = "3C"
+name = "3C"
 desc = "computer, communication, consumer"

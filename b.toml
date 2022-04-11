@@ -1,118 +1,118 @@
 [bmp.image]
-disp = "BMP"
+name = "BMP"
 desc = "Bitmap image file"
 full = "Developed by Microsoft in 1986? used RLE lossless data compression algorithm"
 
 [blob]
-disp = "blob"
+name = "blob"
 desc = "Binary Large OBject"
 
 [bom]
-disp = "BOM"
+name = "BOM"
 desc = "byte order mark"
 
 [bjt]
-disp = "BJT"
+name = "BJT"
 desc = "Bipolar Junction Transistor"
 
 [bcpl]
-disp = "BCPL"
+name = "BCPL"
 desc = "Basic CPL (Combined Programming Language)"
 
 [blas]
-disp = "BLAS"
+name = "BLAS"
 desc = "Basic Linear Algebra Subprograms"
 
 [bpmn]
-disp = "BPMN"
+name = "BPMN"
 desc = "Business Process Model and Notation"
 
 [bmp.unicode]
-disp = "BMP"
+name = "BMP"
 desc = "Basic Multilingual Plane"
 full = "range U+0000—U+FFFF"
 
 [ble]
-disp = "BLE"
+name = "BLE"
 desc = "Bluetooth Low Energy"
 
 [bsod]
-disp = "BSOD"
+name = "BSOD"
 desc = "Blue Screen of Death"
 
 [bpf]
-disp = "BPF"
+name = "BPF"
 desc = "Berkeley Packet Filter"
 
 [bnf]
-disp = "BNF"
+name = "BNF"
 desc = "Backus–Naur Form"
 
 [bcd.IBM]
 same = "BCDIC<=>bcdic"
 
 [bcdic]
-disp = "BCDIC"
+name = "BCDIC"
 desc = "Binary-Coded Decimal Interchange Code"
 full = "6-bit alphanumeric codes that represented numbers, upper-case letters and special characters. "
 see = ['EBCDIC']
 
 [bbs]
-disp = "BBS"
+name = "BBS"
 desc = "Bulletin Board System"
 full = "A computer server running software that allows users to connect to the system using a terminal program"
 
 [bsd]
-disp = "BSD"
+name = "BSD"
 desc = "Berkeley Software Distribution"
 
 [bss]
-disp = "BSS"
+name = "BSS"
 desc = "Block Started by Symbol"
 
 [bsp]
-disp = "BSP"
+name = "BSP"
 desc = "Board Support Package"
 
 [bios]
-disp = "BIOS"
+name = "BIOS"
 desc = "Basic Input/Output System"
 
 [beam]
-disp = "BEAM"
+name = "BEAM"
 desc = "Erlang Bytecode VM, part of ERTS"
 see = ['ERTS']
 
 [byacc]
-disp = "byacc"
+name = "byacc"
 desc = "Berkeley yacc"
 full = "A nearly exact reimplementation of AT&T yacc with few extra features."
 see = ['Yacc']
 
 [bc]
-disp = "bc"
+name = "bc"
 desc = "An arbitrary precision calculator language"
 
 [bgp]
-disp = "BGP"
+name = "BGP"
 desc = "Border Gateway Protocol"
 
 [bash]
-disp = "Bash"
+name = "Bash"
 desc = "Bourne Again Shell, being 'born again'"
 full = "A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell"
 
 [bdd]
-disp = "BDD"
+name = "BDD"
 desc = "Behavior-Driven Development"
 
 [bdw-gc]
-disp = "bdw-gc"
+name = "bdw-gc"
 desc = "Boehm-Demers-Weiser conservative C/C++ Garbage Collector"
 
 [bdwgc]
 same = "bdw-gc"
 
 [blog]
-disp = "Blog"
+name = "Blog"
 desc = "weblog"

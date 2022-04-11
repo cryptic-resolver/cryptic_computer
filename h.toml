@@ -1,104 +1,104 @@
 [hevc]
-disp = "HEVC"
+name = "HEVC"
 desc = "High Efficiency Video Coding"
 full = "Known as H.265 completed in 2013"
 
 ["h.264"]
-disp = "H.264"
+name = "H.264"
 desc = "A video compression standard"
 see = ['AVC']
 
 ["h.265"]
-disp = "H.265"
+name = "H.265"
 desc = "A video compression standard"
 see = ['HEVC']
 
 [hmi]
-disp = "HMI"
+name = "HMI"
 desc = "Human-Machine Interface"
 
 [hdfs]
-disp = "HDFS"
+name = "HDFS"
 desc = "Hadoop Distributed File System"
 
 [hsl]
-disp = "HSL"
+name = "HSL"
 desc = "Hue, Saturation, Value"
 
 [hof]
-disp = "HOF"
+name = "HOF"
 desc = "Higher-order functions"
 
 [hci]
-disp = "HCI"
+name = "HCI"
 desc = "Human Computer Interface"
 
 [hla]
-disp = "HLA"
+name = "HLA"
 desc = "High Level Assembly Language"
 
 [hls]
-disp = "HLS"
+name = "HLS"
 desc = "Hue, Lightness, Saturation Color Model"
 
 [hcl]
-disp = "HCL"
+name = "HCL"
 desc = "Hue, Chroma, Luminance Color Space Model"
 
 [hms]
-disp = "HMS"
+name = "HMS"
 desc = "Huawei Mobile Services"
 
 [hdr]
-disp = "HDR"
+name = "HDR"
 desc = "High Dynamic Range"
 
 [htap]
-disp = "HTAP"
+name = "HTAP"
 desc = "Hybrid Transactional/Analytical Processing"
 
 [hvm]
-disp = "HVM"
+name = "HVM"
 desc = "Hardware VM"
 
 [hlsl]
-disp = "HLSL"
+name = "HLSL"
 desc = "High-Level Shading Language"
 
 [hpc]
-disp = "HPC"
+name = "HPC"
 desc = "High Performance Computing"
 
 [haml]
-disp = "HAML"
+name = "HAML"
 desc = "HTML abstraction markup language"
 
 [hdl]
-disp = "HDL"
+name = "HDL"
 desc = "Hardware Description Language"
 
 [hidpi]
-disp = "HiDPI"
+name = "HiDPI"
 desc = "High Dots Per Inch"
 
 [hts]
-disp = "HTS"
+name = "HTS"
 desc = "High Throughput Sequencing data"
 
 [http]
-disp = "HTTP"
+name = "HTTP"
 desc = "Hypertext Transfer Protocol"
 
 [hls.HTTP]
-disp = "HLS"
+name = "HLS"
 desc = "HTTP Live Streaming"
 
 [https]
-disp = "HTTPS"
+name = "HTTPS"
 desc = "Hypertext Transfer Protocol Over Secure Socket Layer"
 
 [hda]
-disp = "/dev/hda"
+name = "/dev/hda"
 desc = "The master disk on IDE primary controller"
 full = "hdb, hdc and so on"
 see = ['IDE', 'sda']
@@ -107,26 +107,26 @@ see = ['IDE', 'sda']
 same = 'hda'
 
 [html]
-disp = "HTML"
+name = "HTML"
 desc = "HyperText Markup Language"
 
 [hp]
-disp = "HP"
+name = "HP"
 desc = "Hewlett-Packard Company"
 
 [hhvm]
-disp = "HHVM"
+name = "HHVM"
 desc = "HipHop Virtual Machine"
 
 [hpc.counter]
-disp = "HPC"
+name = "HPC"
 desc = "Hardware Performance Counters"
 full = "A set of special-purpose registers built into modern microprocessors to store the counts of hardware-related activities within computer systems"
 
 [hld]
-disp = "HLD"
+name = "HLD"
 desc = "High-level design"
 
 [hal]
-disp = "HAL"
+name = "HAL"
 desc = "Hardware Abstraction Layer"

@@ -1,277 +1,277 @@
 [alsa]
-disp = "alsa"
+name = "alsa"
 desc = "Advanced Linux Sound Architecture"
 
 [apm]
-disp = "APM"
+name = "APM"
 desc = "Application performance management"
 
 [abnf]
-disp = "ABNF"
+name = "ABNF"
 desc = "Augmented Backus–Naur form"
 
 [avi]
-disp = "AVI"
+name = "AVI"
 desc = "Audio Video Interleave"
 full = "Introduced by Microsoft in November 1992 as part of its Video for Windows software"
 
 [avc]
-disp = "AVC"
+name = "AVC"
 desc = "Advanced Video Coding"
 full = "Known as H.264 introduced in 2003"
 
 [aac]
-disp = "AAC"
+name = "AAC"
 desc = "Advanced Audio Coding"
 
 [adi]
-disp = "ADI"
+name = "ADI"
 desc = "Analog Devices Inc"
 
 [amd]
-disp = "AMD"
+name = "AMD"
 desc = "Advanced Micro Devices"
 
 [aoe]
-disp = "AOE"
+name = "AOE"
 desc = "Activity On Edge network"
 
 [avx]
-disp = "AVX"
+name = "AVX"
 desc = "Advanced Vector Extensions"
 full = "Intel chips support"
 
 [ami]
-disp = "AMI"
+name = "AMI"
 desc = "Amazon Machine Images"
 
 [awk]
-disp = "awk language"
+name = "awk language"
 desc = "Alfred Aho, Peter Weinberger,and Brian Kernighan"
 
 [ansi]
-disp = "ANSI"
+name = "ANSI"
 desc = "American National Standards Institute"
 
 [alisp]
-disp = "ALisp"
+name = "ALisp"
 desc = "AutoLisp"
 
 [asdf]
-disp = "ASDF"
+name = "ASDF"
 desc = "Another System Definition Facility"
 full = "a build tool for Common Lisp libraries. It is analogous to tools such as Make and Ant."
 
 [atk]
-disp = "ATK"
+name = "ATK"
 desc = "Accessibility Toolkit"
 
 [abcl]
-disp = "ABCL"
+name = "ABCL"
 desc = "Armed Bear Common Lisp"
 full = "Common Lisp in the JVM"
 
 [armhf]
-disp = "armhf"
+name = "armhf"
 desc = "ARM hard float"
 
 [armel]
-disp = "armel"
+name = "armel"
 desc = "ARM Embedded ABI"
 
 [aes]
-disp = "AES"
+name = "AES"
 desc = "Advanced Encryption Standard"
 
 [ar]
-disp = "AR"
+name = "AR"
 desc = "Augmented Reality"
 
 [atl]
-disp = "ATL"
+name = "ATL"
 desc = "Active Template Library"
 
 [amoled]
-disp = "AMOLED"
+name = "AMOLED"
 desc = "Active-Matrix Organic Light-Emitting Diode"
 
 [arm]
-disp = "ARM"
+name = "ARM"
 desc = "Advanced RISC Machines and originally Acorn RISC Machine"
 
 [acme]
-disp = "ACME"
+name = "ACME"
 desc = "Automated Certificate Management Environment"
 
 [ado]
-disp = "ADO"
+name = "ADO"
 desc = "ActiveX Data Objects"
 
 [ascii]
-disp = "ASCII"
+name = "ASCII"
 desc = "American Standard Code for Information Interchange"
 
 [avr]
-disp = "AVR"
+name = "AVR"
 desc = "Help!"
 full = "A family of microcontrollers developed since 1996 by Atmel"
 
 [adc]
-disp = "ADC"
+name = "ADC"
 desc = "Analog To Digital Converter"
 
 [alm]
-disp = "ALM"
+name = "ALM"
 desc = "Application Lifecycle Management"
 
 [aot]
-disp = "AOT"
+name = "AOT"
 desc = "Ahead-of-Time Compilation"
 see = ['JIT']
 
 [ast]
-disp = "AST"
+name = "AST"
 desc = "Abstract Syntax Tree"
 
 [aosp]
-disp = "AOSP"
+name = "AOSP"
 desc = "Android Open Source Project"
 
 [alb]
-disp = "ALB"
+name = "ALB"
 desc = "AWS Load Balances"
 
 [aws]
-disp = "AWS"
+name = "AWS"
 desc = "Amazon Web Services"
 
 [apt.debian]
-disp = "APT"
+name = "APT"
 desc = "Advanced Package Tool"
 
 [apt]
-disp = "APT"
+name = "APT"
 desc = "Advanced Persistent Threat"
 
 [acm]
-disp = "ACM"
+name = "ACM"
 desc = "Association for Computing Machinery"
 
 [apkg.anki]
-disp = ".apkg"
+name = ".apkg"
 desc = "Anki Deck Pakcage"
 
 [anki]
-disp = "Anki"
+name = "Anki"
 desc = "Anki (暗記) is the Japanese word for 'memorization'"
 full = "A free and open-source flashcard program using spaced repetition"
 
 [ata]
-disp = "ATA"
+name = "ATA"
 desc = "AT Attachment"
 full = "Standard interface designed for IBM PC-compatible computers. It was first developed by Western Digital and Compaq in 1986 for compatible hard drives and CD or DVD drives."
 see = ['IDE', 'PATA', 'SATA']
 
 [atapi]
-disp = "ATAPI"
+name = "ATAPI"
 desc = "ATA Packet Interface"
 see = ['ATA']
 
 [adsl]
-disp = "ADSL"
+name = "ADSL"
 desc = "Asymmetric Digital Subscriber Line"
 see = ['DSL']
 
 [asic]
-disp = "ASIC"
+name = "ASIC"
 desc = "Application-Specific Integrated Circuit"
 
 [api]
-disp = "API"
+name = "API"
 desc = "Application Programming Interface"
 
 [ai]
-disp = "AI"
+name = "AI"
 desc = "Artificial Intelligence"
 
 [adt]
-disp = "ADT"
+name = "ADT"
 desc = "Abstract Data Type"
 
 [antlr]
-disp = "ANTLR"
+name = "ANTLR"
 desc = "ANother Tool for Language Recognition"
 
 [apl]
-disp = "APL"
+name = "APL"
 desc = "named after the book A Programming Language"
 full = "A programming language developed in the 1960s by Kenneth E. Iverson"
 
 # Can't match it on terminal input
 ["at&t"]
-disp = "AT&T"
+name = "AT&T"
 desc = "American Telephone and Telegraph Company"
 
 [att]
 same = "AT&T<=>at&t"
 
 [ampl]
-disp = "AMPL"
+name = "AMPL"
 desc = "A Mathematical Programming Language"
 full = "An algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing (i.e., large-scale optimization and scheduling-type problems). It was developed by Robert Fourer, David Gay, and Brian Kernighan at Bell Laboratories. "
 
 [ace]
-disp = "ACE"
+name = "ACE"
 desc = "Automatic Computing Engine"
 full = "A British early electronic serial stored-program computer designed by Alan Turing"
 
 [algol]
-disp = "ALGOL"
+name = "ALGOL"
 desc = "Algorithmic Language"
 
 [acpi]
-disp = "ACPI"
+name = "ACPI"
 desc = "Advanced Configuration and Power Interface"
 
 [arp]
-disp = "ARP"
+name = "ARP"
 desc = "Address Resolution Protocol"
 
 [asf]
-disp = "ASF"
+name = "ASF"
 desc = "Apache Software Foundation"
 
 [av1]
-disp = "AV1"
+name = "AV1"
 desc = "AOMedia Video 1"
 full = "An open, royalty-free video coding format initially designed for video transmissions over the Internet. It was developed as a successor to VP9 by (AOMedia)"
 see = ['VP9']
 
 [aomedia]
-disp = "AOMedia"
+name = "AOMedia"
 desc = "Alliance for Open Media"
 full = "A consortium founded in 2015 that includes semiconductor firms, video on demand providers, video content producers, software development companies and web browser vendors"
 
 [aur]
-disp = "AUR"
+name = "AUR"
 desc = "Arch User Repository"
 
 [aoc]
-disp = "AoC"
+name = "AoC"
 desc = "Advent of Code"
 full = "https://adventofcode.com/"
 
 [ams.Android]
-disp = "AMS"
+name = "AMS"
 desc = "Activity Manager Service"
 full = "System process provided by Android to manage the running status of Activity and other components"
 
 [aop]
-disp = "AOP"
+name = "AOP"
 desc = "Aspect-Oriented Programming"
 
 [asm.Java]
-disp = "ASM"
+name = "ASM"
 desc = "assembly"
 full = ''' It provides a simple API for decomposing, modifying, and recomposing binary Java classes (i.e. bytecode). The project was originally conceived and developed by Eric Bruneton. ASM is Java-centric at present, and does not currently have a backend that exposes other bytecode implementations (such as .NET bytecode, Python bytecode, etc.).
 

@@ -1,73 +1,73 @@
 [wpa]
-disp = "WPA"
+name = "WPA"
 desc = "Wi-Fi Protected Access"
 
 [waf]
-disp = "WAF"
+name = "WAF"
 desc = "Web Application Firewall"
 
 [webp]
-disp = "WebP"
+name = "WebP"
 desc = "Photo format for the Web"
 full = "Announced in 2010 by Google. A modern image format that provides superior lossless and lossy compression for images on the web"
 
 [webm]
-disp = "WebM"
+name = "WebM"
 desc = "Media format for the Web"
 full = "Sponsored by Google. Intended to offer a royalty-free alternative to use in the HTML5 video and the HTML5 audio elements"
 
 [wmi]
-disp = "WMI"
+name = "WMI"
 desc = "Windows Management Instrumentation"
 full = "it's deprecated, use CIM instead"
 see = ['CIM']
 
 [wapi]
-disp = "WAPI"
+name = "WAPI"
 desc = "WLAN Authentication and Privacy Infrastructure"
 
 [wpc]
-disp = "WPC"
+name = "WPC"
 desc = "Wireless Power Consortium"
 
 [wasi]
-disp = "WASI"
+name = "WASI"
 desc = "WebAssembly System Interface"
 
 [wchar]
-disp = "wchar"
+name = "wchar"
 desc = "wide character"
 
 [wsl]
-disp = "WSL"
+name = "WSL"
 desc = "Windows Subsystem Layer"
 
 [wps]
-disp = "WPS"
+name = "WPS"
 desc = "Writer, Presentation and Spreadsheets"
 
 [wip]
-disp = "WIP"
+name = "WIP"
 desc = "Work in Progress"
 
 [webrtc]
-disp = "WebRTC"
+name = "WebRTC"
 desc = "Web Real-Time Communication"
 
 [wget]
-disp = "Wget"
+name = "Wget"
 desc = "network get"
 full = "Non-interactive network downloader"
 
 [www]
-disp = "WWW"
+name = "WWW"
 desc = "World Wide Web"
 
 [w3m]
-disp = "w3m"
+name = "w3m"
 desc = "WWW wo miru (WWWを見る)"
 full = "which is Japanese for 'to see the WWW'"
 
 [w3c]
-disp = "W3C"
+name = "W3C"
 desc = "World Wide Web Consortium"

@@ -1,225 +1,225 @@
 [gdm]
-disp = "GDM"
+name = "GDM"
 desc = "GNOME Display Manager"
 full = "The GNOME Display Manager (GDM) is a program that manages graphical display servers and handles graphical user logins. "
 
 [gif]
-disp = "GIF"
+name = "GIF"
 desc = "Graphics Interchange Format"
 full = "Released in 1987. GIF images are compressed using LZW lossless data compression algorithm. By 2004 all the relevant patents of LZW had expired."
 
 [gm]
-disp = "GM"
+name = "GM"
 desc = "General Motors"
 
 [gpgpu]
-disp = "GPGPU"
+name = "GPGPU"
 desc = "General-Purpose computing on the GPU"
 
 [glsl]
-disp = "GLSL"
+name = "GLSL"
 desc = "OpenGL Shading Language"
 
 [gps]
-disp = "GPS"
+name = "GPS"
 desc = "Global Positioning System"
 
 [gdi]
-disp = "GDI"
+name = "GDI"
 desc = "Graphics Device Interface by Microsoft Windows"
 
 [gsl]
-disp = "GSL"
+name = "GSL"
 desc = "GNU Scientific Library"
 
 [gvdb]
-disp = "GVDB"
+name = "GVDB"
 desc = "GVariant Database"
 
 [gdk]
-disp = "GDK"
+name = "GDK"
 desc = "GIMP Drawing Kit"
 
 [gtk]
-disp = "GTK"
+name = "GTK"
 desc = "GIMP ToolKit, formerly GTK+"
 full = "It is a free and open-source cross-platform widget toolkit for creating graphical user interfaces"
 
 [gobject]
-disp = "GObject"
+name = "GObject"
 desc = "GLib object system"
 
 [gda]
-disp = "GDA"
+name = "GDA"
 desc = "GNU Data Access"
 
 [gom]
-disp = "GOM"
+name = "GOM"
 desc = "GNOME object mapper"
 
 [gap]
-disp = "GAP"
+name = "GAP"
 desc = "Groups, Algorithms and Programming"
 full = "is a computer algebra system for computational discrete algebra with particular emphasis on computational group theory."
 
 [ginac]
-disp = "GiNaC"
+name = "GiNaC"
 desc = "ginac is not a CAS"
 full = "C++ library for symbolic computing"
 
 [gimp]
-disp = "GIMP"
+name = "GIMP"
 desc = "GNU Image Manipulation Program"
 
 [gegl]
-disp = "GEGL"
+name = "GEGL"
 desc = "Generic Graphics Library, mainly for GIMP"
 
 [gtd]
-disp = "GTD"
+name = "GTD"
 desc = "Getting Things Done"
 
 [glm]
-disp = "GLM"
+name = "GLM"
 desc = "OpenGL Mathematics"
 
 [gsoc]
-disp = "GSoC"
+name = "GSoC"
 desc = "Google Summer of Code"
 
 [gcc.c]
-disp = "GCC"
+name = "GCC"
 desc = "GNU C Compiler"
 
 [gcc]
-disp = "GCC"
+name = "GCC"
 desc = "GNU Compiler Collection"
 
 [gmp]
-disp = "GMP"
+name = "GMP"
 desc = "GNU Multiple Precision Arithmetic Library"
 
 [gomp]
-disp = "GNU OpenMP"
+name = "GNU OpenMP"
 desc = "OpenMP implementation for GCC"
 see = ['OpenMP']
 
 [gpio]
-disp = "GPIO"
+name = "GPIO"
 desc = "General-purpose Input/output"
 
 [glr]
-disp = "GLR"
+name = "GLR"
 desc = "Generalized LR"
 
 [gdb]
-disp = "GDB"
+name = "GDB"
 desc = "GNU Debugger"
 
 [gnu]
-disp = "GNU"
+name = "GNU"
 desc = "GNU's Not Unix!"
 
 [gpl]
-disp = "GPL"
+name = "GPL"
 desc = "GNU General Public License"
 
 [gui]
-disp = "GUI"
+name = "GUI"
 desc = "Graphical User Interface"
 
 [grep]
-disp = "grep"
+name = "grep"
 desc = "g/re/p (globally search for a regular expression and print matching lines)"
 full = "A command-line utility for searching plain-text data sets for lines that match a regular expression. Its name comes from the ed command g/re/p "
 
 [gpt.partition]
-disp = "GPT"
+name = "GPT"
 desc = "GUID Partition Table"
 see = ['GUID']
 
 [guid]
-disp = "GUID"
+name = "GUID"
 desc = "Globally Unique Identifier"
 
 [gpt.AI]
-disp = "GPT"
+name = "GPT"
 desc = "Generative Pre-trained Transformer"
 full = "An autoregressive language model that uses deep learning to produce human-like text"
 
 [gta]
-disp = "GTA"
+name = "GTA"
 desc = "Grand Theft Auto"
 
 [ge]
-disp = "GE"
+name = "GE"
 desc = "General Electric"
 
 [gcos]
-disp = "GCOS"
+name = "GCOS"
 desc = "General Comprehensive Operating System"
 full = "A family of operating systems oriented toward the 36-bit GE/Honeywell mainframe computers, original version of GCOS was developed by General Electric from 1962"
 
 [gnat]
-disp = "GNAT"
+name = "GNAT"
 desc = "GNU NYU Ada Translator, but that name no longer applies"
 full = "A free-software compiler for the Ada programming language which forms part of the GNU Compiler Collection (GCC). It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83. The front-end and run-time are written in Ada. "
 
 [gcov]
-disp = "Gcov"
+name = "Gcov"
 desc = "source code coverage analysis from GCC"
 
 [gperf]
-disp = "gperf"
+name = "gperf"
 desc = "perfect hash function generator "
 
 [gprof]
-disp = "gprof"
+name = "gprof"
 desc = "performance analysis tool for Unix applications"
 
 [gis]
-disp = "GIS"
+name = "GIS"
 desc = "Geographic Information System"
 
 [gzip]
-disp = "Gzip"
+name = "Gzip"
 desc = "General (de)compression of files"
 
 [gpg]
-disp = "GPG"
+name = "GPG"
 desc = "GNU Privacy Guard"
 
 [grub]
-disp = "GRUB"
+name = "GRUB"
 desc = "GRand Unified Bootloader"
 
 [glob.pattern]
-disp = "glob"
+name = "glob"
 desc = "global"
 full = "The command interpreters of the early versions of Unix (1st through 6th Editions, 1969–1975) relied on a separate program to expand wildcard characters in unquoted arguments to a command: /etc/glob. That program performed the expansion and supplied the expanded list of file paths to the command for execution"
 
 [gas]
-disp = "GAS"
+name = "GAS"
 desc = "GNU Assembler"
 full = "The GAS executable is named as"
 
 [gnus]
-disp = "Gnus"
+name = "Gnus"
 desc = "Gnus Network User Services"
 full = "A message reader which is part of GNU Emacs. It supports reading and composing both e-mail and news and can also act as an RSS reader, web processor, and directory browser for both local and remote filesystems."
 
 [gcp]
-disp = "GCP"
+name = "GCP"
 desc = "Google Cloud Platform"
 
 [gles]
-disp = "GLES"
+name = "GLES"
 same = "OpenGL ES<=>opengles"
 
 [gof]
-disp = "GoF"
+name = "GoF"
 desc = "Gang of Four"
 
 [gfm]
-disp = "GFM"
+name = "GFM"
 desc = "GitHub Flavored Markdown"

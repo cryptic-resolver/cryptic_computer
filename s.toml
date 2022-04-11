@@ -1,109 +1,109 @@
 [sql]
-disp = "SQL"
+name = "SQL"
 desc = "Structured Query Language"
 
 [sgml]
-disp = "SGML"
+name = "SGML"
 desc = "Standard Generalized Markup Language"
 
 [sddm]
-disp = "SDDM"
+name = "SDDM"
 desc = "Simple Desktop Display Manager"
 full = "A QML based X11 and Wayland display manager. It is the recommended display manager for the KDE Plasma and LXQt desktop environments."
 
 [suv]
-disp = "SUV"
+name = "SUV"
 desc = "Sport Utility Vehicle"
 
 [sbt]
-disp = "sbt"
+name = "sbt"
 desc = "Scala Build Tool"
 
 [stm]
-disp = "STM"
+name = "STM"
 desc = "Software Transaction Memory"
 
 [s3]
-disp = "s3"
+name = "s3"
 desc = "Amazon Simple Storage Service"
 
 [snobol]
-disp = "SNOBOL"
+name = "SNOBOL"
 desc = "StriNg Oriented and symBOlic Language"
 
 [sicp]
-disp = "SICP"
+name = "SICP"
 desc = "Structure and Interpretation of Computer Programs"
 
 [smart]
-disp = "SMART"
+name = "SMART"
 desc = "Specific, Measurable, Achievable, Relevant, Time-boxed"
 
 [slime]
-disp = "SLIME"
+name = "SLIME"
 desc = "The Superior Lisp Interaction Mode for Emacs"
 
 [svg]
-disp = "SVG"
+name = "SVG"
 desc = "Scalable Vector Graphics"
 
 [soap]
-disp = "SOAP"
+name = "SOAP"
 desc = "Simple Object Access Protocol"
 full = "a messaging porotocal initially as XML-RPC in June 1998"
 
 [sexp]
-disp = "sexp"
+name = "sexp"
 desc = "S(ymbolic) expression"
 
 [srfi]
-disp = "SRFI"
+name = "SRFI"
 desc = "Scheme Requests for Implementation"
 
 [sa]
-disp = "SA"
+name = "SA"
 desc = "Security Association"
 
 [sm4]
-disp = "SM4"
+name = "SM4"
 desc = "a block cipher used in the Chinese National Standard for Wireless LAN WAPI"
 
 [sas.algebra]
-disp = "SAS"
+name = "SAS"
 desc = "Symbolic Algebra System"
 
 [sas.statistics]
-disp = "SAS"
+name = "SAS"
 desc = "Statistics Analysis System"
 
 [spss]
-disp = "SPSS"
+name = "SPSS"
 desc = "Statistical Product and Service Solutions"
 full = "formerly Statistical Package for the Social Sciences, reflecting the original market"
 
 [srgb]
-disp = "sRGB"
+name = "sRGB"
 desc = "standard Red Green Blue"
 
 [stl.3D]
-disp = ".stl"
+name = ".stl"
 desc = "Standard Triangle Language and Standard Tessellation Language"
 full = "A file format native to the stereolithography CAD software created by 3D Systems"
 
 [stdin]
-disp = "STDIN"
+name = "STDIN"
 desc = "Standard Input"
 
 [stdout]
-disp = "STDOUT"
+name = "STDOUT"
 desc = "Standard Output"
 
 [stderr]
-disp = "STDERR"
+name = "STDERR"
 desc = "Standard Error"
 
 [stl.cpp]
-disp = "STL"
+name = "STL"
 desc = "C++ Standard Template Library"
 
 
@@ -112,97 +112,97 @@ desc = "C++ Standard Template Library"
 ################################################
 
 [sigaccess.ACMsig]
-disp = "SIGACCESS"
+name = "SIGACCESS"
 desc = "ACM's Special Interest Group on Accessible Computing"
 
 [sigact.ACMsig]
-disp = "SIGACT"
+name = "SIGACT"
 desc = "ACM's Special Interest Group on Algorithms & Computation Theory"
 
 [sigada.ACMsig]
-disp = "SIGAda"
+name = "SIGAda"
 desc = "ACM's Special Interest Group on Ada Programming Language"
 
 [sigai.ACMsig]
-disp = "SIGAI"
+name = "SIGAI"
 desc = "ACM's Special Interest Group on Artificial Intelligence"
 
 [sigapp.ACMsig]
-disp = "SIGAPP"
+name = "SIGAPP"
 desc = "ACM's Special Interest Group on Applied Computing"
 
 [sigarch.ACMsig]
-disp = "SIGARCH"
+name = "SIGARCH"
 desc = "ACM's Special Interest Group on Computer Architecture"
 
 [sigbed.ACMsig]
-disp = "SIGBED"
+name = "SIGBED"
 desc = "ACM's Special Interest Group on Embedded Systems"
 
 [sigbio.ACMsig]
-disp = "SIGBio"
+name = "SIGBio"
 desc = "ACM's Special Interest Group on Bioinformatics, Computational Biology"
 
 [sigcas.ACMsig]
-disp = "SIGCAS"
+name = "SIGCAS"
 desc = "ACM's Special Interest Group on Computers and Society"
 
 [sigchi.ACMsig]
-disp = "SIGCHI"
+name = "SIGCHI"
 desc = "ACM's Special Interest Group on Computer-Human Interaction"
 
 [sigplan.ACMsig]
-disp = "SIGPLAN"
+name = "SIGPLAN"
 desc = "The ACM Special Interest Group on Programming Languages"
 see = ['PLDI', 'ACM']
 
 [sigmod.ACMsig]
-disp = "SIGMOD"
+name = "SIGMOD"
 desc = "ACM's Special Interest Group on Management of Data"
 full = "which specializes in large-scale data management problems and databases."
 
 [sigops.ACMsig]
-disp = "SIGOPS"
+name = "SIGOPS"
 desc = "ACM's Special Interest Group on Operating Systems"
 
 [seo]
-disp = "SEO"
+name = "SEO"
 desc = "Search Engine Optimization"
 
 [sdl]
-disp = "SDL"
+name = "SDL"
 desc = "Simple DirectMedia Layer"
 
 [sus]
-disp = "SUS"
+name = "SUS"
 desc = "Single UNIX Specification"
 
 [scm]
-disp = "SCM"
+name = "SCM"
 desc = "Source Code Management"
 
 [sloc]
-disp = "sloc"
+name = "sloc"
 desc = "Source Lines of Code"
 
 [smp]
-disp = "SMP"
+name = "SMP"
 desc = "Symmetrical Multiprocessing"
 
 [smt]
-disp = "SMT"
+name = "SMT"
 desc = "Simultaneous Multithreaded"
 
 [sram]
-disp = "SRAM"
+name = "SRAM"
 desc = "Static Random-Access Memory"
 
 [smbios]
-disp = "SMBIOS"
+name = "SMBIOS"
 desc = "System Management BIOS"
 
 [st]
-disp = "ST"
+name = "ST"
 desc = "SGS Microelettronica and Thomson Semiconducteurs"
 full = "The company resulted from the merger of two government-owned semiconductor companies in 1987: Thomson Semiconducteurs of France and SGS Microelettronica of Italy. It is commonly called ST, and it is Europe's largest semiconductor chip maker based on revenue"
 
@@ -210,67 +210,67 @@ full = "The company resulted from the merger of two government-owned semiconduct
 same = "IP core<=>ip.semiconductor"
 
 [spi]
-disp = "SPI"
+name = "SPI"
 desc = "Serial Peripheral Interface"
 
 [sd]
-disp = "SD"
+name = "SD"
 desc = "Secure Digital"
 
 [spdx]
-disp = "SPDX"
+name = "SPDX"
 desc = "Software Package Data Exchange"
 
 [sast]
-disp = "SAST"
+name = "SAST"
 desc = "Static Application Security Testing"
 
 [sdlc]
-disp = "SDLC"
+name = "SDLC"
 desc = "Software Development Life Cycle"
 
 [sdd]
-disp = "SDD"
+name = "SDD"
 desc = "Software Design Description/Document"
 
 [swt.Java]
-disp = "SWT"
+name = "SWT"
 desc = "Standard Widget Toolkit for Java"
 
 [sre]
-disp = "SRE"
+name = "SRE"
 desc = "Site Reliability Engineer"
 
 [swe]
-disp = "SWE"
+name = "SWE"
 desc = "Software Engineering"
 
 [soc]
-disp = "SoC"
+name = "SoC"
 desc = "System on a Chip"
 
 [ssa.llvm]
-disp = "SSA"
+name = "SSA"
 desc = "Static Single Assignment"
 
 [sfc]
-disp = "SFC"
+name = "SFC"
 desc = "Software Freedom Conservancy"
 
 [sflc]
-disp = "SFLC"
+name = "SFLC"
 desc = "Software Freedom Law Center"
 
 [saas]
-disp = "SAAS"
+name = "SAAS"
 desc = "Software As A Service"
 
 [scsi]
-disp = "SCSI"
+name = "SCSI"
 desc = "Small Computer System Interface"
 
 [sda]
-disp = "/dev/sda"
+name = "/dev/sda"
 desc = "The first SCSI disk id"
 full = "sdb, sdc and so on"
 see = ['SCSI']
@@ -282,207 +282,207 @@ same = "sda"
 same = "SMBus<=>smbus"
 
 [smbus]
-disp = "SMBus"
+name = "SMBus"
 desc = "System Management Bus"
 full = "A single-ended simple two-wire bus for the purpose of lightweight communication"
 
 [sata]
-disp = "SATA"
+name = "SATA"
 desc = "Serial ATA"
 see = ['PATA', 'ATA']
 
 [sdf]
-disp = "SDF"
+name = "SDF"
 desc = "Super Dimension Fortress, also known as freeshell.org"
 full = "A non-profit public access UNIX shell provider on the Internet"
 
 [sbcl]
-disp = "SBCL"
+name = "SBCL"
 desc = "Steel Bank Common Lisp"
 see = ['CCL', 'Elisp']
 
 [ssl]
-disp = "SSL"
+name = "SSL"
 desc = "Secure Sockets Layer"
 full = "TLS is the successor of the now-deprecated SSL"
 see = ['TLS']
 
 [swig]
-disp = "SWIG"
+name = "SWIG"
 desc = "Simplified Wrapper and Interface Generator"
 full = "An open-source software tool used to connect computer programs or libraries written in C or C++ with scripting languages"
 
 [sci]
-disp = "SCI"
+name = "SCI"
 desc = "Science Citation Index"
 
 [sudo]
-disp = "sudo"
+name = "sudo"
 desc = "superuser do"
 full = "NOT 'substitute user, do'!"
 
 [slr]
-disp = "SLR"
+name = "SLR"
 desc = "Simple LR"
 full = "A type of LR parser with small parse tables"
 see = ['LR', 'LALR']
 
 [sns]
-disp = "SNS"
+name = "SNS"
 desc = "Social Networking Service"
 
 [sdl.lang]
-disp = "SDL"
+name = "SDL"
 desc = "Specification and Description Language"
 
 [secd]
-disp = "SECD"
+name = "SECD"
 desc = "Stack, Environment, Control, Dump machine"
 full = "Intended as a target for functional programming language compilers."
 
 [sco]
-disp = "SCO"
+name = "SCO"
 desc = "Santa Cruz Operation"
 
 [svr1]
-disp = "SVR1"
+name = "SVR1"
 desc = "System V Release 1.0"
 full = "succeeded AT&T's previous commercial Unix called System III in January, 1983. Unix 4.0 was never released externally, which would have been designated as System IV"
 
 [svr2]
-disp = "SVR2"
+name = "SVR2"
 desc = "System V Release 2.0"
 full = "Released in 1984. Maurice J. Bach's book, <The Design of the UNIX Operating System>, is the definitive description of the SVR2 kernel"
 
 [svr3]
-disp = "SVR3"
+name = "SVR3"
 desc = "System V Release 3.0"
 full = "Released in 1987. IBM's AIX operating system is an SVR3 derivative."
 
 [svr4]
-disp = "SVR4"
+name = "SVR4"
 desc = "System V Release 4.0"
 full = "It was announced on October 18, 1988, commercially the most successful version in four major versions of System V 1,2,3,4"
 
 [sysv]
-disp = "SysV"
+name = "SysV"
 desc = "Unix System V (pronounced: 'System Five')"
 full = "one of the first commercial versions of the Unix operating system. It was originally developed by AT&T and first released in 1983"
 see = ['SVR4','SVR3','SVR2','SVR1']
 
 [systemv]
-disp = "System V"
+name = "System V"
 same = "SysV<=>sysv"
 
 [strace]
-disp = "strace"
+name = "strace"
 desc = "system calls tracer"
 see = ['ltrace']
 
 [selinux]
-disp = "SELinux"
+name = "SELinux"
 desc = "Security-Enhanced Linux"
 
 [sha]
-disp = "SHA"
+name = "SHA"
 desc = "Secure Hash Algorithms"
 
 [stty.coreutils]
-disp = "stty (coreutils) "
+name = "stty (coreutils) "
 desc = "set teletype"
 full = "Print/change terminal settings"
 
 [stat.coreutils]
-disp = "stat (coreutils)"
+name = "stat (coreutils)"
 desc = "Report file(system) status"
 
 [sed]
-disp = "sed"
+name = "sed"
 desc = "Stream EDitor"
 
 [stabs.debug]
-disp = "stabs"
+name = "stabs"
 desc = "used by DBX on most BSD systems"
 full = """When stabs was created in the 1980s, the dominant object file format was a.out, which (unlike more recent formats such as ELF) makes no provision for storing debugging information. Stabs works around this problem by encoding the information using special entries in the symbol table.
 
 At one stage stabs was widely used on Unix systems, but the newer DWARF format has largely supplanted it."""
 
 [smtp]
-disp = "SMTP"
+name = "SMTP"
 desc = "Simple Mail Transfer Protocol"
 
 [semver]
-disp = "SemVer"
+name = "SemVer"
 desc = "Semantic Versioning"
 full = "MAJOR.MINOR.PATCH  see: https://semver.org/"
 
 [sass]
-disp = "Sass"
+name = "Sass"
 desc = "Syntactically Awesome Style Sheets"
 see = ['SCSS']
 
 [scss]
-disp = "SCSS"
+name = "SCSS"
 desc = "Sassy CSS"
 full = "The newer syntax for Sass"
 see = ['Sass']
 
 [ssh]
-disp = "SSH"
+name = "SSH"
 desc = "Secure Shell"
 
 [snmp]
-disp = "SNMP"
+name = "SNMP"
 desc = "Simple Network Management Protocol"
 
 [svid]
-disp = "SVID"
+name = "SVID"
 desc = "System V Interface Definition"
 
 [sh]
-disp = "sh"
+name = "sh"
 desc = "Bourne shell"
 full = "Released in 1979 in the Version 7 Unix, developed by Stephen Bourne at Bell Labs, it was a replacement for the Thompson shell, whose executable file had the same name -- sh."
 
 [so]
-disp = ".so"
+name = ".so"
 desc = "shared objects"
 full = "Dynamically linked libraries are also called shared objects"
 
 [sve]
-disp = "SVE"
+name = "SVE"
 desc = "Scalable Vector Extensions"
 
 [sme]
-disp = "SME"
+name = "SME"
 desc = "Scalable Matrix Extension"
 
 [simd]
-disp = "SIMD"
+name = "SIMD"
 desc = "Single instruction, Multiple data"
 
 [ssi]
-disp = "SSI"
+name = "SSI"
 desc = "Server Side Includes"
 
 [sles]
-disp = "SLES"
+name = "SLES"
 desc = "SUSE Linux Enterprise Server"
 
 [sdn]
-disp = "SDN"
+name = "SDN"
 desc = "Software-defined Networking"
 
 [suid]
-disp = "SUID"
+name = "SUID"
 desc = "Set owner User ID up on execution"
 full = "A special type of file permissions given to a file. Normally in Linux/Unix when a program runs, it inherits access permissions from the logged in user. SUID is defined as giving temporary permissions to a user to run a program/file with the permissions of the file owner rather that the user who runs it."
 
 [sdk]
-disp = "SDK"
+name = "SDK"
 desc = "Software Development Kit"
 
 [spi.API]
-disp = "SPI"
+name = "SPI"
 desc = "Service provider interface"
 full = "An API intended to be implemented or extended by a third party. It can be used to enable framework extension and replaceable components"

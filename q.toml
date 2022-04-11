@@ -1,29 +1,29 @@
 [qif]
-disp = "QIF"
+name = "QIF"
 desc = "Quicken Interchange Format"
 full = "It's an open specification for reading and writing financial data to media, it's older than OFX"
 see = ["OFX"]
 
 [qps]
-disp = "QPS"
+name = "QPS"
 desc = "Queries Per Second"
 
 [qa]
-disp = "QA"
+name = "QA"
 desc = "Quality Assurance"
 
 [qc]
-disp = "QC"
+name = "QC"
 desc = "Quality Control"
 
 [quic]
-disp = "QUIC"
+name = "QUIC"
 desc = "Quick UDP Internet Connections"
 
 [qr]
-disp = "QR code"
+name = "QR code"
 desc = "Quick Response code"
 
 [qos]
-disp = "QoS"
+name = "QoS"
 desc = "Quality of Service"

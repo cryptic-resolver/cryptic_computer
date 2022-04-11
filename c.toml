@@ -1,148 +1,148 @@
 [cli]
-disp = "CLI"
+name = "CLI"
 desc = "Command-line Interface"
 see = ['GUI']
 
 [css]
-disp = "CSS"
+name = "CSS"
 desc = "Cascading Style Sheets"
 
 [cups]
-disp = "CUPS"
+name = "CUPS"
 desc = "Common Unix Printing System"
 
 [cst.America]
-disp = "CST(America)"
+name = "CST(America)"
 desc = "Central Standard Time(UTC-6)"
 see = ['UTC']
 
 [cst.China]
-disp = "CST(China)"
+name = "CST(China)"
 desc = "China Standard Time(UTC+8)"
 
 [crt.electronics]
-disp = "CRT"
+name = "CRT"
 desc = "Cathode Ray Tube"
 
 [csrf]
-disp = "CSRF"
+name = "CSRF"
 desc = "Cross Site Request Forgery"
 
 [cur]
-disp = "CUR"
+name = "CUR"
 desc = "Cursor image format for Windows"
 see = ["ICO"]
 
 [com]
-disp = "COM"
+name = "COM"
 desc = "Component Object Model"
 full = "A binary-interface standard for software components introduced by Microsoft in 1993. It is used to enable inter-process communication object creation in a large range of programming languages"
 
 [csp]
-disp = "CSP"
+name = "CSP"
 desc = "Communicating Sequential Processs"
 
 [cpl]
-disp = "cpl"
+name = "cpl"
 desc = "Control PaneL"
 full = "Control panel tools for Windows"
 
 [cuda]
-disp = "CUDA"
+name = "CUDA"
 desc = "Compute Unified Device Architecture"
 full = "A parallel computing platform and application programming interface (API) model created by Nvidia."
 
 [cad]
-disp = "CAD"
+name = "CAD"
 desc = "Computer-aided design"
 
 [cname]
-disp = "CNAME"
+name = "CNAME"
 desc = "Canonical Name record"
 full = "map one domain name(an alias) to another(the canonical name)"
 
 [clos]
-disp = "CLOS"
+name = "CLOS"
 desc = "Common Lisp Object System"
 
 [clu]
-disp = "CLU"
+name = "CLU"
 desc = "CLUster"
 full = "OOP language invented in 1975, MIT "
 
 [cdn]
-disp = "CDN"
+name = "CDN"
 desc = "Content Delivery Network"
 
 [cve]
-disp = "CVE"
+name = "CVE"
 desc = "Common Vulnerabilities and Exposures"
 
 [cvss]
-disp = "CVSS"
+name = "CVSS"
 desc = "Common Vulnerability Scoring System"
 
 [cmm]
-disp = "CMM"
+name = "CMM"
 desc = "Capability Maturity Model"
 
 [clhs]
-disp = "clhs"
+name = "clhs"
 desc = "Common Lisp HyperSpec"
 
 [cons]
-disp = "cons"
+name = "cons"
 desc = "CONStruct lists"
 
 [ckeditor]
-disp = "CKEditor"
+name = "CKEditor"
 desc = "An online editor formerly called FCKeditor"
 full = "released in March 2003 by Frederico Caldeira Knabben, the creator of the editor"
 
 [cas]
-disp = "CAS"
+name = "CAS"
 desc = "Computer Algebra System"
 
 [csg]
-disp = "CSG"
+name = "CSG"
 desc = "Constructive Solid Geometry"
 
 [cfd]
-disp = "CFD"
+name = "CFD"
 desc = "computational fluid dynamics"
 
 [cmyk]
-disp = "CMYK"
+name = "CMYK"
 desc = "Cyan, Magenta, Yellow, Dark Color Model"
 
 [cmy]
-disp = "CMY"
+name = "CMY"
 same = "CMYK<=>cmyk"
 
 [cms]
-disp = "CMS"
+name = "CMS"
 desc = "Content Management System"
 
 [ct]
-disp = "CT"
+name = "CT"
 desc = "Communications Technology"
 see = "IT" 
 
 [cncf]
-disp = "CNCF"
+name = "CNCF"
 desc = "Cloud Native Computing Foundation"
 
 [cr]
-disp = "CR"
+name = "CR"
 desc = "Cryptic Resolver"
 full = "This is the name of this program :)"
 
 [cr.ASCII]
-disp = "<CR>"
+name = "<CR>"
 desc = "Carriage Return"
 
 [cc]
-disp = "CC"
+name = "CC"
 desc = "Creative Commons"
 full = '''
 Rights:
@@ -152,194 +152,194 @@ Rights:
     ND: No Derivatives'''
 
 [coff]
-disp = "COFF"
+name = "COFF"
 desc = "Common Object File Format"
 full = "A format for executable, object code, and shared library computer files used on Unix systems. It was introduced in Unix System V, replaced the previously used a.out format, and formed the basis for extended specifications such as XCOFF and ECOFF, before being largely replaced by ELF, introduced with SVR4"
 
 [clob]
-disp = "CLOB"
+name = "CLOB"
 desc = "Character Large Object"
 
 [crt.lib]
-disp = "CRT"
+name = "CRT"
 desc = "C Runtime Library"
 see = ['UCRT']
 
 [cqrs]
-disp = "CQRS"
+name = "CQRS"
 desc = "Command Query Responsibility Segregation pattern"
 
 [cim]
-disp = "CIM"
+name = "CIM"
 desc = "Common Information Model for PowerShell"
 
 [can]
-disp = "CAN"
+name = "CAN"
 desc = "Controller Area Network protocol"
 
 [cpu]
-disp = "CPU"
+name = "CPU"
 desc = "Central Processing Unit"
 
 [crc]
-disp = "CRC"
+name = "CRC"
 desc = "Cyclic Redundancy Check"
 
 [cdt.Eclipse]
-disp = "CDT"
+name = "CDT"
 desc = "Eclipse C/C++ Development Tooling"
 
 [csl]
-disp = "CSL"
+name = "CSL"
 desc = "Citation Style Language"
 
 [cpan]
-disp = "CPAN"
+name = "CPAN"
 desc = "The Comprehensive Perl Archive Network"
 
 [cran]
-disp = "CRAN"
+name = "CRAN"
 desc = "The Comprehensive R Archive Network"
 
 [ctan]
-disp = "CTAN"
+name = "CTAN"
 desc = "Comprehensive TeX Archive Network"
 
 [cde]
-disp = "CDE"
+name = "CDE"
 desc = "Common Desktop Environment"
 
 [cfg.grammar]
-disp = "CFG"
+name = "CFG"
 desc = "Context-Free Grammar"
 see = ['CSG']
 
 [cfl.grammar]
-disp = "CFL"
+name = "CFL"
 desc = "Context-Free Language, derived from a CFG"
 see = ['CFG']
 
 [csg.grammar]
-disp = "CSG"
+name = "CSG"
 desc = "Context-Sensitive Grammar"
 see = ['CFG']
 
 [cvs]
-disp = "CVS"
+name = "CVS"
 desc = "Concurrent Versions System"
 
 [cisc]
-disp = "CISC"
+name = "CISC"
 desc = "Complex Instruction Set Computing"
 see = ['RISC']
 
 [cfg.graph]
-disp = "CFG"
+name = "CFG"
 desc = "Control Flow Graph"
 
 [cgo]
-disp = "CGO"
+name = "CGO"
 desc = "Code Generation and Optimization"
 
 [cwe]
-disp = "CWE"
+name = "CWE"
 desc = "Common Weakness Enumeration"
 
 [ci]
-disp = "CI"
+name = "CI"
 desc = "Continuous Integration"
 
 [cpd]
-disp = "CPD"
+name = "CPD"
 desc = "Copy/Paste Detector"
 full = "An add-on to PMD that uses the Rabin–Karp string search algorithm to find duplicated code. Unlike PMD, CPD works with a broader range of languages including Java,JSP, C, C++, Fortran, PHP, and C# code."
 see = ['PMD']
 
 [crx.chrome]
-disp = ".crx"
+name = ".crx"
 desc = "Chrome extension"
 
 [cd.command]
-disp = "cd"
+name = "cd"
 desc = "Change Directory"
 
 [cd.hardware]
-disp = "CD"
+name = "CD"
 desc = "Compact Disc"
 see = ['DVD']
 
 [ccl]
-disp = "CCL"
+name = "CCL"
 desc = "Clozure CL"
 see = ['SBCL']
 
 ["cp/m"]
-disp = "CP/M"
+name = "CP/M"
 desc = "Control Program/Monitor and later Control Program for Microcomputers"
 full = "A mass-market operating system created in 1974 for Intel 8080/85-based microcomputers by Gary Kildall of Digital Research, Inc."
 
 [cmos]
-disp = "CMOS"
+name = "CMOS"
 desc = "Complementary Metal–Oxide–Semiconductor"
 
 [cobol]
-disp = "COBOL"
+name = "COBOL"
 desc = "Common Business-Oriented Language"
 full = "Designed in 1959 by CODASYL"
 
 [ctss.os]
-disp = "CTSS"
+name = "CTSS"
 desc = "Compatible Time-Sharing System"
 
 [cto]
-disp = "CTO"
+name = "CTO"
 desc = "Chief Technology Officer"
 
 [ctf]
-disp = "CTF"
+name = "CTF"
 desc = "Capture the Flag Challenge"
 
 [cors]
-disp = "CORS"
+name = "CORS"
 desc = "Cross-Origin Resource Sharing"
 
 [company.Emacs]
-disp = "company"
+name = "company"
 desc = "Complete anything"
 full = "A modular text completion framework for Emacs"
 
 [ca]
-disp = "CA"
+name = "CA"
 desc = "Certificate Authority"
 
 [cat.coreutils]
-disp = "cat (coreutils)"
+name = "cat (coreutils)"
 desc = "Concatenate and write files"
 
 [cgi]
-disp = "CGI"
+name = "CGI"
 desc = "Common Gateway Interface"
 
 [cjk]
-disp = "CJK"
+name = "CJK"
 desc = "Chinese, Japanese, Korean"
 
 [curl]
-disp = "cURL"
+name = "cURL"
 desc = "Client URL"
 
 [ccpc.Kernel]
-disp = "CCPC"
+name = "CCPC"
 desc = "Collaborative Processor Performance Control"
 
 [cidr]
-disp = "CIDR"
+name = "CIDR"
 desc = "Classless Inter-Domain Routing"
 
 [crud]
-disp = "CRUD"
+name = "CRUD"
 desc = "Create, Read, Update and Delete"
 
 [cui]
-disp = "CUI"
+name = "CUI"
 desc = "Character User Interface"

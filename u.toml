@@ -1,75 +1,75 @@
 [utc]
-disp = "UTC"
+name = "UTC"
 desc = "Universal Time Coordinated"
 
 [uac]
-disp = "UAC"
+name = "UAC"
 desc = "User Account Control(Windows)"
 
 [uri]
-disp = "URI"
+name = "URI"
 desc = "Uniform Resource Identifier"
 
 [uiop]
-disp = "UIOP"
+name = "UIOP"
 desc = "Utilities for Implementation- and OS- Portability"
 full = "Common Lisp's ASDF's library"
 
 [uuid]
-disp = "UUID"
+name = "UUID"
 desc = "Universally Unique Identifier"
 
 [ucrt]
-disp = "UCRT"
+name = "UCRT"
 desc = "Universal C Runtime Library by Windows"
 
 [unicode]
-disp = "Unicode"
+name = "Unicode"
 desc = "Universal Coded Character Set"
 
 [utf]
-disp = "UTF"
+name = "UTF"
 desc = "Unicode Transformation Format"
 see = ["Unicode"]
 
 [ucs]
-disp = "UCS"
+name = "UCS"
 desc = "Universal Character Set"
 
 [ufcs]
-disp = "UFCS"
+name = "UFCS"
 desc = "Uniform Function Call Syntax in Dlang"
 
 [usb]
-disp = "USB"
+name = "USB"
 desc = "Universal Serial Bus"
 
 [uefi]
-disp = "UEFI"
+name = "UEFI"
 desc = "Unified Extensible Firmware Interface"
 
 [uart]
-disp = "UART"
+name = "UART"
 desc = "Universal Asynchronous Serial port"
 
 [uml]
-disp = "UML"
+name = "UML"
 desc = "Unified Modeling Language"
 
 [udp]
-disp = "UDP"
+name = "UDP"
 desc = "User Datagram Protocol"
 
 [unix]
-disp = "Unix"
+name = "Unix"
 desc = "Uniplexed Information and Computing Service"
 see = ['Multics']
 
 [ufw]
-disp = "UFW"
+name = "UFW"
 desc = "Uncomplicated FireWall"
 full = "A frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu"
 
 [usi]
-disp = "USI"
+name = "USI"
 desc = "Universal Stylus Initiative"

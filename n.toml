@@ -1,115 +1,115 @@
 [nvidia]
-disp = "Nvidia"
+name = "Nvidia"
 desc = "Invidia, Latin for envy"
 full = "A company designs GPU. Envy and vision are closely tied in mythology with the eye or the gaze being a common symbol. In addition, sounds being quite similar to video."
 
 [nvd]
-disp = "NVD"
+name = "NVD"
 desc = "National Vulnerability Database"
 
 [nfs]
-disp = "NFS"
+name = "NFS"
 desc = "Network File System"
 
 [ntp]
-disp = "NTP"
+name = "NTP"
 desc = "Network Time Protocol"
 
 [nasm]
-disp = "nasm"
+name = "nasm"
 desc = "Netwide Assembler"
 
 [nptl]
-disp = "NPTL"
+name = "NPTL"
 desc = "Native POSIX Thread Library"
 full = "An implementation of the POSIX Threads specification for the Linux operating system."
 
 [nes]
-disp = "NES"
+name = "NES"
 desc = "Nintendo Entertainment System"
 
 [ndk]
-disp = "NDK"
+name = "NDK"
 desc = "The Android Native Development Kit"
 
 [nfa]
-disp = "NFA"
+name = "NFA"
 desc = "Non-deterministic Finite Automata"
 see = ['DFA']
 
 [nlp]
-disp = "NLP"
+name = "NLP"
 desc = "Natural Language Processing"
 
 [nfc]
-disp = "NFC"
+name = "NFC"
 desc = "Near-field communication"
 
 [nt]
-disp = "Windows NT"
+name = "Windows NT"
 desc = "New Technology"
 
 [nif.erlang]
-disp = "NIF"
+name = "NIF"
 desc = "Native Implemented Functions in Erlang"
 
 [nas]
-disp = "NAS"
+name = "NAS"
 desc = "Network-attached Storage"
 
 [np]
-disp = "NP"
+name = "NP"
 desc = "Non-deterministic Polynomial-time"
 
 [ni]
-disp = "NI"
+name = "NI"
 desc = "National Instruments"
 
 [nl.coreutils]
-disp = "nl (coreutils) "
+name = "nl (coreutils) "
 desc = "Number lines and write files"
 
 [nproc.coreutils]
-disp = "nproc (coreutils) "
+name = "nproc (coreutils) "
 desc = "number of processors"
 
 [nist]
-disp = "NIST"
+name = "NIST"
 desc = "National Institute of Standards and Technology"
 
 [nginx]
-disp = "Nginx"
+name = "Nginx"
 desc = "engine X"
 full = "Initial release on October 2004"
 
 [nntp]
-disp = "NNTP"
+name = "NNTP"
 desc = "Network News Transfer Protocol"
 
 [ndp]
-disp = "NDP"
+name = "NDP"
 desc = "Neighbor Discovery Protocol"
 
 [nss]
-disp = "NSS"
+name = "NSS"
 desc = "Name Services Switch"
 
 [nvm]
-disp = "NVM"
+name = "NVM"
 desc = "NodeJS Version Manager"
 
 [nio]
-disp = "NIO"
+name = "NIO"
 desc = "Non-blocking I/O"
 
 [nvm.memory]
-disp = "NVM"
+name = "NVM"
 desc = "Non-Volatile Memory"
 
 [nvme]
-disp = "NVME"
+name = "NVME"
 desc = "NVM Express or Non-Volatile Memory Express"
 
 [nat]
-disp = "NAT"
+name = "NAT"
 desc = "Network Address Translation"

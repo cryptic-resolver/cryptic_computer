@@ -1,105 +1,105 @@
 [jpeg]
-disp = "JPEG"
+name = "JPEG"
 desc = "Joint Photographic Experts Group"
 full = "Introduced in 1992. A commonly used method of lossy compression for digital images"
 
 [jpg]
-disp = "JPG"
+name = "JPG"
 same = "JPEG<=>jpeg"
 
 [jif]
-disp = "JIF"
+name = "JIF"
 desc = "JPEG Interchange Format"
 full = "This pure file format is rarely used, primarily because of the difficulty of programming encoders and decoders that fully implement all aspects of the standard and because of certain shortcomings of the standard"
 
 [jfif]
-disp = "JFIF"
+name = "JFIF"
 desc = "JPEG File Interchange Format"
 full = "Released in 1992. It defines supplementary specifications for the container format that contains the image data encoded with the JPEG algorithm."
 
 [jam]
-disp = "JAM"
+name = "JAM"
 desc = "JavaScript, APIs, Markup stack"
 
 [jsr]
-disp = "JSR"
+name = "JSR"
 desc = "Java Specification Requests"
 
 [jpl]
-disp = "JPL"
+name = "JPL"
 desc = "NASA Jet Propulsion Laboratory"
 
 [jdt.Eclipse]
-disp = "JDT"
+name = "JDT"
 desc = "Eclipse Java Development Tools"
 
 [jit]
-disp = "JIT"
+name = "JIT"
 desc = "Just in Time Compilation"
 see = ['AOT']
 
 [js]
-disp = "JS"
+name = "JS"
 desc = "JavaScript"
 
 [json]
-disp = "JSON"
+name = "JSON"
 desc = "JavaScript Object Notation"
 
 [jsp]
-disp = "JSP"
+name = "JSP"
 desc = "Java Server Pages"
 
 [jar]
-disp = "JAR"
+name = "JAR"
 desc = "Java ARchive"
 
 [jdk]
-disp = "JDK"
+name = "JDK"
 desc = "Java Development Kit"
 see = ['JRE']
 
 [jre]
-disp = "JRE"
+name = "JRE"
 desc = "Java Runtime Environment"
 see = ['JDK']
 
 [jvm]
-disp = "JVM"
+name = "JVM"
 desc = "Java Virtual Machine"
 
 [jni]
-disp = "JNI"
+name = "JNI"
 desc = "Java Native Interface"
 
 [jcp]
-disp = "JCP"
+name = "JCP"
 desc = "Java Community Process"
 full = "A formalized mechanism that allows interested parties to develop standard technical specifications for Java technology, established in 1998"
 
 [j2me]
-disp = "J2ME"
+name = "J2ME"
 desc = "Java Platform, Micro Edition"
 see = ['J2SE']
 
 [j2se]
-disp = "J2SE"
+name = "J2SE"
 desc = "Java Platform, Standard Edition"
 see = ['J2ME']
 
 [jna]
-disp = "JNA"
+name = "JNA"
 desc = "Java Native Access"
 
 [jflap]
-disp = "JFLAP"
+name = "JFLAP"
 desc = "Java Formal Languages and Automata Package"
 
 [jsx]
-disp = "JSX"
+name = "JSX"
 desc = "JavaScript Extension"
 full = "A React extension which allows writing JavaScript code that looks like HTML"
 
 [jemalloc]
-disp = "jemalloc"
+name = "jemalloc"
 desc = "Jason Evans memory allocator"

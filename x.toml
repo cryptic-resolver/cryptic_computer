@@ -1,74 +1,74 @@
 [xdm.Download]
-disp = "XDM"
+name = "XDM"
 desc = "eXtreme Download Manager"
 
 [xdm.Display]
-disp = "XDM"
+name = "XDM"
 desc = "X Display Manager"
 
 [xdg]
-disp = "XDG"
+name = "XDG"
 desc = "Cross Desktop Group"
 
 [xxd]
-disp = "xxd"
+name = "xxd"
 desc = "hex file dump"
 full = "Why call this 'xxd' rather than 'xd' ??"
 
 [xcb]
-disp = "XCB"
+name = "XCB"
 desc = "X protocol C-language Binding"
 full = "a library implementing the client-side of the X11 display server protocol, aims to replace Xlib"
 
 [xkcd]
-disp = "xkcd"
+name = "xkcd"
 desc = "a webcomic created in 2005 by American author Randall Munroe"
 full = "It's not actually an acronym. It's just a word with no phonetic pronunciation -- a treasured and carefully-guarded point in the space of four-character strings."
 
 [xml]
-disp = "XML"
+name = "XML"
 desc = "Extensible Markup Language"
 
 [xslt]
-disp = "XSLT"
+name = "XSLT"
 desc = "Extensible Stylesheet Language Transformations"
 
 [xfce]
-disp = "Xfce"
+name = "Xfce"
 desc = "XForms Common Environment or X Freakin' Cool Environment"
 
 [xpm]
-disp = "XPM"
+name = "XPM"
 desc = "X PixMap"
 full = "An image file format used by the X Window System, created in 1989"
 
 [xss]
-disp = "XSS"
+name = "XSS"
 desc = "Cross-site Scripting"
 
 [xul]
-disp = "XUL"
+name = "XUL"
 desc = "XML User Interface Language"
 full = "An XML dialect for writing graphical user interfaces developed by Mozilla"
 
 ["x.509"]
-disp = "X.509"
+name = "X.509"
 desc = "an ITU standard defining the format of public key certificates"
 
 [xcoff]
-disp = "XCOFF"
+name = "XCOFF"
 desc = "eXtended COFF"
 full = "An improved and expanded version of the COFF object file format defined by IBM and used in AIX. Early versions of the PowerPC Macintosh also supported XCOFF, as did BeOS."
 see = ['COFF']
 
 [xmpp]
-disp = "XMPP"
+name = "XMPP"
 desc = "Extensible Messaging and Presence Protocol"
 
 [xhtml]
-disp = "XHTML"
+name = "XHTML"
 desc = "Extensible HyperText Markup Language"
 
 [xls.Office]
-disp = "XLS"
+name = "XLS"
 desc = "Excel Spreadsheet"

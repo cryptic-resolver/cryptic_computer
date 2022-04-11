@@ -1,49 +1,49 @@
 [lvm]
-disp = "lvm"
+name = "lvm"
 desc = "Logical Volume Manager"
 
 [ls]
-disp = "ls"
+name = "ls"
 desc = "list computer files"
 
 [lzw]
-disp = "LZW"
+name = "LZW"
 desc = "Lempel–Ziv–Welch compression algorithm"
 full = "Published in 1984 as an improved implementation of the LZ78 algorithm published by Lempel and Ziv in 1978. It is the algorithm of the widely used Unix file compression utility compress and is used in the GIF image format."
 
 [lisp]
-disp = "Lisp"
+name = "Lisp"
 desc = "LISt Processor"
 full = "A family of programming languages with a long history and a distinctive, fully parenthesized prefix notation. Originally specified in 1958."
 
 [lcd]
-disp = "LCD"
+name = "LCD"
 desc = "Liquid-crystal Display "
 
 [lsb]
-disp = "LSB"
+name = "LSB"
 desc = "Linux Standards Base"
 
 [lop]
-disp = "LOP"
+name = "LOP"
 desc = "Language-oriented programming"
 
 [led]
-disp = "LED"
+name = "LED"
 desc = "light-emitting Diode"
 see = ["OLED"]
 
 [lsp]
-disp = "LSP"
+name = "LSP"
 desc = "Language Server Protocol"
 
 [ld]
-disp = "ld"
+name = "ld"
 desc = "Link eDitor or Loader"
 full = "or dynamic linker"
 
 [ldd]
-disp = "ldd"
+name = "ldd"
 desc = "List Dynamic Dependencies"
 full = """A shell script that executes the program given as argument, and shouldn't be used with untrusted binaries. The ldd manual page suggests to use the following command using the objdump and grep utilities as alternative:
 
@@ -52,132 +52,132 @@ full = """A shell script that executes the program given as argument, and should
 """
 
 [loc]
-disp = "loc"
+name = "loc"
 desc = "Lines of Code"
 same = "sloc"
 
 [llvm]
-disp = "LLVM"
+name = "LLVM"
 desc = "Low Level Virtual Machine"
 
 [ldc]
-disp = "LDC"
+name = "LDC"
 desc = "LLVM-based D Compiler"
 
 [lto]
-disp = "LTO"
+name = "LTO"
 desc = "Link Time Optimization used by GCC"
 
 [lvfs]
-disp = "LVFS"
+name = "LVFS"
 desc = "Linux Vendor Firmware Service"
 
 [lwip]
-disp = "lwIP"
+name = "lwIP"
 desc = "lightweight IP"
 full = "A widely used open-source TCP/IP stack designed for embedded systems"
 
 [i2s]
-disp = "I2S"
+name = "I2S"
 desc = "Inter-IC Sound Bus"
 
 [lml]
-disp = "LML"
+name = "LML"
 desc = "Lightweight Markup Language"
 full = "such as AsciiDoc, Markdown, Org-mode, MediaWiki, POD and so on"
 
 [lttng]
-disp = "LTTng"
+name = "LTTng"
 desc = "Linux Trace Toolkit: next generation"
 
 [lalr]
-disp = "LALR"
+name = "LALR"
 desc = "Look Ahead Left-to-Right"
 see = ['LL', 'LR']
 
 [ll.parse]
-disp = "LL Parser"
+name = "LL Parser"
 desc = "Left to right, Leftmost derivation, top down parsers"
 see = ['LR','LALR']
 
 [lr.parse]
-disp = "LR Parser"
+name = "LR Parser"
 desc = "Left to right, Rightmost derivation, bottom up parsers"
 see = ['LL','LALR']
 
 [lru]
-disp = "LRU"
+name = "LRU"
 desc = "Least Recently Used cache"
 
 [lzma]
-disp = "LZMA"
+name = "LZMA"
 desc = "Lempel–Ziv–Markov chain algorithm"
 
 [lts]
-disp = "LTS"
+name = "LTS"
 desc = "Long-term Support"
 
 [lex]
 same = "Flex<=>flex"
 
 [lexer]
-disp = "Lexer or scanner"
+name = "Lexer or scanner"
 desc = "lexical analyzer"
 see = ['Lex']
 
 [lwp]
-disp = "LWP"
+name = "LWP"
 desc = "Light-Weight Process"
 
 [lba]
-disp = "LBA"
+name = "LBA"
 desc = "Linear Bounded Automaton"
 
 [l10n]
-disp = "L10n"
+name = "L10n"
 desc = """Localization
          ^^^^^^^^^^
           10 chars"""
 see = ['i18n', 'm17n']
 
 [ldap]
-disp = "LDAP"
+name = "LDAP"
 desc = "Lightweight Directory Access Protocol"
 
 [lldb]
-disp = "LLDB"
+name = "LLDB"
 desc = "Debugger for LLVM"
 
 [lsof]
-disp = "lsof"
+name = "lsof"
 desc = "list open files"
 
 [ltrace]
-disp = "ltrace"
+name = "ltrace"
 desc = "dynamic library calls tracer"
 full = "Display dynamic library calls of a process"
 see  = ['strace']
 
 [lwn]
-disp = "LWN.net"
+name = "LWN.net"
 desc = "Linux Weekly News"
 
 [lkml]
-disp = "LKML"
+name = "LKML"
 desc = "Linux kernel mailing list"
 
 [lxc]
-disp = "LXC"
+name = "LXC"
 desc = "Linux Containers"
 full = "An operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel"
 
 [lsb.bit]
-disp = "LSB"
+name = "LSB"
 desc = "Least Significant Bit"
 see = ['MSB']
 
 [lf.ASCII]
-disp = "LF"
+name = "LF"
 desc = "Line Feed"
 
 ################################################
@@ -186,49 +186,49 @@ desc = "Line Feed"
 
 
 [libm]
-disp = "libm"
+name = "libm"
 desc = "C math library"
 full = "usage: c99 [ flag... ] file... –lm [ library... ] "
 
 [libl]
-disp = "libl"
+name = "libl"
 desc = "C lex library"
 full = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
 see = ['Lex', 'liby']
 
 [liby]
-disp = "liby"
+name = "liby"
 desc = "C yacc library"
 full = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
 see = ['Yacc', 'libl']
 
 [libffi]
-disp = "libffi"
+name = "libffi"
 desc = "A portable foreign-function interface library"
 full = """https://github.com/libffi/libffi
   https://sourceware.org/libffi
 """
 
 [libuv]
-disp = "libuv"
+name = "libuv"
 desc = "Ultra fast eVent library"
 full = "Cross-platform asynchronous I/O, which was originally written for Node.js, based on libev. In the node-v0.9.0 version of libuv, libev was removed"
 see = ['libev']
 
 [libev]
-disp = "libev"
+name = "libev"
 desc = "EVent loop library (Only on Unixes)"
 full = "loosely modelled after libevent, but without its limitations and bugs"
 see = ['libuv']
 
 [libdl]
-disp = "libdl"
+name = "libdl"
 desc = "dynamic linking library"
 
 [libnsl]
-disp = "libnsl"
+name = "libnsl"
 desc = "network services library"
 
 [librt]
-disp = "librt"
+name = "librt"
 desc = "POSIX.1b Realtime Extensions library"

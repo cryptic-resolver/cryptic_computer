@@ -1,102 +1,102 @@
 [tiff]
-disp = "TIFF"
+name = "TIFF"
 desc = "Tag Image File Format"
 
 [ti]
-disp = "TI"
+name = "TI"
 desc = "Texas Instruments"
 
 [tsv]
-disp = "TSV"
+name = "TSV"
 desc = "Tab-separated values"
 
 [tsx]
-disp = "TSX"
+name = "TSX"
 desc = "Transactional Synchronization Extensions"
 
 [tls]
-disp = "TLS"
+name = "TLS"
 desc = "Transport Layer Security"
 full = "The successor of the now-deprecated Secure Sockets Layer(SSL)"
 
 [toml]
-disp = "TOML"
+name = "TOML"
 desc = "Tom's Obvious, Minimal Language"
 
 [tds]
-disp = "TDS"
+name = "TDS"
 desc = "Tabular Data Stream"
 
 [tps]
-disp = "TPS"
+name = "TPS"
 desc = "Transactions Per Second"
 
 [ttf]
-disp = ".ttf"
+name = ".ttf"
 desc = "TrueType Font"
 see = ["otf"]
 
 [tiobe]
-disp = "TIOBE"
+name = "TIOBE"
 desc = "The Importance of Being Earnest"
 
 [tldp]
-disp = "TLDP"
+name = "TLDP"
 desc = "Linux Documentation Project"
 
 [tcc]
-disp = "TCC"
+name = "TCC"
 desc = "Tiny C Compiler"
 
 [tg]
-disp = "TG"
+name = "TG"
 desc = "Telegram"
 
 [toc]
-disp = "ToC"
+name = "ToC"
 desc = "Table of Contents"
 
 [tpu]
-disp = "TPU"
+name = "TPU"
 desc = "Tensor Processing Unit"
 
 [tcp]
-disp = "TCP"
+name = "TCP"
 desc = "Transmission Control Protocol"
 see = ['UDP', 'IP']
 
 [tag]
-disp = "TAG"
+name = "TAG"
 desc = "Tree-adjoining Grammar"
 see = ['PEG', 'CFG']
 
 [ttl]
-disp = "TTL"
+name = "TTL"
 desc = "Transistor–Transistor Logic"
 
 [tmg]
-disp = "TMG compiler-compiler"
+name = "TMG compiler-compiler"
 desc = "TransMoGrifier"
 full = "A recursive descent compiler-compiler developed by Robert M. McClure and presented in 1965"
 see = ['Yacc']
 
 [tty.coreutils]
-disp = "tty (coreutils) "
+name = "tty (coreutils) "
 desc = "teletype"
 full = "Print terminal name"
 
 [tch]
-disp = "tcsh"
+name = "tcsh"
 desc = "TENEX C Shell"
 
 [tdd]
-disp = "TDD"
+name = "TDD"
 desc = "Test-driven development"
 
 [tgmath.Cheader]
-disp = "<tgmath.h>"
+name = "<tgmath.h>"
 desc = "Type-generic math"
 
 [tui]
-disp = "TUI"
+name = "TUI"
 desc = "Text-based User Interface"

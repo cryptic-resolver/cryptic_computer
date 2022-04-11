@@ -1,237 +1,237 @@
 [ietf]
-disp = "IETF"
+name = "IETF"
 desc = "Internet Engineering Task Force"
 
 [ico]
-disp = "ICO"
+name = "ICO"
 desc = "Icon image format for Windows"
 see = ["CUR"]
 
 [isv]
-disp = "ISV"
+name = "ISV"
 desc = "Independent Software Vendor"
 
 [ieee]
-disp = "IEEE"
+name = "IEEE"
 desc = "Institute of Electrical and Electronics Engineers"
 
 [inria]
-disp = "INRIA"
+name = "INRIA"
 desc = "French Institute for Research in Computer Science and Automation"
 
 [isbn]
-disp = "ISBN"
+name = "ISBN"
 desc = "International Standard Book Number"
 see = ['ISSN']
 
 [issn]
-disp = "ISSN"
+name = "ISSN"
 desc = "International Standard Serial Number"
 see = ['ISBN']
 
 [ike]
-disp = "IKE"
+name = "IKE"
 desc = "Internet Key Exchange"
 
 [icann]
-disp = "ICANN"
+name = "ICANN"
 desc = "The Internet Corporation for Assigned Names and Numbers"
 
 [idc]
-disp = "IDC"
+name = "IDC"
 desc = "Internet Data Center"
 
 [it]
-disp = "IT"
+name = "IT"
 desc = "Information Technology"
 see = "CT" 
 
 
 [ict]
-disp = "ICT"
+name = "ICT"
 desc = "Information and Communications Technology"
 see = ["IT","CT"]
 
 [iana]
-disp = "IANA"
+name = "IANA"
 desc = "Internet Assigned Numbers Authority"
 
 [iso]
-disp = "ISO"
+name = "ISO"
 desc = "International Organization for Standardization"
 
 [iec]
-disp = "IEC"
+name = "IEC"
 desc = "International Electrotechnical Commission"
 
 [isl]
-disp = "isl"
+name = "isl"
 desc = "Integer Set Library (used by GCC)"
 
 [ip.semiconductor]
-disp = "IP core"
+name = "IP core"
 desc = "Intellectual Property core"
 
 [idf.espressif]
-disp = "Espressif IDF"
+name = "Espressif IDF"
 desc = "IoT Development Framework"
 
 [i2c]
-disp = "I2C"
+name = "I2C"
 desc = "Inter-Integrated Circuit"
 
 [irq]
-disp = "IRQ"
+name = "IRQ"
 desc = "Interrupt Request"
 
 [ime]
-disp = "IME"
+name = "IME"
 desc = "Input Method Engine"
 
 [ibus]
-disp = "IBus"
+name = "IBus"
 desc = "Intelligent Input Bus"
 see = ['Fcitx']
 
 [ic]
-disp = "IC"
+name = "IC"
 desc = "Integrated Circuits"
 
 [its]
-disp = "ITS"
+name = "ITS"
 desc = "Incompatible Timesharing System operating system "
 
 [isa]
-disp = "ISA"
+name = "ISA"
 desc = "Instruction Set Architecture"
 
 [isc]
-disp = "ISC license"
+name = "ISC license"
 desc = "Internet Systems Consortium license"
 
 [ioccc]
-disp = "IOCCC"
+name = "IOCCC"
 desc = "International Obfuscated C Code Contest"
 
 [ide.software]
-disp = "IDE"
+name = "IDE"
 desc = "Integrated Development Environment"
 
 [ide.hardware]
-disp = "IDE"
+name = "IDE"
 desc = "Integrated Drive Electronics"
 full = "A type of cable that is used to connect to the motherboard directly. It's the first version of what is now called the ATA/ATAPI, developed by Western Digital"
 see = ['ATA']
 
 [iot]
-disp = "IOT"
+name = "IOT"
 desc = "Internet of Things"
 
 [ip.network]
-disp = "IP"
+name = "IP"
 desc = "Internet Protocol"
 
 [im.software]
-disp = "IM"
+name = "IM"
 desc = "Instant Messaging software"
 
 [ielr]
-disp = "IELR"
+name = "IELR"
 desc = "Inadequacy Elimination LR"
 see = ['LR', 'LALR']
 
 [ipfs]
-disp = "IPFS"
+name = "IPFS"
 desc = "InterPlanetary File System"
 
 [ir]
-disp = "IR"
+name = "IR"
 desc = "Intermediate Representation"
 
 [ibm]
-disp = "IBM"
+name = "IBM"
 desc = "International Business Machines Corporation"
 
 [iswim]
-disp = "ISWIM"
+name = "ISWIM"
 desc = "If you See What I Mean"
 full = "An abstract computer programming language (or a family of languages) devised by Peter Landin and first described in his article 'The Next 700 Programming Languages', published in the Communications of the ACM in 1966"
 
 [ipc]
-disp = "IPC"
+name = "IPC"
 desc = "Inter-Process Communication"
 
 [ial]
-disp = "IAL"
+name = "IAL"
 desc = "Internatinal Algebraic Language"
 see = ['ALGOL']
 
 [i18n]
-disp = "i18n"
+name = "i18n"
 desc = """internationalization
          ^^^^^^^^^^^^^^^^^^
               18 chars"""
 see = ['L10n','m17n']
 
 [ics]
-disp = "ICS for ISO"
+name = "ICS for ISO"
 desc = "ISO - International Classification for Standards"
 
 [iam]
-disp = "IAM"
+name = "IAM"
 desc = "Identity and Access Management"
 
 [itu]
-disp = "ITU"
+name = "ITU"
 desc = "International Telecommunication Union"
 
 [imap]
-disp = "IMAP"
+name = "IMAP"
 desc = "Internet Message Access Protocol"
 
 [iocp]
-disp = "IOCP"
+name = "IOCP"
 desc = "Input/output completion port"
 full = "An API for performing multiple simultaneous asynchronous input/output operations in Windows NT versions 3.5 and later, AIX and on Solaris 10 and later. It's the kernel event notification mechanism like kqueue or (e)poll"
 
 [icmp]
-disp = "ICMP"
+name = "ICMP"
 desc = "Internet Control Message Protocol"
 
 [ido.Emacs]
-disp = "Ido mode in Emacs"
+name = "Ido mode in Emacs"
 desc = "Interactively DO things"
 
 [idpf]
-disp = "IDPF"
+name = "IDPF"
 desc = "International Digital Publishing Forum"
 
 [icp]
-disp = "ICP"
+name = "ICP"
 desc = "Internet Content Provider"
 
 [iis]
-disp = "IIS"
+name = "IIS"
 desc = "Internet Information Services"
 full = "An extensible web server software created by Microsoft for use with the Windows NT family"
 
 [iac]
-disp = "IaC"
+name = "IaC"
 desc = "Infrastructure as Code"
 
 [icc]
-disp = "ICC"
+name = "ICC"
 desc = "Intel C++ Compiler"
 
 [isp]
-disp = "ISP"
+name = "ISP"
 desc = "Internet Service Provider"
 
 [ispd]
-disp = "ISPD"
+name = "ISPD"
 desc = "International Symposium on Physical Design"
 full = "A yearly conference on the topic of electronic design automation"
 
 [iccad]
-disp = "ICCAD"
+name = "ICCAD"
 desc = "International Conference on Computer-Aided Design "

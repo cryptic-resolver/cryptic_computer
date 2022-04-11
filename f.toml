@@ -1,98 +1,98 @@
 [fwupd]
-disp = "fwupd"
+name = "fwupd"
 desc = "Firmware Update daemon on Linux-based system"
 
 [frum]
-disp = "frum"
+name = "frum"
 desc = "Fast RUby Manager"
 
 [fosdem]
-disp = "FOSDEM"
+name = "FOSDEM"
 desc = "Free and Open Source Developers European Meeting"
 
 [fm]
-disp = "FM"
+name = "FM"
 desc = "Frequency Modulation"
 
 [fft]
-disp = "FFT"
+name = "FFT"
 desc = "Fast Fourier Transform"
 
 [ffmpeg]
-disp = "FFmpeg"
+name = "FFmpeg"
 desc = "Fast Forward MPEG"
 see = ['MPEG']
 
 [fsf]
-disp = "FSF"
+name = "FSF"
 desc = "Free Software Foundation"
 
 [flops]
-disp = "FLO/s"
+name = "FLO/s"
 desc = "Floating Point Operations Per Second"
 
 [fcitx]
-disp = "Fcitx"
+name = "Fcitx"
 desc = "pronounce as [Faitiks]"
 full = "An input method framework with extension support for the X Window System. It supports typing with many languages all over the world with a large number of engines."
 see = ['IBus']
 
 [flex]
-disp = "Flex"
+name = "Flex"
 desc = "Fast lexical analyzer generator"
 see = ['Yacc']
 
 [fpga]
-disp = "FPGA"
+name = "FPGA"
 desc = "Field-programmable Gate Array"
 
 [foss]
-disp = "FOSS"
+name = "FOSS"
 desc = "Free and Open-Source Software"
 
 [ffi]
-disp = "FFI"
+name = "FFI"
 desc = "Foreign Function Interface"
 
 [ftp]
-disp = "FTP"
+name = "FTP"
 desc = "File Transfer Protocol"
 
 [fuse]
-disp = "FUSE"
+name = "FUSE"
 desc = "Filesystem in Userspace"
 full = "A software interface for Unix and Unix-like computer operating systems that lets non-privileged users create their own file systems without editing kernel code. This is achieved by running file system code in user space while the FUSE module provides only a bridge to the actual kernel interfaces."
 
 [fsm]
-disp = "FSM"
+name = "FSM"
 desc = "Finite-state Machine"
 
 [fsa]
-disp = "FSA"
+name = "FSA"
 desc = "Finite-state Automaton (plural: automata)"
 
 [faas]
-disp = "FaaS"
+name = "FaaS"
 desc = "Function as a Service"
 
 [fortran]
-disp = "Fortran"
+name = "Fortran"
 desc = "Formula Translating System, Formula Translator, Formula Translation, or Formulaic Translation."
 full = "Originally developed by IBM in the 1950s for scientific and engineering applications, and subsequently came to dominate scientific computing"
 
 [fpu]
-disp = "FPU"
+name = "FPU"
 desc = "Floating Point Unit"
 
 [ftrace]
-disp = "ftrace"
+name = "ftrace"
 desc = "function tracer"
 full = "in <linux/ftrace.h>"
 
 [fips]
-disp = "FIPS"
+name = "FIPS"
 desc = "Federal Information Processing Standards"
 
 [fhs]
-disp = "FHS"
+name = "FHS"
 desc = "Filesystem Hierarchy Standard"

@@ -1,110 +1,110 @@
 [elf]
-disp = "ELF"
+name = "ELF"
 desc = "Executable and Linkable Format"
 full = "First published in the specification for the application binary interface (ABI) of the Unix operating system version named System V Release 4 (SVR4)"
 
 [emacs]
-disp = "Emacs"
+name = "Emacs"
 desc = "Edit macros"
 full = "a feature-rich editor"
 see = ["Vim"]
 
 [exif]
-disp = "Exif"
+name = "Exif"
 desc = "Exchangeable image file format"
 full = "Released in 1995, revised in 2019"
 
 [edn]
-disp = "edn"
+name = "edn"
 desc = "Extensible Data Notation"
 
 [eabi]
-disp = "EABI"
+name = "EABI"
 desc = "Embedded Applications Binary Interface"
 
 [etl]
-disp = "ETL"
+name = "ETL"
 desc = "Extract, Transform, Load"
 
 [eopl]
-disp = "EOPL"
+name = "EOPL"
 desc = "Essentials of Programming Languages Language"
 
 [elt]
-disp = "elt"
+name = "elt"
 desc = "element"
 full = "a function in Common Lisp"
 
 [evdev]
-disp = "evdev"
+name = "evdev"
 desc = "Xorg input driver for Linux´s generic EVent devices"
 
 [erp]
-disp = "ERP"
+name = "ERP"
 desc = "Enterprise Resource Planning"
 
 [eda]
-disp = "EDA"
+name = "EDA"
 desc = "Electronic Design Automation"
 
 [eta]
-disp = "ETA"
+name = "ETA"
 desc = "Estimated Time of Arrival"
 
 [etr]
-disp = "ETR"
+name = "ETR"
 desc = "Elapsed Time Reminder"
 
 [ecma]
-disp = "ECMA"
+name = "ECMA"
 desc = "European Computer Manufacturers Association"
 
 [ebcdic]
-disp = "EBCDIC"
+name = "EBCDIC"
 desc = "Extended Binary Coded Decimal Interchange Code"
 full = "an 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems"
 
 [ets]
-disp = "ETS"
+name = "ETS"
 desc = "Erlang Built-in Term Storage"
 
 [esp.assembly]
-disp = "ESP"
+name = "ESP"
 desc = "Current Stack Pointer"
 
 [ebp.assembly]
-disp = "EBP"
+name = "EBP"
 desc = "Base Pointer for the current stack frame"
 
 [eip.assembly]
-disp = "EIP"
+name = "EIP"
 desc = "Instruction Pointer"
 
 [eca.Eclipse]
-disp = "ECA"
+name = "ECA"
 desc = "Eclipse Contributor Agreement"
 
 [elk]
-disp = "ELK"
+name = "ELK"
 desc = "Elasticsearch, Logstash, and Kibana"
 
 [erd]
-disp = "ERD"
+name = "ERD"
 desc = "Entity Relationship Diagram"
 
 [eprom]
-disp = "EPROM"
+name = "EPROM"
 desc = "Erasable Programmable Read-only Memory"
 see = ['PROM']
 
 [eeprom]
-disp = "EEPROM"
+name = "EEPROM"
 desc = "Electrically Erasable Programmable Read-only Memory"
 full = "A type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data"
 see = ['EPROM']
 
 [elisp]
-disp = "ELisp"
+name = "ELisp"
 desc = "Emacs Lisp"
 see = ['Emacs', 'SBCL', 'CCL']
 
@@ -112,69 +112,69 @@ see = ['Emacs', 'SBCL', 'CCL']
 same = ".el file<=>elisp"
 
 [elc]
-disp = ".elc"
+name = ".elc"
 desc = "ELisp byte-compiled code file"
 see = ['Elisp']
 
 [erts]
-disp = "ERTS"
+name = "ERTS"
 desc = "Erlang Run-Time System"
 
 [erlang]
-disp = "Erlang"
+name = "Erlang"
 desc = "Ericsson Language"
 
 [elpa]
-disp = "GNU elpa"
+name = "GNU elpa"
 desc = "GNU Emacs Lisp Package Archive"
 see = ['MELPA']
 
 [ed]
-disp = "ed"
+name = "ed"
 desc = "The GNU line editor"
 
 [ecdsa]
-disp = "ECDSA"
+name = "ECDSA"
 desc = "Elliptic Curve Digital Signature Algorithm"
 
 [epoll]
-disp = "epoll"
+name = "epoll"
 desc = "event poll"
 full = "A Linux kernel system call for a scalable I/O event notification mechanism, first introduced in version 2.5.44 of the Linux kernel. Its function is to monitor multiple file descriptors to see whether I/O is possible on any of them. It is meant to replace the older POSIX select(2)and poll(2) system calls, to achieve better performance in more demanding applications, where the number of watched file descriptors is large (unlike the older system calls, which operate in O(n) time, epoll operates in O(1) time)"
 see = ['kqueue', 'IOCP']
 
 [es]
-disp = "ES"
+name = "ES"
 desc = "ECMAScript"
 
 [eww.Emacs]
-disp = "eww"
+name = "eww"
 desc = "Emacs Web Wowser"
 full = "A web browser written entirely in Emacs Lisp. It became part of GNU Emacs starting with version 24.4"
 
 [epub]
-disp = "EPUB"
+name = "EPUB"
 desc = "Electronic Publication"
 full = "An e-book file format. It became an official standard of the IDPF in September 2007, superseding the older Open eBook standard"
 
 [eof]
-disp = "EOF"
+name = "EOF"
 desc = "End-of-file"
 full = "When you Ctrl-d"
 
 [eol]
-disp = "EOL"
+name = "EOL"
 desc = "End-of-Life"
 
 [ede.Emacs]
-disp = "EDE"
+name = "EDE"
 desc = "Emacs Development Environment"
 
 [elsa.Emacs]
-disp = "elsa"
+name = "elsa"
 desc = "Emacs Lisp Static Analyser"
 
 [epel]
-disp = "EPEL"
+name = "EPEL"
 desc = "Extra Packages for Enterprise Linux"
 full = "A Fedora Special Interest Group that creates, maintains, and manages a high quality set of additional packages for Enterprise Linux, including, but not limited to, Red Hat Enterprise Linux (RHEL), CentOS, Scientific Linux (SL), Oracle Linux (OL), AlmaLinux (AL) and Rocky Linux (RL)."

@@ -1,97 +1,97 @@
 [vim]
-disp = "Vim"
+name = "Vim"
 desc = "Vi improved"
 see = ["Emacs"]
 
 [vsz]
-disp = "VSZ"
+name = "VSZ"
 desc = "Virtual Set Size"
 full = "It includes all memory that the process can access, including memory that is swapped out, memory that is allocated, but not used, and memory that is from shared libraries."
 see = ['RSS']
 
 [vr]
-disp = "VR"
+name = "VR"
 desc = "Virtual Reality"
 see = ["AR"]
 
 [vsdx]
-disp = ".vsdx"
+name = ".vsdx"
 desc = "Visio drawing"
 
 [vlsi]
-disp = "VLSI"
+name = "VLSI"
 desc = "Very Large Scale Integration"
 
 [vhdl]
-disp = "VHDL"
+name = "VHDL"
 desc = "VHSIC Hardware Description Language"
 see = ['VHSIC', 'HDL']
 
 [vhsic]
-disp = "VHSIC"
+name = "VHSIC"
 desc = "Very High-Speed Integrated Circuits Program"
 see = ['VHDL']
 
 [vcs]
-disp = "VCS"
+name = "VCS"
 desc = "Version Control System"
 
 [vs]
-disp = "VS"
+name = "VS"
 desc = "Visual Studio"
 
 [vpc]
-disp = "VPC"
+name = "VPC"
 desc = "Virtual Private Cloud"
 
 [vps]
-disp = "VPS"
+name = "VPS"
 desc = "Virtual Private Server"
 
 [vpn]
-disp = "VPN"
+name = "VPN"
 desc = "Virtual Private Network"
 
 [vnc]
-disp = "VNC"
+name = "VNC"
 desc = "Virtual Network Computing"
 
 [vc]
-disp = "VC"
+name = "VC"
 same = 'MSVC<=>msvc'
 
 [vc.version]
-disp = "VC"
+name = "VC"
 desc = "Version Control"
 
 [vb]
-disp = "VB"
+name = "VB"
 desc = "Microsoft Visual Basic"
 see = ['VC']
 
 [vax]
-disp = "VAX"
+name = "VAX"
 desc = "Virtual Address eXtension"
 full = "By DEC, one of the most successful minicomputers in history. Featuring a 32-bit ISA and virtual memory, was seen as a 32-bit extension of the older 16-bit PDP-11"
 see = ['VMS']
 
 [vms]
-disp = "VMS"
+name = "VMS"
 desc = "Virtual Memory System"
 full = "a multi-user, multiprocessing and virtual memory-based operating system announced by DEC alongside the VAX-11/780 minicomputer in 1977"
 see = ['VAX']
 
 [vdso]
-disp = "vDSO"
+name = "vDSO"
 desc = "virtual dynamic shared object"
 full = "A kernel mechanism for exporting a carefully selected set of kernel space routines to user space applications so that applications can call these kernel space routines in-process, without incurring the performance penalty of a mode switch from user mode to kernel mode that is inherent when calling these same kernel space routines by means of the system call interface"
 
 [vp9]
-disp = "VP9"
+name = "VP9"
 desc = "An open and royalty-free video coding format developed by Google"
 full = "It's the successor to VP8 and competes mainly with MPEG's High Efficiency Video Coding (HEVC/H.265)"
 see = ['AV1', 'HEVC']
 
 [vte]
-disp = "VTE"
+name = "VTE"
 desc = "GTK widget: Virtual Terminal Emulator"
