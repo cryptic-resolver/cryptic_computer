@@ -44,7 +44,8 @@ disp = "DBUS"
 desc = "Desktop Bus"
 
 [d-bus]
-same = 'D-BUS<=>dbus'
+disp = "D-BUS"
+same = 'DBUS<=>dbus'
 
 [drm]
 disp = "DRM"

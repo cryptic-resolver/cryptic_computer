@@ -116,6 +116,7 @@ disp = "CMYK"
 desc = "Cyan, Magenta, Yellow, Dark Color Model"
 
 [cmy]
+disp = "CMY"
 same = "CMYK<=>cmyk"
 
 [cms]

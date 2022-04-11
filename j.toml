@@ -4,6 +4,7 @@ desc = "Joint Photographic Experts Group"
 full = "Introduced in 1992. A commonly used method of lossy compression for digital images"
 
 [jpg]
+disp = "JPG"
 same = "JPEG<=>jpeg"
 
 [jif]

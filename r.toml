@@ -187,6 +187,7 @@ disp = "RDBMS"
 desc = "Relational Database Management System"
 
 [rails]
+disp = "Rails"
 same = "RoR<=>ror"
 
 [rvm]

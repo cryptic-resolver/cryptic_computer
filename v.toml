@@ -57,6 +57,7 @@ disp = "VNC"
 desc = "Virtual Network Computing"
 
 [vc]
+disp = "VC"
 same = 'MSVC<=>msvc'
 
 [vc.version]

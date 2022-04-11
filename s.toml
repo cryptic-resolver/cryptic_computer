@@ -371,6 +371,7 @@ full = "one of the first commercial versions of the Unix operating system. It wa
 see = ['SVR4','SVR3','SVR2','SVR1']
 
 [systemv]
+disp = "System V"
 same = "SysV<=>sysv"
 
 [strace]
