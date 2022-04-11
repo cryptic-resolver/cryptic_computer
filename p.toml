@@ -258,6 +258,10 @@ more = "A company that produced a set of commercially available Fortran, C and C
 name = "pypa"
 desc = "Python Packaging Authority"
 
+[pip]
+name = "pip"
+desc = "Package Installer for Python"
+
 [pos]
 name = "PoS"
 desc = "Proof of Stake"
