@@ -213,6 +213,7 @@ disp = "GCP"
 desc = "Google Cloud Platform"
 
 [gles]
+disp = "GLES"
 same = "OpenGL ES<=>opengles"
 
 [gof]
