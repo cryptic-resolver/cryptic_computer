@@ -413,7 +413,7 @@ desc = "Simple Mail Transfer Protocol"
 [semver]
 disp = "SemVer"
 desc = "Semantic Versioning"
-full = "https://semver.org/"
+full = "MAJOR.MINOR.PATCH  see: https://semver.org/"
 
 [sass]
 disp = "Sass"
@@ -480,3 +480,8 @@ full = "A special type of file permissions given to a file. Normally in Linux/Un
 [sdk]
 disp = "SDK"
 desc = "Software Development Kit"
+
+[spi.API]
+disp = "SPI"
+desc = "Service provider interface"
+full = "An API intended to be implemented or extended by a third party. It can be used to enable framework extension and replaceable components"
