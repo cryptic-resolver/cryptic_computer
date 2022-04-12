@@ -223,3 +223,7 @@ desc = "Gang of Four"
 [gfm]
 name = "GFM"
 desc = "GitHub Flavored Markdown"
+
+[ghsa]
+name = "GHSA"
+desc = "GitHub Advisory Security Advisories"

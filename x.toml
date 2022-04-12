@@ -72,3 +72,12 @@ desc = "Extensible HyperText Markup Language"
 [xls.Office]
 name = "XLS"
 desc = "Excel Spreadsheet"
+
+[xsd.XML]
+name = "XSD"
+desc = "XML Schema Definition"
+
+[xpath.XML]
+name = "XPath"
+desc = "XML Path Language"
+more = "An expression language designed to support the query or transformation of XML documents."

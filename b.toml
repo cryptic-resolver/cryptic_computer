@@ -44,6 +44,10 @@ desc = "Blue Screen of Death"
 name = "BPF"
 desc = "Berkeley Packet Filter"
 
+[bcc]
+name = "BCC"
+desc = "BPF Compiler Collection"
+
 [bnf]
 name = "BNF"
 desc = "Backus–Naur Form"

@@ -486,3 +486,7 @@ desc = "Software Development Kit"
 name = "SPI"
 desc = "Service provider interface"
 more = "An API intended to be implemented or extended by a third party. It can be used to enable framework extension and replaceable components"
+
+[sax.XML]
+name = "SAX"
+desc = "Simple API for XML"
