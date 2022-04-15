@@ -126,7 +126,7 @@ desc = "Content Management System"
 [ct]
 name = "CT"
 desc = "Communications Technology"
-see = "IT" 
+see = ['IT'] 
 
 [cncf]
 name = "CNCF"

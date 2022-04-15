@@ -44,7 +44,7 @@ desc = "Internet Data Center"
 [it]
 name = "IT"
 desc = "Information Technology"
-see = "CT" 
+see = ["CT"]
 
 
 [ict]
