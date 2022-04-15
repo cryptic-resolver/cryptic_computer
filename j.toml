@@ -103,3 +103,7 @@ more = "A React extension which allows writing JavaScript code that looks like H
 [jemalloc]
 name = "jemalloc"
 desc = "Jason Evans memory allocator"
+
+[jwt]
+name = "JWT"
+desc = "JSON Web Tokens"
