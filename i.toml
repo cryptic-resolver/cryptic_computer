@@ -46,6 +46,9 @@ name = "IT"
 desc = "Information Technology"
 see = ["CT"]
 
+[i2s]
+name = "I2S"
+desc = "Inter-IC Sound Bus"
 
 [ict]
 name = "ICT"

@@ -77,10 +77,6 @@ name = "lwIP"
 desc = "lightweight IP"
 more = "A widely used open-source TCP/IP stack designed for embedded systems"
 
-[i2s]
-name = "I2S"
-desc = "Inter-IC Sound Bus"
-
 [lml]
 name = "LML"
 desc = "Lightweight Markup Language"
