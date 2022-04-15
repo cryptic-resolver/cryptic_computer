@@ -1,4 +1,4 @@
-name: test-cr-command
+name: test-dict
 
 on: [push, pull_request]
 
