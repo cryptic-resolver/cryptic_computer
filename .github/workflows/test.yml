@@ -19,4 +19,4 @@ jobs:
     - name: Add a dictionary
       run: cr -a https://github.com/cryptic-resolver/cryptic_computer.git
     - name: Test every word
-      run: ruby https://raw.githubusercontent.com/cryptic-resolver/cr.rb/main/bin/test-dict .
+      run: ruby -e "ARGV<<'.'; $(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr.rb/main/bin/test-dict)"
