@@ -180,6 +180,10 @@ see = ['MSB']
 name = "LF"
 desc = "Line Feed"
 
+[lmde]
+name = "LMDE"
+desc = "Linux Mint Debian Edition"
+
 ################################################
 ######             C Lib                  ######
 ################################################

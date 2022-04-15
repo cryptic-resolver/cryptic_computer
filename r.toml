@@ -209,3 +209,7 @@ desc = "Real Time Messaging Protocol"
 [rtsp]
 name = "RTSP"
 desc = "Real Time Streaming Protocol"
+
+[ri.Ruby]
+name = "ri"
+desc = "Ruby Interactive documentation"
