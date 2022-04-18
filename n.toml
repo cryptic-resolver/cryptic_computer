@@ -113,3 +113,8 @@ desc = "NVM Express or Non-Volatile Memory Express"
 [nat]
 name = "NAT"
 desc = "Network Address Translation"
+
+[nroff]
+name = "nroff"
+desc = "new roff"
+see = ['roff', 'troff']

@@ -490,3 +490,11 @@ more = "An API intended to be implemented or extended by a third party. It can b
 [sax.XML]
 name = "SAX"
 desc = "Simple API for XML"
+
+[saml]
+name = "SAML"
+desc = "Security Assertion Markup Language"
+
+[sso]
+name = "SSO"
+desc = "Single Sign-On"

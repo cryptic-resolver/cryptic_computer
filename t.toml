@@ -100,3 +100,8 @@ desc = "Type-generic math"
 [tui]
 name = "TUI"
 desc = "Text-based User Interface"
+
+[troff]
+name = "troff (/ˈtiːrɒf/)"
+desc = "typesetter roff"
+see = ['roff', 'nroff']

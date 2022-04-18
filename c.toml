@@ -343,3 +343,11 @@ desc = "Create, Read, Update and Delete"
 [cui]
 name = "CUI"
 desc = "Character User Interface"
+
+[cron]
+name = "cron"
+desc = "command run on notice"
+
+[captcha]
+name = "CAPTCHA"
+desc = "Completely Automated Public Turing test to tell Computers and Humans Apart"
