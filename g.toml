@@ -40,6 +40,11 @@ desc = "GVariant Database"
 name = "GDK"
 desc = "GIMP Drawing Kit"
 
+[gsk]
+name = "GSK"
+desc = "GTK Scene Graph Kit"
+full = "The rendering and scene graph API for GTK introduced with version 3.90. GSK lies between the graphical control elements (widgets) and the rendering."
+
 [gtk]
 name = "GTK"
 desc = "GIMP ToolKit, formerly GTK+"
@@ -227,3 +232,7 @@ desc = "GitHub Flavored Markdown"
 [ghsa]
 name = "GHSA"
 desc = "GitHub Advisory Security Advisories"
+
+[gjs]
+name = "GJS"
+desc = "GNOME JavaScript"

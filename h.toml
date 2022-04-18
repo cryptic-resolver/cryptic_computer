@@ -130,3 +130,7 @@ desc = "High-level design"
 [hal]
 name = "HAL"
 desc = "Hardware Abstraction Layer"
+
+[hig]
+name = "HIG"
+desc = "Human Interface Guidelines"
