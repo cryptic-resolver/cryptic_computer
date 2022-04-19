@@ -126,6 +126,18 @@ desc = "Information technology — Programming languages — Ruby"
 name = "RFC 1321"
 desc = "The MD5 Message-Digest Algorithm"
 
+[2119.RFC]
+name = "RFC 2119"
+desc = "Key words for use in RFCs to Indicate Requirement Levels"
+
+[3339.RFC]
+name = "RFC 3339"
+desc = "Date and Time on the Internet: Timestamps"
+
+
+#########################
+#         Other
+#########################
 
 [3c]
 name = "3C"

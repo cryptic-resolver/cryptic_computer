@@ -50,6 +50,10 @@ desc = "Field-programmable Gate Array"
 name = "FOSS"
 desc = "Free and Open-Source Software"
 
+[floss]
+name = "FLOSS"
+desc = "Free/Libre and Open Source Software"
+
 [ffi]
 name = "FFI"
 desc = "Foreign Function Interface"

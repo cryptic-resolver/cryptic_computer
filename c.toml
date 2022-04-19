@@ -351,3 +351,7 @@ desc = "command run on notice"
 [captcha]
 name = "CAPTCHA"
 desc = "Completely Automated Public Turing test to tell Computers and Humans Apart"
+
+[cii]
+name = "CII"
+desc = "Core Infrastructure Initiative"

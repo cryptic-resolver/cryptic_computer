@@ -25,6 +25,10 @@ desc = "JavaScript, APIs, Markup stack"
 name = "JSR"
 desc = "Java Specification Requests"
 
+[jep]
+name = "JEP"
+desc = "JDK Enhancement Proposals"
+
 [jpl]
 name = "JPL"
 desc = "NASA Jet Propulsion Laboratory"
