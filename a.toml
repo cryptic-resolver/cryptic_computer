@@ -276,3 +276,7 @@ desc = "assembly"
 more = ''' It provides a simple API for decomposing, modifying, and recomposing binary Java classes (i.e. bytecode). The project was originally conceived and developed by Eric Bruneton. ASM is Java-centric at present, and does not currently have a backend that exposes other bytecode implementations (such as .NET bytecode, Python bytecode, etc.).
 
   The name "ASM" is not an acronym: it is just a reference to the asm keyword of C, which allows some functions to be implemented in assembly language.'''
+
+[agpl]
+name = "AGPL"
+desc = "Affero General Public License"
