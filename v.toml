@@ -95,3 +95,10 @@ see = ['AV1', 'HEVC']
 [vte]
 name = "VTE"
 desc = "GTK widget: Virtual Terminal Emulator"
+
+[vma]
+name = "VMA"
+desc = "Virtual Memory Area"
+
+[vcrt]
+same = "MSVCRT<=>msvcrt"

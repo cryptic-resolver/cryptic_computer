@@ -226,3 +226,8 @@ more = "The next-generation version of the Yellowdog Updater, Modified (yum), a 
 [dot]
 name = "DoT"
 desc = "DNS over TLS"
+
+[dbm]
+name = "dbm"
+desc = "Database Manager"
+full = "A library and file format providing fast, single-keyed access to data. A key-value database from the original Unix, dbm is an early example of a NoSQL system."

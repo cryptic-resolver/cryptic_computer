@@ -71,3 +71,7 @@ more = "which is Japanese for 'to see the WWW'"
 [w3c]
 name = "W3C"
 desc = "World Wide Web Consortium"
+
+[winrt]
+name = "WinRT"
+desc = "Windows Runtime"

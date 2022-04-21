@@ -211,3 +211,7 @@ desc = "Media Access Control address"
 name = "MSB"
 desc = "Most Significant Bit"
 see = ['LSB']
+
+[msvcrt]
+name = "MSVCRT"
+desc = "Microsoft Visual C++ Runtime"

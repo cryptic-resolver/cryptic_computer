@@ -105,3 +105,7 @@ desc = "Text-based User Interface"
 name = "troff (/ˈtiːrɒf/)"
 desc = "typesetter roff"
 see = ['roff', 'nroff']
+
+[tls.thread]
+name = "TLS"
+desc = "Thread-local storage"

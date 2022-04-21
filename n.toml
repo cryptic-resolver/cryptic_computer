@@ -118,3 +118,7 @@ desc = "Network Address Translation"
 name = "nroff"
 desc = "new roff"
 see = ['roff', 'troff']
+
+[ndbm]
+name = "ndbm"
+desc = "new dbm"

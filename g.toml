@@ -236,3 +236,7 @@ desc = "GitHub Advisory Security Advisories"
 [gjs]
 name = "GJS"
 desc = "GNOME JavaScript"
+
+[gdbm]
+name = "GDBM"
+desc = "GNU dbm"

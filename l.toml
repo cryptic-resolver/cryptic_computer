@@ -184,6 +184,20 @@ desc = "Linux Mint Debian Edition"
 ######             C Lib                  ######
 ################################################
 
+[libalpm]
+name = "libalpm"
+desc = "Arch Linux Package Management"
+more = "primarily used by pacman"
+
+['libc++']
+name = "libc++"
+desc = "Implementations of the C++ standard library by LLVM"
+see = ['libstdc++']
+
+['libstdc++']
+name = "libstdc++"
+desc = "Implementations of the C++ standard library by GNU"
+see = ['libc++']
 
 [libm]
 name = "libm"

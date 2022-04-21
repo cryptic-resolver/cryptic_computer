@@ -178,3 +178,7 @@ desc = "Emacs Lisp Static Analyser"
 name = "EPEL"
 desc = "Extra Packages for Enterprise Linux"
 more = "A Fedora Special Interest Group that creates, maintains, and manages a high quality set of additional packages for Enterprise Linux, including, but not limited to, Red Hat Enterprise Linux (RHEL), CentOS, Scientific Linux (SL), Oracle Linux (OL), AlmaLinux (AL) and Rocky Linux (RL)."
+
+[ere]
+name = "ERE"
+desc = "Extended Regular Expressions"
