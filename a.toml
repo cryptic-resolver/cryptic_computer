@@ -280,3 +280,7 @@ more = ''' It provides a simple API for decomposing, modifying, and recomposing 
 [agpl]
 name = "AGPL"
 desc = "Affero General Public License"
+
+[abs.Arch]
+name = "ABS"
+desc = "Arch Build System"

@@ -222,3 +222,7 @@ see = ['runoff', 'nroff', 'troff']
 [runoff]
 name = "runoff"
 desc = "from Multics, which was a descendant of RUNOFF for CTSS (the first computerized text-formatting application)"
+
+[rds]
+name = "RDS"
+desc = "Remote Desktop Services"

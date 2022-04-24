@@ -22,3 +22,8 @@ name = "YUM (Deprecated)"
 desc = "Yellowdog Updater, Modified"
 more = "Under the hood, YUM depends on RPM. A rewrite of YUM named DNF replaced YUM as the default package manager in Fedora 22."
 see = ['DNF']
+
+[yay]
+name = "yay"
+desc = "Yet another Yogurt"
+full = "An AUR Helper written in Go"

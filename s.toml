@@ -498,3 +498,8 @@ desc = "Security Assertion Markup Language"
 [sso]
 name = "SSO"
 desc = "Single Sign-On"
+
+[stretch.Debian]
+name = "stretch"
+desc = "Debian 9"
+full = "Released on 2017/06/17"

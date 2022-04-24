@@ -238,3 +238,11 @@ more = "A yearly conference on the topic of electronic design automation"
 [iccad]
 name = "ICCAD"
 desc = "International Conference on Computer-Aided Design "
+
+[icfp]
+name = "ICFP"
+desc = "The International Conference on Functional Programming"
+
+[irc]
+name = "IRC"
+desc = "Internet Relay Chat"

@@ -120,3 +120,22 @@ same = "bdw-gc"
 [blog]
 name = "Blog"
 desc = "weblog"
+
+[buster.Debian]
+name = "buster"
+desc = "Debian 10"
+more = "Released on 2019/07/06"
+
+[bullseye.Debian]
+name = "bullseye"
+desc = "Debian 11"
+more = "Released on 2021/08/14"
+
+[bookwarm.Debian]
+name = "bookwarm"
+desc = "Debian 12"
+more = "To be released"
+
+[bionic.Ubuntu]
+name = "Bionic Beaver"
+desc = "Ubuntu 18.04.6 LTS"

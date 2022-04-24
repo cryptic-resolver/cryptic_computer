@@ -231,7 +231,7 @@ desc = "GitHub Flavored Markdown"
 
 [ghsa]
 name = "GHSA"
-desc = "GitHub Advisory Security Advisories"
+desc = "GitHub Security Advisories"
 
 [gjs]
 name = "GJS"
@@ -240,3 +240,7 @@ desc = "GNOME JavaScript"
 [gdbm]
 name = "GDBM"
 desc = "GNU dbm"
+
+[ghc]
+name = "GHC"
+desc =  "Glasgow Haskell Compiler"

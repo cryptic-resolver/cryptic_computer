@@ -100,3 +100,7 @@ desc = "Federal Information Processing Standards"
 [fhs]
 name = "FHS"
 desc = "Filesystem Hierarchy Standard"
+
+[focal.Ubuntu]
+name = "Focal Fossa"
+desc = "Ubuntu 20.04.4 LTS"
