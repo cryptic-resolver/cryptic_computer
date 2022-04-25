@@ -355,3 +355,8 @@ desc = "Completely Automated Public Turing test to tell Computers and Humans Apa
 [cii]
 name = "CII"
 desc = "Core Infrastructure Initiative"
+
+[cifs]
+name = "CIFS"
+desc = "Common Internet File System"
+more = "Used by Windows and other operating systems to enable file sharing on a network"

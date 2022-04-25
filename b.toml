@@ -139,3 +139,7 @@ more = "To be released"
 [bionic.Ubuntu]
 name = "Bionic Beaver"
 desc = "Ubuntu 18.04.6 LTS"
+
+[bspwm]
+name = "BSPWM"
+desc = "Binary Space Partitioning Window Manager"

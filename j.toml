@@ -112,6 +112,6 @@ desc = "Jason Evans memory allocator"
 name = "JWT"
 desc = "JSON Web Tokens"
 
-[jellyfish.Ubuntu]
+[jammy.Ubuntu]
 name = "Jammy Jellyfish"
 desc = "Ubuntu 22.04 LTS"

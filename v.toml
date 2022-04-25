@@ -102,3 +102,8 @@ desc = "Virtual Memory Area"
 
 [vcrt]
 same = "MSVCRT<=>msvcrt"
+
+[vmdk]
+name = "VMDK"
+desc = "Virtual Machine Disk"
+more = "A file format that describes containers for virtual hard disk drives to be used in virtual machines like VMware Workstation or VirtualBox"

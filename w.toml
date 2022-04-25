@@ -75,3 +75,7 @@ desc = "World Wide Web Consortium"
 [winrt]
 name = "WinRT"
 desc = "Windows Runtime"
+
+[wm]
+name = "WM"
+desc = "Window Manager"
