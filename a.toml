@@ -284,3 +284,7 @@ desc = "Affero General Public License"
 [abs.Arch]
 name = "ABS"
 desc = "Arch Build System"
+
+[alg.Arch]
+name = "ALG"
+desc = "Arch Linux GUI project"

@@ -155,3 +155,7 @@ desc = "Git Object ID"
 [osdi]
 name = "OSDI"
 desc = "Operating Systems Design and Implementation"
+
+[opam]
+name = "opam"
+desc = "OCaml Package Manager"

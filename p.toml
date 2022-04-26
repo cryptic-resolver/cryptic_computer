@@ -286,3 +286,8 @@ full = "originally developed to secure mail in the 1990s but was never widely ad
 [pam]
 name = "PAM"
 desc = "Linux Pluggable Authentication Modules"
+
+[paru.Arch]
+name = "paru"
+desc = "Feature packed AUR helper"
+see = ['yay', 'yaourt']

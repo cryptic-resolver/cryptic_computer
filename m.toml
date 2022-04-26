@@ -215,3 +215,7 @@ see = ['LSB']
 [msvcrt]
 name = "MSVCRT"
 desc = "Microsoft Visual C++ Runtime"
+
+[mqueue]
+name = "mqueue"
+desc = "message queue on Linux"

@@ -180,6 +180,10 @@ desc = "Line Feed"
 name = "LMDE"
 desc = "Linux Mint Debian Edition"
 
+[lfs]
+name = "LFS"
+desc = "Git Large File Storage"
+
 ################################################
 ######             C Lib                  ######
 ################################################

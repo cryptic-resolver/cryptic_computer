@@ -23,7 +23,14 @@ desc = "Yellowdog Updater, Modified"
 more = "Under the hood, YUM depends on RPM. A rewrite of YUM named DNF replaced YUM as the default package manager in Fedora 22."
 see = ['DNF']
 
-[yay]
+[yay.Arch]
 name = "yay"
 desc = "Yet another Yogurt"
-full = "An AUR Helper written in Go"
+more = "An AUR Helper written in Go"
+see = ['paru', 'yaourt']
+
+[yaourt.Arch]
+name = "yaourt"
+desc = "Yet AnOther User Repository Tool"
+more = "Unmaintained from 2018"
+see = ['yay']
