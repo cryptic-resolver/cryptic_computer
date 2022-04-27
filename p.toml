@@ -124,6 +124,10 @@ desc = "Pushdown Automaton"
 name = "PCI"
 desc = "Peripheral Component Interconnect"
 
+[pcie]
+name = "PCIe"
+desc = "PCI Express" 
+
 [pe]
 name = "PE"
 desc = "Portable Executable"

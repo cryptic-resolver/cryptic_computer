@@ -360,3 +360,15 @@ desc = "Core Infrastructure Initiative"
 name = "CIFS"
 desc = "Common Internet File System"
 more = "Used by Windows and other operating systems to enable file sharing on a network"
+
+[cpld]
+name = "CPLD"
+desc = "Complex Programmable Logic Device"
+
+[cxl]
+name = "CXL"
+desc = "Compute Express Link"
+
+[circt]
+name = "CIRCT"
+desc = "Circuit IR Compilers and Tools"

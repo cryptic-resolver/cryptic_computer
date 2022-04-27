@@ -184,6 +184,10 @@ desc = "Linux Mint Debian Edition"
 name = "LFS"
 desc = "Git Large File Storage"
 
+[llhd]
+name = "LLHD"
+desc = "Low Level Hardware Description"
+
 ################################################
 ######             C Lib                  ######
 ################################################

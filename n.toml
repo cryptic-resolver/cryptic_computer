@@ -122,3 +122,7 @@ see = ['roff', 'troff']
 [ndbm]
 name = "ndbm"
 desc = "new dbm"
+
+[npu]
+name = "NPU"
+desc = "Neural Processing Unit"

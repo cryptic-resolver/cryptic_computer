@@ -134,3 +134,7 @@ desc = "Hardware Abstraction Layer"
 [hig]
 name = "HIG"
 desc = "Human Interface Guidelines"
+
+[hbm]
+name = "HBM"
+desc = "High Bandwidth Memory"

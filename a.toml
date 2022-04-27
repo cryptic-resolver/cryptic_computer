@@ -288,3 +288,11 @@ desc = "Arch Build System"
 [alg.Arch]
 name = "ALG"
 desc = "Arch Linux GUI project"
+
+[asplos]
+name = "ASPLOS"
+desc = "Architectural Support for Programming Languages and Operating Systems"
+
+[amba]
+name = "AMBA"
+desc = "The ARM Advanced Microcontroller Bus Architecture"
