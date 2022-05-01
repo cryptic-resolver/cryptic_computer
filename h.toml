@@ -138,3 +138,7 @@ desc = "Human Interface Guidelines"
 [hbm]
 name = "HBM"
 desc = "High Bandwidth Memory"
+
+[hgfs]
+name = "HGFS"
+desc = "VMware Host Guest File System"

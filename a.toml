@@ -296,3 +296,8 @@ desc = "Architectural Support for Programming Languages and Operating Systems"
 [amba]
 name = "AMBA"
 desc = "The ARM Advanced Microcontroller Bus Architecture"
+
+[apu]
+name = "APU"
+desc = "Accelerated Processing Unit"
+more = "Combine the CPU and GPU onto a single die"

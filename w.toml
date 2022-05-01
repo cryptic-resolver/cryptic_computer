@@ -79,3 +79,7 @@ desc = "Windows Runtime"
 [wm]
 name = "WM"
 desc = "Window Manager"
+
+[wapm]
+name = "wapm"
+desc = "WebAssembly Package Manager"

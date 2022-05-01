@@ -47,7 +47,7 @@ desc = "Desktop Bus"
 name = "D-BUS"
 same = 'DBUS<=>dbus'
 
-[drm]
+[drm.Render]
 name = "DRM"
 desc = "Direct Rendering Manager"
 
@@ -235,3 +235,7 @@ full = "A library and file format providing fast, single-keyed access to data. A
 [dsa.Debian]
 name = "DSA"
 desc = "Debian Security Advisories"
+
+[drm.Right]
+name = "DRM"
+desc = "Digital Rights Management"
