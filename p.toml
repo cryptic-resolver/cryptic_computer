@@ -190,6 +190,7 @@ desc = "portable object file, text-based"
 [pgp]
 name = "PGP"
 desc = "Pretty Good Privacy"
+more = "OpenPGP refers to the OpenPGP protocol"
 
 [pwd.coreutils]
 name = "pwd (coreutils) "

@@ -182,3 +182,7 @@ more = "A Fedora Special Interest Group that creates, maintains, and manages a h
 [ere]
 name = "ERE"
 desc = "Extended Regular Expressions"
+
+[eddsa]
+name = "EdDSA"
+desc = "Edwards-curve Digital Signature Algorithm"

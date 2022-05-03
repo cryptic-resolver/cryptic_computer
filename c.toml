@@ -372,3 +372,7 @@ desc = "Compute Express Link"
 [circt]
 name = "CIRCT"
 desc = "Circuit IR Compilers and Tools"
+
+[cbc]
+name = "AES-CBC"
+desc = "Cipher Block Chaining"

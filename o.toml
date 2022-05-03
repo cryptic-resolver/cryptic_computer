@@ -159,3 +159,7 @@ desc = "Operating Systems Design and Implementation"
 [opam]
 name = "opam"
 desc = "OCaml Package Manager"
+
+[openssf]
+name = "OpenSSF"
+desc = "Open Source Security Foundation"

@@ -190,9 +190,15 @@ desc = "Geographic Information System"
 name = "Gzip"
 desc = "General (de)compression of files"
 
+[gnupg]
+name = "GnuPG"
+same = "GPG<=>gpg"
+
 [gpg]
 name = "GPG"
-desc = "GNU Privacy Guard"
+desc = "GNU Privacy Guard (GnuPG)"
+more = "GnuPG is an implementation of the OpenPGP protocol"
+see  = 'PGP'
 
 [grub]
 name = "GRUB"

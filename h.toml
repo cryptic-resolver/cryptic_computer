@@ -142,3 +142,7 @@ desc = "High Bandwidth Memory"
 [hgfs]
 name = "HGFS"
 desc = "VMware Host Guest File System"
+
+[hkp]
+name = "HKP"
+desc = "OpenPGP HTTP Keyserver Protocol"
