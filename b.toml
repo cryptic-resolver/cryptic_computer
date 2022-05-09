@@ -143,3 +143,8 @@ desc = "Ubuntu 18.04.6 LTS"
 [bspwm]
 name = "BSPWM"
 desc = "Binary Space Partitioning Window Manager"
+
+[bsl]
+name = "BSL"
+desc = "Business Source License"
+more = "MariaDB created it"

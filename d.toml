@@ -230,7 +230,7 @@ desc = "DNS over TLS"
 [dbm]
 name = "dbm"
 desc = "Database Manager"
-full = "A library and file format providing fast, single-keyed access to data. A key-value database from the original Unix, dbm is an early example of a NoSQL system."
+more = "A library and file format providing fast, single-keyed access to data. A key-value database from the original Unix, dbm is an early example of a NoSQL system."
 
 [dsa.Debian]
 name = "DSA"

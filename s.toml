@@ -513,3 +513,7 @@ more = "A networking file share protocol included in Windows 10 that provides th
 name = "SKS"
 desc = "Synchronizing Key Server"
 more = "The standard keyserver software"
+
+[sspl]
+name = "SSPL"
+desc = "Server Side Public License"

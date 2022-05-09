@@ -34,3 +34,8 @@ name = "yaourt"
 desc = "Yet AnOther User Repository Tool"
 more = "Unmaintained from 2018"
 see = ['yay']
+
+[yast]
+name = "YaST"
+desc = "Yet another Setup Tool"
+more = "A Linux setup and configuration tool. YaST is featured in the openSUSE Linux distribution, as well as in SUSE's derived commercial distributions."

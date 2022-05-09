@@ -43,7 +43,7 @@ desc = "GIMP Drawing Kit"
 [gsk]
 name = "GSK"
 desc = "GTK Scene Graph Kit"
-full = "The rendering and scene graph API for GTK introduced with version 3.90. GSK lies between the graphical control elements (widgets) and the rendering."
+more = "The rendering and scene graph API for GTK introduced with version 3.90. GSK lies between the graphical control elements (widgets) and the rendering."
 
 [gtk]
 name = "GTK"
