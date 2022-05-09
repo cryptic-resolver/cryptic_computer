@@ -22,7 +22,7 @@ desc = "Open Telecom Platform"
 [opencl]
 name = "OpenCL"
 desc = "Open Computing Language"
-full = "Initially developed by Apple Inc in 2008"
+more = "Initially developed by Apple Inc in 2008"
 
 [opengl]
 name = "OpenGL"

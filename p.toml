@@ -286,7 +286,7 @@ desc = "Pulse-Width Modulation"
 [pem]
 name = "PEM"
 desc = "Privacy Enhanced Mail"
-full = "originally developed to secure mail in the 1990s but was never widely adopted. Instead, the PEM container was re-purposed for storing certificate-related information."
+more = "originally developed to secure mail in the 1990s but was never widely adopted. Instead, the PEM container was re-purposed for storing certificate-related information."
 
 [pam]
 name = "PAM"
