@@ -109,3 +109,17 @@ see = ['roff', 'nroff']
 [tls.thread]
 name = "TLS"
 desc = "Thread-local storage"
+
+[taocp]
+name = "TAOCP"
+desc = "The Art of Computer Programming"
+
+[td.HTML]
+name = "<td>"
+desc = "Table Data cell"
+see = 'th'
+
+[th.HTML]
+name = "<th>"
+desc = "Table Header cell"
+see = 'td'

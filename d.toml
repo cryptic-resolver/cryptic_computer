@@ -239,3 +239,13 @@ desc = "Debian Security Advisories"
 [drm.Right]
 name = "DRM"
 desc = "Digital Rights Management"
+
+[dvi.TeX]
+name = ".dvi"
+desc = "DeVice-Independent file"
+more = """Meaning that the file may be processed for printing or viewing on most kinds of typographic output device or display. 
+
+  A DVI file (a file with the type or extension dvi) is the main output file of "original" TeX (later TeX-like systems, such as pdfTeX may use other formats).
+
+  Any TeX input file should produce the same DVI file regardless of which implementation of TeX is used to produce it
+"""
