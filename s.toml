@@ -517,3 +517,8 @@ more = "The standard keyserver software"
 [sspl]
 name = "SSPL"
 desc = "Server Side Public License"
+
+[scoop]
+name = "SCOOP"
+desc = "Simple Concurrent Object-Oriented Programming"
+more = "Concurrency model byEiffel"

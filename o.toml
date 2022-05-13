@@ -163,3 +163,7 @@ desc = "OCaml Package Manager"
 [openssf]
 name = "OpenSSF"
 desc = "Open Source Security Foundation"
+
+[ooad]
+name = "OOAD"
+desc = "Object-oriented Analysis and Design"
