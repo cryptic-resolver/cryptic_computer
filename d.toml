@@ -249,3 +249,7 @@ more = """Meaning that the file may be processed for printing or viewing on most
 
   Any TeX input file should produce the same DVI file regardless of which implementation of TeX is used to produce it
 """
+
+[dbaas]
+name = "DBaaS"
+desc = "DataBase as a Service"

@@ -148,3 +148,7 @@ desc = "Binary Space Partitioning Window Manager"
 name = "BSL"
 desc = "Business Source License"
 more = "MariaDB created it"
+
+[baas]
+name = "BaaS"
+desc = "Backend as a Service"

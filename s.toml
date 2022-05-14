@@ -262,8 +262,8 @@ name = "SFLC"
 desc = "Software Freedom Law Center"
 
 [saas]
-name = "SAAS"
-desc = "Software As A Service"
+name = "SaaS"
+desc = "Software as a Service"
 
 [scsi]
 name = "SCSI"

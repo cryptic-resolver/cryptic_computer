@@ -68,6 +68,14 @@ name = "HTTP response status code: 302"
 desc = "Found"
 see = ['404']
 
+[303.HTTPcode]
+name = "HTTP response status code: 303"
+desc = "See Other"
+
+[307.HTTPcode]
+name = "HTTP response status code: 307"
+desc = "Temporary Redirect"
+
 [308.HTTPcode]
 name = "HTTP response status code: 308"
 desc = "Permanent Redirect"
