@@ -231,6 +231,11 @@ more = """https://github.com/libffi/libffi
   https://sourceware.org/libffi
 """
 
+[libgloss]
+name = "libgloss"
+desc = "A library for all the details that usually get glossed over"
+more = "This library refers to things like startup code, and usually I/O support for gcc and C library. The C library used through out this manual is newlib. It's a free board support package BSP commonly used with GCC and G++ to produce a fully linked executable image for an embedded systems."
+
 [libuv]
 name = "libuv"
 desc = "Ultra fast eVent library"

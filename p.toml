@@ -296,3 +296,7 @@ desc = "Linux Pluggable Authentication Modules"
 name = "paru"
 desc = "Feature packed AUR helper"
 see = ['yay', 'yaourt']
+
+[ppm]
+name = "PPM"
+desc = "Perl Package Manager"

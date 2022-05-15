@@ -301,3 +301,7 @@ desc = "The ARM Advanced Microcontroller Bus Architecture"
 name = "APU"
 desc = "Accelerated Processing Unit"
 more = "Combine the CPU and GPU onto a single die"
+
+[acl]
+name = "ACL"
+desc = "Access Control Lists"
