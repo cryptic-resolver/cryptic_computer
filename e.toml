@@ -187,6 +187,6 @@ desc = "Extended Regular Expressions"
 name = "EdDSA"
 desc = "Edwards-curve Digital Signature Algorithm"
 
-[efw]
-name = "EFW"
-desc = "EiffelWeb framework"
+[ewf]
+name = "EWF"
+desc = "Eiffel Web framework"

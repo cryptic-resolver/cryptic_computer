@@ -83,3 +83,7 @@ desc = "Window Manager"
 [wapm]
 name = "wapm"
 desc = "WebAssembly Package Manager"
+
+[wel]
+name = "WEL"
+desc = "Windows Eiffel Library"
