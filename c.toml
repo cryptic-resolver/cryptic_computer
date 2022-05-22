@@ -376,3 +376,7 @@ desc = "Circuit IR Compilers and Tools"
 [cbc]
 name = "AES-CBC"
 desc = "Cipher Block Chaining"
+
+[clr]
+name = "CLR"
+desc = "Common Language Runtime"

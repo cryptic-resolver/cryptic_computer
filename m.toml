@@ -216,6 +216,14 @@ see = ['LSB']
 name = "MSVCRT"
 desc = "Microsoft Visual C++ Runtime"
 
+[msdn]
+name = "MSDN"
+desc = "Microsoft Developer Network"
+
 [mqueue]
 name = "mqueue"
 desc = "message queue on Linux"
+
+[msil]
+name = "MSIL"
+desc = "Microsoft Intermediate Language"

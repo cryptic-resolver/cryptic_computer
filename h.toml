@@ -150,3 +150,7 @@ desc = "OpenPGP HTTP Keyserver Protocol"
 [hcl.HashiCorp]
 name = "HCL"
 desc = "HashiCorp Configuration Language"
+
+[hdlc]
+name = "HDLC"
+desc = "High-Level Data Link Control"
