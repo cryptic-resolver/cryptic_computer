@@ -305,3 +305,8 @@ more = "Combine the CPU and GPU onto a single die"
 [acl]
 name = "ACL"
 desc = "Access Control Lists"
+
+[afl]
+name = "AFL"
+desc = "American Fuzzy Lop"
+more = "A security-oriented fuzzer by Google"

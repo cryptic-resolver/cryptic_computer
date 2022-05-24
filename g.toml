@@ -250,3 +250,7 @@ desc = "GNU dbm"
 [ghc]
 name = "GHC"
 desc =  "Glasgow Haskell Compiler"
+
+[gcs]
+name = "GCS"
+desc = "Google Cloud Storage"
