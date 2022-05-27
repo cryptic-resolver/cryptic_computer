@@ -55,6 +55,7 @@ desc = "Virtual Private Network"
 [vnc]
 name = "VNC"
 desc = "Virtual Network Computing"
+more = "A graphical desktop-sharing system that uses the Remote Frame Buffer protocol (RFB) to remotely control another computer. "
 
 [vc]
 name = "VC"

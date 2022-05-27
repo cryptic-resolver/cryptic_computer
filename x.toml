@@ -81,3 +81,7 @@ desc = "XML Schema Definition"
 name = "XPath"
 desc = "XML Path Language"
 more = "An expression language designed to support the query or transformation of XML documents."
+
+[xdmcp]
+name = "XDMCP"
+desc = "X Display Manager Control Protocol"

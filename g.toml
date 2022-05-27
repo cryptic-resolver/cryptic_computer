@@ -254,3 +254,8 @@ desc =  "Glasgow Haskell Compiler"
 [gcs]
 name = "GCS"
 desc = "Google Cloud Storage"
+
+[getty]
+name = "getty"
+desc = "get tty"
+more = "A Unix program running on a host computer that manages physical or virtual terminals (TTYs)."
