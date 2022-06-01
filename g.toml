@@ -259,3 +259,7 @@ desc = "Google Cloud Storage"
 name = "getty"
 desc = "get tty"
 more = "A Unix program running on a host computer that manages physical or virtual terminals (TTYs)."
+
+[gsm]
+name = "GSM"
+desc = "Global System for Mobile Communications"

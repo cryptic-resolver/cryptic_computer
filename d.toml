@@ -253,3 +253,7 @@ more = """Meaning that the file may be processed for printing or viewing on most
 [dbaas]
 name = "DBaaS"
 desc = "DataBase as a Service"
+
+[ddns]
+name = "DDNS"
+desc = "Dynamic DNS"

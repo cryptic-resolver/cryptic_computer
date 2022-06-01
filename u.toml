@@ -73,3 +73,7 @@ more = "A frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu"
 [usi]
 name = "USI"
 desc = "Universal Stylus Initiative"
+
+[uwp]
+name = "UWP"
+desc = "Universal Windows Platform"

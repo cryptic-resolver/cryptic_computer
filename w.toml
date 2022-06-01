@@ -87,3 +87,7 @@ desc = "WebAssembly Package Manager"
 [wel]
 name = "WEL"
 desc = "Windows Eiffel Library"
+
+[wpf]
+name = "WPF"
+desc = "Windows Presentation Foundation"

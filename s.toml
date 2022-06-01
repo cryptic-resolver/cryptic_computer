@@ -522,3 +522,7 @@ desc = "Server Side Public License"
 name = "SCOOP"
 desc = "Simple Concurrent Object-Oriented Programming"
 more = "Concurrency model byEiffel"
+
+[sim]
+name = "SIM card"
+desc = "Subscriber Identity Module"
