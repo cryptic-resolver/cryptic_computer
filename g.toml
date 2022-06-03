@@ -263,3 +263,7 @@ more = "A Unix program running on a host computer that manages physical or virtu
 [gsm]
 name = "GSM"
 desc = "Global System for Mobile Communications"
+
+[gms]
+name = "GMS"
+desc = "Google Mobile Services"

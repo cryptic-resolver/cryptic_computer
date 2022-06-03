@@ -104,3 +104,7 @@ desc = "Filesystem Hierarchy Standard"
 [focal.Ubuntu]
 name = "Focal Fossa"
 desc = "Ubuntu 20.04.4 LTS"
+
+[fdd]
+name = "FDD"
+desc = "Feature-driven Development"

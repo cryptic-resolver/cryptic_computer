@@ -91,3 +91,7 @@ desc = "Windows Eiffel Library"
 [wpf]
 name = "WPF"
 desc = "Windows Presentation Foundation"
+
+[wbs]
+name = "WBS"
+desc = "Work Breakdown Structure"

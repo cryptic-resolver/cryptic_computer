@@ -310,3 +310,7 @@ desc = "Access Control Lists"
 name = "AFL"
 desc = "American Fuzzy Lop"
 more = "A security-oriented fuzzer by Google"
+
+[atdd]
+name = "ATDD"
+desc = "Acceptance Test–Driven Development"

@@ -246,3 +246,7 @@ desc = "The International Conference on Functional Programming"
 [irc]
 name = "IRC"
 desc = "Internet Relay Chat"
+
+[iid]
+name = "IID"
+desc = "Iterative and Incremental Development"

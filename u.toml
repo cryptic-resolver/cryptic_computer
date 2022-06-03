@@ -77,3 +77,7 @@ desc = "Universal Stylus Initiative"
 [uwp]
 name = "UWP"
 desc = "Universal Windows Platform"
+
+[usim]
+name = "USIM card"
+desc = "Universal Subscriber Identity Module"

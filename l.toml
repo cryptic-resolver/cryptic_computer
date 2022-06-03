@@ -188,6 +188,10 @@ desc = "Git Large File Storage"
 name = "LLHD"
 desc = "Low Level Hardware Description"
 
+[less]
+name = "LeSS"
+desc = "Large-scale Scrum"
+
 ################################################
 ######             C Lib                  ######
 ################################################

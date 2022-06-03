@@ -257,3 +257,7 @@ desc = "DataBase as a Service"
 [ddns]
 name = "DDNS"
 desc = "Dynamic DNS"
+
+[dsdm]
+name = "DSDM"
+desc = "Dynamic Systems Development Method"
