@@ -300,3 +300,7 @@ see = ['yay', 'yaourt']
 [ppm]
 name = "PPM"
 desc = "Perl Package Manager"
+
+[pmis]
+name = "PMIS"
+desc = "Project Management Information System"

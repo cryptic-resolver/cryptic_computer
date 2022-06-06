@@ -526,3 +526,7 @@ more = "Concurrency model byEiffel"
 [sim]
 name = "SIM card"
 desc = "Subscriber Identity Module"
+
+[ssg]
+name = "SSG"
+desc = "Static-Site Generators"
