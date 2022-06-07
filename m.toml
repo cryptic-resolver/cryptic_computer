@@ -231,3 +231,7 @@ desc = "Microsoft Intermediate Language"
 [maui]
 name = ".NET MAUI"
 desc = ".NET Multi-platform App UI"
+
+[midi]
+name = "MIDI"
+desc = "Musical Instrument Digital Interface"
