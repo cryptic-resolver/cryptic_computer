@@ -235,3 +235,7 @@ desc = ".NET Multi-platform App UI"
 [midi]
 name = "MIDI"
 desc = "Musical Instrument Digital Interface"
+
+[meid]
+name = "MEID"
+desc = "Mobile Equipment Identifier"

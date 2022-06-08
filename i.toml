@@ -250,3 +250,7 @@ desc = "Internet Relay Chat"
 [iid]
 name = "IID"
 desc = "Iterative and Incremental Development"
+
+[imei]
+name = "IMEI"
+desc = "International Mobile Equipment Identity"

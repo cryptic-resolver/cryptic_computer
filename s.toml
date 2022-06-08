@@ -530,3 +530,7 @@ desc = "Subscriber Identity Module"
 [ssg]
 name = "SSG"
 desc = "Static-Site Generators"
+
+[soa]
+name = "SOA"
+desc = "Service-Oriented Architecture"
