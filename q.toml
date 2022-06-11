@@ -27,3 +27,7 @@ desc = "Quick Response code"
 [qos]
 name = "QoS"
 desc = "Quality of Service"
+
+[qemu]
+name = "QEMU"
+desc = "Quick EMUlator"

@@ -534,3 +534,7 @@ desc = "Static-Site Generators"
 [soa]
 name = "SOA"
 desc = "Service-Oriented Architecture"
+
+[safe]
+name = "SAFe"
+desc = "Scaled Agile Framework"

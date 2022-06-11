@@ -380,3 +380,7 @@ desc = "Cipher Block Chaining"
 [clr]
 name = "CLR"
 desc = "Common Language Runtime"
+
+[corba]
+name = "CORBA"
+desc = "Common Object Request Broker Architecture"

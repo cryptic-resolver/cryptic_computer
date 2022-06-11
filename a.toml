@@ -314,3 +314,7 @@ more = "A security-oriented fuzzer by Google"
 [atdd]
 name = "ATDD"
 desc = "Acceptance Test–Driven Development"
+
+[ast.secure]
+name = "AST"
+desc = "Application Security Testing"

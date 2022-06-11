@@ -304,3 +304,7 @@ desc = "Perl Package Manager"
 [pmis]
 name = "PMIS"
 desc = "Project Management Information System"
+
+[pim]
+name = "PIM"
+desc = "Personal Information Manager"
