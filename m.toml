@@ -239,3 +239,8 @@ desc = "Musical Instrument Digital Interface"
 [meid]
 name = "MEID"
 desc = "Mobile Equipment Identifier"
+
+[motd]
+name = "/etc/motd"
+desc = "message of the day"
+more = "A file on Unix-like CLI systems. The contents of the file /etc/motd are displayed by the Unix login command after a successful login, and just before it executes the login shell"

@@ -112,3 +112,7 @@ more = "A file format that describes containers for virtual hard disk drives to 
 [vlc]
 name = "VLC media player"
 desc = "VideoLAN Client"
+
+[vcr]
+name = "VCR"
+desc = "Videocassette Recorder"
