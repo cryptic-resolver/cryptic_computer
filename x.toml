@@ -85,3 +85,8 @@ more = "An expression language designed to support the query or transformation o
 [xdmcp]
 name = "XDMCP"
 desc = "X Display Manager Control Protocol"
+
+[xr]
+name = "XR"
+desc = "Extended Reality"
+see = ['AR', 'VR']
