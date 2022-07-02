@@ -226,3 +226,11 @@ desc = "from Multics, which was a descendant of RUNOFF for CTSS (the first compu
 [rds]
 name = "RDS"
 desc = "Remote Desktop Services"
+
+[rfid]
+name = "RFID"
+desc = "Radio-Frequency Identification"
+
+[rpa]
+name = "RPA"
+desc = "Robotic Automation Software"

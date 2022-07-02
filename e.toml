@@ -190,3 +190,8 @@ desc = "Edwards-curve Digital Signature Algorithm"
 [ewf]
 name = "EWF"
 desc = "Eiffel Web framework"
+
+[ei]
+name = "EI"
+desc = "Engineering Index"
+see = ['SCI']

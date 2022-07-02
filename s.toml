@@ -165,6 +165,10 @@ more = "which specializes in large-scale data management problems and databases.
 name = "SIGOPS"
 desc = "ACM's Special Interest Group on Operating Systems"
 
+[sigkdd.ACMsig]
+name = "SIGKDD"
+desc = "ACM's Special Interest Group on Knowledge Discovery and Data Mining"
+
 [seo]
 name = "SEO"
 desc = "Search Engine Optimization"
@@ -315,6 +319,7 @@ more = "An open-source software tool used to connect computer programs or librar
 [sci]
 name = "SCI"
 desc = "Science Citation Index"
+see = ['EI']
 
 [sudo]
 name = "sudo"
