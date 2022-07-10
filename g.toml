@@ -267,3 +267,7 @@ desc = "Global System for Mobile Communications"
 [gms]
 name = "GMS"
 desc = "Google Mobile Services"
+
+[gan]
+name = "GAN"
+desc = "Generative Adversarial Network"

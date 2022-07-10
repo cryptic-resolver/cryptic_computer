@@ -116,3 +116,7 @@ desc = "VideoLAN Client"
 [vcr]
 name = "VCR"
 desc = "Videocassette Recorder"
+
+[va-api]
+name = "VA-API"
+desc=  "Video Acceleration API by Intel"
