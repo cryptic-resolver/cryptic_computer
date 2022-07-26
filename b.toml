@@ -157,3 +157,7 @@ desc = "Backend as a Service"
 name = "BON"
 desc = "Business Object Notation"
 more = "A method and graphical notation for high-level object-oriented analysis and design"
+
+[bts]
+name = "BTS"
+desc = "Base Station Controller"

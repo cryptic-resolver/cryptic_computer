@@ -271,3 +271,7 @@ desc = "Google Mobile Services"
 [gan]
 name = "GAN"
 desc = "Generative Adversarial Network"
+
+[glfw]
+name = "GLFW"
+desc = "Graphics Library Framework"
