@@ -318,3 +318,7 @@ desc = "Acceptance Test–Driven Development"
 [ast.secure]
 name = "AST"
 desc = "Application Security Testing"
+
+[adas]
+name = "ADAS"
+desc = "Advanced Driver Assistance Systems"

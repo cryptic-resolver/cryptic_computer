@@ -267,3 +267,8 @@ desc = "network services library"
 [librt]
 name = "librt"
 desc = "POSIX.1b Realtime Extensions library"
+
+[lstm]
+name = "LSTM"
+desc = "Long short-term memory"
+more = "An artificial neural network used in the fields of artificial intelligence and deep learning"
