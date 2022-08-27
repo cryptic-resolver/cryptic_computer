@@ -195,3 +195,7 @@ desc = "Eiffel Web framework"
 name = "EI"
 desc = "Engineering Index"
 see = ['SCI']
+
+[ecc]
+name = "ECC"
+desc = "Elliptic-curve Cryptography"

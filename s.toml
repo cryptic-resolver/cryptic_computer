@@ -543,3 +543,7 @@ desc = "Service-Oriented Architecture"
 [safe]
 name = "SAFe"
 desc = "Scaled Agile Framework"
+
+[stft]
+name = "STFT"
+desc = "Short-Time Fourier Transform"

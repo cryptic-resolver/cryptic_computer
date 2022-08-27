@@ -234,3 +234,7 @@ desc = "Radio-Frequency Identification"
 [rpa]
 name = "RPA"
 desc = "Robotic Automation Software"
+
+[raas]
+name = "RaaS"
+desc = "Ransomware as a Service"
