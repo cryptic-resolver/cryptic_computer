@@ -154,3 +154,7 @@ desc = "HashiCorp Configuration Language"
 [hdlc]
 name = "HDLC"
 desc = "High-Level Data Link Control"
+
+[hol]
+name = "HOL"
+decs = "proof assistant for Higher-Order Logic"

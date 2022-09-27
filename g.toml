@@ -275,3 +275,7 @@ desc = "Generative Adversarial Network"
 [glfw]
 name = "GLFW"
 desc = "Graphics Library Framework"
+
+[gdpr]
+name = "GDPR"
+desc = "General Data Protection Regulation"
