@@ -279,3 +279,10 @@ desc = "Graphics Library Framework"
 [gdpr]
 name = "GDPR"
 desc = "General Data Protection Regulation"
+
+[ggplot]
+same = "ggplot2"
+
+[ggplot2]
+name = "ggplot2"
+desc = "Grammar of Graphics plotting in R"

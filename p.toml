@@ -3,7 +3,11 @@ name = "PNG"
 desc = "Portable Network Graphics or PNG is Not GIF"
 more = "Published in 1997. It's a raster-graphics file format that supports lossless data compression, and was invented to transfer images on the Internet, not for professional-quality print graphics, and as an improved, non-patented replacement for GIF"
 
-[pic]
+[pic.hardware]
+name = "PIC"
+desc = "Programmable Interrupt Controller"
+
+[pic.code]
 name = "PIC"
 desc = "Position Independent Code"
 

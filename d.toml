@@ -193,6 +193,11 @@ desc = "dynamic tracing framework"
 name = "dwim"
 desc = "do what I mean"
 
+[dc.current]
+name = "DC"
+desc = "Direct Current"
+see = 'AC'
+
 [dc]
 name = "dc"
 desc = "Desktop Calculator"
