@@ -106,6 +106,17 @@ name = "HTTP response status code: 502"
 desc = "Bad Gateway"
 
 #########################
+#         IEEE
+#########################
+
+[1394.IEEE]
+name = "IEEE 1394"
+more = """An interface standard for a serial bus for high-speed communications and isochronous real-time data transfer. It was developed in the late 1980s and early 1990s by Apple in cooperation with a number of companies, primarily Sony and Panasonic. 
+
+  The 1394 interface is comparable to USB. USB was developed subsequently and gained much greater market share. USB requires a host controller whereas IEEE 1394 is cooperatively managed by the connected devices"""
+
+
+#########################
 #         ISO
 #########################
 

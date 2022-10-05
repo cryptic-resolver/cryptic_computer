@@ -560,3 +560,7 @@ desc = "Server Load Balancer"
 [spice]
 name = "SPICE"
 desc = "Simulation Program with Integrated Circuit Emphasis"
+
+[ssd]
+name = "SSD"
+desc = "Solid State Drive"

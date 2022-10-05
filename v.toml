@@ -120,3 +120,8 @@ desc = "Videocassette Recorder"
 [va-api]
 name = "VA-API"
 desc=  "Video Acceleration API by Intel"
+
+[vga]
+name = "VGA"
+desc = "Video Graphics Array"
+more = "A video display controller and accompanying de facto graphics standard, first introduced with the IBM PS/2 line of computers in 1987"
