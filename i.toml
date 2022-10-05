@@ -1,23 +1,32 @@
-[ietf]
-name = "IETF"
-desc = "Internet Engineering Task Force"
-
-[ico]
-name = "ICO"
-desc = "Icon image format for Windows"
-see = ["CUR"]
-
-[isv]
-name = "ISV"
-desc = "Independent Software Vendor"
-
 [ieee]
 name = "IEEE"
 desc = "Institute of Electrical and Electronics Engineers"
+more = "Formed in 1963"
+
+[iec]
+name = "IEC"
+desc = "International Electrotechnical Commission"
+more = "Formed in 1906"
+
+[ietf]
+name = "IETF"
+desc = "Internet Engineering Task Force"
+more = "Formed in 1986"
+
+[iso]
+name = "ISO"
+desc = "International Organization for Standardization"
+more = "Formed in 1947"
+
+[iana]
+name = "IANA"
+desc = "Internet Assigned Numbers Authority"
 
 [inria]
 name = "INRIA"
 desc = "French Institute for Research in Computer Science and Automation"
+
+# -----------------------------
 
 [isbn]
 name = "ISBN"
@@ -46,26 +55,23 @@ name = "IT"
 desc = "Information Technology"
 see = ["CT"]
 
-[i2s]
-name = "I2S"
-desc = "Inter-IC Sound Bus"
-
 [ict]
 name = "ICT"
 desc = "Information and Communications Technology"
 see = ["IT","CT"]
 
-[iana]
-name = "IANA"
-desc = "Internet Assigned Numbers Authority"
+[i2s]
+name = "I2S"
+desc = "Inter-IC Sound Bus"
 
-[iso]
-name = "ISO"
-desc = "International Organization for Standardization"
+[ico]
+name = "ICO"
+desc = "Icon image format for Windows"
+see = ["CUR"]
 
-[iec]
-name = "IEC"
-desc = "International Electrotechnical Commission"
+[isv]
+name = "ISV"
+desc = "Independent Software Vendor"
 
 [isl]
 name = "isl"
