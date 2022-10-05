@@ -556,3 +556,7 @@ more = "A single instruction, multiple data (SIMD) instruction set extension to 
 [slb]
 name = "SLB"
 desc = "Server Load Balancer"
+
+[spice]
+name = "SPICE"
+desc = "Simulation Program with Integrated Circuit Emphasis"

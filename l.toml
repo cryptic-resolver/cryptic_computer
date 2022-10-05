@@ -30,7 +30,7 @@ desc = "Language-oriented programming"
 
 [led]
 name = "LED"
-desc = "light-emitting Diode"
+desc = "Light-emitting Diode"
 see = ["OLED"]
 
 [lsp]

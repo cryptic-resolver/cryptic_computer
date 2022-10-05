@@ -333,3 +333,13 @@ desc = "Advanced Driver Assistance Systems"
 name = "AC"
 desc = "Alternating Current"
 see = 'DC'
+
+[atx]
+name = "ATX"
+desc = "Advanced Technology eXtended"
+more = "A motherboard and power supply configuration specification developed by Intel in 1995 to improve on previous de facto standards like the AT design"
+
+[agp]
+name = "AGP"
+desc = "Accelerated Graphics Port"
+more = "Since 2004, AGP was progressively phased out in favor of PCI Express (PCIe), which is serial, as opposed to parallel"

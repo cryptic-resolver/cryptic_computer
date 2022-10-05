@@ -123,3 +123,8 @@ see = 'th'
 name = "<th>"
 desc = "Table Header cell"
 see = 'td'
+
+[tlb]
+name = "TLB"
+desc = "Translation Lookaside Buffer"
+more = "A memory cache that stores the recent translations of virtual memory to physical memory. It can be called an address-translation cache. It is a part of the chip's memory-management unit (MMU). A TLB may reside between the CPU and the CPU cache, between CPU cache and the main memory or between the different levels of the multi-level cache"
