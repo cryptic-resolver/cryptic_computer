@@ -547,3 +547,12 @@ desc = "Scaled Agile Framework"
 [stft]
 name = "STFT"
 desc = "Short-Time Fourier Transform"
+
+[sse]
+name = "SSE"
+desc = "Streaming SIMD Extensions"
+more = "A single instruction, multiple data (SIMD) instruction set extension to the x86 architecture, designed by Intel and introduced in 1999 in their Pentium III series of Central processing units (CPUs) shortly after the appearance of Advanced Micro Devices (AMD's) 3DNow!."
+
+[slb]
+name = "SLB"
+desc = "Server Load Balancer"

@@ -185,6 +185,12 @@ see = ['DSL']
 [asic]
 name = "ASIC"
 desc = "Application-Specific Integrated Circuit"
+see = ['ASSP']
+
+[assp]
+name = "ASSP"
+desc = "Application-Specific Standard Product"
+see = ['ASIC']
 
 [api]
 name = "API"

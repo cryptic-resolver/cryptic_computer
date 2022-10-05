@@ -112,3 +112,7 @@ desc = "Feature-Driven Development"
 [fsp]
 name = "FSP"
 desc = "Firmware Support Package"
+
+[fet]
+name = "FET"
+desc = "Field-Effect Transistor"

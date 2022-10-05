@@ -244,3 +244,8 @@ desc = "Mobile Equipment Identifier"
 name = "/etc/motd"
 desc = "message of the day"
 more = "A file on Unix-like CLI systems. The contents of the file /etc/motd are displayed by the Unix login command after a successful login, and just before it executes the login shell"
+
+[mmx]
+name = "MMX"
+desc = "Matrix Math eXtension"
+more = "A single instruction, multiple data (SIMD) instruction set architecture designed by Intel, introduced on January 8, 1997"
