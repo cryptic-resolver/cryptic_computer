@@ -197,9 +197,14 @@ desc = "Symmetrical Multiprocessing"
 name = "SMT"
 desc = "Simultaneous Multithreaded"
 
+[smt.PCB]
+name = "SMT"
+desc = "Surface-Mount Technology"
+
 [sram]
 name = "SRAM"
 desc = "Static Random-Access Memory"
+see = 'DRAM'
 
 [smbios]
 name = "SMBIOS"

@@ -249,3 +249,7 @@ more = "A file on Unix-like CLI systems. The contents of the file /etc/motd are 
 name = "MMX"
 desc = "Matrix Math eXtension"
 more = "A single instruction, multiple data (SIMD) instruction set architecture designed by Intel, introduced on January 8, 1997"
+
+[mbd]
+name = "MBD"
+desc = "Model-based Design"

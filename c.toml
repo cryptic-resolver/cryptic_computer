@@ -55,12 +55,17 @@ more = "A parallel computing platform and application programming interface (API
 [cad]
 name = "CAD"
 desc = "Computer-aided Design"
-see = ['CAE']
+see = ['CAE', 'CAM']
 
 [cae]
 name = "CAE"
 desc = "Computer-aided Engineering"
-see = ['CAD']
+see = ['CAD', 'CAM']
+
+[cam]
+name = "CAM"
+desc = "Computer-aided Manufacturing "
+see = ['CAD', 'CAE']
 
 [cname]
 name = "CNAME"

@@ -272,3 +272,11 @@ desc = "POSIX.1b Realtime Extensions library"
 name = "LSTM"
 desc = "Long short-term memory"
 more = "An artificial neural network used in the fields of artificial intelligence and deep learning"
+
+[lqr]
+name = "LQR"
+desc = "Linear–quadratic Regulator"
+
+[lqg]
+name = "LQG"
+desc = "Linear–quadratic–Gaussian"

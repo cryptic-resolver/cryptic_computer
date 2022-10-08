@@ -270,3 +270,22 @@ desc = "Dynamic Systems Development Method"
 [dvi]
 name = "DVI"
 desc = "Digital Visual Interface"
+
+[doors]
+name = "DOORS"
+desc = "Rational Dynamic Object Oriented Requirements System"
+
+[dplyr]
+name = "R package dplyr"
+desc = "data.frame 'apply' functions in R"
+more = "See https://github.com/tidyverse/dplyr/issues/1857"
+
+[dram]
+name = "DRAM"
+desc = "Dynamic Random-Access Memory"
+see = 'SRAM'
+
+[drc]
+name = "DRC"
+desc = "Design Rule Checking"
+see = 'ERC'
