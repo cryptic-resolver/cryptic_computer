@@ -122,6 +122,11 @@ desc = "Open-Source Software"
 name = "OSI"
 desc = "Open Source Initiative"
 
+[osi.network]
+name = "OSI"
+desc = "Open Systems Interconnection model"
+more = "A conceptual model that 'provides a common basis for the coordination of ISO standard development from the purpose of system interconnection"
+
 [osd]
 name = "OSD"
 desc = "Open Source Definition"

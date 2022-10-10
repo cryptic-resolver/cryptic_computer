@@ -115,3 +115,8 @@ desc = "JSON Web Tokens"
 [jammy.Ubuntu]
 name = "Jammy Jellyfish"
 desc = "Ubuntu 22.04 LTS"
+
+[jtag]
+name = "JTAG"
+desc = "Joint Test Action Group"
+more = "It's named after the group which codified it. It's an industry standard for verifying designs and testing printed circuit boards after manufacture."

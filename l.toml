@@ -280,3 +280,8 @@ desc = "Linear–quadratic Regulator"
 [lqg]
 name = "LQG"
 desc = "Linear–quadratic–Gaussian"
+
+[lut]
+name = "LUT"
+desc = "Lookup Table"
+more = "An array that replaces runtime computation with a simpler array indexing operation"

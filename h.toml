@@ -37,9 +37,13 @@ desc = "Human Computer Interface"
 name = "HLA"
 desc = "High Level Assembly Language"
 
-[hls]
+[hls.color]
 name = "HLS"
 desc = "Hue, Lightness, Saturation Color Model"
+
+[hls.hardware]
+name = "HLS"
+desc = "High Level Synthesis"
 
 [hcl]
 name = "HCL"

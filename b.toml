@@ -161,3 +161,7 @@ more = "A method and graphical notation for high-level object-oriented analysis 
 [bts]
 name = "BTS"
 desc = "Base Station Controller"
+
+[bim]
+name = "BIM"
+desc = "Building Information Modeling"
