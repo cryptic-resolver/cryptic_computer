@@ -253,3 +253,8 @@ more = "A single instruction, multiple data (SIMD) instruction set architecture 
 [mbd]
 name = "MBD"
 desc = "Model-based Design"
+
+[mcad]
+name = "MCAD"
+desc = "Mechanical Computer-Aided Design"
+see = 'ECAD'

@@ -42,10 +42,6 @@ desc = "Portable Operating System Interface"
 name = "PSoC"
 desc = "Programmable System on a Chip"
 
-[pcb]
-name = "PCB"
-desc = "Printed Circuit Board"
-
 [pkm]
 name = "PKM"
 desc = "Personal Knowledge Management"

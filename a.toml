@@ -113,7 +113,7 @@ desc = "American Standard Code for Information Interchange"
 
 [avr]
 name = "AVR"
-desc = "Help!"
+desc = "Alf and Vegard's RISC processor."
 more = "A family of microcontrollers developed since 1996 by Atmel"
 
 [adc]

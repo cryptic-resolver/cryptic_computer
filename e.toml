@@ -214,3 +214,8 @@ more = "ENIAC inventors, John Mauchly and J. Presper Eckert, proposed the EDVAC'
 name = "ERC"
 desc = "Electrical Rule Check"
 see = 'DRC'
+
+[ecad]
+name = "ECAD"
+desc = "Electronic Computer-Aided Design"
+see = 'MCAD'
