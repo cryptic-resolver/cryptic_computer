@@ -176,3 +176,7 @@ desc = "Object-oriented Analysis and Design"
 [omg]
 name = "OMG"
 desc = "Object Management Group"
+
+[opc]
+name = "OPC"
+desc = "Open Platform Communications"

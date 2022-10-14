@@ -285,3 +285,8 @@ desc = "Linear–quadratic–Gaussian"
 name = "LUT"
 desc = "Lookup Table"
 more = "An array that replaces runtime computation with a simpler array indexing operation"
+
+[lpc]
+name = "LPC"
+desc = "Low Pin Count bus"
+more = "A computer bus used on IBM-compatible personal computers to connect low-bandwidth devices to the CPU, such as the BIOS ROM, but superseded by	SPI"

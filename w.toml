@@ -95,3 +95,15 @@ desc = "Windows Presentation Foundation"
 [wsdl]
 name = "WSDL"
 desc = "Web Services Description Language"
+
+[wxwidget]
+same = "wxwidgets"
+
+[wxwidgets]
+name = "WxWidgets"
+desc = "Windows X Widgets"
+more = "See https://www.wxwidgets.org/about/history/"
+
+[woff]
+name = "woff"
+desc = "Web Open Font Format"

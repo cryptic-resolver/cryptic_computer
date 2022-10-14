@@ -6,7 +6,7 @@ more = "First published in the specification for the application binary interfac
 [emacs]
 name = "Emacs"
 desc = "Edit macros"
-more = "a feature-rich editor"
+more = "A feature-rich editor"
 see = ["Vim"]
 
 [exif]

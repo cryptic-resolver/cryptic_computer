@@ -57,7 +57,8 @@ desc = "Digital Object Unique Identifier"
 
 [dxf]
 name = "DXF"
-desc = "AutoCAD Drawing Interchange Format"
+desc = "AutoCAD Drawing Exchange Format"
+more = "A CAD data file format developed by Autodesk for enabling data interoperability between AutoCAD and other programs."
 
 [dwg]
 name = "dwg"

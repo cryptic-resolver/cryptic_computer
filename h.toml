@@ -166,3 +166,8 @@ decs = "proof assistant for Higher-Order Logic"
 [hdmi]
 name = "HDMI"
 desc = "High-Definition Multimedia Interface"
+
+[hid]
+name = "HID"
+desc = "Human Interface Device"
+more = "A type of computer device usually used by humans that takes input from humans and gives output to humans."
