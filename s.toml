@@ -505,11 +505,6 @@ name = "stretch"
 desc = "Debian 9"
 more = "Released on 2017/06/17"
 
-[smb.NetworkProtocol]
-name = "SMB"
-desc = "Server Message Block"
-more = "A networking file share protocol included in Windows 10 that provides the ability to read and write files and perform other service requests to network devices. Usually, you'll be using SMB to connect to devices that don't run Windows, such as a router with file sharing capabilities, Network-Attached Storage (NAS), or other computers running Linux."
-
 [sks]
 name = "SKS"
 desc = "Synchronizing Key Server"

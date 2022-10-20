@@ -42,11 +42,6 @@ more = "A binary-interface standard for software components introduced by Micros
 name = "CSP"
 desc = "Communicating Sequential Processs"
 
-[cpl]
-name = "cpl"
-desc = "Control PaneL"
-more = "Control panel tools for Windows"
-
 [cuda]
 name = "CUDA"
 desc = "Compute Unified Device Architecture"
@@ -179,10 +174,6 @@ see = ['UCRT']
 [cqrs]
 name = "CQRS"
 desc = "Command Query Responsibility Segregation pattern"
-
-[cim]
-name = "CIM"
-desc = "Common Information Model for PowerShell"
 
 [can]
 name = "CAN"

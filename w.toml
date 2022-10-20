@@ -16,12 +16,6 @@ name = "WebM"
 desc = "Media format for the Web"
 more = "Sponsored by Google. Intended to offer a royalty-free alternative to use in the HTML5 video and the HTML5 audio elements"
 
-[wmi]
-name = "WMI"
-desc = "Windows Management Instrumentation"
-more = "it's deprecated, use CIM instead"
-see = ['CIM']
-
 [wapi]
 name = "WAPI"
 desc = "WLAN Authentication and Privacy Infrastructure"
@@ -72,10 +66,6 @@ more = "which is Japanese for 'to see the WWW'"
 name = "W3C"
 desc = "World Wide Web Consortium"
 
-[winrt]
-name = "WinRT"
-desc = "Windows Runtime"
-
 [wm]
 name = "WM"
 desc = "Window Manager"
@@ -87,10 +77,6 @@ desc = "WebAssembly Package Manager"
 [wel]
 name = "WEL"
 desc = "Windows Eiffel Library"
-
-[wpf]
-name = "WPF"
-desc = "Windows Presentation Foundation"
 
 [wsdl]
 name = "WSDL"

@@ -87,10 +87,6 @@ desc = "Advanced Encryption Standard"
 name = "AR"
 desc = "Augmented Reality"
 
-[atl]
-name = "ATL"
-desc = "Active Template Library"
-
 [amoled]
 name = "AMOLED"
 desc = "Active-Matrix Organic Light-Emitting Diode"

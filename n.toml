@@ -45,10 +45,6 @@ desc = "Natural Language Processing"
 name = "NFC"
 desc = "Near-field communication"
 
-[nt]
-name = "Windows NT"
-desc = "New Technology"
-
 [nif.erlang]
 name = "NIF"
 desc = "Native Implemented Functions in Erlang"

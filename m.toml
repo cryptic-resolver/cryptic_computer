@@ -195,10 +195,6 @@ name = "MD5"
 desc = "Message-Digest function 5"
 more = "A cryptographically broken but still widely used hash function producing a 128-bit hash value, designed by Ronald Rivest in 1991 to replace an earlier hash function MD4"
 
-[mfc]
-name = "MFC"
-desc = "Microsoft Foundation Class Library"
-
 [mimd]
 name = "MIMD"
 desc = "Multiple instruction, Multiple data"
