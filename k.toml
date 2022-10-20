@@ -29,7 +29,3 @@ desc = "Kubernetes"
 [kcsan.Kernel]
 name = "KCSAN"
 desc = "The Kernel Concurrency Sanitizer"
-
-[kms.Microsoft]
-name = "KMS"
-desc = "Key Management Services"

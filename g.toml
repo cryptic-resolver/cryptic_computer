@@ -24,10 +24,6 @@ desc = "OpenGL Shading Language"
 name = "GPS"
 desc = "Global Positioning System"
 
-[gdi]
-name = "GDI"
-desc = "Graphics Device Interface by Microsoft Windows"
-
 [gsl]
 name = "GSL"
 desc = "GNU Scientific Library"

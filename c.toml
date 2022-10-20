@@ -33,11 +33,6 @@ name = "CUR"
 desc = "Cursor image format for Windows"
 see = ["ICO"]
 
-[com]
-name = "COM"
-desc = "Component Object Model"
-more = "A binary-interface standard for software components introduced by Microsoft in 1993. It is used to enable inter-process communication object creation in a large range of programming languages"
-
 [csp]
 name = "CSP"
 desc = "Communicating Sequential Processs"
@@ -378,10 +373,6 @@ desc = "Circuit IR Compilers and Tools"
 [cbc]
 name = "AES-CBC"
 desc = "Cipher Block Chaining"
-
-[clr]
-name = "CLR"
-desc = "Common Language Runtime"
 
 [corba]
 name = "CORBA"

@@ -2,10 +2,6 @@
 name = "UTC"
 desc = "Universal Time Coordinated"
 
-[uac]
-name = "UAC"
-desc = "User Account Control(Windows)"
-
 [uri]
 name = "URI"
 desc = "Uniform Resource Identifier"

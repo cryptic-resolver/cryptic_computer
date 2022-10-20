@@ -48,10 +48,6 @@ desc = "Minimalist GNU for Windows"
 name = "MSYS2"
 desc = "minimal system 2"
 
-[msvc]
-name = "MSVC"
-desc = "Microsoft Visual C++"
-
 [mri]
 name = "MRI"
 desc = "Matz's Ruby Interpreter"
@@ -94,10 +90,6 @@ desc = "Memory Management Unit"
 [mpp]
 name = "MPP"
 desc = "Massively Parallel Processing"
-
-[msix]
-name = "MSIX"
-desc = "Microsoft appinstaller"
 
 [misra]
 name = "MISRA"
@@ -208,25 +200,9 @@ name = "MSB"
 desc = "Most Significant Bit"
 see = ['LSB']
 
-[msvcrt]
-name = "MSVCRT"
-desc = "Microsoft Visual C++ Runtime"
-
-[msdn]
-name = "MSDN"
-desc = "Microsoft Developer Network"
-
 [mqueue]
 name = "mqueue"
 desc = "message queue on Linux"
-
-[msil]
-name = "MSIL"
-desc = "Microsoft Intermediate Language"
-
-[maui]
-name = ".NET MAUI"
-desc = ".NET Multi-platform App UI"
 
 [midi]
 name = "MIDI"

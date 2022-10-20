@@ -57,18 +57,9 @@ name = "VNC"
 desc = "Virtual Network Computing"
 more = "A graphical desktop-sharing system that uses the Remote Frame Buffer protocol (RFB) to remotely control another computer. "
 
-[vc]
-name = "VC"
-same = 'MSVC<=>msvc'
-
 [vc.version]
 name = "VC"
 desc = "Version Control"
-
-[vb]
-name = "VB"
-desc = "Microsoft Visual Basic"
-see = ['VC']
 
 [vax]
 name = "VAX"

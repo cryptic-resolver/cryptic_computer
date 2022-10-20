@@ -85,12 +85,6 @@ desc = "Data Definition Language"
 name = "DAP"
 desc = "Debug Adapter Protocol"
 
-[dia]
-name = "DIA SDK"
-desc = "Microsoft Debug Interface Access Software Development Kit"
-more = "Using DIA API, you can develop applications that search for and browse debug information stored in a .pdb file. Such applications could, for example, report stack trace-back information and analyze performance data."
-see = ["pdb"]
-
 [dism]
 disc = "DISM"
 desc = "Deployment Image Servicing and Management by Windows"
@@ -98,7 +92,7 @@ desc = "Deployment Image Servicing and Management by Windows"
 [def.file]
 name = ".def"
 desc = "module-definition file"
-more = "reference: https://docs.microsoft.com/en-us/cpp/build/exporting-from-a-dll-using-def-files?view=msvc-170"
+more = "Reference: https://docs.microsoft.com/en-us/cpp/build/exporting-from-a-dll-using-def-files?view=msvc-170"
 
 [dll]
 name = "DLL"
