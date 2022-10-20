@@ -58,6 +58,11 @@ desc = "Java Server Pages"
 name = "JAR"
 desc = "Java ARchive"
 
+[javap]
+name = "javap"
+desc = "java print"
+more = "javap command prints the package, protected and public fields, and methods of the classes passed to it. The javap command prints its output to stdout."
+
 [jdk]
 name = "JDK"
 desc = "Java Development Kit"

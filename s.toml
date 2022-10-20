@@ -560,3 +560,12 @@ desc = "Simulation Program with Integrated Circuit Emphasis"
 [ssd]
 name = "SSD"
 desc = "Solid State Drive"
+
+[spd]
+name = "SPD"
+desc = "Serial Presence Detect"
+more = "A standardized way to automatically access information about a memory module."
+
+[sil]
+name = "SIL"
+desc = "Safety Integrity Level"
