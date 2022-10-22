@@ -94,10 +94,6 @@ name = ".def"
 desc = "module-definition file"
 more = "Reference: https://docs.microsoft.com/en-us/cpp/build/exporting-from-a-dll-using-def-files?view=msvc-170"
 
-[dll]
-name = "DLL"
-desc = "Dynamic Link Library"
-
 [dma]
 name = "DMA"
 desc = "Direct Memory Access"
@@ -284,3 +280,7 @@ see = 'SRAM'
 name = "DRC"
 desc = "Design Rule Checking"
 see = 'ERC'
+
+[dst]
+name = "DST"
+desc = "Daylight Saving Time"

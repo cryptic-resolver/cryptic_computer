@@ -32,10 +32,6 @@ desc = "WebAssembly System Interface"
 name = "wchar"
 desc = "wide character"
 
-[wsl]
-name = "WSL"
-desc = "Windows Subsystem Layer"
-
 [wps]
 name = "WPS"
 desc = "Writer, Presentation and Spreadsheets"
@@ -98,3 +94,11 @@ desc = "Web Open Font Format"
 name = "WWDC"
 desc = "Worldwide Developers Conference"
 more = "An information technology conference held annually by Apple Inc. The conference is usually held at Apple Park in California. The event is usually used to showcase new software and technologies in the macOS, iOS, iPadOS, watchOS, and tvOS families as well as other Apple software."
+
+[wasm]
+name = "Wasm"
+desc = "WebAssembly"
+
+[wat]
+name = ".wat"
+desc = "WebAssembly text format"
