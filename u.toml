@@ -30,7 +30,7 @@ see = ["Unicode"]
 
 [ucs]
 name = "UCS"
-desc = "Universal Character Set"
+desc = "Universal Coded Character Set"
 
 [ufcs]
 name = "UFCS"

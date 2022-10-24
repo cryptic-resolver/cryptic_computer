@@ -117,6 +117,6 @@ name = "VGA"
 desc = "Video Graphics Array"
 more = "A video display controller and accompanying de facto graphics standard, first introduced with the IBM PS/2 line of computers in 1987"
 
-[vcc]
-name = "Vcc"
-desc = "Voltage at the Common Collector"
+[vlan]
+name = "VLAN"
+desc = "Virtual Local Area Network"

@@ -377,3 +377,13 @@ desc = "Cipher Block Chaining"
 [corba]
 name = "CORBA"
 desc = "Common Object Request Broker Architecture"
+
+[cout]
+name = "cout"
+desc = "character output"
+see = 'cin'
+
+[cin]
+name = "cin"
+desc = "character input"
+see = 'cout'

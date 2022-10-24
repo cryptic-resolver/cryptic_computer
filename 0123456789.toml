@@ -132,6 +132,14 @@ more = "Country Codes"
 name = "ISO 4217"
 more = "It defines alpha codes and numeric codes for the representation of currencies and provides information about the relationships between individual currencies and their minor units"
 
+[8859.ISO]
+name = "ISO/IEC 8859"
+more = "A joint ISO and IEC series of standards for 8-bit character encodings"
+
+[10646.ISO]
+name = "ISO/IEC 10646"
+more = "A standard set of characters —— The Universal Coded Character Set (UCS, Unicode)"
+
 [30170.ISO]
 name = "ISO/IEC 30170:2012"
 desc = "Information technology — Programming languages — Ruby"
