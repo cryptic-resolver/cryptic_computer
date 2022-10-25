@@ -10,6 +10,10 @@ desc = "standard output"
 name = "2(Linux)"
 desc = "standard error"
 
+#########################
+#         man
+#########################
+
 [1.man]
 name = "man 1"
 desc = "Executable programs or shell commands"
@@ -46,10 +50,9 @@ desc = "System administration commands"
 name = "man 9"
 desc = "Kernel routines"
 
-[2fa]
-name = "2FA"
-desc = "Two-factor Authentication"
-see = ['MFA']
+#########################
+#       HTTP code
+#########################
 
 [200.HTTPcode]
 name = "HTTP response status code: 200"
@@ -93,10 +96,6 @@ name = "HTTP response status code: 404"
 desc = "Not Found"
 see = ['302']
 
-[443.port]
-name = "443 port"
-desc = "HTTPS Port"
-
 [500.HTTPcode]
 name = "HTTP response status code: 500"
 desc = "Internal Server Error"
@@ -104,6 +103,18 @@ desc = "Internal Server Error"
 [502.HTTPcode]
 name = "HTTP response status code: 502"
 desc = "Bad Gateway"
+
+#########################
+#         Port
+#########################
+
+[53.port]
+name = "port 53"
+more = "DNS used for domain name resolution"
+
+[443.port]
+name = "port 443"
+desc = "HTTPS Port"
 
 #########################
 #         IEEE
@@ -165,6 +176,11 @@ desc = "Date and Time on the Internet: Timestamps"
 #########################
 #         Other
 #########################
+
+[2fa]
+name = "2FA"
+desc = "Two-factor Authentication"
+see = ['MFA']
 
 [3c]
 name = "3C"

@@ -169,3 +169,7 @@ desc = "Object Management Group"
 [opc]
 name = "OPC"
 desc = "Open Platform Communications"
+
+[openwrt]
+name = "OpenWrt"
+desc = "Open Wireless Router"

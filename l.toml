@@ -290,3 +290,7 @@ more = "An array that replaces runtime computation with a simpler array indexing
 name = "LPC"
 desc = "Low Pin Count bus"
 more = "A computer bus used on IBM-compatible personal computers to connect low-bandwidth devices to the CPU, such as the BIOS ROM, but superseded by	SPI"
+
+[lede]
+name = "LEDE"
+desc = "Linux Embedded Development Environment"

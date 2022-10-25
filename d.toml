@@ -26,6 +26,18 @@ desc = "Directed Acyclic Graph"
 name = "DNS"
 desc = "Domain Name System"
 
+[ddns]
+name = "DDNS"
+desc = "Dynamic DNS"
+
+[dot.DNS]
+name = "DoT"
+desc = "DNS over TLS"
+
+[doh.DNS]
+name = "DoH"
+desc = "DNS over HTTPS"
+
 [dft]
 name = "DFT"
 desc = "Discrete Fourier Transform"
@@ -219,10 +231,6 @@ name = "DNF"
 desc = "Dandified YUM"
 more = "The next-generation version of the Yellowdog Updater, Modified (yum), a package manager for .rpm-based distributions. DNF was introduced in Fedora 18 in 2013, it has been the default package manager since Fedora 22 in 2015 and Red Hat Enterprise Linux 8"
 
-[dot]
-name = "DoT"
-desc = "DNS over TLS"
-
 [dbm]
 name = "dbm"
 desc = "Database Manager"
@@ -249,10 +257,6 @@ more = """Meaning that the file may be processed for printing or viewing on most
 [dbaas]
 name = "DBaaS"
 desc = "DataBase as a Service"
-
-[ddns]
-name = "DDNS"
-desc = "Dynamic DNS"
 
 [dsdm]
 name = "DSDM"

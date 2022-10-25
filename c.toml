@@ -387,3 +387,8 @@ see = 'cin'
 name = "cin"
 desc = "character input"
 see = 'cout'
+
+[calloc]
+name = "calloc"
+desc = "clear allocation"
+more = "calloc will return an allocation that has already been cleared"
