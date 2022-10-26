@@ -564,3 +564,8 @@ more = "A standardized way to automatically access information about a memory mo
 [sil]
 name = "SIL"
 desc = "Safety Integrity Level"
+
+[sgx]
+name = "SGX"
+desc = "Software Guard Extensions"
+more = "A set of security-related instruction codes that are built into some Intel CPUs. They allow user-level and operating system code to define protected private regions of memory, called enclaves. First introduced in 2015 with the sixth generation Intel Core microprocessors based on the Skylake microarchitecture."

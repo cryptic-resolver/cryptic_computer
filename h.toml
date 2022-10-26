@@ -171,3 +171,10 @@ desc = "High-Definition Multimedia Interface"
 name = "HID"
 desc = "Human Interface Device"
 more = "A type of computer device usually used by humans that takes input from humans and gives output to humans."
+
+[haxm]
+name = "HAXM"
+desc = "Intel Hardware Accelerated Execution Manager"
+more = """A cross-platform hardware-assisted virtualization engine (hypervisor), widely used as an accelerator for Android Emulator and QEMU. It has always supported running on Windows and macOS, and has been ported to other host operating systems as well, such as Linux and NetBSD.
+
+HAXM runs as a kernel-mode driver on the host operating system, and provides a KVM-like interface to user space, thereby enabling applications like QEMU to utilize the hardware virtualization capabilities built into modern Intel CPUs, namely Intel Virtualization Technology."""

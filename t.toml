@@ -128,3 +128,8 @@ see = 'td'
 name = "TLB"
 desc = "Translation Lookaside Buffer"
 more = "A memory cache that stores the recent translations of virtual memory to physical memory. It can be called an address-translation cache. It is a part of the chip's memory-management unit (MMU). A TLB may reside between the CPU and the CPU cache, between CPU cache and the main memory or between the different levels of the multi-level cache"
+
+[tdx]
+name = "TDX"
+desc = "Trust Domain Extensions"
+more = "It is introducing new, architectural elements to help deploy hardware-isolated, virtual machines (VMs) called trust domains (TDs). Intel TDX is designed to isolate VMs from the virtual-machine manager (VMM)/hypervisor and any other non-TD software on the platform to protect TDs from a broad range of software."

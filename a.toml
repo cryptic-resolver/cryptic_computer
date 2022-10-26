@@ -344,3 +344,7 @@ more = "Since 2004, AGP was progressively phased out in favor of PCI Express (PC
 name = "AUTOSAR"
 desc = "AUTomotive Open System ARchitecture"
 more = "A development partnership of automotive interested parties founded in 2003. It pursues the objective to create and establish an open and standardized software architecture for automotive electronic control units (ECUs)"
+
+[adb]
+name = "adb"
+desc = "Android Debug Bridge"
