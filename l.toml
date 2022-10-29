@@ -2,9 +2,10 @@
 name = "lvm"
 desc = "Logical Volume Manager"
 
-[ls]
-name = "ls"
-desc = "list computer files"
+[ls.Coreutils]
+name = "ls (Coreutils)"
+desc = "list"
+more = "Lists the files in a directory"
 
 [lzw]
 name = "LZW"

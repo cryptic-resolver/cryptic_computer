@@ -309,8 +309,8 @@ more = "A modular text completion framework for Emacs"
 name = "CA"
 desc = "Certificate Authority"
 
-[cat.coreutils]
-name = "cat (coreutils)"
+[cat.Coreutils]
+name = "cat (Coreutils)"
 desc = "Concatenate and write files"
 
 [cgi]

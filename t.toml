@@ -80,8 +80,8 @@ desc = "TransMoGrifier"
 more = "A recursive descent compiler-compiler developed by Robert M. McClure and presented in 1965"
 see = ['Yacc']
 
-[tty.coreutils]
-name = "tty (coreutils) "
+[tty.Coreutils]
+name = "tty (Coreutils) "
 desc = "teletype"
 more = "Print terminal name"
 
