@@ -238,3 +238,7 @@ desc = "Robotic Automation Software"
 [raas]
 name = "RaaS"
 desc = "Ransomware as a Service"
+
+[rc]
+name = "RC"
+desc = "Release Candidate"

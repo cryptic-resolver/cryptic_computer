@@ -122,3 +122,8 @@ desc = "new dbm"
 [npu]
 name = "NPU"
 desc = "Neural Processing Unit"
+
+[nm.Binutils]
+name = "nm"
+desc = "name"
+more = "List symbols' names exported by object file"
