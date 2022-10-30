@@ -8,6 +8,8 @@ You should always add a specifier in cases:
 4. ISO
 5. IEEE
 6. port
+7. Coreutils
+8. Binutils
 
 1. ACMsig for SIG
 2. ACMcon for conference
