@@ -61,14 +61,6 @@ desc = "Non-deterministic Polynomial-time"
 name = "NI"
 desc = "National Instruments"
 
-[nl.Coreutils]
-name = "nl (Coreutils) "
-desc = "Number lines and write files"
-
-[nproc.Coreutils]
-name = "nproc (Coreutils) "
-desc = "number of processors"
-
 [nist]
 name = "NIST"
 desc = "National Institute of Standards and Technology"
@@ -122,8 +114,3 @@ desc = "new dbm"
 [npu]
 name = "NPU"
 desc = "Neural Processing Unit"
-
-[nm.Binutils]
-name = "nm (Binutils)"
-desc = "name"
-more = "List symbols' names exported by object file"

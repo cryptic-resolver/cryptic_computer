@@ -181,10 +181,6 @@ name = "PGP"
 desc = "Pretty Good Privacy"
 more = "OpenPGP refers to the OpenPGP protocol"
 
-[pwd.Coreutils]
-name = "pwd (Coreutils) "
-desc = "Print Working Directory"
-
 [php]
 name = "PHP"
 desc = "PHP: Hypertext Preprocessor"
