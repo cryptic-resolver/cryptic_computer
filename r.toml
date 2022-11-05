@@ -242,3 +242,8 @@ desc = "Ransomware as a Service"
 [rc]
 name = "RC"
 desc = "Release Candidate"
+
+[rar]
+name = ".rar"
+desc = "Roshal Archive"
+more = "A proprietary archive file format that supports data compression, error correction and file spanning. It was developed in 1993 by Russian software engineer Eugene Roshal"

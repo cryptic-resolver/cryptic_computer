@@ -282,3 +282,7 @@ same = "ggplot2"
 [ggplot2]
 name = "ggplot2"
 desc = "Grammar of Graphics plotting in R"
+
+[gmt]
+name = "GMT"
+desc = "Greenwich Mean Time"
