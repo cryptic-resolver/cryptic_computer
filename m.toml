@@ -230,3 +230,7 @@ desc = "Model-based Design"
 name = "MCAD"
 desc = "Mechanical Computer-Aided Design"
 see = 'ECAD'
+
+[mmc]
+name = "MMC"
+desc = "MultiMedia Card"

@@ -219,3 +219,7 @@ see = 'DRC'
 name = "ECAD"
 desc = "Electronic Computer-Aided Design"
 see = 'MCAD'
+
+[emmc]
+name = "eMMC"
+desc = "Embedded MultiMedia Card"
