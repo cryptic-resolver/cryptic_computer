@@ -111,3 +111,8 @@ desc = "Firmware Support Package"
 [fet]
 name = "FET"
 desc = "Field-Effect Transistor"
+
+[foldoc]
+name = "FOLDOC"
+desc = "Free On-Line Dictionary Of Computing"
+more = "See: http://foldoc.org/"

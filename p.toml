@@ -215,10 +215,6 @@ more = "A lightweight markup language used to document the Perl programming lang
 name = "POP3"
 desc = "Post Office Protocol 3"
 
-[ps.POSIX]
-name = "ps"
-desc = "Process Status"
-
 [pypi]
 name = "PyPI"
 desc = "The Python Package Index"
