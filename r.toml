@@ -60,9 +60,13 @@ name = "rxvt"
 desc = "Rob's xvt(X Virtual Terminal) or our extended virtual terminal"
 more = "a popular replacement for the standard 'xterm'"
 
-[raii]
+[raii.Cpp]
 name = "RAII"
 desc = "Resource Acquisition Is Initialization"
+
+[rtti.Cpp]
+name = "RTTI"
+desc = "Run-Time Type Information"
 
 [rtl]
 name = "RTL"

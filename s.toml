@@ -427,10 +427,6 @@ desc = "Secure Shell"
 name = "SNMP"
 desc = "Simple Network Management Protocol"
 
-[svid]
-name = "SVID"
-desc = "System V Interface Definition"
-
 [sh]
 name = "sh"
 desc = "Bourne shell"

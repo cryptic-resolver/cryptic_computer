@@ -223,3 +223,8 @@ see = 'MCAD'
 [emmc]
 name = "eMMC"
 desc = "Embedded MultiMedia Card"
+
+[est.Timezone]
+name = "EST(America)"
+desc = "Eastern Standard Time(UTC-5)"
+see = 'CST'

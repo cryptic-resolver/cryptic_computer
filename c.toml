@@ -14,11 +14,15 @@ desc = "Common Unix Printing System"
 [cst.America]
 name = "CST(America)"
 desc = "Central Standard Time(UTC-6)"
-see = ['UTC']
+see = ['UTC', 'EST']
 
 [cst.China]
 name = "CST(China)"
 desc = "China Standard Time(UTC+8)"
+
+[cet.Timezone]
+name = "CET"
+desc = "Central European Time(UTC+1)"
 
 [crt.electronics]
 name = "CRT"
