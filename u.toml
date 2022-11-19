@@ -6,6 +6,10 @@ desc = "Universal Time Coordinated"
 name = "URI"
 desc = "Uniform Resource Identifier"
 
+[url]
+name = "URL"
+desc = "Uniform Resource Locator"
+
 [uiop]
 name = "UIOP"
 desc = "Utilities for Implementation- and OS- Portability"

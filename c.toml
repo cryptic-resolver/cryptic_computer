@@ -145,6 +145,8 @@ more = "This is the name of this program :)"
 [cr.ASCII]
 name = "<CR>"
 desc = "Carriage Return"
+more = "ASCII code 13"
+see = 'LF'
 
 [cc]
 name = "CC"
@@ -155,6 +157,10 @@ Rights:
     SA: Share Alike
     NC: Non Commercial
     ND: No Derivatives'''
+
+[cc.Email]
+name = "CC"
+desc = "Carbon Copy (in Email)"
 
 [coff]
 name = "COFF"

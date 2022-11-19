@@ -169,8 +169,10 @@ desc = "Least Significant Bit"
 see = ['MSB']
 
 [lf.ASCII]
-name = "LF"
+name = "<LF>"
 desc = "Line Feed"
+more = "ASCII code 10"
+see = 'CR'
 
 [lmde]
 name = "LMDE"
