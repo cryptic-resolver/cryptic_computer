@@ -56,6 +56,10 @@ desc = "Bad Gateway"
 #         Port
 #########################
 
+[22.port]
+name = "port 22"
+more = "SSH default port"
+
 [53.port]
 name = "port 53"
 more = "DNS used for domain name resolution"

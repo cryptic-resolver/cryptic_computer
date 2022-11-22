@@ -36,11 +36,6 @@ desc = "Advanced Micro Devices"
 name = "AOE"
 desc = "Activity On Edge network"
 
-[avx]
-name = "AVX"
-desc = "Advanced Vector Extensions"
-more = "Intel chips support"
-
 [ami]
 name = "AMI"
 desc = "Amazon Machine Images"

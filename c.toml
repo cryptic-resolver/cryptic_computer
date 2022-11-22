@@ -23,6 +23,12 @@ desc = "China Standard Time(UTC+8)"
 [cet.Timezone]
 name = "CET"
 desc = "Central European Time(UTC+1)"
+see = 'CEST'
+
+[cest.Timezone]
+name = "CEST"
+desc = "Central European Summer Time(UTC+1)"
+see = 'CET'
 
 [crt.electronics]
 name = "CRT"
