@@ -259,3 +259,7 @@ desc = "International Mobile Equipment Identity"
 [idl]
 name = "IDL"
 desc = "Interface Definition Language"
+
+[idm]
+name = "IDM"
+desc = "Identity Management"

@@ -554,3 +554,7 @@ desc = "Structured Exception Handling"
 [svn]
 name = "SVN"
 desc = "Apache Subversion"
+
+[sled]
+name = "SLED"
+desc = "Single Large Expensive Disk"

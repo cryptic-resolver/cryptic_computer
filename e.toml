@@ -228,3 +228,18 @@ desc = "Embedded MultiMedia Card"
 name = "EST(America)"
 desc = "Eastern Standard Time(UTC-5)"
 see = 'CST'
+
+[ega]
+name = "EGA"
+desc = "Enhanced Graphics Adapter"
+
+[efi]
+name = "EFI"
+same = 'ESP<=>esp'
+
+[esp]
+name = "ESP"
+desc = "Extensible Firmware Interface system partition"
+more = """ESP is a partition on a data storage device (usually a hard disk drive or solid-state drive) that is used by computers having the Unified Extensible Firmware Interface (UEFI). When a computer is booted, UEFI firmware loads files stored on the ESP to start installed operating systems and various utilities.
+
+  An ESP contains the boot loaders or kernel images for all installed operating systems (which are contained in other partitions), device driver files for hardware devices present in a computer and used by the firmware at boot time, system utility programs that are intended to be run before an operating system is booted, and data files such as error logs."""

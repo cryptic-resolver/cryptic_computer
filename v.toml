@@ -95,6 +95,14 @@ desc = "Virtual Memory Area"
 [vcrt]
 same = "MSVCRT<=>msvcrt"
 
+[vdi]
+name = ".vdi"
+desc = "VirtualBox Disk Image"
+
+[vhd]
+name = ".vhd"
+desc = "Virtual Hard Disk"
+
 [vmdk]
 name = "VMDK"
 desc = "Virtual Machine Disk"

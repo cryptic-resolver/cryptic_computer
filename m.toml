@@ -224,3 +224,7 @@ see = 'ECAD'
 [mmc]
 name = "MMC"
 desc = "MultiMedia Card"
+
+[mbr]
+name = "MBR"
+desc = "Master Boot Record"
