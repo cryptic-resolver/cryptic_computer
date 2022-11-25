@@ -292,3 +292,7 @@ more = "A computer bus used on IBM-compatible personal computers to connect low-
 [lede]
 name = "LEDE"
 desc = "Linux Embedded Development Environment"
+
+[ligma]
+name = "LIGMA"
+desc = "Libre Image and Graphics Manipulation Application"

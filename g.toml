@@ -71,6 +71,8 @@ more = "C++ library for symbolic computing"
 [gimp]
 name = "GIMP"
 desc = "GNU Image Manipulation Program"
+more = "In 2023, it'll be renamed to 'LIGMA' "
+see = 'LIGMA'
 
 [gegl]
 name = "GEGL"

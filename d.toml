@@ -163,11 +163,6 @@ desc = "Domain Specific Language"
 name = "DOM"
 desc = "Document Object Model"
 
-[dos]
-name = "DOS"
-desc = "Disk Operating System"
-more = "later became a common shorthand for disk-based operating systems on IBM PC compatibles"
-
 [ddos]
 name = "DDoS"
 desc = "Distributed Denial-of-Service"
