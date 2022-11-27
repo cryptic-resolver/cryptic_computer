@@ -343,3 +343,14 @@ more = "A development partnership of automotive interested parties founded in 20
 [adb]
 name = "adb"
 desc = "Android Debug Bridge"
+
+[at]
+name = "IBM AT"
+desc = "IBM PC Advanced Technology"
+see = ['XT','PS/2']
+
+[apic]
+name = "APIC"
+desc = "Advanced Programmable Interrupt Controller"
+more = "The updated Intel standard for the older PIC"
+see = 'PIC'

@@ -90,3 +90,8 @@ desc = "X Display Manager Control Protocol"
 name = "XR"
 desc = "Extended Reality"
 see = ['AR', 'VR']
+
+[xt]
+name = "IBM XT"
+desc = "IBM PC eXtended Technology"
+see = ['AT', 'PS/2']

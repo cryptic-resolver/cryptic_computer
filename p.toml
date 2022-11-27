@@ -6,6 +6,7 @@ more = "Published in 1997. It's a raster-graphics file format that supports loss
 [pic.hardware]
 name = "PIC"
 desc = "Programmable Interrupt Controller"
+see = 'APIC'
 
 [pic.code]
 name = "PIC"
@@ -293,3 +294,18 @@ desc = "Personal Information Manager"
 [pld]
 name = "PLD"
 desc = "Programmable Logic Device"
+
+[pine]
+name = "Pine"
+desc = "Pine Is Not Elm"
+more = "An email client that replaced another email client Elm"
+
+[pico]
+name = "Pico editor" 
+desc = "Pine Composer"
+
+["ps/2"]
+name = "IBM PS/2"
+desc = "IBM Personal System/2"
+more = "IBM's second generation of personal computers"
+see = ['XT', 'AT']
