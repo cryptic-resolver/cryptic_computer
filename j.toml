@@ -5,7 +5,7 @@ more = "Introduced in 1992. A commonly used method of lossy compression for digi
 
 [jpg]
 name = "JPG"
-same = "JPEG<=>jpeg"
+same = "JPEG=>jpeg"
 
 [jif]
 name = "JIF"

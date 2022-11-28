@@ -207,7 +207,7 @@ name = "SMBIOS"
 desc = "System Management BIOS"
 
 [sip]
-same = "IP core<=>ip.semiconductor"
+same = "IP core=>ip.semiconductor"
 
 [spi]
 name = "SPI"
@@ -279,7 +279,7 @@ see = ['SCSI']
 same = "sda"
 
 [smb]
-same = "SMBus<=>smbus"
+same = "SMBus=>smbus"
 
 [smbus]
 name = "SMBus"
@@ -373,7 +373,7 @@ see = ['SVR4','SVR3','SVR2','SVR1']
 
 [systemv]
 name = "System V"
-same = "SysV<=>sysv"
+same = "SysV=>sysv"
 
 [strace]
 name = "strace"

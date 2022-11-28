@@ -53,7 +53,7 @@ name = "BNF"
 desc = "Backus–Naur Form"
 
 [bcd.IBM]
-same = "BCDIC<=>bcdic"
+same = "BCDIC=>bcdic"
 
 [bcdic]
 name = "BCDIC"

@@ -57,7 +57,7 @@ desc = "Desktop Bus"
 
 [d-bus]
 name = "D-BUS"
-same = 'DBUS<=>dbus'
+same = 'DBUS=>dbus'
 
 [drm.Render]
 name = "DRM"

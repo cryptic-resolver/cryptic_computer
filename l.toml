@@ -110,7 +110,7 @@ name = "LTS"
 desc = "Long-term Support"
 
 [lex]
-same = "Flex<=>flex"
+same = "Flex=>flex"
 
 [lexer]
 name = "Lexer or scanner"

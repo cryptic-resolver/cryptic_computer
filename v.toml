@@ -93,7 +93,7 @@ name = "VMA"
 desc = "Virtual Memory Area"
 
 [vcrt]
-same = "MSVCRT<=>msvcrt"
+same = "MSVCRT=>msvcrt"
 
 [vdi]
 name = ".vdi"

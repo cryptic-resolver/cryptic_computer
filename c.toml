@@ -128,7 +128,7 @@ desc = "Cyan, Magenta, Yellow, Dark Color Model"
 
 [cmy]
 name = "CMY"
-same = "CMYK<=>cmyk"
+same = "CMYK=>cmyk"
 
 [cms]
 name = "CMS"

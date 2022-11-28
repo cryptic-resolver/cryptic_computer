@@ -192,7 +192,7 @@ desc = "Relational Database Management System"
 
 [rails]
 name = "Rails"
-same = "RoR<=>ror"
+same = "RoR=>ror"
 
 [rvm]
 name = "RVM"

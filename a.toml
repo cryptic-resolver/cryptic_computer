@@ -210,7 +210,7 @@ name = "AT&T"
 desc = "American Telephone and Telegraph Company"
 
 [att]
-same = "AT&T<=>at&t"
+same = "AT&T=>at&t"
 
 [ampl]
 name = "AMPL"

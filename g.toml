@@ -190,7 +190,7 @@ desc = "General (de)compression of files"
 
 [gnupg]
 name = "GnuPG"
-same = "GPG<=>gpg"
+same = "GPG=>gpg"
 
 [gpg]
 name = "GPG"
@@ -223,7 +223,7 @@ desc = "Google Cloud Platform"
 
 [gles]
 name = "GLES"
-same = "OpenGL ES<=>opengles"
+same = "OpenGL ES=>opengles"
 
 [gof]
 name = "GoF"

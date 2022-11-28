@@ -109,7 +109,7 @@ desc = "Emacs Lisp"
 see = ['Emacs', 'SBCL', 'CCL']
 
 [el]
-same = ".el file<=>elisp"
+same = ".el file=>elisp"
 
 [elc]
 name = ".elc"
@@ -235,7 +235,7 @@ desc = "Enhanced Graphics Adapter"
 
 [efi]
 name = "EFI"
-same = 'ESP<=>esp'
+same = 'ESP=>esp'
 
 [esp]
 name = "ESP"
