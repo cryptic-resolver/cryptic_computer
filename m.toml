@@ -69,11 +69,6 @@ desc = "Multiple Precision C library"
 more = "based on GNU MPFR, for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result"
 see = ['MPFR']
 
-[msp430]
-name = "MSP430"
-desc = "TI mixed-signal microcontroller family"
-more = "First introduced on 14 February 1992. Built around a 16-bit CPU"
-
 [mt]
 name = "MT"
 desc = "Multithreading"

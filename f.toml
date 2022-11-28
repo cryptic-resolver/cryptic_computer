@@ -1,7 +1,3 @@
-[fwupd]
-name = "fwupd"
-desc = "Firmware Update daemon on Linux-based system"
-
 [frum]
 name = "frum"
 desc = "Fast RUby Manager"
