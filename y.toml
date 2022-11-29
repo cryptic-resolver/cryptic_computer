@@ -39,3 +39,12 @@ see = ['yay']
 name = "YaST"
 desc = "Yet another Setup Tool"
 more = "A Linux setup and configuration tool. YaST is featured in the openSUSE Linux distribution, as well as in SUSE's derived commercial distributions."
+
+[yml]
+name = "YML"
+same = "YAML=>yaml"
+
+[yaml]
+name = "YAML"
+desc = "YAML Ain't Markup Language"
+more = "Originally it means 'Yet Another Markup Language', but it was then repurposed as YAML Ain't Markup Language, a recursive acronym, to distinguish its purpose as data-oriented, rather than document markup."
