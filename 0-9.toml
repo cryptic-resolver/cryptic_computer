@@ -103,6 +103,10 @@ more = "It defines alpha codes and numeric codes for the representation of curre
 name = "ISO/IEC 8859"
 more = "A joint ISO and IEC series of standards for 8-bit character encodings"
 
+[9001.ISO]
+name = "ISO 9001"
+more = "The internationally recognized standard for Quality Management Systems"
+
 [10646.ISO]
 name = "ISO/IEC 10646"
 more = "A standard set of characters —— The Universal Coded Character Set (UCS, Unicode)"

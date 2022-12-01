@@ -124,3 +124,17 @@ more = "A memory cache that stores the recent translations of virtual memory to 
 name = "TDX"
 desc = "Trust Domain Extensions"
 more = "It is introducing new, architectural elements to help deploy hardware-isolated, virtual machines (VMs) called trust domains (TDs). Intel TDX is designed to isolate VMs from the virtual-machine manager (VMM)/hypervisor and any other non-TD software on the platform to protect TDs from a broad range of software."
+
+[tf]
+name = "TF card"
+desc = "TransFlash Card"
+
+[ttfb]
+name = "TTFB"
+desc = "Time To First Byte"
+more = "A metric that measures the time between the request for a resource and when the first byte of a response begins to arrive."
+
+[tti]
+name = "TTI"
+desc = "Time To Interactive"
+more = "A metric that measures the time from when the page starts loading to when its main sub-resources have loaded and it is capable of reliably responding to user input quickly"

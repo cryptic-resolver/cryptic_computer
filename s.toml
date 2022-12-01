@@ -558,3 +558,11 @@ desc = "Apache Subversion"
 [sled]
 name = "SLED"
 desc = "Single Large Expensive Disk"
+
+[spa]
+name = "SPA"
+desc = "Single Page Application"
+
+[ssr]
+name = "SSR"
+desc = "Server-Side Rendering"

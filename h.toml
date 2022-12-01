@@ -183,3 +183,8 @@ HAXM runs as a kernel-mode driver on the host operating system, and provides a K
 name = "GNU Hurd"
 desc = "Hird of Unix-Replacing Daemons"
 more = "As both hurd and hird are homophones of the English word herd, the full name GNU Hurd is also a play on the words herd of gnus, reflecting how the kernel works."
+
+[htaccess]
+name = ".htaccess"
+desc = "hypertext access"
+more = "A directory-level configuration file supported by several web servers, used for configuration of website-access issues, such as URL redirection, URL shortening, access control (for different web pages and files)"

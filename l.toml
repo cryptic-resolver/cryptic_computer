@@ -224,6 +224,11 @@ desc = "C lex library"
 more = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
 see = ['Lex', 'liby']
 
+[librsvg]
+name = "GNOME librsvg"
+desc = "C library for rendering SVG"
+more = "A small library to render Scalable Vector Graphics (SVG), associated with the GNOME Project. It renders SVG files to Cairo surfaces. Cairo is the 2D, antialiased drawing library that GNOME uses to draw things to the screen or to generate output for printing."
+
 [liby]
 name = "liby"
 desc = "C yacc library"

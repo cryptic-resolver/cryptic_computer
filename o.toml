@@ -173,3 +173,11 @@ desc = "Open Platform Communications"
 [openwrt]
 name = "OpenWrt"
 desc = "Open Wireless Router"
+
+[ocf]
+name = "OCF"
+desc = "Open Collective Foundation"
+
+[osff]
+name = "OSFF"
+desc = "Open-Source Firmware Foundation"

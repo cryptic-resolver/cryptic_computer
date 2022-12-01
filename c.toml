@@ -404,3 +404,15 @@ see = 'cout'
 name = "calloc"
 desc = "clear allocation"
 more = "calloc will return an allocation that has already been cleared"
+
+[cla]
+name = "CLA"
+desc = "Contribution License Agreement"
+
+[cef]
+name = "CEF"
+desc = "Chromium Embedded Framework"
+
+[cmmi]
+name = "CMMI"
+desc = "Capability Maturity Model Integration"
