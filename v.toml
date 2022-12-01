@@ -92,9 +92,6 @@ desc = "GTK widget: Virtual Terminal Emulator"
 name = "VMA"
 desc = "Virtual Memory Area"
 
-[vcrt]
-same = "MSVCRT=>msvcrt"
-
 [vdi]
 name = ".vdi"
 desc = "VirtualBox Disk Image"
