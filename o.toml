@@ -181,3 +181,7 @@ desc = "Open Collective Foundation"
 [osff]
 name = "OSFF"
 desc = "Open-Source Firmware Foundation"
+
+[ol.HTMLtag]
+name = "HTML <ol>"
+desc = "Ordered list"

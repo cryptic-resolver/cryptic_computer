@@ -81,11 +81,3 @@ desc = "Universal Subscriber Identity Module"
 [ul.HTMLtag]
 name = "HTML <ul>"
 desc = "Unordered (bulleted) List"
-
-[ol.HTMLtag]
-name = "HTML <ol>"
-desc = "Ordered list"
-
-[li.HTMLtag]
-name = "HTML <li>"
-desc = "List Item"

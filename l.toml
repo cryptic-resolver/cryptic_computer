@@ -301,3 +301,7 @@ desc = "Linux Embedded Development Environment"
 [ligma]
 name = "LIGMA"
 desc = "Libre Image and Graphics Manipulation Application"
+
+[li.HTMLtag]
+name = "HTML <li>"
+desc = "List Item"
