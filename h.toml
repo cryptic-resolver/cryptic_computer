@@ -188,3 +188,8 @@ more = "As both hurd and hird are homophones of the English word herd, the full 
 name = ".htaccess"
 desc = "hypertext access"
 more = "A directory-level configuration file supported by several web servers, used for configuration of website-access issues, such as URL redirection, URL shortening, access control (for different web pages and files)"
+
+[hd]
+name = "HD"
+desc = "High Definition"
+more = "1280 x 720 pixels"

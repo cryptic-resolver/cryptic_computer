@@ -132,6 +132,7 @@ see = ['ELF', 'PDB']
 [dpi]
 name = "DPI"
 desc = "Dots per inch"
+see = 'PPI'
 
 [dfa]
 name = "DFA"

@@ -210,6 +210,12 @@ name = "EDVAC"
 desc = "Electronic Discrete Variable Automatic Computer"
 more = "ENIAC inventors, John Mauchly and J. Presper Eckert, proposed the EDVAC's construction in August 1944. A contract to build the new computer was signed in April 1946 with an initial budget of US$100,000. EDVAC was delivered to the Ballistic Research Laboratory in 1949."
 
+[edsac]
+name = "EDSAC"
+desc = "Electronic Delay Storage Automatic Calculator"
+more = "An early British computer, inspired by John von Neumann's seminal First Draft of a Report on the EDVAC. Released in May 1949"
+see = 'EDVAC'
+
 [erc]
 name = "ERC"
 desc = "Electrical Rule Check"
@@ -243,3 +249,8 @@ desc = "Extensible Firmware Interface system partition"
 more = """ESP is a partition on a data storage device (usually a hard disk drive or solid-state drive) that is used by computers having the Unified Extensible Firmware Interface (UEFI). When a computer is booted, UEFI firmware loads files stored on the ESP to start installed operating systems and various utilities.
 
   An ESP contains the boot loaders or kernel images for all installed operating systems (which are contained in other partitions), device driver files for hardware devices present in a computer and used by the firmware at boot time, system utility programs that are intended to be run before an operating system is booted, and data files such as error logs."""
+
+[em]
+name = "em in CSS"
+desc = "'M'"
+more = "In modern usage it simply refers to the size of the font"

@@ -309,3 +309,8 @@ name = "IBM PS/2"
 desc = "IBM Personal System/2"
 more = "IBM's second generation of personal computers"
 see = ['XT', 'AT']
+
+[ppi]
+name = "PPI"
+desc = "Pixels Per Inch"
+see = 'DPI'

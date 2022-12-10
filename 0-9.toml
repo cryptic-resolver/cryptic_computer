@@ -23,6 +23,12 @@ see = ['404']
 name = "HTTP response status code: 303"
 desc = "See Other"
 
+[304.HTTPcode]
+name = "HTTP response status code: 304"
+desc = "Not Modified"
+more = "The code indicates that there is no need to retransmit the requested resources. It is an implicit redirection to a cached resource. This happens when the request method is a safe method, such as GET or HEAD, or when the request is conditional and uses an If-None-Match or an If-Modified-Since header."
+
+
 [307.HTTPcode]
 name = "HTTP response status code: 307"
 desc = "Temporary Redirect"

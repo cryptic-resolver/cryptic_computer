@@ -354,3 +354,7 @@ name = "APIC"
 desc = "Advanced Programmable Interrupt Controller"
 more = "The updated Intel standard for the older PIC"
 see = 'PIC'
+
+[aigc]
+name = "AIGC"
+desc = "AI-Generated Content"

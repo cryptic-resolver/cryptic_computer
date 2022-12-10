@@ -95,9 +95,15 @@ name = "Racc"
 desc = "Ruby yACC"
 see = ['Yacc']
 
-[rcs]
+[rcs.Version]
 name = "RCS"
 desc = "Revision Control System"
+
+[rcs]
+name = "RCS"
+desc = "Rich Communication Suite"
+more = "To replace SMS"
+see = 'SMS'
 
 [risc]
 name = "RISC"

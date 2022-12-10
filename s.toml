@@ -566,3 +566,8 @@ desc = "Single Page Application"
 [ssr]
 name = "SSR"
 desc = "Server-Side Rendering"
+
+[sms]
+name = "SMS"
+desc = "Short Message Service"
+see = 'RCS'
