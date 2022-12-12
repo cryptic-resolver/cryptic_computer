@@ -165,3 +165,7 @@ desc = "Base Station Controller"
 [bim]
 name = "BIM"
 desc = "Building Information Modeling"
+
+[bst]
+name = "BST"
+desc = "Binary Search Tree"

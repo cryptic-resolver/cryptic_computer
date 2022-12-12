@@ -213,10 +213,9 @@ name = "libstdc++"
 desc = "Implementations of the C++ standard library by GNU"
 see = ['libc++']
 
-[libm]
-name = "libm"
-desc = "C math library"
-more = "usage: c99 [ flag... ] file... –lm [ library... ] "
+[libdl]
+name = "libdl"
+desc = "dynamic linking library"
 
 [libl]
 name = "libl"
@@ -224,16 +223,20 @@ desc = "C lex library"
 more = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
 see = ['Lex', 'liby']
 
+[libm]
+name = "libm"
+desc = "C math library"
+more = "usage: c99 [ flag... ] file... –lm [ library... ] "
+
+[libnsl]
+name = "libnsl"
+desc = "network services library"
+
 [librsvg]
 name = "GNOME librsvg"
 desc = "C library for rendering SVG"
 more = "A small library to render Scalable Vector Graphics (SVG), associated with the GNOME Project. It renders SVG files to Cairo surfaces. Cairo is the 2D, antialiased drawing library that GNOME uses to draw things to the screen or to generate output for printing."
 
-[liby]
-name = "liby"
-desc = "C yacc library"
-more = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
-see = ['Yacc', 'libl']
 
 [libffi]
 name = "libffi"
@@ -247,11 +250,16 @@ name = "libgloss"
 desc = "A library for all the details that usually get glossed over"
 more = "This library refers to things like startup code, and usually I/O support for gcc and C library. The C library used through out this manual is newlib. It's a free board support package BSP commonly used with GCC and G++ to produce a fully linked executable image for an embedded systems."
 
-[libuv]
-name = "libuv"
-desc = "Ultra fast eVent library"
-more = "Cross-platform asynchronous I/O, which was originally written for Node.js, based on libev. In the node-v0.9.0 version of libuv, libev was removed"
-see = ['libev']
+[libglib]
+name = "libglib"
+more = "Low-level core library that forms the basis for projects such as GTK+ and GNOME."
+
+
+[librt]
+name = "librt"
+desc = "POSIX.1b Realtime Extensions library"
+
+
 
 [libev]
 name = "libev"
@@ -259,17 +267,55 @@ desc = "EVent loop library (Only on Unixes)"
 more = "loosely modelled after libevent, but without its limitations and bugs"
 see = ['libuv']
 
-[libdl]
-name = "libdl"
-desc = "dynamic linking library"
+[libuv]
+name = "libuv"
+desc = "Ultra fast eVent library"
+more = "Cross-platform asynchronous I/O, which was originally written for Node.js, based on libev. In the node-v0.9.0 version of libuv, libev was removed"
+see = ['libev']
 
-[libnsl]
-name = "libnsl"
-desc = "network services library"
+[liby]
+name = "liby"
+desc = "C yacc library"
+more = "eg: $(CC) -o parser y.tab.o lex.yy.o -ly -ll -lm"
+see = ['Yacc', 'libl']
 
-[librt]
-name = "librt"
-desc = "POSIX.1b Realtime Extensions library"
+
+####################
+#       X Lib      #
+####################
+[libgl]
+name = "libGL"
+desc = "Implements the GLX interface as well as the main OpenGL API entrypoints"
+
+[libxext]
+name = "X.org libXext"
+desc = "Common X Extensions library"
+
+[libxi]
+name = "X.org libXi"
+desc = "Client library for XInput."
+
+[libfixes]
+name = "X.org libXfixes"
+desc = "X-Fixes extension"
+
+[libxft]
+name = "X.org libXft"
+desc = "Client side font rendering library"
+
+[libxrandr]
+name = "X.org libXrandr"
+desc = "X Resize and Rotate Extension Library"
+
+[libsm]
+name = "X.org libSM"
+desc = "X Session Management Library"
+
+
+################################################
+######           End C Lib                ######
+################################################
+
 
 [lstm]
 name = "LSTM"

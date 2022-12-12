@@ -288,3 +288,8 @@ desc = "Grammar of Graphics plotting in R"
 [gmt]
 name = "GMT"
 desc = "Greenwich Mean Time"
+
+[ga]
+name = "GA"
+desc = "General Availability"
+more = "In the software release life cycle, GA refers to the marketing phase when all commercialization activities pertaining to the software product have been completed and it is available for purchase."

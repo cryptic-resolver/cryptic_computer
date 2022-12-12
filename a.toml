@@ -358,3 +358,16 @@ see = 'PIC'
 [aigc]
 name = "AIGC"
 desc = "AI-Generated Content"
+
+[avl]
+name = "AVL tree"
+desc = "Adelson-Velsky and Landis"
+more = "An AVL tree is a self-balancing binary search tree. It was the first such data structure to be invented."
+
+[astyle]
+name = "astyle"
+desc = "Artistic Style"
+more = """A source code indenter, formatter and beautifier, written in C++. It handles the following programming languages: C, C++, C++/CLI, Objective-C, C#, Java. 
+  
+  Visit: https://astyle.sourceforge.net
+"""
