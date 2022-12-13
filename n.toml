@@ -114,3 +114,8 @@ desc = "new dbm"
 [npu]
 name = "NPU"
 desc = "Neural Processing Unit"
+
+[nuc]
+name = "NUC"
+desc = "Next Unit of Computing"
+more = "A line of small-form-factor barebone computer kits designed by Intel. It was launched in early 2013"

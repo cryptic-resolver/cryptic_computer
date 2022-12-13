@@ -257,3 +257,7 @@ desc = "Release Candidate"
 name = ".rar"
 desc = "Roshal Archive"
 more = "A proprietary archive file format that supports data compression, error correction and file spanning. It was developed in 1993 by Russian software engineer Eugene Roshal"
+
+[rufus]
+name = "Rufus"
+desc = "The Reliable USB Formatting Utility"

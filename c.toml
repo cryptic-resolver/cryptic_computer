@@ -416,3 +416,7 @@ desc = "Chromium Embedded Framework"
 [cmmi]
 name = "CMMI"
 desc = "Capability Maturity Model Integration"
+
+[cbor]
+name = "CBOR"
+desc = "RFC 8949 Concise Binary Object Representation"

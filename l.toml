@@ -259,7 +259,9 @@ more = "Low-level core library that forms the basis for projects such as GTK+ an
 name = "librt"
 desc = "POSIX.1b Realtime Extensions library"
 
-
+[libsdl]
+name = "libsdl"
+same = 'SDL=>sdl'
 
 [libev]
 name = "libev"
