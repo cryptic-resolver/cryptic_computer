@@ -185,3 +185,17 @@ desc = "Open-Source Firmware Foundation"
 [ol.HTMLtag]
 name = "HTML <ol>"
 desc = "Ordered list"
+
+[ogg]
+name = ".ogg"
+desc = "ogging, jargon from the computer game Netrek"
+more = "A free, open container format maintained by the Xiph.Org Foundation, designed to provide for efficient streaming and manipulation of high-quality digital multimedia"
+
+[odt]
+name = ".odt"
+desc = "Open Document"
+more = "Open Document Format for Office Applications"
+
+[ofl]
+name = "OFL"
+desc = "Open Font License"

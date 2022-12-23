@@ -261,3 +261,9 @@ more = "A proprietary archive file format that supports data compression, error 
 [rufus]
 name = "Rufus"
 desc = "The Reliable USB Formatting Utility"
+
+[rst]
+name = ".rst"
+desc = "reStructured Text"
+more = "A file format for textual data used primarily in the Python programming language community for technical documentation"
+see = 'POD'

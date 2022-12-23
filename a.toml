@@ -90,6 +90,10 @@ desc = "Active-Matrix Organic Light-Emitting Diode"
 name = "ARM"
 desc = "Advanced RISC Machines and originally Acorn RISC Machine"
 
+[arm.'C++']
+name = "ARM"
+desc = "The Annotated C++ Reference Manual"
+
 [acme]
 name = "ACME"
 desc = "Automated Certificate Management Environment"
@@ -367,7 +371,7 @@ more = "An AVL tree is a self-balancing binary search tree. It was the first suc
 [astyle]
 name = "astyle"
 desc = "Artistic Style"
-more = """A source code indenter, formatter and beautifier, written in C++. It handles the following programming languages: C, C++, C++/CLI, Objective-C, C#, Java. 
-  
+more = """A source code indenter, formatter and beautifier, written in C++. It handles the following programming languages: C, C++, C++/CLI, Objective-C, C#, Java.
+
   Visit: https://astyle.sourceforge.net
 """
