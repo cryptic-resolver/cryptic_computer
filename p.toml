@@ -121,7 +121,7 @@ desc = "Peripheral Component Interconnect"
 
 [pcie]
 name = "PCIe"
-desc = "PCI Express" 
+desc = "PCI Express"
 
 [post]
 name = "POST"
@@ -301,7 +301,7 @@ desc = "Pine Is Not Elm"
 more = "An email client that replaced another email client Elm"
 
 [pico]
-name = "Pico editor" 
+name = "Pico editor"
 desc = "Pine Composer"
 
 ["ps/2"]
@@ -314,3 +314,13 @@ see = ['XT', 'AT']
 name = "PPI"
 desc = "Pixels Per Inch"
 see = 'DPI'
+
+[poc]
+name = "PoC"
+desc = "Proof of Concept"
+see = 'PoV'
+
+[pov]
+name = "PoV"
+desc = "Proof of Value"
+see = 'PoC'

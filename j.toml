@@ -125,3 +125,8 @@ desc = "Ubuntu 22.04 LTS"
 name = "JTAG"
 desc = "Joint Test Action Group"
 more = "It's named after the group which codified it. It's an industry standard for verifying designs and testing printed circuit boards after manufacture."
+
+[jdbc]
+name = "JDBC"
+desc = "Java Database Connectivity"
+more = "Java API which defines how a client may access a database"
