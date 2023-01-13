@@ -293,3 +293,7 @@ desc = "Greenwich Mean Time"
 name = "GA"
 desc = "General Availability"
 more = "In the software release life cycle, GA refers to the marketing phase when all commercialization activities pertaining to the software product have been completed and it is available for purchase."
+
+[gil]
+name = "GIL"
+desc = "Global Interpreter Lock"
