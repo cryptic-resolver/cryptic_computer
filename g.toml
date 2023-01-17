@@ -297,3 +297,8 @@ more = "In the software release life cycle, GA refers to the marketing phase whe
 [gil]
 name = "GIL"
 desc = "Global Interpreter Lock"
+
+[gssapi]
+name = "GSSAPI"
+desc = "Generic Security Services API"
+more = "An IETF standard that addresses the problem of many similar but incompatible security services in use today"
