@@ -169,3 +169,7 @@ desc = "Building Information Modeling"
 [bst]
 name = "BST"
 desc = "Binary Search Tree"
+
+[bi]
+name = "BI"
+desc = "Business Intelligence"

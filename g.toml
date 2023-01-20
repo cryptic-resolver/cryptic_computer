@@ -297,6 +297,14 @@ more = "In the software release life cycle, GA refers to the marketing phase whe
 [gil]
 name = "GIL"
 desc = "Global Interpreter Lock"
+more = "Python's GIL"
+see = 'GVL'
+
+[gvl]
+name = "GVL"
+desc = "Global VM Lock"
+more = "MRI Ruby's GVL"
+see = 'GIL'
 
 [gssapi]
 name = "GSSAPI"
