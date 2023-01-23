@@ -324,3 +324,7 @@ see = 'PoV'
 name = "PoV"
 desc = "Proof of Value"
 see = 'PoC'
+
+[py]
+name = ".py"
+desc = "Python files"

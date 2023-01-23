@@ -193,3 +193,8 @@ more = "A directory-level configuration file supported by several web servers, u
 name = "HD"
 desc = "High Definition"
 more = "1280 x 720 pixels"
+
+[hr.HTML]
+name = "<hr> in HTML"
+desc = "horizontal rule"
+see = 'br'

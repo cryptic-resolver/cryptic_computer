@@ -271,3 +271,7 @@ see = 'POD'
 [redos]
 name = "ReDOS"
 desc = "Regexp Denial-Of-Service attacks"
+
+[rb]
+name = ".rb"
+desc = "Ruby files"

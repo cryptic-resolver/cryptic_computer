@@ -49,9 +49,14 @@ name = "Wget"
 desc = "network get"
 more = "Non-interactive network downloader"
 
+[w3]
+name = "W3"
+same = "WWW=>www"
+
 [www]
 name = "WWW"
 desc = "World Wide Web"
+see = 'W3C'
 
 [w3m]
 name = "w3m"

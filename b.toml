@@ -173,3 +173,8 @@ desc = "Binary Search Tree"
 [bi]
 name = "BI"
 desc = "Business Intelligence"
+
+[br.HTML]
+name = "<br> in HTML"
+desc = "line break"
+see = 'hr'
