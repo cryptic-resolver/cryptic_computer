@@ -11,10 +11,6 @@ name = "SDDM"
 desc = "Simple Desktop Display Manager"
 more = "A QML based X11 and Wayland display manager. It is the recommended display manager for the KDE Plasma and LXQt desktop environments."
 
-[suv]
-name = "SUV"
-desc = "Sport Utility Vehicle"
-
 [sbt]
 name = "sbt"
 desc = "Scala Build Tool"

@@ -43,7 +43,7 @@ name = "ldd"
 desc = "List Dynamic Dependencies"
 more = """A shell script that executes the program given as argument, and shouldn't be used with untrusted binaries. The ldd manual page suggests to use the following command using the objdump and grep utilities as alternative:
 
-  
+
   $ objdump -p /path/program | grep NEEDED
 """
 
@@ -353,3 +353,8 @@ desc = "Libre Image and Graphics Manipulation Application"
 [li.HTMLtag]
 name = "HTML <li>"
 desc = "List Item"
+
+[lcc]
+name = "LCC"
+desc = "Little C Compiler"
+more = "A small, retargetable compiler for the ANSI C programming language"

@@ -320,10 +320,6 @@ desc = "Acceptance Test–Driven Development"
 name = "AST"
 desc = "Application Security Testing"
 
-[adas]
-name = "ADAS"
-desc = "Advanced Driver Assistance Systems"
-
 [ac]
 name = "AC"
 desc = "Alternating Current"
