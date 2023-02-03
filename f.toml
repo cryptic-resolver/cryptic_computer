@@ -112,3 +112,7 @@ desc = "Field-Effect Transistor"
 name = "FOLDOC"
 desc = "Free On-Line Dictionary Of Computing"
 more = "See: http://foldoc.org/"
+
+[fish]
+name = "fish shell"
+desc = "the Friendly Interactive Shell"

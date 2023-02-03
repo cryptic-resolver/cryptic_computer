@@ -137,7 +137,7 @@ desc = "Content Management System"
 [ct]
 name = "CT"
 desc = "Communications Technology"
-see = ['IT'] 
+see = ['IT']
 
 [cncf]
 name = "CNCF"
@@ -420,3 +420,7 @@ desc = "Capability Maturity Model Integration"
 [cbor]
 name = "CBOR"
 desc = "RFC 8949 Concise Binary Object Representation"
+
+[cen]
+name = "CEN"
+desc = "Comité Européen de Normalisation"
