@@ -1,7 +1,7 @@
 [gdm]
 name = "GDM"
 desc = "GNOME Display Manager"
-more = "The GNOME Display Manager (GDM) is a program that manages graphical display servers and handles graphical user logins. "
+more = "The GNOME Display Manager (GDM) is a program that manages graphical display servers and handles graphical user logins."
 
 [gif]
 name = "GIF"

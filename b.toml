@@ -58,7 +58,7 @@ same = "BCDIC=>bcdic"
 [bcdic]
 name = "BCDIC"
 desc = "Binary-Coded Decimal Interchange Code"
-more = "6-bit alphanumeric codes that represented numbers, upper-case letters and special characters. "
+more = "6-bit alphanumeric codes that represented numbers, upper-case letters and special characters."
 see = ['EBCDIC']
 
 [bbs]
