@@ -116,3 +116,9 @@ more = "See: http://foldoc.org/"
 [fish]
 name = "fish shell"
 desc = "the Friendly Interactive Shell"
+
+[fq]
+name = "fq"
+desc = "file/format query"
+more = "Visit: https://github.com/wader/fq"
+see = 'jq'

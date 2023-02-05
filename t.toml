@@ -138,3 +138,8 @@ more = "A metric that measures the time between the request for a resource and w
 name = "TTI"
 desc = "Time To Interactive"
 more = "A metric that measures the time from when the page starts loading to when its main sub-resources have loaded and it is capable of reliably responding to user input quickly"
+
+[tt.HTML]
+name = "<tt> in HTML"
+desc = "teletype text"
+more = "The <tt> tag was used in HTML 4, but not supported in HTML5. Consider the <kbd> element (for keyboard input), the <var> element (for variables), the <code> element (for computer code), the <samp> element (for computer output), or use CSS instead."

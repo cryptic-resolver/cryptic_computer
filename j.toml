@@ -130,3 +130,8 @@ more = "It's named after the group which codified it. It's an industry standard 
 name = "JDBC"
 desc = "Java Database Connectivity"
 more = "Java API which defines how a client may access a database"
+
+[jq]
+name = "jq"
+desc = "JSON query"
+more = "Command-line JSON processor. Visit: https://github.com/stedolan/jq"
