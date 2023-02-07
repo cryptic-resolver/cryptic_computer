@@ -88,6 +88,7 @@ more = "C and C++ components that can be used to build robust language runtimes,
 name = "OSDN"
 desc = "Open Source Development Network"
 more = "formerly SourceForge.JP"
+see = ['MSDN', 'CSDN']
 
 [otp.password]
 name = "OTP"

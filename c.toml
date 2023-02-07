@@ -424,3 +424,9 @@ desc = "RFC 8949 Concise Binary Object Representation"
 [cen]
 name = "CEN"
 desc = "Comité Européen de Normalisation"
+
+[csdn]
+name = "CSDN"
+desc = "Chinese Software Developer Network"
+more = "Visit: https://www.csdn.net/"
+see = ['MSDN', 'OSDN']
