@@ -310,3 +310,8 @@ see = 'GIL'
 name = "GSSAPI"
 desc = "Generic Security Services API"
 more = "An IETF standard that addresses the problem of many similar but incompatible security services in use today"
+
+[gdc]
+name = "GDC"
+desc = "GCC frontend for the D programming language"
+see = ['DMD', 'LDC']

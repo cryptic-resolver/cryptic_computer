@@ -430,3 +430,7 @@ name = "CSDN"
 desc = "Chinese Software Developer Network"
 more = "Visit: https://www.csdn.net/"
 see = ['MSDN', 'OSDN']
+
+[c10k]
+name = "C10K"
+desc = "Concurrently handling ten thousand Connections"

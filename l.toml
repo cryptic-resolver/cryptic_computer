@@ -59,6 +59,7 @@ desc = "Low Level Virtual Machine"
 [ldc]
 name = "LDC"
 desc = "LLVM-based D Compiler"
+see = ["DMD", 'GDC']
 
 [lto]
 name = "LTO"

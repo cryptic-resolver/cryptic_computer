@@ -275,3 +275,9 @@ desc = "Regexp Denial-Of-Service attacks"
 [rb]
 name = ".rb"
 desc = "Ruby files"
+
+[rdmd]
+name = "rdmd"
+desc = "run dmd"
+see = 'dmd'
+

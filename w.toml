@@ -112,3 +112,7 @@ desc = "WebAssembly text format"
 name = "Wine"
 desc = "Wine Is Not an Emulator, now just 'Wine'"
 more = "A free and open-source compatibility layer that aims to allow application software and computer games developed for Microsoft Windows to run on Unix-like operating systems."
+
+[wsgi]
+name = "WSGI"
+desc = "Web Server Gateway Interface"
