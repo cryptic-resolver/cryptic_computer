@@ -328,3 +328,7 @@ see = 'PoC'
 [py]
 name = ".py"
 desc = "Python files"
+
+[pr]
+name = "PR"
+desc = "Pull Request"

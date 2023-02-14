@@ -149,6 +149,10 @@ name = "BSL"
 desc = "Business Source License"
 more = "MariaDB created it"
 
+[bsl.Boost]
+name = "BSL"
+desc = "Boost Software License"
+
 [baas]
 name = "BaaS"
 desc = "Backend as a Service"

@@ -119,3 +119,7 @@ desc = "Neural Processing Unit"
 name = "NUC"
 desc = "Next Unit of Computing"
 more = "A line of small-form-factor barebone computer kits designed by Intel. It was launched in early 2013"
+
+[nan]
+name = "NaN"
+desc = "Not a Number"
