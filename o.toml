@@ -14,6 +14,11 @@ desc = "Original Equipment Manufacturer"
 name = "OTP"
 desc = "Open Telecom Platform"
 
+[openacc]
+name = "OpenACC"
+desc = "Open Accelerators"
+more = "A programming standard for parallel computing developed by Cray, CAPS, Nvidia and PGI. The standard is designed to simplify parallel programming of heterogeneous CPU/GPU systems."
+
 [opencl]
 name = "OpenCL"
 desc = "Open Computing Language"
@@ -27,6 +32,10 @@ more = "API for rendering 2D and 3D vector graphics. The API is corss-language, 
 [opengles]
 name = "OpenGL ES"
 desc = "OpenGL for Embedded Systems"
+
+[openmp]
+name = "OpenMP"
+desc = "Open Multi-Processing"
 
 [oopsla]
 name = "OOPSLA"
@@ -64,10 +73,6 @@ see = ['ORM']
 name = ".otf"
 desc = "OpenType Font"
 see = ['ttf']
-
-[openmp]
-name = "OpenMP"
-desc = "Open Multi-Processing"
 
 [osgi.Java]
 name = "OSGI"

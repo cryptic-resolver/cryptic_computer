@@ -371,3 +371,7 @@ more = """A source code indenter, formatter and beautifier, written in C++. It h
 
   Visit: https://astyle.sourceforge.net
 """
+
+[alpn]
+name = "ALPN"
+desc = "Application-Layer Protocol Negotiation"

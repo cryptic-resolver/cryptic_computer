@@ -332,3 +332,14 @@ desc = "Python files"
 [pr]
 name = "PR"
 desc = "Pull Request"
+
+[pod.Data]
+name = "POD"
+desc = "Plain Old Data"
+more = "It's another term for 'PDS'"
+see = 'PDS'
+
+[pds]
+name = "PDS"
+desc = "Passive Data Structure"
+more = "A term for a 'record', to contrast with objects. It is a data structure that is represented only as passive collections of field values (instance variables), without using object-oriented features"
