@@ -81,3 +81,7 @@ desc = "Universal Subscriber Identity Module"
 [ul.HTMLtag]
 name = "HTML <ul>"
 desc = "Unordered (bulleted) List"
+
+[uaf]
+name = "UAF"
+desc = "Use-After-Free attack"

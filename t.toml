@@ -143,3 +143,7 @@ more = "A metric that measures the time from when the page starts loading to whe
 name = "<tt> in HTML"
 desc = "teletype text"
 more = "The <tt> tag was used in HTML 4, but not supported in HTML5. Consider the <kbd> element (for keyboard input), the <var> element (for variables), the <code> element (for computer code), the <samp> element (for computer output), or use CSS instead."
+
+[tmp]
+name = "TMP"
+desc = "Template Meta Programming"

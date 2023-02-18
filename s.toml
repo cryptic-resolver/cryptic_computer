@@ -567,3 +567,7 @@ desc = "Server-Side Rendering"
 name = "SMS"
 desc = "Short Message Service"
 see = 'RCS'
+
+[srp]
+name = "SRP"
+desc = "Single Responsibility Principle"
