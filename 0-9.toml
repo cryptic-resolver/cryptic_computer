@@ -84,13 +84,13 @@ desc = "HTTPS Port"
 
 [1394.IEEE]
 name = "IEEE 1394"
-more = """An interface standard for a serial bus for high-speed communications and isochronous real-time data transfer. It was developed in the late 1980s and early 1990s by Apple in cooperation with a number of companies, primarily Sony and Panasonic. 
+more = """An interface standard for a serial bus for high-speed communications and isochronous real-time data transfer. It was developed in the late 1980s and early 1990s by Apple in cooperation with a number of companies, primarily Sony and Panasonic.
 
   The 1394 interface is comparable to USB. USB was developed subsequently and gained much greater market share. USB requires a host controller whereas IEEE 1394 is cooperatively managed by the connected devices"""
 
 
 #########################
-#         ISO
+#       ISO, IEC
 #########################
 
 [639.ISO]
@@ -108,6 +108,15 @@ more = "It defines alpha codes and numeric codes for the representation of curre
 [8859.ISO]
 name = "ISO/IEC 8859"
 more = "A joint ISO and IEC series of standards for 8-bit character encodings"
+see = '8859-1'
+
+[8859-1.ISO]
+name = "ISO/IEC 8859-1:1998"
+more = """8-bit single-byte coded graphic character sets — Part 1: Latin alphabet No. 1,
+
+  is part of the ISO/IEC 8859 series of ASCII-based standard character encodings, first edition published in 1987. ISO/IEC 8859-1 encodes what it refers to as "Latin alphabet no. 1", consisting of 191 characters from the Latin script.
+
+  This character-encoding scheme is used throughout the Americas, Western Europe, Oceania, and much of Africa. It is the basis for some popular 8-bit character sets and the first two blocks of characters in Unicode"""
 
 [9001.ISO]
 name = "ISO 9001"
