@@ -359,3 +359,7 @@ desc = "List Item"
 name = "LCC"
 desc = "Little C Compiler"
 more = "A small, retargetable compiler for the ANSI C programming language"
+
+[lgpl]
+name = "LGPL"
+desc = "GNU Lesser General Public License"

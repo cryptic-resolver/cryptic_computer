@@ -325,6 +325,11 @@ more = "A modular text completion framework for Emacs"
 name = "CA"
 desc = "Certificate Authority"
 
+[crl]
+name = "CRL"
+desc = "Certificate Revocation List"
+see = 'CA'
+
 [cgi]
 name = "CGI"
 desc = "Common Gateway Interface"
@@ -434,3 +439,8 @@ see = ['MSDN', 'OSDN']
 [c10k]
 name = "C10K"
 desc = "Concurrently handling ten thousand Connections"
+
+[codec]
+name = "codec"
+desc = "a portmanteau of coder/decoder"
+more = "A device or computer program that encodes or decodes a data stream or signal"
