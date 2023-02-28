@@ -299,3 +299,8 @@ more = "A framework for allowing direct access to graphics hardware under the X 
 [dip]
 name = "DIP"
 desc = "Dependency Inversion Principle"
+
+[deque]
+name = "deque"
+desc = "double-ended queue"
+more = "An abstract data type that generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail)"

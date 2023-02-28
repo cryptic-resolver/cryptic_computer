@@ -7,6 +7,11 @@ more = "It is an Internet standard that extends the format of email messages to 
 name = "MPEG"
 desc = "Moving Picture Experts Group"
 
+[mkv]
+name = "MKV"
+desc = "Matroska file for video (which may include subtitles or audio)"
+more = "A project and an open standard to create a container format that can hold an unlimited number of video, audio, picture, or subtitle tracks in one file"
+
 [mp4]
 name = "MP4"
 desc = "MPEG-4"
