@@ -160,3 +160,11 @@ see = ['MFA']
 [3c]
 name = "3C"
 desc = "computer, communication, consumer"
+
+[1252]
+name = "code page 1252"
+desc = "Windows-1252 or CP-1252"
+more = """A single-byte character encoding of the Latin alphabet (or superset of), that was used by default in e.g. (legacy components of) Microsoft Windows for English and many (European) languages including Spanish, Portuguese, French, and German (missing uppercase ẞ). This character-encoding scheme is used throughout the Americas, Western Europe, Oceania, and much of Africa. Windows (and most other operating systems) now uses Unicode character sets by default.
+
+  Windows-1252 is often assumed to be the encoding of text in operating systems, in particular on Microsoft Windows; this is only gradually being changed to UTF-8.
+"""

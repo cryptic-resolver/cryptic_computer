@@ -11,10 +11,12 @@ desc = "Queries Per Second"
 [qa]
 name = "QA"
 desc = "Quality Assurance"
+see = 'QC'
 
 [qc]
 name = "QC"
 desc = "Quality Control"
+see = 'QA'
 
 [quic]
 name = "QUIC"

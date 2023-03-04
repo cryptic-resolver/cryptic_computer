@@ -582,3 +582,7 @@ more = """This rule applies during overload resolution of function templates: Wh
 [sut]
 name = "SUT"
 desc = "System Under Test"
+
+[sqm]
+name = "SQM"
+desc = "Software Quality Management"

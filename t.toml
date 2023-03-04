@@ -25,7 +25,8 @@ desc = "Tom's Obvious, Minimal Language"
 
 [tds]
 name = "TDS"
-desc = "Tabular Data Stream"
+desc = "Tabular Data Stream protocol"
+see = "FreeTDS"
 
 [tps]
 name = "TPS"
