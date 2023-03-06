@@ -137,6 +137,13 @@ desc = "Multi-Level Intermediate Representation"
 [mvc]
 name = "MVC"
 desc = "Model-View-Controller"
+see = 'MVP'
+
+[mvp]
+name = "MVP"
+desc = "Model–View–Presenter"
+more = """A derivation of the model–view–controller (MVC) architectural pattern, and is used mostly for building user interfaces. In MVP, the presenter assumes the functionality of the "middle-man". In MVP, all presentation logic is pushed to the presenter."""
+see = 'MVC'
 
 [mvvm]
 name = "MVVM"

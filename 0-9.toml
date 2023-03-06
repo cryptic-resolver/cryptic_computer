@@ -66,17 +66,41 @@ desc = "Service Unavailable"
 #         Port
 #########################
 
+[20.port]
+name = "port 20"
+more = "For FTP data"
+
+[21.port]
+name = "port 21"
+more = "For FTP"
+
 [22.port]
 name = "port 22"
 more = "SSH default port"
+
+[23.port]
+name = "port 23"
+more = "For telnet"
+
+[25.port]
+name = "port 25"
+more = "For SMTP"
 
 [53.port]
 name = "port 53"
 more = "DNS used for domain name resolution"
 
+[80.port]
+name = "port 80"
+more = "For HTTP"
+
+[143.port]
+name = "port 143"
+more = "For IMAP"
+
 [443.port]
 name = "port 443"
-desc = "HTTPS Port"
+more = "HTTPS Port"
 
 #########################
 #         IEEE
