@@ -76,6 +76,11 @@ more = "map one domain name(an alias) to another(the canonical name)"
 name = "CLOS"
 desc = "Common Lisp Object System"
 
+[cliki]
+name = "CLiki"
+desc = "Common Lisp wiki"
+more = "Visit: https://www.cliki.net/"
+
 [clu]
 name = "CLU"
 desc = "CLUster"
@@ -444,3 +449,7 @@ desc = "Concurrently handling ten thousand Connections"
 name = "codec"
 desc = "a portmanteau of coder/decoder"
 more = "A device or computer program that encodes or decodes a data stream or signal"
+
+[cps]
+name = "CPS"
+desc = "Continuation Passing Style"

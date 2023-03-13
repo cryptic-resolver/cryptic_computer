@@ -375,3 +375,7 @@ more = """A source code indenter, formatter and beautifier, written in C++. It h
 [alpn]
 name = "ALPN"
 desc = "Application-Layer Protocol Negotiation"
+
+[ajax]
+name = "Ajax"
+desc = "Asynchronous JavaScript And XML"

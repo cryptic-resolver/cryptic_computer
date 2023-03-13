@@ -95,6 +95,7 @@ desc = "Virtual Memory Area"
 [vdi]
 name = ".vdi"
 desc = "VirtualBox Disk Image"
+see = ['vmdk', 'qcow']
 
 [vhd]
 name = ".vhd"
@@ -104,6 +105,11 @@ desc = "Virtual Hard Disk"
 name = "VMDK"
 desc = "Virtual Machine Disk"
 more = "A file format that describes containers for virtual hard disk drives to be used in virtual machines like VMware Workstation or VirtualBox"
+see = ['vdi', 'qcow']
+
+[vdi.Desktop]
+name = "VDI"
+desc = "Virtual Desktop Infrastructure"
 
 [vlc]
 name = "VLC media player"

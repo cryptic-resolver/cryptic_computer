@@ -209,3 +209,7 @@ desc = "Open Font License"
 [ocp]
 name = "OCP"
 desc = "Open Close Principle"
+
+[oa]
+name = "OA"
+desc = "Office Automation"

@@ -33,3 +33,9 @@ desc = "Quality of Service"
 [qemu]
 name = "QEMU"
 desc = "Quick EMUlator"
+
+[qcow]
+name = "qcow"
+desc = "QEMU Copy On Write"
+more = "A file format for disk image files used by QEMU"
+see = ['QEMU', 'VDI', 'VMDK']

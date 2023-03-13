@@ -157,7 +157,7 @@ more = "A programming language implemented as a preprocessor for Fortran 66. It 
 
 [rdp]
 name = "RDP"
-desc = "Remote Desktop Protocol"
+desc = "Remote Desktop Protocol developed by Microsoft"
 
 [rpc]
 name = "RPC"
