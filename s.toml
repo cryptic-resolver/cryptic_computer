@@ -387,6 +387,7 @@ desc = "Secure Hash Algorithms"
 [sed]
 name = "sed"
 desc = "Stream EDitor"
+more = "A non-interactive command-line text editor"
 
 [stabs.debug]
 name = "stabs"

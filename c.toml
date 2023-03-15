@@ -151,7 +151,7 @@ desc = "Cloud Native Computing Foundation"
 [cr]
 name = "CR"
 desc = "Cryptic Resolver"
-more = "This is the name of this program :)"
+more = "This is the name of this program :D"
 
 [cr.ASCII]
 name = "<CR>"

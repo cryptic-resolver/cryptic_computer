@@ -363,3 +363,8 @@ more = "A small, retargetable compiler for the ANSI C programming language"
 [lgpl]
 name = "LGPL"
 desc = "GNU Lesser General Public License"
+
+[llm]
+name = "LLM"
+desc = "Large Language Model"
+more = "A type of machine learning model that can perform a variety of natural language processing (NLP) tasks"

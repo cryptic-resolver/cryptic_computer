@@ -95,3 +95,7 @@ see = ['AR', 'VR']
 name = "IBM XT"
 desc = "IBM PC eXtended Technology"
 see = ['AT', 'PS/2']
+
+[xhr]
+name = "XHR"
+desc = "XMLHttpRequest"
