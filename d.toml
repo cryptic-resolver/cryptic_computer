@@ -304,3 +304,7 @@ desc = "Dependency Inversion Principle"
 name = "deque"
 desc = "double-ended queue"
 more = "An abstract data type that generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail)"
+
+[dbc]
+name = "DBC"
+desc = "Design By Contrast"
