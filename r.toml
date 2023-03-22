@@ -281,3 +281,7 @@ name = "rdmd"
 desc = "run dmd"
 see = 'dmd'
 
+[rcc]
+name = "rcc in Qt"
+desc = "resource compiler"
+see = ['moc', 'uic']

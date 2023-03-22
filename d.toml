@@ -308,3 +308,8 @@ more = "An abstract data type that generalizes a queue, for which elements can b
 [dbc]
 name = "DBC"
 desc = "Design By Contrast"
+
+[d-pointer]
+name = "d-pointer"
+desc = "data pointer"
+more = "It's an opaque pointer always used to point to data member in C++"

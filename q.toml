@@ -39,3 +39,21 @@ name = "qcow"
 desc = "QEMU Copy On Write"
 more = "A file format for disk image files used by QEMU"
 see = ['QEMU', 'VDI', 'VMDK']
+
+[qpa]
+name = "QPA"
+desc = "Qt Platform Abstraction"
+
+[qbs]
+name = "Qbs"
+desc = "pronounced Cubes"
+more = "A cross-platform free and open-source software for managing the build process of software. It was designed to support large, complex projects, written in any number of programming languages, primarily C/C++"
+
+[qch]
+name = ".qch"
+desc = "Qt Compressed HTML"
+
+[qm]
+name = ".qm"
+desc = "compiled Qt linguist file"
+more = "Stored in a compact binary format"

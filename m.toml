@@ -240,3 +240,7 @@ desc = "Master Boot Record"
 name = "MOBA"
 desc = "Multiplayer Online Battle Arena"
 
+[moc]
+name = "moc in Qt"
+desc = "meta object compiler"
+see = ['uic', 'rcc']

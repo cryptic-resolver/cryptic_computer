@@ -148,3 +148,12 @@ more = "The <tt> tag was used in HTML 4, but not supported in HTML5. Consider th
 [tmp]
 name = "TMP"
 desc = "Template Meta Programming"
+
+[ts]
+name = "TS"
+desc = "TypeScript"
+
+[ts.Qt]
+name = ".ts in Qt"
+desc = "Translation Source files"
+more = "TS files are human-readable XML files containing source phrases and their translations"

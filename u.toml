@@ -85,3 +85,8 @@ desc = "Unordered (bulleted) List"
 [uaf]
 name = "UAF"
 desc = "Use-After-Free attack"
+
+[uic]
+name = "uic in Qt"
+desc = "User Interface Compiler"
+see = ['moc', 'rcc']

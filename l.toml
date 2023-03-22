@@ -368,3 +368,13 @@ desc = "GNU Lesser General Public License"
 name = "LLM"
 desc = "Large Language Model"
 more = "A type of machine learning model that can perform a variety of natural language processing (NLP) tasks"
+
+[lupdate]
+name = "lupdate in Qt"
+desc = "linguist update"
+more = "It generates the first set of translation source (TS) files with all the user-visible text but no translations. Run lupdate later to incorporate any new text added to the application. lupdate synchronizes the user-visible text from the application with the translations."
+
+[lrelease]
+name = "lrelease in Qt"
+desc = "linguist release"
+more = "It reads the TS files and produce the QM files used by the application at runtime"

@@ -343,3 +343,12 @@ see = 'PDS'
 name = "PDS"
 desc = "Passive Data Structure"
 more = "A term for a 'record', to contrast with objects. It is a data structure that is represented only as passive collections of field values (instance variables), without using object-oriented features"
+
+[pimpl]
+name = "PIMPL"
+desc = "Pointer to IMPLementation in C++"
+
+[pri]
+name = ".pri"
+desc = "qmake Project Include file"
+more = "See: https://doc.qt.io/qtvstools/qtvstools-importing-and-exporting-projects.html"
