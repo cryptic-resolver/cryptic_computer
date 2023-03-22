@@ -379,3 +379,8 @@ desc = "Application-Layer Protocol Negotiation"
 [ajax]
 name = "Ajax"
 desc = "Asynchronous JavaScript And XML"
+
+[awt]
+name = "AWT"
+desc = "Abstract Window Toolkit for Java"
+more = "The Swing classes are built on top of the AWT architecture"

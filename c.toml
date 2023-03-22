@@ -266,6 +266,7 @@ desc = "Common Weakness Enumeration"
 [ci]
 name = "CI"
 desc = "Continuous Integration"
+more = "A regular merging and automated testing of developer code with the mainline codebase"
 
 [cpd]
 name = "CPD"
