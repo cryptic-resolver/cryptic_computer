@@ -102,6 +102,23 @@ see = ['LL','LALR']
 name = "LRU"
 desc = "Least Recently Used cache"
 
+[lz1]
+name = "LZ1"
+same = "LZ77=>lz77"
+
+[lz2]
+name = "LZ2"
+same = "LZ78=>lz78"
+
+[lz77]
+name = "LZ77"
+same = "LZ78=>lz78"
+
+[lz78]
+name = "LZ78"
+desc = "Abraham Lempel & Jacob Ziv, 1978"
+more = "LZ77 and LZ78 are the two lossless data compression algorithms published in papers by Abraham Lempel and Jacob Ziv in 1977 and 1978"
+
 [lzma]
 name = "LZMA"
 desc = "Lempel–Ziv–Markov chain algorithm"
