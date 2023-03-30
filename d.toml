@@ -313,3 +313,8 @@ desc = "Design By Contrast"
 name = "d-pointer"
 desc = "data pointer"
 more = "It's an opaque pointer always used to point to data member in C++"
+
+[ddj]
+name = "DDJ"
+desc = "Dr. Dobb's Journal"
+more = "Visit: https://www.drdobbs.com/"

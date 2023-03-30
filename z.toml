@@ -11,3 +11,9 @@ more = "Paul Falstad wrote the first version of Zsh in 1990 while a student at P
 [zle.Zsh]
 name = "ZLE"
 desc = "Zsh Line Editor"
+
+[zopfli]
+name = "Zopfli"
+desc = "named after zöpfli, the Swiss German word for a snack-sized braided buttery bread"
+more = "A data compression library that performs Deflate, gzip and zlib data encoding. It achieves higher compression ratios than mainstream Deflate and zlib implementations at the cost of being slower. Google first released Zopfli in February 2013 under the terms of Apache License 2.0"
+see = 'Brotli'

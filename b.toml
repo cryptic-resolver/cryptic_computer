@@ -182,3 +182,9 @@ desc = "Business Intelligence"
 name = "<br> in HTML"
 desc = "line break"
 see = 'hr'
+
+[brotli]
+name = "Brotli"
+desc = "named after brötli, the Swiss German word for a bread roll"
+more = "A lossless data compression algorithm developed by Google. It uses a combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding and 2nd-order context modelling. A successor to gzip"
+see = 'Zopfli'
