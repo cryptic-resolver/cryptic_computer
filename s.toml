@@ -587,3 +587,7 @@ desc = "System Under Test"
 [sqm]
 name = "SQM"
 desc = "Software Quality Management"
+
+[sfml]
+name = "SFML"
+desc = "Simple and Fast Multimedia Library"
