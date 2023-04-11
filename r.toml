@@ -285,3 +285,11 @@ see = 'dmd'
 name = "rcc in Qt"
 desc = "resource compiler"
 see = ['moc', 'uic']
+
+[restful]
+name = "RESTful"
+same = "REST=>rest"
+
+[rest]
+name = "REST"
+desc = "Representational State Transfer"
