@@ -352,3 +352,7 @@ desc = "Pointer to IMPLementation in C++"
 name = ".pri"
 desc = "qmake Project Include file"
 more = "See: https://doc.qt.io/qtvstools/qtvstools-importing-and-exporting-projects.html"
+
+[pixel]
+name = "pixel"
+desc = "Picture Elements"

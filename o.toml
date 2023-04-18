@@ -213,3 +213,8 @@ desc = "Open Close Principle"
 [oa]
 name = "OA"
 desc = "Office Automation"
+
+[oeis]
+name = "OEIS"
+desc = "The On-Line Encyclopedia of Integer Sequences"
+more = "Visit: https://oeis.org/"

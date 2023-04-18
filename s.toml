@@ -591,3 +591,8 @@ desc = "Software Quality Management"
 [sfml]
 name = "SFML"
 desc = "Simple and Fast Multimedia Library"
+
+[shiftjis]
+name = "Shift JIS"
+desc = "Shift Japanese Industrial Standards"
+more = "A character encoding for the Japanese language, originally developed by a Japanese company called ASCII Corporation in conjunction with Microsoft in 1997"
