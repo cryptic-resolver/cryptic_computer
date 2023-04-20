@@ -169,6 +169,10 @@ desc = "ACM's Special Interest Group on Knowledge Discovery and Data Mining"
 name = "SEO"
 desc = "Search Engine Optimization"
 
+[sem]
+name = "SEM"
+desc = "Search Engine Marketing"
+
 [sdl]
 name = "SDL"
 desc = "Simple DirectMedia Layer"

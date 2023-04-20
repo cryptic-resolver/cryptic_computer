@@ -356,3 +356,8 @@ more = "See: https://doc.qt.io/qtvstools/qtvstools-importing-and-exporting-proje
 [pixel]
 name = "pixel"
 desc = "Picture Elements"
+
+[pv.statistics]
+name = "PV"
+desc = "Page View"
+see = 'UV'

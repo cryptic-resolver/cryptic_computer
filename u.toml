@@ -90,3 +90,8 @@ desc = "Use-After-Free attack"
 name = "uic in Qt"
 desc = "User Interface Compiler"
 see = ['moc', 'rcc']
+
+[uv]
+name = "UV"
+desc = "Unique visitor"
+see = 'PV'

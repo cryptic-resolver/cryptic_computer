@@ -171,6 +171,22 @@ desc = "Key words for use in RFCs to Indicate Requirement Levels"
 name = "RFC 3339"
 desc = "Date and Time on the Internet: Timestamps"
 
+#########################
+#       Code Page
+#########################
+
+[936.CP]
+name = "Code Page 936"
+more = "Windows Code page 936 (abbreviated MS936, Windows-936 or (ambiguously) CP936), is Microsoft's character encoding for simplified Chinese, one of the four DBCSs for East Asian languages. Originally, Windows-936 covered GB 2312 (in its EUC-CN form), but it was expanded to cover most of GBK with the release of Windows 95"
+
+[1252.CP]
+name = "Code Page 1252"
+desc = "Windows-1252 or CP-1252"
+more = """A single-byte character encoding of the Latin alphabet (or superset of), that was used by default in e.g. (legacy components of) Microsoft Windows for English and many (European) languages including Spanish, Portuguese, French, and German (missing uppercase ẞ). This character-encoding scheme is used throughout the Americas, Western Europe, Oceania, and much of Africa. Windows (and most other operating systems) now uses Unicode character sets by default.
+
+  Windows-1252 is often assumed to be the encoding of text in operating systems, in particular on Microsoft Windows; this is only gradually being changed to UTF-8.
+"""
+
 
 #########################
 #         Other
@@ -184,11 +200,3 @@ see = ['MFA']
 [3c]
 name = "3C"
 desc = "computer, communication, consumer"
-
-[1252]
-name = "code page 1252"
-desc = "Windows-1252 or CP-1252"
-more = """A single-byte character encoding of the Latin alphabet (or superset of), that was used by default in e.g. (legacy components of) Microsoft Windows for English and many (European) languages including Spanish, Portuguese, French, and German (missing uppercase ẞ). This character-encoding scheme is used throughout the Americas, Western Europe, Oceania, and much of Africa. Windows (and most other operating systems) now uses Unicode character sets by default.
-
-  Windows-1252 is often assumed to be the encoding of text in operating systems, in particular on Microsoft Windows; this is only gradually being changed to UTF-8.
-"""

@@ -254,3 +254,10 @@ more = """ESP is a partition on a data storage device (usually a hard disk drive
 name = "em in CSS"
 desc = "'M'"
 more = "In modern usage it simply refers to the size of the font"
+
+[euc]
+name = "EUC"
+desc = "Extended Unix Code"
+more = """A multibyte character encoding system used primarily for Japanese, Korean, and simplified Chinese.
+
+  Note: Modern applications are more likely to use *UTF-8*, which supports all of the glyphs of the EUC codes, and more, and is generally more portable with fewer vendor deviations and errors."""

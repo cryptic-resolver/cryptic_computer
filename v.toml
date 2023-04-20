@@ -131,3 +131,7 @@ more = "A video display controller and accompanying de facto graphics standard, 
 [vlan]
 name = "VLAN"
 desc = "Virtual Local Area Network"
+
+[vla]
+name = "VLA"
+desc = "Variable Length Arrays"
