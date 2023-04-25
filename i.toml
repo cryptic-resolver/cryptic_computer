@@ -268,3 +268,15 @@ desc = "Interface Definition Language"
 [idm]
 name = "IDM"
 desc = "Identity Management"
+
+[iim]
+name = "IPTC IIM"
+desc = "Information Interchange Model"
+more = """A file structure and set of metadata attributes that can be applied to text, images and other media types. It was developed in the early 1990s by the International Press Telecommunications Council (IPTC) to expedite the international exchange of news among newspapers and news agencies.
+
+     XMP has largely superseded IIM's file structure"""
+see = 'XMP'
+
+[iptc]
+name = "IPTC"
+desc = "International Press Telecommunications Council"

@@ -9,7 +9,7 @@ desc = "Request For Comments"
 
 [rle]
 name = "RLE"
-desc = "Run Length Encoding (RLE)"
+desc = "Run Length Encoding"
 more = "It is a lossless data compression algorithm, supported by many bitmap file formats, like BMP, TIFF and PCX"
 
 [radar]

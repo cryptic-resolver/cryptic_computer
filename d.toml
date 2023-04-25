@@ -318,3 +318,18 @@ more = "It's an opaque pointer always used to point to data member in C++"
 name = "DDJ"
 desc = "Dr. Dobb's Journal"
 more = "Visit: https://www.drdobbs.com/"
+
+[dl.HTML]
+name = "<dl>"
+desc = "Description List"
+see = ['dt', 'dd']
+
+[dt.HTML]
+name = "<dt>"
+desc = "Description Element"
+see = ['dl', 'dd']
+
+[dd.HTML]
+name = "<dd>"
+desc = "Description element Description"
+see = ['dl', 'dt']
