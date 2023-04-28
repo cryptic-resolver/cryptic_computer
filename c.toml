@@ -454,3 +454,7 @@ more = "A device or computer program that encodes or decodes a data stream or si
 [cps]
 name = "CPS"
 desc = "Continuation Passing Style"
+
+[csr]
+name = "CSR"
+desc = "Certificate Signing Request file"
