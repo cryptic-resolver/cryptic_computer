@@ -188,3 +188,8 @@ name = "Brotli"
 desc = "named after brötli, the Swiss German word for a bread roll"
 more = "A lossless data compression algorithm developed by Google. It uses a combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding and 2nd-order context modelling. A successor to gzip"
 see = 'Zopfli'
+
+[bson]
+name = "BSON"
+desc = "Binary JSON"
+more = "Originated in 2009 at MongoDB. The format is used both as a data storage and network transfer format for the MongoDB database, but it can be used independently outside of MongoDB"

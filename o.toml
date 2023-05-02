@@ -218,3 +218,11 @@ desc = "Office Automation"
 name = "OEIS"
 desc = "The On-Line Encyclopedia of Integer Sequences"
 more = "Visit: https://oeis.org/"
+
+[oauth]
+name = "OAuth"
+desc = "Open Authorization"
+
+[oas]
+name = "OAS"
+desc = "OpenAPI Specification"

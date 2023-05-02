@@ -41,6 +41,10 @@ desc = "Permanent Redirect"
 name = "HTTP response status code: 400"
 desc = "Bad Request"
 
+[401.HTTPcode]
+name = "HTTP response status code: 401"
+desc = "Unauthorized"
+
 [403.HTTPcode]
 name = "HTTP response status code: 403"
 desc = "Forbidden"
@@ -49,6 +53,10 @@ desc = "Forbidden"
 name = "HTTP response status code: 404"
 desc = "Not Found"
 see = ['302']
+
+[405.HTTPcode]
+name = "HTTP response status code: 405"
+desc = "Method Not Allowed"
 
 [500.HTTPcode]
 name = "HTTP response status code: 500"
