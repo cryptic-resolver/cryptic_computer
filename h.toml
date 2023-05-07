@@ -198,3 +198,7 @@ more = "1280 x 720 pixels"
 name = "<hr> in HTML"
 desc = "horizontal rule"
 see = 'br'
+
+[hateoas]
+name = "HATEOAS"
+desc = "Hypermedia As The Engine Of Application State"

@@ -226,3 +226,7 @@ desc = "Open Authorization"
 [oas]
 name = "OAS"
 desc = "OpenAPI Specification"
+
+[owasp]
+name = "OWASP"
+desc = "Open Worldwide Application Security Project"

@@ -123,3 +123,14 @@ more = "A line of small-form-factor barebone computer kits designed by Intel. It
 [nan]
 name = "NaN"
 desc = "Not a Number"
+
+[npcap]
+name = "Npcap"
+desc = "Nmap's pcap"
+more = "Npcap is the Nmap Project's packet capture (and sending) library for Microsoft Windows"
+see = ['Nmap', 'pcap']
+
+[nmap]
+name = "Nmap"
+desc = "Network Mapper"
+more = "A network scanner created in 1997 used to discover hosts and services on a computer network by sending packets and analyzing the responses"

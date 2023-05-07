@@ -86,6 +86,11 @@ name = "JCP"
 desc = "Java Community Process"
 more = "A formalized mechanism that allows interested parties to develop standard technical specifications for Java technology, established in 1998"
 
+[jdbc]
+name = "JDBC"
+desc = "Java Database Connectivity"
+more = "Java API which defines how a client may access a database"
+
 [j2me]
 name = "J2ME"
 desc = "Java Platform, Micro Edition"
@@ -99,6 +104,14 @@ see = ['J2ME']
 [jna]
 name = "JNA"
 desc = "Java Native Access"
+
+[jnlp]
+name = "JNLP"
+desc = "Java Network Launching Protocol format"
+
+[jndi]
+name = "JNDI"
+desc = "Java Naming and Directory Interface"
 
 [jflap]
 name = "JFLAP"
@@ -125,11 +138,6 @@ desc = "Ubuntu 22.04 LTS"
 name = "JTAG"
 desc = "Joint Test Action Group"
 more = "It's named after the group which codified it. It's an industry standard for verifying designs and testing printed circuit boards after manufacture."
-
-[jdbc]
-name = "JDBC"
-desc = "Java Database Connectivity"
-more = "Java API which defines how a client may access a database"
 
 [jq]
 name = "jq"
