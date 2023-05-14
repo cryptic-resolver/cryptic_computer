@@ -135,3 +135,7 @@ desc = "Virtual Local Area Network"
 [vla]
 name = "VLA"
 desc = "Variable Length Arrays"
+
+[vnd]
+name = "vnd"
+desc = "vendor"

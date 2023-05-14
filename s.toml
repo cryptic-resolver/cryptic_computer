@@ -46,7 +46,7 @@ desc = "Scalable Vector Graphics"
 [soap]
 name = "SOAP"
 desc = "Simple Object Access Protocol"
-more = "a messaging porotocal initially as XML-RPC in June 1998"
+more = "A messaging porotocal initially as XML-RPC in June 1998"
 
 [sexp]
 name = "sexp"

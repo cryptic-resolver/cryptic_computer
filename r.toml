@@ -293,3 +293,8 @@ same = "REST=>rest"
 [rest]
 name = "REST"
 desc = "Representational State Transfer"
+
+[raml]
+name = "RAML"
+desc = "RESTful API Modeling Language"
+more = "A YAML-based language for describing static APIs (but not REST APIs)"

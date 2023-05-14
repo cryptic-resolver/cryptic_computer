@@ -122,3 +122,8 @@ name = "fq"
 desc = "file/format query"
 more = "Visit: https://github.com/wader/fq"
 see = 'jq'
+
+[fido]
+name = "FIDO Alliance"
+desc = "Fast IDentity Online Alliance"
+more = "FIDO addresses the lack of interoperability among devices that use strong authentication and reduces the problems users face creating and remembering multiple usernames and passwords"

@@ -366,3 +366,7 @@ see = 'UV'
 name = "pcap"
 desc = "Packet Capture"
 more = "An application programming interface for capturing network traffic"
+
+[pojo]
+name = "POJO"
+desc = "Plain Old Java/JavaScript Object"
