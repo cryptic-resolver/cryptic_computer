@@ -109,12 +109,17 @@ desc = "The Art of Computer Programming"
 [td.HTML]
 name = "<td>"
 desc = "Table Data cell"
-see = 'th'
+see = ['th', 'tr']
 
 [th.HTML]
 name = "<th>"
-desc = "Table Header cell"
-see = 'td'
+desc = "Table Header"
+see = ['tr', 'td']
+
+[tr.HTML]
+name = "<tr>"
+desc = "Table Row"
+see = ['td', 'th']
 
 [tlb]
 name = "TLB"

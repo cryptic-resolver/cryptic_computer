@@ -10,6 +10,10 @@ desc = "OK"
 name = "HTTP response status code: 201"
 desc = "Created"
 
+[206.HTTPcode]
+name = "HTTP response status code: 206"
+desc = "Partial Content"
+
 [301.HTTPcode]
 name = "HTTP response status code: 301"
 desc = "Moved Permanently"
