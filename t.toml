@@ -66,6 +66,11 @@ name = "TCP"
 desc = "Transmission Control Protocol"
 see = ['UDP', 'IP']
 
+[tcb]
+name = "TCB"
+desc = "Transmission Control Block"
+more = "Part of TCP that records and maintains information about the state of a connection"
+
 [tag]
 name = "TAG"
 desc = "Tree-adjoining Grammar"

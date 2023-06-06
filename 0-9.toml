@@ -10,6 +10,11 @@ desc = "OK"
 name = "HTTP response status code: 201"
 desc = "Created"
 
+[204.HTTPcode]
+name = "HTTP response status code: 204"
+desc = "No Content"
+more = "The HTTP 204 No Content success status response code indicates that a request has succeeded, but that the client doesn't need to navigate away from its current page"
+
 [206.HTTPcode]
 name = "HTTP response status code: 206"
 desc = "Partial Content"
@@ -73,6 +78,10 @@ desc = "Bad Gateway"
 [503.HTTPcode]
 name = "HTTP response status code: 503"
 desc = "Service Unavailable"
+
+[504.HTTPcode]
+name = ""
+desc = "Gateway Timeout"
 
 #########################
 #         Port

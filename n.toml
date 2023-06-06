@@ -134,3 +134,7 @@ see = ['Nmap', 'pcap']
 name = "Nmap"
 desc = "Network Mapper"
 more = "A network scanner created in 1997 used to discover hosts and services on a computer network by sending packets and analyzing the responses"
+
+[nmi]
+name = "NMI"
+desc = "Non-Maskable Interrupt"
