@@ -370,3 +370,7 @@ more = "An application programming interface for capturing network traffic"
 [pojo]
 name = "POJO"
 desc = "Plain Old Java/JavaScript Object"
+
+[pthreads]
+name = "pthreads"
+desc = "POSIX Threads"
