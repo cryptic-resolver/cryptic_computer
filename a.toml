@@ -384,3 +384,7 @@ desc = "Asynchronous JavaScript And XML"
 name = "AWT"
 desc = "Abstract Window Toolkit for Java"
 more = "The Swing classes are built on top of the AWT architecture"
+
+[apdex]
+name = "Apdex"
+desc = "Application Performance Index"

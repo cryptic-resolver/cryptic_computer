@@ -280,3 +280,7 @@ see = 'XMP'
 [iptc]
 name = "IPTC"
 desc = "International Press Telecommunications Council"
+
+[iife]
+name = "IIFE"
+desc = "Immediately Invoked Function Expression"
