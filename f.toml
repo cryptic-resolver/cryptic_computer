@@ -131,3 +131,8 @@ more = "FIDO addresses the lack of interoperability among devices that use stron
 [fls]
 name = "FLS"
 desc = "Fiber Local Storage"
+
+[flac]
+name = "flac"
+desc = "Free Lossless Audio Codec"
+more = "Development was started in 2000. In 2019, FLAC was proposed as an IETF standard."
