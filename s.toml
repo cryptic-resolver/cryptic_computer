@@ -375,11 +375,6 @@ see = ['SVR4','SVR3','SVR2','SVR1']
 name = "System V"
 same = "SysV=>sysv"
 
-[strace]
-name = "strace"
-desc = "system calls tracer"
-see = ['ltrace']
-
 [selinux]
 name = "SELinux"
 desc = "Security-Enhanced Linux"
