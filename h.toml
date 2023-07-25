@@ -103,7 +103,7 @@ desc = "Hypertext Transfer Protocol Over Secure Socket Layer"
 
 [hda]
 name = "/dev/hda"
-desc = "The master disk on IDE primary controller"
+desc = "Hard Disk a — The master disk on IDE primary controller"
 more = "hdb, hdc and so on"
 see = ['IDE', 'sda']
 

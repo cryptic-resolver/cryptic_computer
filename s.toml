@@ -272,11 +272,16 @@ desc = "Small Computer System Interface"
 [sda]
 name = "/dev/sda"
 desc = "The first SCSI disk id"
-more = "sdb, sdc and so on"
-see = ['SCSI']
+more = "sdb, sdc and so on. SCSI and SATA are interchangeable in Linux terminology"
+see = ['SCSI', 'hda']
 
 [sdb]
 same = "sda"
+
+[sr0]
+name = "/dev/sr0"
+desc = "SCSI cd-Rom"
+see = ['hda', 'sda']
 
 [smb]
 same = "SMBus=>smbus"
