@@ -15,11 +15,6 @@ name = "xxd"
 desc = "hex file dump"
 more = "Why call this 'xxd' rather than 'xd' ??"
 
-[xcb]
-name = "XCB"
-desc = "X protocol C-language Binding"
-more = "a library implementing the client-side of the X11 display server protocol, aims to replace Xlib"
-
 [xkcd]
 name = "xkcd"
 desc = "a webcomic created in 2005 by American author Randall Munroe"
@@ -32,10 +27,6 @@ desc = "Extensible Markup Language"
 [xslt]
 name = "XSLT"
 desc = "Extensible Stylesheet Language Transformations"
-
-[xfce]
-name = "Xfce"
-desc = "XForms Common Environment or X Freakin' Cool Environment"
 
 [xpm]
 name = "XPM"

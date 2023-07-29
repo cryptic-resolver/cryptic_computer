@@ -136,3 +136,9 @@ desc = "Fiber Local Storage"
 name = "flac"
 desc = "Free Lossless Audio Codec"
 more = "Development was started in 2000. In 2019, FLAC was proposed as an IETF standard."
+
+[fc]
+name = "FC"
+desc = "Family Computer"
+more = "An 8-bit third-generation home video game console produced by Nintendo. It was first released in Japan in 1983 as the Family Computer (FC), commonly referred to as Famicom. It was redesigned to become the NES, which was released in American test markets in 1985"
+see = ['GBA', 'GBC', 'NES']

@@ -244,3 +244,8 @@ desc = "Multiplayer Online Battle Arena"
 name = "moc in Qt"
 desc = "meta object compiler"
 see = ['uic', 'rcc']
+
+[mame]
+name = "MAME"
+desc = "Multiple Arcade Machine Emulator"
+more = "A free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms"

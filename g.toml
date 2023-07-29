@@ -315,3 +315,15 @@ more = "An IETF standard that addresses the problem of many similar but incompat
 name = "GDC"
 desc = "GCC frontend for the D programming language"
 see = ['DMD', 'LDC']
+
+[gba]
+name = "GBA"
+desc = "Game Boy Advance"
+more = "A 32-bit handheld game console (2001) developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color"
+see = ['FC', 'GBC']
+
+[gbc]
+name = "GBC"
+desc = "Game Boy Color"
+more = "An 8-bit handheld game console (1998), manufactured by Nintendo"
+see = ['FC', 'GBA']
