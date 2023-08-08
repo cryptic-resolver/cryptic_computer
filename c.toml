@@ -458,3 +458,7 @@ desc = "Continuation Passing Style"
 [csr]
 name = "CSR"
 desc = "Certificate Signing Request file"
+
+[dnd]
+name = "DND"
+desc = "Drag-and-Drop"
