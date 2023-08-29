@@ -272,6 +272,9 @@ more = "This library refers to things like startup code, and usually I/O support
 name = "libglib"
 more = "Low-level core library that forms the basis for projects such as GTK+ and GNOME."
 
+[libgda]
+name = "libgda"
+more = "GNU Data Access library."
 
 [librt]
 name = "librt"
