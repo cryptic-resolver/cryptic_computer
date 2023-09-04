@@ -139,6 +139,12 @@ see = ['Lex']
 name = "LWP"
 desc = "Light-Weight Process"
 
+[lwp.perl]
+name = "LWP"
+desc = "Library of WWW for Perl"
+more = "https://metacpan.org/pod/LWP"
+
+
 [lba]
 name = "LBA"
 desc = "Linear Bounded Automaton"
