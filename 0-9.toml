@@ -71,6 +71,10 @@ desc = "Method Not Allowed"
 name = "HTTP response status code: 500"
 desc = "Internal Server Error"
 
+[501.HTTPcode]
+name = "HTTP response status code: 501"
+desc = "Not Implemented"
+
 [502.HTTPcode]
 name = "HTTP response status code: 502"
 desc = "Bad Gateway"
