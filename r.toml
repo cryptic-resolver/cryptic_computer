@@ -298,3 +298,7 @@ desc = "Representational State Transfer"
 name = "RAML"
 desc = "RESTful API Modeling Language"
 more = "A YAML-based language for describing static APIs (but not REST APIs)"
+
+[ros]
+name = "ROS"
+desc = "Robot Operating System"
