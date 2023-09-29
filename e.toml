@@ -9,6 +9,11 @@ desc = "Edit macros"
 more = "A feature-rich editor"
 see = ["Vim"]
 
+[ee]
+name = "ee"
+desc = "easy editor"
+more = "Text editor in FreeBSD"
+
 [exif]
 name = "Exif"
 desc = "Exchangeable image file format"

@@ -193,3 +193,7 @@ see = 'Zopfli'
 name = "BSON"
 desc = "Binary JSON"
 more = "Originated in 2009 at MongoDB. The format is used both as a data storage and network transfer format for the MongoDB database, but it can be used independently outside of MongoDB"
+
+[bts.Bug]
+name = "BTS"
+desc = "Bug Tracking System"
