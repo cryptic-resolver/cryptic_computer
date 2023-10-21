@@ -274,7 +274,7 @@ name = "IPTC IIM"
 desc = "Information Interchange Model"
 more = """A file structure and set of metadata attributes that can be applied to text, images and other media types. It was developed in the early 1990s by the International Press Telecommunications Council (IPTC) to expedite the international exchange of news among newspapers and news agencies.
 
-     XMP has largely superseded IIM's file structure"""
+  XMP has largely superseded IIM's file structure"""
 see = 'XMP'
 
 [iptc]
@@ -284,3 +284,12 @@ desc = "International Press Telecommunications Council"
 [iife]
 name = "IIFE"
 desc = "Immediately Invoked Function Expression"
+
+[ipmi]
+name = "IPMI"
+desc = "Intelligent Platform Management Interface"
+more = """A set of computer interface specifications for an autonomous computer subsystem that provides management and monitoring capabilities independently of the host system's CPU, firmware (BIOS or UEFI) and operating system.
+
+  The specification is led by Intel and was first published on September 16, 1998.
+  The successor to the IPMI is Redfish.
+"""

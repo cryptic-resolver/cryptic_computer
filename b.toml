@@ -197,3 +197,8 @@ more = "Originated in 2009 at MongoDB. The format is used both as a data storage
 [bts.Bug]
 name = "BTS"
 desc = "Bug Tracking System"
+
+[bmc]
+name = "BMC"
+desc = "Baseboard Management Controller"
+more = "A specialized microcontroller embedded on the motherboard of a computer – generally a server. The BMC manages the interface between system-management software and platform hardware. BMC has its dedicated firmware and RAM"
