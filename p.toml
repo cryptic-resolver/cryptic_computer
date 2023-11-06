@@ -374,3 +374,7 @@ desc = "Plain Old Java/JavaScript Object"
 [pthreads]
 name = "pthreads"
 desc = "POSIX Threads"
+
+[prng]
+name = "PRNG"
+desc = "Pseudo Random Number Generator"

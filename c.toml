@@ -459,6 +459,7 @@ desc = "Continuation Passing Style"
 name = "CSR"
 desc = "Certificate Signing Request file"
 
-[dnd]
-name = "DND"
-desc = "Drag-and-Drop"
+[chs]
+name = "CHS"
+desc = "Cylinder-Head-Sector addressing scheme"
+see = 'LBA'

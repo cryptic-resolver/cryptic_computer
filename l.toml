@@ -149,6 +149,11 @@ more = "https://metacpan.org/pod/LWP"
 name = "LBA"
 desc = "Linear Bounded Automaton"
 
+[lba.address]
+name = "LBA"
+desc = "Logical Block Addressing"
+see = 'CHS'
+
 [l10n]
 name = "L10n"
 desc = """Localization

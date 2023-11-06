@@ -293,3 +293,7 @@ more = """A set of computer interface specifications for an autonomous computer 
   The specification is led by Intel and was first published on September 16, 1998.
   The successor to the IPMI is Redfish.
 """
+
+[idt]
+name = "IDT"
+desc = "Interrupt Descriptor Table"

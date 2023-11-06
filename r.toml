@@ -166,6 +166,7 @@ desc = "Remote Procedure Call"
 [rtc]
 name = "RTC"
 desc = "Real-time Clock"
+more = "The RTC is a battery-backed clock that keeps time even when the system is shut down"
 
 [rbi]
 name = "RBI"

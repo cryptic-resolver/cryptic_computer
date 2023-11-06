@@ -327,3 +327,8 @@ name = "GBC"
 desc = "Game Boy Color"
 more = "An 8-bit handheld game console (1998), manufactured by Nintendo"
 see = ['FC', 'GBA']
+
+[gdt]
+name = "GDT"
+desc = "Global Descriptor Table"
+more = "A data structure used by Intel x86-family processors starting with the 80286 to define the characteristics of the various memory areas used during program execution"
