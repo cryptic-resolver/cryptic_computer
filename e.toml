@@ -271,3 +271,7 @@ more = """A multibyte character encoding system used primarily for Japanese, Kor
 name = "ETag"
 desc = "HTTP entity tag"
 more = "It's part of HTTP, the protocol for the World Wide Web. It is one of several mechanisms that HTTP provides for Web cache validation, which allows a client to make conditional requests. This mechanism allows caches to be more efficient and saves bandwidth, as a Web server does not need to send a full response if the content has not changed. ETags can also be used for optimistic concurrency control to help prevent simultaneous updates of a resource from overwriting each other"
+
+[eula]
+name = "EULA"
+desc = "End-User License Agreement"

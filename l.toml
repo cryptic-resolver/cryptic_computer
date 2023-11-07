@@ -409,3 +409,8 @@ more = "It generates the first set of translation source (TS) files with all the
 name = "lrelease in Qt"
 desc = "linguist release"
 more = "It reads the TS files and produce the QM files used by the application at runtime"
+
+[lamp]
+name = "LAMP"
+desc = "Linux + Apache + MySQL + PHP"
+more = "Born in 1998"
