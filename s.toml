@@ -202,6 +202,10 @@ name = "SRAM"
 desc = "Static Random-Access Memory"
 see = 'DRAM'
 
+[sdram]
+name = "SDRAM"
+desc = "Synchronous Dynamic Random-Access Memory"
+
 [smbios]
 name = "SMBIOS"
 desc = "System Management BIOS"

@@ -297,3 +297,14 @@ more = """A set of computer interface specifications for an autonomous computer 
 [idt]
 name = "IDT"
 desc = "Interrupt Descriptor Table"
+see = 'ISR'
+
+[isr]
+name = "ISR"
+desc = "Interrupt Service Routine"
+see = 'IDT'
+
+[icw]
+name = "ICW"
+desc = "Initialization Command Word for PIC"
+see = 'PIC'

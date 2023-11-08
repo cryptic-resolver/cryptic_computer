@@ -165,7 +165,7 @@ desc = "Remote Procedure Call"
 
 [rtc]
 name = "RTC"
-desc = "Real-time Clock"
+desc = "Real-Time Clock"
 more = "The RTC is a battery-backed clock that keeps time even when the system is shut down"
 
 [rbi]
@@ -303,3 +303,17 @@ more = "A YAML-based language for describing static APIs (but not REST APIs)"
 [ros]
 name = "ROS"
 desc = "Robot Operating System"
+
+[rsp]
+name = "RSP"
+desc = "GDB Remote Serial Protocol"
+
+[redboot]
+name = "RedBoot"
+desc = "Red Hat Embedded Debug and Bootstrap firmware"
+more = "An open-source application that uses the eCos real-time operating system Hardware Abstraction Layer to provide bootstrap firmware for embedded systems"
+
+[rtems]
+name = "RTEMS"
+desc = "Real-Time Executive for Multiprocessor Systems "
+more = "Formerly Real-Time Executive for Missile Systems, and then Real-Time Executive for Military Systems, is a real-time operating system (RTOS) designed for embedded systems. It is free and open-source software.Development began in the late 1980s with early versions available via FTP as early as 1993. OAR Corporation is currently managing the RTEMS project in cooperation with a steering committee which includes user representatives"
