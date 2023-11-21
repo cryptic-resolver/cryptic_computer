@@ -176,3 +176,8 @@ desc = "Tera Operations Per Second"
 name = "TFTP"
 desc = "Trivial File Transfer Protocol"
 more = "A simple lockstep File Transfer Protocol which allows a client to get a file from or put a file onto a remote host. One of its primary uses is in the early stages of nodes booting from a local area network. TFTP has been used for this application because it is very simple to implement. TFTP was first standardized in 1981 and the current specification for the protocol can be found in RFC 1350"
+
+[tss]
+name = "TSS"
+desc = "Task State Segment"
+more = "TSS is a structure on x86-based computers which holds information about a task. It is used by the operating system kernel for task management."

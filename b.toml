@@ -202,3 +202,8 @@ desc = "Bug Tracking System"
 name = "BMC"
 desc = "Baseboard Management Controller"
 more = "A specialized microcontroller embedded on the motherboard of a computer – generally a server. The BMC manages the interface between system-management software and platform hardware. BMC has its dedicated firmware and RAM"
+
+[bom.browser]
+name = "BOM API"
+desc = "Browser Object Model"
+see = 'DOM'

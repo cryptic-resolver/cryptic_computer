@@ -388,3 +388,15 @@ more = "The Swing classes are built on top of the AWT architecture"
 [apdex]
 name = "Apdex"
 desc = "Application Performance Index"
+
+[aria]
+name = "ARIA"
+desc = "Accessible Rich Internet Applications"
+
+[a11y]
+name = "a11y"
+desc = """accessibility
+         ^^^^^^^^^^^
+          11 chars
+"""
+see = ['i18n']
