@@ -317,3 +317,7 @@ more = "An open-source application that uses the eCos real-time operating system
 name = "RTEMS"
 desc = "Real-Time Executive for Multiprocessor Systems "
 more = "Formerly Real-Time Executive for Missile Systems, and then Real-Time Executive for Military Systems, is a real-time operating system (RTOS) designed for embedded systems. It is free and open-source software.Development began in the late 1980s with early versions available via FTP as early as 1993. OAR Corporation is currently managing the RTEMS project in cooperation with a steering committee which includes user representatives"
+
+[rlhf]
+name = "RLHF"
+desc = "Reinforcement Learning from Human Feedback"

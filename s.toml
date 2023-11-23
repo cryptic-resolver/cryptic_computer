@@ -181,7 +181,7 @@ desc = "Simple DirectMedia Layer"
 name = "SUS"
 desc = "Single UNIX Specification"
 
-[scm]
+[scm.SourceCode]
 name = "SCM"
 desc = "Source Code Management"
 
@@ -604,3 +604,11 @@ desc = "Simple and Fast Multimedia Library"
 name = "Shift JIS"
 desc = "Shift Japanese Industrial Standards"
 more = "A character encoding for the Japanese language, originally developed by a Japanese company called ASCII Corporation in conjunction with Microsoft in 1997"
+
+[sbom]
+name = "SBOM"
+desc = "Software Bill of Materials"
+
+[scm.Supply]
+name = "SCM"
+desc = "Software Supply Chain Management"

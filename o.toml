@@ -230,3 +230,7 @@ desc = "OpenAPI Specification"
 [owasp]
 name = "OWASP"
 desc = "Open Worldwide Application Security Project"
+
+[o3df]
+name = "O3DF"
+desc = "Open 3D Engine Foundation"

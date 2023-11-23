@@ -378,3 +378,8 @@ desc = "POSIX Threads"
 [prng]
 name = "PRNG"
 desc = "Pseudo Random Number Generator"
+
+[palm]
+name = "PaLM"
+desc = "Pathway Language Model"
+more = "A large language model developed by Google AI"
