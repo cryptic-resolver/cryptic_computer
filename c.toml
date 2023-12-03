@@ -463,3 +463,8 @@ desc = "Certificate Signing Request file"
 name = "CHS"
 desc = "Cylinder-Head-Sector addressing scheme"
 see = 'LBA'
+
+[cjs]
+name = "CJS"
+desc = "CommonJS"
+more = "CommonJS is a module system for JavaScript that was developed by Mozilla and is used by Node.js. CJS modules are identified by the .cjs extension, and they can also be identified by the 'type' field in the package.json file being set to 'commonjs'"
