@@ -65,10 +65,6 @@ see = ["DMD", 'GDC']
 name = "LTO"
 desc = "Link Time Optimization used by GCC"
 
-[lvfs]
-name = "LVFS"
-desc = "Linux Vendor Firmware Service"
-
 [lwip]
 name = "lwIP"
 desc = "lightweight IP"
