@@ -400,3 +400,7 @@ desc = """accessibility
           11 chars
 """
 see = ['i18n']
+
+[avf]
+name = "AVF"
+desc = "Android Virtualization Framework"
