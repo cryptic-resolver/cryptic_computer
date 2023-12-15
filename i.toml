@@ -308,3 +308,13 @@ see = 'IDT'
 name = "ICW"
 desc = "Initialization Command Word for PIC"
 see = 'PIC'
+
+[ids]
+name = "IDS"
+desc = "Intrusion Detection System"
+see = 'IPS'
+
+[ips]
+name = "IPS"
+desc = "Intrusion Protection System"
+see = 'IDS'
