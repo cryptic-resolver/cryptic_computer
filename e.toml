@@ -284,3 +284,7 @@ desc = "End Of Interrupt"
 name = "eCos"
 desc = "Embedded Configurable Operating System"
 more = "A free and open-source RTOS intended for embedded systems and applications which need only one process with multiple threads. initially developed in 1997 by Cygnus Solutions which was later bought by Red Hat. In early 2002, Red Hat ceased development of eCos and laid off the staff of the project. Many of the laid-off staff continued to work on eCos and some formed their own companies providing services for the software. In January 2004, at the request of the eCos developers, Red Hat agreed to transfer the eCos copyrights to the Free Software Foundation in October 2005, a process finally completed in May 2008."
+
+[ebpf]
+name = "eBPF"
+desc = "extended Berkeley Packet Filter"
