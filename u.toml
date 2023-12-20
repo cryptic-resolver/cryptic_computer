@@ -100,3 +100,7 @@ see = 'PV'
 name = "UDF"
 desc = "Universal Disk Format"
 more = "In practice, it has been most widely used for DVDs and newer optical disc formats, supplanting ISO 9660"
+
+[usdt]
+name = "USDT"
+desc = "User Statically-Defined Tracing"

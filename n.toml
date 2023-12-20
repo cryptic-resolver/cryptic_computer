@@ -78,9 +78,15 @@ desc = "Network News Transfer Protocol"
 name = "NDP"
 desc = "Neighbor Discovery Protocol"
 
+[nis]
+name = "NIS"
+desc = "Network Information Service"
+more = "Originally called Yellow Pages or YP. It's a client–server directory service protocol for distributing system configuration data such as user and host names between computers on a computer network. Over time other modern and secure distributed directory systems, most notably Lightweight Directory Access Protocol (LDAP), came to replace it"
+
 [nss]
 name = "NSS"
-desc = "Name Services Switch"
+desc = "Name Service Switch"
+more = "The Name Service Switch configuration file is /etc/nsswitch.conf"
 
 [nvm]
 name = "NVM"

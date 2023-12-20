@@ -48,3 +48,8 @@ same = "YAML=>yaml"
 name = "YAML"
 desc = "YAML Ain't Markup Language"
 more = "Originally it means 'Yet Another Markup Language', but it was then repurposed as YAML Ain't Markup Language, a recursive acronym, to distinguish its purpose as data-oriented, rather than document markup."
+
+[yp]
+name = "YP"
+desc = "Yellow Pages"
+same = 'NIS=>nis'

@@ -291,6 +291,10 @@ desc = "POSIX.1b Realtime Extensions library"
 name = "libsdl"
 same = 'SDL=>sdl'
 
+[libtinfo]
+name = "libtinfo"
+desc = "shared low-level terminfo library"
+
 [libev]
 name = "libev"
 desc = "EVent loop library (Only on Unixes)"
