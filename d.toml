@@ -345,3 +345,8 @@ see = ['dl', 'dt']
 [dnd]
 name = "DND"
 desc = "Drag-and-Drop"
+
+[dall-e]
+name = "DALL-E"
+desc = "WALL-E and Salvador Dalí"
+more = "The Spanish surrealist artist Salvador Dalí"

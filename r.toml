@@ -321,3 +321,14 @@ more = "Formerly Real-Time Executive for Missile Systems, and then Real-Time Exe
 [rlhf]
 name = "RLHF"
 desc = "Reinforcement Learning from Human Feedback"
+
+[rl]
+name = "RL"
+desc = "Reinforcement Learning"
+more = "A type of machine learning algorithm that focuses on training agents to make decisions in complex, dynamic environments. In RL, an agent learns by interacting with its environment and receiving feedback in the form of rewards or penalties."
+
+[rnn]
+name = "RNN"
+desc = "Recurrent Neural Network"
+more = """A type of deep learning neural network that is designed to handle sequential data, such as time series or natural language processing tasks. RNNs have a "memory" component that allows them to consider previous inputs when making predictions or classifications on the current input."""
+see = 'CNN'

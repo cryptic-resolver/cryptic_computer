@@ -468,3 +468,9 @@ see = 'LBA'
 name = "CJS"
 desc = "CommonJS"
 more = "CommonJS is a module system for JavaScript that was developed by Mozilla and is used by Node.js. CJS modules are identified by the .cjs extension, and they can also be identified by the 'type' field in the package.json file being set to 'commonjs'"
+
+[cnn]
+name = "CNN"
+desc = "Convolutional Neural Network"
+more = "A type of deep learning neural network commonly used in image recognition and computer vision tasks"
+see = 'RNN'

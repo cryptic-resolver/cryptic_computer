@@ -149,3 +149,8 @@ desc = "Non-Maskable Interrupt"
 name = "NA1"
 desc = "Normative Addendum 1"
 more = "An addition to the C Standard ratified in 1995"
+
+[ns]
+name = "NS_"
+desc = "NextStep"
+more = "The original code for the Cocoa frameworks came from the NeXTSTEP libraries Foundation and AppKit. NextStep engineers chose to prefix their symbols with NS_"

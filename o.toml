@@ -37,6 +37,11 @@ desc = "OpenGL for Embedded Systems"
 name = "OpenMP"
 desc = "Open Multi-Processing"
 
+[openmv]
+name = "OpenMV"
+desc = "Open-Source Machine Vision"
+more = "It aims at making machine vision more accessible to beginners by developing a user-friendly, open-source, low-cost machine vision platform"
+
 [oopsla]
 name = "OOPSLA"
 desc = "Object-Oriented Programming, Systems, Languages & Applications"
