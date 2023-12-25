@@ -181,3 +181,7 @@ more = "A simple lockstep File Transfer Protocol which allows a client to get a 
 name = "TSS"
 desc = "Task State Segment"
 more = "TSS is a structure on x86-based computers which holds information about a task. It is used by the operating system kernel for task management."
+
+[tgid]
+name = "tgid"
+desc = "thread group ID"

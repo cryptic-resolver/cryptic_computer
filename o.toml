@@ -239,3 +239,13 @@ desc = "Open Worldwide Application Security Project"
 [o3df]
 name = "O3DF"
 desc = "Open 3D Engine Foundation"
+
+[oom]
+name = "OOM"
+desc = "Out Of Memory"
+more = "An often undesired state of computer operation where no additional memory can be allocated for use by programs or the operating system."
+
+[oom.model]
+name = "OOM"
+desc = "Object-Oriented Modeling"
+more = "A modeling paradigm mainly used in computer programming"
