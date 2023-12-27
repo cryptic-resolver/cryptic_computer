@@ -249,3 +249,7 @@ see = ['uic', 'rcc']
 name = "MAME"
 desc = "Multiple Arcade Machine Emulator"
 more = "A free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms"
+
+[mllm]
+name = "MLLM"
+desc = "Multilingual Language Model"

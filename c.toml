@@ -474,3 +474,8 @@ name = "CNN"
 desc = "Convolutional Neural Network"
 more = "A type of deep learning neural network commonly used in image recognition and computer vision tasks"
 see = 'RNN'
+
+[csr.RISCV]
+name = "CSR"
+desc = "Control and Status Register"
+more = "within the RISC-V architecture"

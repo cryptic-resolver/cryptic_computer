@@ -332,3 +332,7 @@ name = "RNN"
 desc = "Recurrent Neural Network"
 more = """A type of deep learning neural network that is designed to handle sequential data, such as time series or natural language processing tasks. RNNs have a "memory" component that allows them to consider previous inputs when making predictions or classifications on the current input."""
 see = 'CNN'
+
+[rv32i]
+name = "RV32I"
+desc = "RISC-V 32-bit Integer ISA"

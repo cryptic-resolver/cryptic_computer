@@ -414,3 +414,7 @@ more = "It reads the TS files and produce the QM files used by the application a
 name = "LAMP"
 desc = "Linux + Apache + MySQL + PHP"
 more = "Born in 1998"
+
+[lpm]
+name = "LPM trie"
+desc = "Longest Prefix Match trie"

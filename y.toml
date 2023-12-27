@@ -53,3 +53,8 @@ more = "Originally it means 'Yet Another Markup Language', but it was then repur
 name = "YP"
 desc = "Yellow Pages"
 same = 'NIS=>nis'
+
+[yolo]
+name = "YOLO"
+desc = "You Only Look Once"
+more = "A real-time object detection algorithm"
