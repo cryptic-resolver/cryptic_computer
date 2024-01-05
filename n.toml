@@ -154,3 +154,8 @@ more = "An addition to the C Standard ratified in 1995"
 name = "NS_"
 desc = "NextStep"
 more = "The original code for the Cocoa frameworks came from the NeXTSTEP libraries Foundation and AppKit. NextStep engineers chose to prefix their symbols with NS_"
+
+[nqp]
+name = "NQP"
+desc = "Not Quite Perl"
+more = "A lightweight Raku-like environment for virtual machines"

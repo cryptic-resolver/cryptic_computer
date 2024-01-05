@@ -139,3 +139,8 @@ desc = "Variable Length Arrays"
 [vnd]
 name = "vnd"
 desc = "vendor"
+
+[vcl]
+name = "VCL"
+desc = "Visual Component Library"
+more = "A visual component-based object-oriented framework for developing the user interface of Microsoft Windows applications. It is written in Object Pascal. The VCL was developed by Borland for use in, and is tightly integrated with, its Delphi and C++Builder RAD tools"
