@@ -202,3 +202,8 @@ see = 'br'
 [hateoas]
 name = "HATEOAS"
 desc = "Hypermedia As The Engine Of Application State"
+
+[htop]
+name = "htop"
+desc = "Hisham Muhammad's top"
+more = "A cross-platform interactive process viewer"

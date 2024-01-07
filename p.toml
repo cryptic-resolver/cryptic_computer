@@ -175,7 +175,9 @@ desc = "The Python Debugger"
 
 [po]
 name = ".PO file"
-desc = "portable object file, text-based"
+desc = "Portable Object file"
+more = "Human-readable translation text files, editable by translators. Use the GNU gettext tool 'msgfmt' to compile PO files into MO files"
+see = 'MO'
 
 [pgp]
 name = "PGP"

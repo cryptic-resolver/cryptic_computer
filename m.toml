@@ -253,3 +253,9 @@ more = "A free and open-source emulator designed to recreate the hardware of arc
 [mllm]
 name = "MLLM"
 desc = "Multilingual Language Model"
+
+[mo]
+name = ".MO file"
+desc = "Machine Object file"
+more = "Compiled, machine-optimized versions of PO files, used directly by software"
+see = 'PO'

@@ -225,3 +225,8 @@ see = ['MFA']
 [3c]
 name = "3C"
 desc = "computer, communication, consumer"
+
+[9p]
+name = "9P"
+desc = "Plan 9 Filesystem Protocol"
+more = "A network protocol developed for the Plan 9 from Bell Labs distributed operating system as the means of connecting the components of a Plan 9 system"

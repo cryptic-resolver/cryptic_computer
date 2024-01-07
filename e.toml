@@ -246,7 +246,8 @@ desc = "Enhanced Graphics Adapter"
 
 [efi]
 name = "EFI"
-same = 'ESP=>esp'
+desc = "Extensible Firmware Interface"
+see = 'ESP'
 
 [esp]
 name = "ESP"

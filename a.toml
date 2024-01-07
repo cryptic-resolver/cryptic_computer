@@ -195,6 +195,10 @@ desc = "Application Programming Interface"
 name = "AI"
 desc = "Artificial Intelligence"
 
+[aiot]
+name = "AIOT"
+desc = "AI + IoT"
+
 [adt]
 name = "ADT"
 desc = "Abstract Data Type"
