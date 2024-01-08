@@ -144,3 +144,14 @@ desc = "vendor"
 name = "VCL"
 desc = "Visual Component Library"
 more = "A visual component-based object-oriented framework for developing the user interface of Microsoft Windows applications. It is written in Object Pascal. The VCL was developed by Borland for use in, and is tightly integrated with, its Delphi and C++Builder RAD tools"
+
+[vmwgfx]
+name = "vmwgfx"
+desc = "VMware graphics"
+more = "A software component that plays a crucial role in enabling 3D graphics acceleration for guest virtual machines running on VMware products like Workstation, Fusion, and ESXi. It essentially acts as a bridge between the virtual machine's operating system and the host's graphics hardware"
+
+[vmw_vmci]
+name = "vmw_vmci"
+desc = "VMware Virtual Machine Communication Interface"
+more = "A Linux kernel module that provides a crucial communication channel between a virtual machine (VM) and its VMware host"
+see = 'HGFS'

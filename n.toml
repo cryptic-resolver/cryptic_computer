@@ -159,3 +159,7 @@ more = "The original code for the Cocoa frameworks came from the NeXTSTEP librar
 name = "NQP"
 desc = "Not Quite Perl"
 more = "A lightweight Raku-like environment for virtual machines"
+
+[numa]
+name = "NUMA"
+desc = "Non Uniform Memory Access"

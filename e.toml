@@ -289,3 +289,8 @@ more = "A free and open-source RTOS intended for embedded systems and applicatio
 [ebpf]
 name = "eBPF"
 desc = "extended Berkeley Packet Filter"
+
+[ens33]
+name = "ens33"
+desc = "Ethernet Network Server 33"
+more = "A physical network interface card (NIC) or a virtual one created by software like a virtual machine"

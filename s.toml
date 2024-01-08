@@ -612,3 +612,7 @@ desc = "Software Bill of Materials"
 [scm.Supply]
 name = "SCM"
 desc = "Software Supply Chain Management"
+
+[sosp]
+name = "SOSP"
+desc = "Symposium on Operating Systems Principles"

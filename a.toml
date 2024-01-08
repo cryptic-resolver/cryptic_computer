@@ -408,3 +408,7 @@ see = ['i18n']
 [avf]
 name = "AVF"
 desc = "Android Virtualization Framework"
+
+[ahci]
+name = "AHCI"
+desc = "Advanced Host Controller Interface"

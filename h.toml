@@ -146,6 +146,7 @@ desc = "High Bandwidth Memory"
 [hgfs]
 name = "HGFS"
 desc = "VMware Host Guest File System"
+see = "vmw_vmci"
 
 [hkp]
 name = "HKP"
