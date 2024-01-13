@@ -165,10 +165,6 @@ desc = "Programmed Data Processor 11"
 more = "16-bit, its successor is VAX"
 see = ['PDP-7','VAX']
 
-[perf]
-name = "perf"
-desc = "performance analyzing tool in Linux"
-
 [pdb.python]
 name = "pdb"
 desc = "The Python Debugger"
@@ -394,3 +390,7 @@ more = "A section in ELF"
 ["plt.got"]
 name = ".plt.got"
 more = "A section in ELF. Stores Global Offset Table (GOT) entries related to external function calls"
+
+[pmu]
+name = "PMU"
+desc = "Performance Monitoring Unit"

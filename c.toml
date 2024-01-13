@@ -479,3 +479,9 @@ see = 'RNN'
 name = "CSR"
 desc = "Control and Status Register"
 more = "within the RISC-V architecture"
+
+[cpl]
+name = "CPL"
+desc = "Combined Programming Language"
+more = "Initially as the 'Cambridge Programming Language', later as the 'Cambridge Plus London'. A multi-paradigm programming language developed in the early 1960s"
+see = 'BCPL'

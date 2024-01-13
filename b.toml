@@ -18,6 +18,7 @@ desc = "Bipolar Junction Transistor"
 [bcpl]
 name = "BCPL"
 desc = "Basic CPL (Combined Programming Language)"
+see = 'CPL'
 
 [blas]
 name = "BLAS"
