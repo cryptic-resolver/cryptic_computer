@@ -394,3 +394,8 @@ more = "A section in ELF. Stores Global Offset Table (GOT) entries related to ex
 [pmu]
 name = "PMU"
 desc = "Performance Monitoring Unit"
+
+[pa-risc]
+name = "PA-RISC"
+desc = "Precision Architecture RISC"
+more = "A general purpose computer instruction set architecture (ISA) developed by Hewlett-Packard from the 1980s until the 2000s"

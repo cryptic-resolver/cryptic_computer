@@ -485,3 +485,8 @@ name = "CPL"
 desc = "Combined Programming Language"
 more = "Initially as the 'Cambridge Programming Language', later as the 'Cambridge Plus London'. A multi-paradigm programming language developed in the early 1960s"
 see = 'BCPL'
+
+[cr.asm]
+name = "CR"
+desc = "Control Register"
+more = "CR0, CR1, CR2, CR3 ..."

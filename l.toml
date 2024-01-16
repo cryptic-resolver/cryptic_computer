@@ -418,3 +418,9 @@ more = "Born in 1998"
 [lpm]
 name = "LPM trie"
 desc = "Longest Prefix Match trie"
+
+[ldt]
+name = "LDT"
+desc = "Local Descriptor Table"
+more = "A memory table used in the x86 architecture in protected mode and containing memory segment descriptors, just like the GDT: address start in linear memory, size, executability, writability, access privilege, actual presence in memory, etc. Each define up to 8192 memory segments accessible to programs"
+see = 'GDT'
