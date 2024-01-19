@@ -186,10 +186,6 @@ desc = "Distributed Denial-of-Service"
 name = "DHH"
 desc = "David Heinemeier Hansson"
 
-[dau]
-name = "DAU"
-desc = "Daily Active User"
-
 [dpu]
 name = "DPU"
 desc = "Data Processing Unit"
