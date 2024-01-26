@@ -259,3 +259,7 @@ name = ".MO file"
 desc = "Machine Object file"
 more = "Compiled, machine-optimized versions of PO files, used directly by software"
 see = 'PO'
+
+[maas]
+name = "MaaS"
+desc = "Model as a Service"
