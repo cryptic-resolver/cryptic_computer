@@ -91,7 +91,7 @@ desc = "Inter-Integrated Circuit"
 
 [irq]
 name = "IRQ"
-desc = "Interrupt Request"
+desc = "Interrupt ReQuest"
 
 [ime]
 name = "IME"
