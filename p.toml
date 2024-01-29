@@ -399,3 +399,8 @@ desc = "Performance Monitoring Unit"
 name = "PA-RISC"
 desc = "Precision Architecture RISC"
 more = "A general purpose computer instruction set architecture (ISA) developed by Hewlett-Packard from the 1980s until the 2000s"
+
+[pac]
+name = "PAC"
+desc = "Proxy auto-config"
+more = "A file defines how web browsers and other user agents can automatically choose the appropriate proxy server (access method) for fetching a given URL"
