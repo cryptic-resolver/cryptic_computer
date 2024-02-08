@@ -142,3 +142,9 @@ name = "FC"
 desc = "Family Computer"
 more = "An 8-bit third-generation home video game console produced by Nintendo. It was first released in Japan in 1983 as the Family Computer (FC), commonly referred to as Famicom. It was redesigned to become the NES, which was released in American test markets in 1985"
 see = ['GBA', 'GBC', 'NES']
+
+[fsl]
+name = "FSL"
+desc = "Functional Source License"
+more = "A mostly permissive non-compete license that converts to Apache 2.0 or MIT after two years. It is designed for SaaS companies that value both user freedom and developer sustainability. FSL's immediate predecessor is the Business Source License (BSL or BUSL)"
+see = 'BSL'
