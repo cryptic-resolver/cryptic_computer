@@ -163,7 +163,13 @@ desc = "D Improvement Proposals"
 [dvd]
 name = "DVD"
 desc = "Digital Video Disc"
+more = "Invented and developed in 1995 and first released on November 1, 1996, in Japan"
 see = ['CD']
+
+[dvd-r]
+name = "DVD-R"
+desc = "DVD-Recordable and Rewritable"
+more = "Developed in 1997 by Pioneer. 4.7GB/8.5GB"
 
 [dsl.hardware]
 name = "DSL"
