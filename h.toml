@@ -208,3 +208,12 @@ desc = "Hypermedia As The Engine Of Application State"
 name = "htop"
 desc = "Hisham Muhammad's top"
 more = "A cross-platform interactive process viewer"
+
+[hmac]
+name = "HMAC"
+desc = "Hash-based Message Authentication Code"
+
+[hotp]
+name = "HOTP"
+desc = "HMAC-based One-Time Password "
+see = ['TOTP', 'HMAC']

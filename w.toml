@@ -117,3 +117,7 @@ more = "A free and open-source compatibility layer that aims to allow applicatio
 [wsgi]
 name = "WSGI"
 desc = "Web Server Gateway Interface"
+
+[wals]
+name = "WALS"
+desc = "World Atlas of Language Structures"

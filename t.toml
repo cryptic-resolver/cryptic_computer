@@ -185,3 +185,8 @@ more = "TSS is a structure on x86-based computers which holds information about 
 [tgid]
 name = "tgid"
 desc = "thread group ID"
+
+[totp]
+name = "TOTP"
+desc = "Time-based One-Time Password"
+see = 'HOTP'
