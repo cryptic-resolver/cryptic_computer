@@ -412,3 +412,7 @@ desc = "Android Virtualization Framework"
 [ahci]
 name = "AHCI"
 desc = "Advanced Host Controller Interface"
+
+[asn]
+name = "ASN"
+desc = "Autonomous System Number"
