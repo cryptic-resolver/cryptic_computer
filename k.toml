@@ -26,10 +26,6 @@ desc = "Keep it Simple, Stupid"
 name = "K8s"
 desc = "Kubernetes"
 
-[kcsan.Kernel]
-name = "KCSAN"
-desc = "The Kernel Concurrency Sanitizer"
-
 [k-nn]
 name = "K-NN"
 desc = "K-Nearest Neighbors Algorithm"
