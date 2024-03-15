@@ -106,3 +106,8 @@ more = """An ISO standard, originally created by Adobe Systems Inc., for the cre
 [xaml]
 name = "XAML"
 desc = "Extensible Application Markup Language"
+
+[xga]
+name = "XGA"
+desc = "eXtended Graphics Array"
+more = "A graphics card manufactured by IBM and introduced for the IBM PS/2 line of personal computers in 1990 as a successor to the 8514/A. As with the 8514/A, XGA required a Micro Channel architecture bus at a time when ISA systems were standard"

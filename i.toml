@@ -318,3 +318,17 @@ see = 'IPS'
 name = "IPS"
 desc = "Intrusion Protection System"
 see = 'IDS'
+
+[iconv]
+name = "iconv"
+desc = "International text Conversion"
+more = "Visit: https://www.gnu.org/software/libiconv/"
+see = 'ICU'
+
+[icu]
+name = "ICU"
+desc = "International Components for Unicode"
+more = """A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
+  Note that It's mainly useful as an alternative to iconv on Windows. Unnecessary on most other systems.
+  Vizit: https://icu.unicode.org/home"""
+see = 'iconv'

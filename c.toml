@@ -494,3 +494,9 @@ more = "CR0, CR1, CR2, CR3 ..."
 [cde.ide]
 name = "CDE"
 desc = "Cloud Development Environment"
+
+[cga]
+name = "CGA"
+desc = "Color Graphics Adapter"
+more = "Introduced in 1981, was IBM's first color graphics card for the IBM PC and established a de facto computer display standard"
+see = ['EGA', 'VGA']

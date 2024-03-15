@@ -243,6 +243,8 @@ see = 'CST'
 [ega]
 name = "EGA"
 desc = "Enhanced Graphics Adapter"
+more = "Introduced in 1984, superseded the CGA, and was itself superseded by the VGA standard in 1987"
+see = ['CGA', 'VGA']
 
 [efi]
 name = "EFI"

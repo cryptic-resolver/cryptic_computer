@@ -345,6 +345,10 @@ desc = "X Resize and Rotate Extension Library"
 name = "X.org libSM"
 desc = "X Session Management Library"
 
+[libiconv]
+name = "libiconv"
+same = 'iconv=>iconv'
+
 
 ################################################
 ######           End C Lib                ######
