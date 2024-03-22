@@ -169,25 +169,6 @@ desc = "Debugger for LLVM"
 name = "lsof"
 desc = "list open files"
 
-[ltrace]
-name = "ltrace"
-desc = "dynamic library calls tracer"
-more = "Display dynamic library calls of a process"
-see  = ['strace']
-
-[lwn]
-name = "LWN.net"
-desc = "Linux Weekly News"
-
-[lkml]
-name = "LKML"
-desc = "Linux kernel mailing list"
-
-[lxc]
-name = "LXC"
-desc = "Linux Containers"
-more = "An operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel"
-
 [lsb.bit]
 name = "LSB"
 desc = "Least Significant Bit"
