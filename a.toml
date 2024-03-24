@@ -140,10 +140,6 @@ desc = "AWS Load Balances"
 name = "AWS"
 desc = "Amazon Web Services"
 
-[apt.debian]
-name = "APT"
-desc = "Advanced Package Tool"
-
 [apt]
 name = "APT"
 desc = "Advanced Persistent Threat"

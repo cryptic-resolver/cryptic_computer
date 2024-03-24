@@ -17,12 +17,6 @@ more = "A parser generator"
 name = "YARD"
 desc = "Yay! A Ruby Documentation Tool"
 
-[yum.RPM]
-name = "YUM (Deprecated)"
-desc = "Yellowdog Updater, Modified"
-more = "Under the hood, YUM depends on RPM. A rewrite of YUM named DNF replaced YUM as the default package manager in Fedora 22."
-see = ['DNF']
-
 [yay.Arch]
 name = "yay"
 desc = "Yet another Yogurt"

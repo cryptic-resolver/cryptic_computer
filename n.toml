@@ -163,3 +163,8 @@ more = "A lightweight Raku-like environment for virtual machines"
 [numa]
 name = "NUMA"
 desc = "Non Uniform Memory Access"
+
+[node-gyp]
+name = "GYP"
+desc = "Generate Your Projects build system"
+more = "node-gyp is the Node.js native addon build tool. It's a fork of the GYP build system for use in the Node.js projects"

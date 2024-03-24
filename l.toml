@@ -14,11 +14,7 @@ more = "A family of programming languages with a long history and a distinctive,
 
 [lcd]
 name = "LCD"
-desc = "Liquid-crystal Display "
-
-[lsb]
-name = "LSB"
-desc = "Linux Standards Base"
+desc = "Liquid-crystal Display"
 
 [lop]
 name = "LOP"

@@ -249,3 +249,13 @@ more = "An often undesired state of computer operation where no additional memor
 name = "OOM"
 desc = "Object-Oriented Modeling"
 more = "A modeling paradigm mainly used in computer programming"
+
+[ovf]
+name = "OVF"
+desc = "Open Virtualization Format"
+
+[ova]
+name = ".ova extension"
+desc = "Open Virtualization Format Archived"
+more = "Files packed together into a single archive file"
+see = 'OVF'
