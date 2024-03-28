@@ -500,3 +500,7 @@ name = "CGA"
 desc = "Color Graphics Adapter"
 more = "Introduced in 1981, was IBM's first color graphics card for the IBM PC and established a de facto computer display standard"
 see = ['EGA', 'VGA']
+
+[ctf.debug]
+name = "CTF"
+desc = "Common Trace Format"
